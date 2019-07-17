@@ -41,7 +41,7 @@ JSON snippets provide a fragment of a `datapackage.json` file to help you learn 
 ```
 |
 |- data-package-name-1
-|  |- README.md
+|   |- README.md
 |   |- datapackage.json
 |   |- data
 |     |- data.csv

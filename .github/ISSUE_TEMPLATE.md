@@ -5,10 +5,10 @@
 ### Desired Data  
 > Use this section for new data requests. If you're reporting a problem, delete this section.
 
-### Current Behaviour (for problems)
+### Current Behavior (for problems)
 > When reporting a problem, describe what happens that isn't expected behaviour?
 
-### Expected Behaviour
+### Expected Behavior
 > When reporting a problem, describe what should happen
 
 ### Steps to Reproduce

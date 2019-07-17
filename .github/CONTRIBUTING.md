@@ -1,23 +1,12 @@
-# Contributing
-
-Thanks for being here.
-
-## Project participation guidelines
-
-Please read our [project participation guidelines](https://okfn.org/project-participation-guidelines/) that apply to all our projects and contributors.
-
-## Contribute
+## Contributing
 
 ### Tell us your plans
-
-Before contributing, let us know your plans - [raise an issue](https://github.com/frictionlessdata/example-data-packages/issues), [start a topic](https://discuss.okfn.org/c/frictionless-data) on the discussion forum, or [chat with us on Gitter](https://gitter.im/frictionlessdata/chat).
+Before contributing, let us know your plans - [raise an issue](https://github.com/vdubya/Open-Built-Environment-Datasets/issues). 
 
 ### Fork the repository
-
 To contribute to this project you will need to [create a fork of this repository](https://help.github.com/articles/fork-a-repo/).
 
 ### Set up Goodtables.io validation
-
 To run the validation tests each time you commit a change to your GitHub repository, you'll need to:
 - [login to Goodtables.io](http://goodtables.io)
 - use `Manage Sources` to select your repository
@@ -43,15 +32,10 @@ Change a data package:
 - update the [data package version](https://frictionlessdata.io/specs/patterns/#data-package-version). Follow the [data package version pattern](https://frictionlessdata.io/specs/patterns/#data-package-version).
 - Make sure the Goodtables.io tests pass
 
-#### Contribute code
-
-Follow our [coding standards](https://github.com/okfn/coding-standards).
-
 ### Submit a pull request
-
 - Please be patient while volunteers review your pull request
-- We may ask you to make changes to improve improve your contributions
+- We may ask you to make changes to improve your contributions
 
 ### Celebrate
 
-You're now a [contributor](https://github.com/frictionlessdata/example-data-packages/graphs/contributors) :tada:
+You're now a [contributor](https://github.com/vdubya/Open-Built-Environment-Datasets/graphs/contributors) :tada:
