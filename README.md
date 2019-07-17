@@ -1,5 +1,3 @@
-## Open Built Environment Datasets (OBED)
-
 ## About
 OBED is a repository for datasets pertaining to the Architecture, Engineering, and Construction (AEC) and other built environment related industries.
 
