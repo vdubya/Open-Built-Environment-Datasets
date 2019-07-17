@@ -28,14 +28,14 @@ It contains a:
 
 The data package directory may also contain [other files or sub-directories](https://frictionlessdata.io/specs/data-package/#illustrative-structure). These files may be scripts used to prepare the data package or other related resources.
 
-## Resources
-A resources directory contains a template [`README.md`](https://github.com/frictionlessdata/example-data-packages/blob/master/resources/README-template.md) and example `datapackage.json` snippets.
+## Templates
+A templates directory contains a template [`README.md`](https://github.com/frictionlessdata/example-data-packages/blob/master/templates/README-template.md) and example `datapackage.json` snippets.
 
 ### `README.md` template
-In this repository, each data package must have a [`README.md`](https://github.com/frictionlessdata/example-data-packages/blob/master/resources/README-template.md). The `README.md` should follow [good practices](https://frictionlessdata.io/guides/publish-faq/#readme).
+In this repository, each data package must have a [`README.md`](https://github.com/frictionlessdata/example-data-packages/blob/master/templates/README-template.md). The `README.md` should follow [good practices](https://frictionlessdata.io/guides/publish-faq/#readme).
 
 ### `datapackage.json` snippets
-JSON snippets provide a fragment of a `datapackage.json` file to help you learn about that specific property or cut and paste into your own data package. E.g. [`licenses.json`](https://github.com/frictionlessdata/example-data-packages/blob/master/resources/licenses.json) could include JSON for each [recommended Open Definition conformant license](http://opendefinition.org/licenses/#conformant-licenses).
+JSON snippets provide a fragment of a `datapackage.json` file to help you learn about that specific property or cut and paste into your own data package. E.g. [`licenses.json`](https://github.com/frictionlessdata/example-data-packages/blob/master/templates/licenses.json) could include JSON for each [recommended Open Definition conformant license](http://opendefinition.org/licenses/#conformant-licenses).
 
 ## Repository Structure
 ```
@@ -51,7 +51,7 @@ JSON snippets provide a fragment of a `datapackage.json` file to help you learn 
 |- data-package-name-2
 |  |- etc.
 |
-|- resources
+|- templates
 |  |- README-template.md
 |  |- licenses.json
 |  |- contributors.json
