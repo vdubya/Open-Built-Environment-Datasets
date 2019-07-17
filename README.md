@@ -4,7 +4,7 @@
 The Open Built Environment Datasets (OBED) repository is a repo for datasets pertaining to the Architecture, Engineering, and Construction (AEC) and other built environment related industries.
 
 1. Data packages will conform to the [Frictionless Data Specification](https://frictionlessdata.io/specs/).
-1. Data will be licensed as openly as possible, ideally under the [Open Dataase License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/).
+1. Data will be licensed as openly as possible, ideally under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/).
 1. CSV data is preferred, but not required.
 
 ## Data Packages
