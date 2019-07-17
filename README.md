@@ -1,10 +1,10 @@
-# Open Built Environment Datasets (OBED)
+## Open Built Environment Datasets (OBED)
 
 ## About
-The Open Built Environment Datasets (OBED) repository is a repo for datasets pertaining to the Architecture, Engineering, and Construction (AEC) and other built environment related industries.
+OBED is a repository for datasets pertaining to the Architecture, Engineering, and Construction (AEC) and other built environment related industries.
 
-1. Data packages will conform to the [Frictionless Data Specification](https://frictionlessdata.io/specs/).
-1. Data will be licensed as openly as possible, ideally under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/) to ensure .
+1. Data packages must conform to the [Frictionless Data Specification](https://frictionlessdata.io/specs/).
+1. Data will be licensed as openly as possible, ideally under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 1. CSV data is preferred, but not required.
 
 ## Data Packages
@@ -75,19 +75,19 @@ We value all types of contributions:
 - [issues](https://github.com/frictionlessdata/example-data-packages/issues) and [requests](https://github.com/frictionlessdata/example-data-packages/issues)
 - code
 
-We thank the generous [contributors](https://github.com/frictionlessdata/example-data-packages/graphs/contributors) to this project.
+We thank the generous [contributors](https://github.com/frictionlessdata/example-data-packages/graphs/contributors) to the Frictionless Data project.
 
 To join them, please read [`CONTRIBUTING.md`](.github/CONTRIBUTING.md) for details on our code of conduct and how to submit a pull request. Each contributed data package should be licensed as openly as possible.
 
 ## Zipped Data Packages
 With each commit to the repository, the data package directory is converted into a .zip file so it can be used with [software that supports Frictionless Data ](https://frictionlessdata.io/software/) such as the [Data Curator](http://data-curator.io) app or the [DataPackage.js](https://github.com/frictionlessdata/datapackage-js) library. The zip files are stored in the `zip` directory.
 
-While [the approach to compressing data packages has not been finalised](https://github.com/frictionlessdata/specs/issues/132) a number of [Frictionless Data Software](https://frictionlessdata.io/software/) implementations support zip files.
+While [the Frictionless Data approach to compressing data packages has not been finalised](https://github.com/frictionlessdata/specs/issues/132) a number of [Frictionless Data Software](https://frictionlessdata.io/software/) implementations support zip files.
 
 *To do: script needed*
 
 ## Licenses
-Data Packages in this project are licensed as specified in each individual `datapackage.json` file. If a license is not specified, it is provided under the [Open Dataase License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/), and this is the preferred (but not required) license for all submitted data.
+Data Packages in this project are licensed as specified in each individual `datapackage.json` file. If a license is not specified, it is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, and this is the preferred (but not required) license for all submitted data.
 
 ## Credit
-This work is based on of the Frictionless Data [Example Data Packages](https://github.com/frictionlessdata/example-data-packages) repository.
+This work is based on the Frictionless Data [Example Data Packages](https://github.com/frictionlessdata/example-data-packages) repository.
