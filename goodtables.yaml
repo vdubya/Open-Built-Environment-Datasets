@@ -1,1 +1,25 @@
+# .goodtables.yml should conform to the format at https://github.com/frictionlessdata/goodtables.io/blob/master/goodtablesio/schemas/job-conf.yml
+# You can validate tabular `files` or `datapackages`, not both at the same time.
 
+# validate all csv files without reference to the datapackages e.g.
+#
+# files: '*.csv'
+#   settings:
+#     error_limit: 10
+
+# validate a mixture of csv files optionally with a tableschema, e.g.
+#
+# files:
+#  - source: australian-open-data-portals/australian-open-data-portals.csv
+#    schema: australian-open-data-portals/tableschema.json
+#  - source: pathway/data/all_organisations_by_country.csv
+
+
+# validate a limited number of rows or -1 for all rows
+settings:
+  row_limit: -1
+  
+# validate datapackages
+datapackages:
+#  - iso-639-1-language-codes/datapackage.json  Language pattern not implemented in Goodtables.io
+#  - periodic-table/datapackage.json
