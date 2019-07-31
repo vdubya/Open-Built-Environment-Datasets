@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-00 01 15 (February 2011)<BRK/>
+                                             Change 1 - 08/14<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                  Superseding<BRK/>
+                                             UFGS-00 01 15 (January 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>DOCUMENT 00 01 15</SCN><BRK/>
+<BRK/>
+<STL>LIST OF DRAWINGS</STL><BRK/>
+<DTE>02/11</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>lists the drawings 
+for the project</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Contracts personnel will insert this section in the appropriate location 
+within the solicitation package.  Include this section with the other SpecsIntact 
+Source Document Files provided as part of the project Electronic Design Deliverables 
+package.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For NAVFAC Southeast projects, the A/E shall prepare this section for 
+each project, but it is <HL1>not</HL1>to be listed in the Table of Contents of the specifications.  
+NAVFAC Southeast will insert this section in the appropriate location within 
+the solicitation package.  A/E shall also include this section with the SPECSINTACT 
+electronic source files required."</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUMMARY</TTL><BRK/>
+<BRK/>
+<TXT>This section lists the drawings for the project pursuant to contract clause "DFARS 252.236-7001, Contract Drawings, 
+Maps and Specifications."</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONTRACT DRAWINGS</TTL><BRK/>
+<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use revision column only if drawings show a revision date.  List the 
+7-digit NAVFAC drawing number in the third column.<BRK/>
+<BRK/>
+Import the List of Drawings as an Excel XML Spreadsheet within the Table below</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contract drawings are as follows:</TXT><BRK/>
+<TAB WIDTH="68">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="73.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="92.25"/>
+      <COL AUTOWIDTH="0" WIDTH="89.25"/>
+      <COL AUTOWIDTH="0" WIDTH="63.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DRAWING NO.</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[REVISION NO.]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NAVFAC DWG NO.</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TITLE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+<SPT>[<TTL>SUPPLEMENTARY DRAWINGS</TTL><BRK/>
+<BRK/>
+<TXT>These supplementary drawings may not be a part of the contract but are included with the drawings for information.</TXT><BRK/>
+<BRK/>
+<SPT>[<TTL>Reference Drawing[s]</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use only when reference drawings must be included in the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following reference drawing[s] [is] [are] intended only to show the original construction.  Drawing[s] [is] 
+[are] the property of the Government and shall not be used for any purpose other than that intended by the contract.  
+[The drawing[s] [is] [are] [half] [full] size.  Full-size drawings are available at the bidder's or Contractor's 
+expense.  [Information on procuring these full-size drawings may be obtained from the Contracting Officer.]  
+[Full size drawings may be inspected during regular working hours at [the office of the Contracting Officer.] 
+[the station.]]</TXT><BRK/>
+<TAB WIDTH="35">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="102.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="60.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">NAVFAC DWG NO.</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TITLE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]]</SPT><SPT>[<TTL>Boring Logs</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select this paragraph or the paragraph below entitled "Subsurface Data," 
+if the boring logs and subsurface information are not already incorporated in 
+the drawings.  Use the first paragraph if boring logs are available and the 
+second, if they are incorporated into a soils report or if only a soils report 
+is available.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Do not use this paragraph for NAVFAC Southeast contracts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Government does not guarantee that borings indicate actual conditions, except for the exact locations and 
+the time that they were made.  [Subsurface data, not specified or indicated, have been obtained by the Government 
+at this station.  The data are available for examination by prospective bidders [in the office of the Contracting 
+Officer] [at the station].]</TXT><BRK/>
+<BRK/>
+]</SPT><SPT>[<TTL>Subsurface Data</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Do not use this paragraph for NAVFAC Southeast contracts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NED/><BRK/>
+<TXT>Subsurface data, not specified or indicated, have been obtained by the Government at the station.  The data are 
+available for examination by prospective bidders [in the office of the Contracting Officer] [at the station]. 
+[The soils report is included as part of the solicitation].</TXT><BRK/>
+]<BRK/></SPT>
+]</SPT></PRT>    <EOD/><BRK/></SEC>

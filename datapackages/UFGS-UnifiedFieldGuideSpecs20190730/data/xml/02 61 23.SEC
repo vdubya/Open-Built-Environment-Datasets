@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                   UFGS-02 61 23 (April 2006)<BRK/>
+                                                --------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                     Replacing without change<BRK/>
+                                                UFGS-13285 (August 2004)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 61 23</SCN><BRK/>
+<BRK/>
+<STL>REMOVAL AND DISPOSAL OF PCB CONTAMINATED SOILS</STL><BRK/>
+<DTE>04/06</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>the removal and 
+disposal of polychlorinated biphenyls (PCBs) contaminated soils</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Solid wastes containing PCB with concentrations of 50 ppm or more are 
+regulated by EPA and require disposal at a TSCA landfill.  This concentration 
+is the concentration at the source, not what is actually measured in the soils.  
+This guide specification is intended for use where concentrations at the source 
+are over 50 ppm PCBs.  For disposal and removal of PCBs not in soils, use Section 
+<SRF>02 84 33</SRF> REMOVAL AND DISPOSAL OF POLYCHLORINATED BIPHENYLS (PCBS).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+ <BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+ <BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D4397</RID><RTL>(2016) Standard Specification for Polyethylene Sheeting for Construction, Industrial, and Agricultural Applications</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA 530/F-93/004</RID><RTL>(1993; Rev O; Updates I, II, IIA, IIB, and III) Test Methods for Evaluating Solid Waste (Vol IA, IB, IC, and II) (SW-846)</RTL><BRK/><BRK/><RID>EPA 560/5-86-017</RID><RTL>(1986) Field Manual for Grid Sampling of PCB Spill Sites to Verify Cleanup</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>29 CFR 1910.1000</RID><RTL>Air Contaminants</RTL><BRK/><BRK/><RID>29 CFR 1910.120</RID><RTL>Hazardous Waste Operations and Emergency Response</RTL><BRK/><BRK/><RID>29 CFR 1910.145</RID><RTL>Specifications for Accident Prevention Signs and Tags</RTL><BRK/><BRK/><RID>40 CFR 761</RID><RTL>Polychlorinated Biphenyls (PCBs) Manufacturing, Processing, Distribution in Commerce, and Use Prohibitions</RTL><BRK/><BRK/><RID>40 CFR 761.75</RID><RTL>Chemical Waste Landfills</RTL><BRK/><BRK/><RID>49 CFR 171</RID><RTL>General Information, Regulations, and Definitions</RTL><BRK/><BRK/><RID>49 CFR 172</RID><RTL>Hazardous Materials Table, Special Provisions, Hazardous Materials Communications, Emergency Response Information, and Training Requirements</RTL><BRK/><BRK/><RID>49 CFR 173</RID><RTL>Shippers - General Requirements for Shipments and Packagings</RTL><BRK/><BRK/><RID>49 CFR 174</RID><RTL>Carriage by Rail</RTL><BRK/><BRK/><RID>49 CFR 176</RID><RTL>Carriage by Vessel</RTL><BRK/><BRK/><RID>49 CFR 177</RID><RTL>Carriage by Public Highway</RTL><BRK/><BRK/><RID>49 CFR 178</RID><RTL>Specifications for Packagings</RTL><BRK/><BRK/><RID>49 CFR 179</RID><RTL>Specifications for Tank Cars</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DEFINITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Typical cleanup levels for soils are 1 ppm, 10 ppm, up to 25 ppm or more.  
+Levels depend on many factors including State that work is located in, land 
+use (residential, industrial, etc.), and proximity to surface and ground water.  
+Limits defining contaminated water depend on disposal method.  Designer should 
+verify levels with appropriate authorities.  Specifier shall research State, 
+regional, and local laws, regulations, and statutes to determine appropriate 
+levels and disposal requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>PCB and PCBs (Polychlorinated Biphenyls)</TTL><BRK/>
+<BRK/>
+<TXT><RID>40 CFR 761</RID>.  PCB and PCBs means any chemical substance that is limited to the biphenyl molecule that has been 
+chlorinated to varying degrees or any combination of substances which contain such substance.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PCB Contaminated Soil</TTL><BRK/>
+<BRK/>
+<TXT>Soils containing concentrations greater than [1] [10] [_____] parts per million (ppm) PCBs when tested as specified 
+herein.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PCB Contaminated Water</TTL><BRK/>
+<BRK/>
+<TXT>Water containing greater than [1.5] [_____]  parts per billion (ppb) when tested as specified herein.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PCB Surface Contaminated Solids</TTL><BRK/>
+<BRK/>
+<TXT>Soils containing concentrations greater than [10] [_____] micrograms PCB per square centimeter when tested as 
+specified herein.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Permissible Exposure Limits (PEL)</TTL><BRK/>
+<BRK/>
+<TXT>PEL for PCBs is<MET> 0.50 milligrams per cubic meter</MET><ENG> 3.10 E-08 pound per cubic feet</ENG> on an 8-hour time weighted average 
+basis.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DESCRIPTION OF WORK</TTL><BRK/>
+<BRK/>
+<TXT>The work includes removal and disposal of PCB contaminated soils.  Perform work in accordance with <RID>40 CFR 761</RID>
+, <RID>29 CFR 1910.120</RID>, and the requirements specified herein.  Excavate to the horizontal and vertical limits of 
+the identified contaminated soil as indicated.  After removing contaminated soil as indicated, sample, test, 
+and excavate as specified until clean soil is encountered.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Existing Conditions</TTL><BRK/>
+<BRK/>
+<TXT>PCB contaminant levels range from [_____] ["not detected"] to [_____] ppm.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT>[<TTL>METHOD OF MEASUREMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is for use when unit pricing.  Coordinate this section 
+with Division 00 sections when using unit pricing. Local practices vary on how 
+to set up unit pricing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>For the PCB contaminated soil material, which the Contracting Officer directs to be removed from site, the unit 
+of measurement for excavation will be the ton.  Tonnage to be paid for will be the number of tons removed from 
+the site.  Quantities will be verified from the certified disposal.  The requirements of Contract Clause entitled 
+"Variation in Estimated Quantity" do not apply to payment for removal of PCB contaminated soil.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Training</TTL><BRK/>
+<BRK/>
+<TXT>Instruct employees on the dangers of PCB exposure, on respirator use, decontamination, and applicable OSHA and 
+EPA regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Certified Industrial Hygienist (CIH)</TTL><BRK/>
+<BRK/>
+<TXT>Obtain the services of an industrial hygienist certified by the American Board of Industrial Hygiene to certify 
+training, and review and approve the PCB removal plan, including determination of the need for personnel protective 
+equipment (PPE) in performing PCB removal work.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Regulation Documents</TTL><BRK/>
+<BRK/>
+<TXT>Maintain at the job site one readily available copy each of <RID>29 CFR 1910.1000</RID>, <RID>40 CFR 761</RID>, and all contractor 
+prepared plans required under "Submittals" paragraphs.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Protection Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit a protection plan, prepared by the CIH, covering protection of workers and the environment 
+from PCB hazards.  Specific protection requirements shall be determined by the CIH and, as a minimum, as specified 
+herein.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>PCB Contaminated Soil Removal Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit, 15 calendar days prior to initiating work, plan describing methods, techniques, and phases 
+of dealing with the contaminated soil, including:  a schedule to be employed in the excavation, a sequence of 
+operations, the method of excavation, hauling, and handling of the contaminated materials, and the proposed equipment.  
+Define the Contractor's source for fill and method for importing the fill material.  Ensure that work operations 
+or processes involving PCB-contaminated materials are conducted in accordance with <RID>40 CFR 761</RID> and the applicable 
+requirements of this section, including but not limited to:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Obtaining advance approval of PCB storage sites.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Notifying Contracting Officer prior to commencing the operation.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Reporting leaks and spills to the Contracting Officer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Cleaning up spills.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Maintaining an access log of employees working in a PCB control area and providing a copy to the 
+Contracting Officer upon completion of the operation.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Inspecting PCB and PCB-contaminated items and waste containers for leaks and forwarding copies of 
+inspection reports to the Contracting Officer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Maintaining a spill kit.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Maintaining inspection, inventory, and spill records.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>PCB Contaminated Water Handling Plan</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the bracketed items when on site treatment of contaminated water 
+is required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prepare and submit plan detailing methods and techniques for collection [and treatment] of PCB contaminated water.  
+[For treatment system, include size and location of equipment, catalog data on all components of system, size 
+and arrangement of filters, type and quantity of filtering material, and method of containment.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Sampling and Testing Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit sampling and testing plan. Include the names of testing laboratories to be used to accomplish 
+analysis of contaminated soil and water.  Describe field and laboratory sampling procedures, testing methods, 
+and quality control procedures.  For sample reports, show sample identification for location, date, time, sample 
+method, contamination level, name of individual sampler, identification of laboratory, and quality control procedures.  
+[Maximum turnaround time of [_____] [4 calendar days] is required for laboratory sample analyses in accordance 
+with the standard work week of the contract.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Training Certification</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit certificates signed and dated by the CIH and by each employee stating that the employee has received training.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>CIH Qualifications</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit the name, address, and telephone number of the industrial hygienist selected to perform the duties in 
+paragraph entitled "Certified Industrial Hygienist."  Submit proper documentation that the industrial hygienist 
+is certified, including certification number and date of certification and recertification.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>PCB Disposal Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a PCB Disposal Plan within [45] calendar days after award of contract for Contracting Officer's approval.  
+Comply with applicable requirements of Federal, State, and local PCB waste regulations and address:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Identification of PCB wastes associated with the work.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Estimated quantities of wastes to be generated and disposed of.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Names and qualifications of each Contractor that will be transporting, storing, treating, and disposing 
+of the wastes.  Include the facility location and a 24-hour point of contact.  Furnish two copies of 
+[EPA] [State] [and] [local] PCB waste [permit applications] [permits] [and] [EPA identification numbers].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Names and qualifications (experience and training) of personnel who will be working on-site with 
+PCB wastes.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  List of waste handling equipment to be used in performing the work, to include cleaning, volume reduction, 
+and transport equipment.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Spill prevention, containment, and cleanup contingency measures to be implemented.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Location of state certified weigh station.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Work plan and schedule for PCB waste containment, removal, and disposal.  Clean up and containerize 
+wastes daily.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Vehicle Decontamination Verification</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide documentation verifying that vehicles and containers were decontaminated prior to leaving the disposal 
+site, were properly operating, and were covered, within 24 hours after removal of waste from the site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Closeout Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prepare closeout report containing following items:  test results including readings and locations, a diagram 
+of the limits of the excavated area with sample locations indicated (indicate reference benchmark used), chain 
+of custody forms, certificates of disposal, truck manifests, and description of the work completed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project. <BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Field Screening Test</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Protection Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>PCB Contaminated Soil Removal Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>PCB Contaminated Water Handling Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Sampling and Testing Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Confirmatory Grid Sampling Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Training certification</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>CIH qualifications</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>PCB Disposal Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Shipping documentation</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Vehicle decontamination verification</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Borrow site testing</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certificate of Disposal</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Closeout Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PLASTIC SHEETING</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM D4397</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>FIELD SCREENING TEST</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Field test capable of detecting PCBs down to at least 1 ppm, with less than 5 percent false negatives, and providing 
+on site results within 2 hours of taking sample.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PROTECTION OF WORKERS AND THE ENVIRONMENT</TTL><BRK/>
+<BRK/>
+<TXT>Protect workers and the environment from PCB hazards in accordance with the PCB protection plan and, as a minimum, 
+as specified herein.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Worker Safety</TTL><BRK/>
+<BRK/>
+<TXT>Provide portable decontamination and shower rooms.  Workers shall wear and use PPE, as recommended by the industrial 
+hygienist, upon entering a PCB control area.  If PPE is not required by the CIH, specify in the PCB removal work 
+plan.  Keep work footwear inside work area until completion of the job.  Have available one set of PPE required 
+for use by Contracting Officer for inspection of work.  Do not carry out PCB handling operations in confined 
+spaces.  Do not delay aid to a seriously injured worker for reasons of decontamination.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PCB Control Area</TTL><BRK/>
+<BRK/>
+<TXT>Establish a PCB control area to prevent unauthorized entry of personnel.  Rope off area and provide <RID>29 CFR 1910.145</RID>
+ signs at approaches and around perimeter.  Locate signs at such a distance that personnel may read the sign 
+and take the necessary precautions before entering the area.  Allow only personnel briefed on the elements and 
+trained as specified herein into the area.  Do not permit food, drink, or smoking materials in the control area.  
+Smoking is not permitted within<MET> 15 m</MET><ENG> 50 feet</ENG> of the PCB control area.  Provide "No Smoking" signs as directed 
+by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Quality</TTL><BRK/>
+<BRK/>
+<TXT>Include provisions to ensure that airborne PCB concentrations below the PEL of air defined herein are not exceeded 
+outside of the PCB control area or by workers inside the PCB control area.  Provide air monitoring, personnel 
+monitoring, and sampling to ensure workers safety as determined by the CIH and as specified herein.  As a minimum, 
+sample the air daily at the following locations:  at locations being disturbed, within the breathing zone of 
+workers, and at the downwind border of the control area.  Measure using instrument capable of detecting airborne 
+PCBs at concentrations below OSHA PEL, or use a direct reading total particulate meter correlated to a worst 
+case amount of PCBs attached to the particulate.  When airborne concentrations exceed PEL at the breathing zone 
+of workers, provide respirators and additional worker protection as dictated in the Site Health and Safety Plan.  
+If airborne concentration exceeds PEL at boundary of control area, immediately stop work and notify the Contracting 
+Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Special Hazards</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Do not expose PCBs to open flames or other high temperature sources since toxic decomposition by-products 
+may be produced.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Do not heat PCBs to temperatures of<MET> 55 degrees C</MET><ENG> 135 degrees F</ENG> or higher without Contracting Officer's 
+concurrence.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PCB SPILL PREVENTION</TTL><BRK/>
+<BRK/>
+<TXT>Use appropriate vehicles and operating practices to prevent spillage or leakage of contaminated materials from 
+occurring during operations.  Inspect vehicles leaving the contaminated soil removal site to ensure that no contaminated 
+soil adheres to the wheels or undercarriage. Immediately report any spills to the Contracting Officer and provide 
+cleanup in accordance with <RID>40 CFR 761</RID>, Subpart G.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EXCAVATION PROCEDURES</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least 48 hours prior to the start of excavation of contaminated soils.  Use 
+methods and equipment that result in minimal disturbance to remaining soil beyond the excavation limits.  Remove 
+and dispose of any material that becomes contaminated as a result of the Contractor's operation at no additional 
+cost to the Government.  Stage operations to minimize the time the contaminated soil is exposed to the weather.  
+Provide protection measures around the area of contaminated soils to divert runoff of water from within the excavation 
+boundaries.</TXT><BRK/>
+<BRK/>
+<SPT>[<TTL>Underground Utilities</TTL><BRK/>
+<BRK/>
+<TXT>Location of the existing utilities indicated is approximate and other underground utilities may be present.  
+Scan the construction site with electromagnetic and sonic equipment and mark the surface of the ground where 
+existing underground utilities are discovered. Physically verify the location and elevation of the existing utilities 
+indicated prior to starting construction. If utilities other than those indicated are found, stop work and contact 
+the Contracting Officer.  Protect existing utilities from damage and intrusion of PCBs.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Dust Control</TTL><BRK/>
+<BRK/>
+<TXT>Maintain strict dust control at all times to prevent dust particles with PCB attached from becoming airborne.  
+Sprinkle or treat the soil at the site and other areas disturbed by operations with dust suppressants or water.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Washdown of Solid Material</TTL><BRK/>
+<BRK/>
+<TXT>Remove asphalt pavement, concrete slabs, and structures encountered above or below the ground surface within 
+the excavation limits.  Brush to remove soil materials and clean to limit defined herein for PCB surface contaminated 
+solids by double rinsing, and place in the adjacent rubble pile.  Collect and dispose of washdown water as contaminated 
+water.  Sample each type of solid material using either wipe samples or destructive samples at locations as directed 
+by the Contracting Officer.  Analyze samples for PCBs in accordance with <RID>EPA 530/F-93/004</RID>, Method 8080.  Collect 
+and test field blanks and replicates in accordance with EPA protocol.  Repeat cleaning process and testing until 
+PCBs are below the limits specified herein.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Wipe Samples</TTL><BRK/>
+<BRK/>
+<TXT><RID>40 CFR 761</RID>.  A 10 cm by 10 cm template gauze pad or glass wool of known size which has been saturated in the 
+laboratory with hexane and stored in sealed glass vials.  Wipe immediately after exposing medium to air.  Place 
+sample in precleaned glass bottle, cap, label, and place in ice chest until analyzed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Destructive Samples</TTL><BRK/>
+<BRK/>
+<TXT><RID>EPA 560/5-86-017</RID>.  Remove sufficient sample for analysis using chisel, hole saw, drills, etc.  Take samples less 
+than<MET> one cm</MET><ENG> 3/8 inch</ENG> deep and place in glass precleaned sample bottle, cap, label, and place in ice chest.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Excavation Limits</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete bracketed item on groundwater if groundwater is expected and a 
+method to handle is addressed.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Remove contaminated soil to the horizontal and vertical limits as indicated.  Verify the limits of clean soils 
+by testing and sampling.  Handle and dispose of material within this area as PCB contaminated.  After excavation 
+to the indicated limits, conduct an analysis of the excavation to determine if any remaining PCB contaminated 
+soils exist.  Collect samples and test by field screening. When field screening results show PCB concentrations 
+below the contamination level, test using confirmation sampling and testing.  [If groundwater is encountered 
+prior to reaching the vertical limits, notify the Contracting Officer.]</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Field Screening</TTL><BRK/>
+<BRK/>
+<TXT>Collect soil samples at the same interval as determined for the confirmatory grid sampling plan along the bottom 
+and along the sidewalls of the excavation, and test using field screening test.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Confirmation Sampling and Testing</TTL><BRK/>
+<BRK/>
+<TXT>When field screening results show PCB concentrations below the contaminated level, test using confirmation sampling 
+and testing.  Sample along the bottom and sidewalls of excavation.  Use sampling grid scheme and number of samples 
+as defined in <RID>EPA 560/5-86-017</RID>.  Compositing of samples for analysis shall not be allowed.  Submit and receive 
+approval of <SUB>Confirmatory Grid Sampling Plan</SUB> scheme prior to starting work.  Analyze samples in accordance with <RID>
+EPA 530/F-93/004</RID>, Method 8080 for PCBs.  Determine moisture content of the sample in accordance with EPA Method 
+160.3.  Provide quality control in accordance with EPA guidelines, and as a minimum as follows:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Duplicate samples - collect and analyze duplicate soil samples at the rate of 10 percent of the total 
+number of samples (rounded to the next highest number).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Matrix spike and matrix spike duplicate - collect one matrix spike sample for every 20 samples collected 
+(rounded to the next highest number).  Split the matrix spike sample, and analyze both the matrix spike 
+and the matrix spike duplicate.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Additional Excavations</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the first bracketed item for unit pricing.  Use the second bracketed 
+item when not unit pricing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>If field screening results indicate the PCB contaminated soils remain, notify the Contracting Officer.  Where 
+directed, continue excavation horizontal and vertical limits as directed by the Contracting Officer.  Collect 
+and analyze additional confirmation samples in the new excavation areas.  Screen and analyze after each excavation 
+episode as required.  [Payment for additional excavation will be paid for at the contract unit price.  Payment 
+for additional sampling and testing will be paid for in accordance with the Changes Clause of the contract.]  
+[Payment for additional excavation and testing will be made in accordance with the Changes Clause of the contract.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiled Material</TTL><BRK/>
+<BRK/>
+<TXT>Place soil removed from the excavation in a temporary containment area near the excavation area.  Divert water 
+from the containment area.  Cover containment area with<MET> 0.75 mm</MET><ENG> 30 mil</ENG> polyethylene sheeting.  Place excavated 
+soil on the impervious barrier and cover with<MET> 0.15 mm</MET><ENG> 6 mil</ENG> polyethylene sheeting.  Provide straw bale berm around 
+the outer limits of the containment area and cover with polyethylene sheets.  Secure edges of sheets to keep 
+the polyethylene sheeting in place. Cover excavated contaminated soil at all times when not being worked.  Maintain 
+sheeting and replace when worn or ripped. [As an option, soil may be stockpiled in trucks suitable for carrying 
+PCB contaminated soils as specified herein.]</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Composite Testing of Stockpiled Material</TTL><BRK/>
+<BRK/>
+<TXT>Take composite samples from stockpiled material prior to removing from site.  Analyze a minimum of one composite 
+sample for every<MET> [_____] cubic meters</MET><ENG> [100] [_____] cubic yards</ENG> or fraction thereof of soil to be disposed of 
+from any one site.  To develop a composite sample of the size necessary to run the required tests, take several 
+samples from different areas along the surface and in the center of the stockpile.  Combine these samples and 
+thoroughly mix to develop the composite sample.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT>[<TTL>CONTAMINATED WATER</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Determine appropriate disposal method.  Choose this paragraph when groundwater 
+will not be encountered and only small amount of rinse and other contaminated 
+water expected.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Collect washwater.  Collect ground, surface, and rain water contaminated by operations including water collected 
+in the open excavation pit or temporary containment.  Soak up with absorbent material so that no free liquid 
+is present.  Containerize, sample, and analyze PCB absorbed material and dispose of as specified for contaminated 
+soils.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT>[<TTL>COLLECTION, TREATMENT, AND DISCHARGE OF PCB-CONTAMINATED WATER</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose these paragraphs when groundwater will be encountered or when 
+significant amount of rinse water or other contaminated water is expected, and 
+on-site treatment is allowed.  Paragraphs may need modifying to fit site specific 
+requirements.  Typical treatment system consists of carbon filtration.  Location 
+of discharge for water after it is treated must be coordinated and approved 
+by appropriate (EPA, State, station, local, and regional) authority.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Another option to consider is to containerize liquid and haul to off 
+site POTW with pretreatment capability, however this can be extremely costly 
+for large quantities of water.  Use unit pricing, assumed quantities, or some 
+other method to give Contractor something to base bids on when water is to be 
+taken off site.  Where off site facilities are involved, verify such facilities 
+exist, that they are permitted to accept, and that they will accept.  Specification 
+will require modifying for site specific requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Furnish labor, materials, and equipment necessary for collecting, treating, and discharging of PCB-contaminated 
+surface and subsurface water in excavations at the site.  Conduct excavation and backfilling operations at the 
+site in a manner that minimizes the amount of surface and subsurface water which may collect in the open excavation.  
+Collect standing surface water in contact with PCB contaminated material.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Subsurface Drainage</TTL><BRK/>
+<BRK/>
+<TXT>Remove water by pumping or other methods to prevent softening of surfaces exposed by excavation.  Provide water 
+treatment necessary to treat water to levels specified herein.  Operate dewatering system continuously until 
+construction work below existing water levels is complete.  After placement of initial backfill, water level 
+may be allowed to rise, but never above<MET> 300 mm</MET><ENG> one foot</ENG> below the prevailing level of excavation or backfill.  
+Submit performance records weekly.  Measure and record performance or dewatering system at the same time each 
+day by use of observation wells or piezometers installed in conjunction with the dewatering system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Treatment System Requirements</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for all aspects of verifying design parameters designing, providing, installing, 
+operating, maintaining, and removing collection, storage, and treatment facilities as required to discharge treated 
+waters within the treatment limits required.  The treatment system shall:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Be capable of removing PCB contaminants to below the limit defined herein for contaminated water.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Include effluent holding tanks designed to allow on-site testing of water quality prior to discharge.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Include recycle capability for retreatment of effluent not meeting the discharge requirements of 
+this specification, as determined by on-site testing.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Treatment System Operations</TTL><BRK/>
+<BRK/>
+<TXT>Monitor, test, and adjust the treatment system in accordance with the work plan and Sampling and Analysis Plan, 
+or as otherwise modified by special regulatory requirements.  If there is a conflict between requirements, the 
+more stringent requirement shall prevail.  Test water in accordance with EPA Method 608.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Discharge of Treated Water</TTL><BRK/>
+<BRK/>
+<TXT>Do not discharge any water until tests results showing water is below PCB contaminated water limits as specified 
+herein.  Provide erosion control at outlet of piping to minimize erosion.  Discharge for treated water shall 
+be to the [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cleanup and Removal of Treatment System</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of work, close and remove from the site the surface water and groundwater treatment system.  
+Restore the site to its original condition.  Decontaminate equipment in accordance with the Contractor's Site 
+Health and Safety Plan.  Containerize, sample, test, and dispose of carbon, residues, cleaning aids, decontamination 
+liquids, and waste as specified for the contaminated soils.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>TRANSPORTATION AND DISPOSAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Federal Regulations (40 CFR 761) require (with some exceptions) that 
+generators, transporters, commercial storers, and disposers of PCB waste possess 
+U.S. EPA identification numbers.  Verify that the activity has a U.S. EPA generator 
+identification number for use on the Uniform Hazardous Waste Manifest.  If not, 
+the activity must file and obtain an identification number with EPA prior to 
+commencement of removal work. Where disposal will be through DRMO, modify paragraphs 
+to meet DRMO requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Furnish labor, materials, and equipment necessary to store, transport, and dispose of PCB contaminated material 
+in accordance with Federal, State, and local requirements.  Prepare and maintain waste shipment records and manifests 
+required by the Resource Conservation and Recovery Act (RCRA), U.S. Federal Department of Transportation (DOT), 
+and State transportation department.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Transportation</TTL><BRK/>
+<BRK/>
+<TXT><RID>49 CFR 171</RID>, <RID>49 CFR 172</RID>, <RID>49 CFR 173</RID>, <RID>49 CFR 174</RID>, <RID>49 CFR 176</RID>, <RID>49 CFR 177</RID>, <RID>49 CFR 178</RID> <RID>49 CFR 179</RID>.  Transport PCB 
+contaminated soils in vehicles designed to carry PCB contaminated soils in accordance with Federal and State 
+requirements.  Transport PCB contaminated solid material, articles, or equipment in DOT Specification 5, 5B, 
+or 17C containers with removable heads.  Store liquid PCBs in DOT Specification 17E containers.  In addition 
+to those requirements:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Inspect and document vehicles and containers for proper operation and covering.  Repair or replace 
+damaged containers.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Inspect vehicles and containers for proper markings, manifest documents, and other requirements for 
+waste shipment.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Perform and document decontamination procedures prior to leaving the worksite and again before leaving 
+the disposal site.</LST><BRK/>
+<BRK/>
+<SPT><TTL>Weight Certification</TTL><BRK/>
+<BRK/>
+<TXT>Weigh vehicles transporting PCB contaminated materials at a State-certified weigh scale within<MET> [24] [_____] km</MET><ENG>
+ [15] [_____] miles</ENG> of the project site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Shipping Documentation</SUB></TTL><BRK/>
+<BRK/>
+<TXT><RID>40 CFR 761</RID>.  Before transporting the PCB waste, sign and date the manifest acknowledging acceptance of the PCB 
+waste from the Government.  Return a signed copy to the Government before leaving the job site.  Ensure that 
+the manifest accompanies the PCB waste at all times.  Submit transporter certification of notification to EPA 
+of their PCB waste activities and EPA identification numbers.  Within 35 days from shipment date, the transporter 
+shall provide a copy of the manifest signed and dated by the disposer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Payment Upon Furnishing Certificate of Disposal of PCBs</TTL><BRK/>
+<BRK/>
+<TXT>Payment will not be made until the certificate of disposal has been furnished to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Disposal</TTL><BRK/>
+<BRK/>
+<TXT>Dispose of PCB contaminated soils in accordance with <RID>40 CFR 761</RID> at a TSCA regulated landfill meeting the requirements 
+of <RID>40 CFR 761.75</RID>.  The disposer shall forward a copy of the manifest to the Contracting Officer within 30 days 
+of receipt of PCBs.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Certificate of Disposal</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit certificate of disposal to the Government within 30 calendar days of the date that the disposal of the 
+PCB waste identified on the manifest was completed.  Include:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The identity of the disposal facility, by name, address, and EPA identification number.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The identity of the PCB waste affected by the Certificate of Disposal including reference to the 
+manifest number for the shipment.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  A statement certifying the fact of disposal of the identified PCB waste, including the date(s) of 
+disposal, and identifying the disposal process used.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  A certification as defined in <RID>40 CFR 761</RID>, Section 3.</LST><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>CLEANUP</TTL><BRK/>
+<BRK/>
+<TXT>Maintain surfaces of the PCB control area free of accumulations of PCBs.  Restrict the spread of dust and debris; 
+keep waste from being distributed over work area.  Do not remove the PCB control area and warning signs prior 
+to the Contracting Officer's approval.  Reclean areas showing residual PCBs.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Solvent Cleaning</TTL><BRK/>
+<BRK/>
+<TXT>Clean contaminated tools, containers, etc., after use by rinsing three times with an appropriate solvent or by 
+wiping down three times with a solvent wetted rag.  Suggested solvents are stoddard solvent or hexane.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REPORTS</TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit a remediation closeout report at the completion of the work.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>BACKFILLING, GRADING, TOPSOILING, AND SEEDING</TTL><BRK/>
+<BRK/>
+<TXT>Commence backfilling of the excavation within 10 calendar days after receiving confirmatory test results that 
+indicate no further PCB contamination is present. Soils brought in from off site for use as backfill shall contain 
+less than one part per million (ppm) PCBs. Provide <SUB>borrow site testing</SUB> for PCBs from composite sample of material 
+from borrow site, with at least one test from each borrow site. Material shall not be brought on site until tests 
+have been approved by the Contracting Officer. <NED/> Provide backfill, compaction, grading, and seeding in accordance 
+with Section <SRF>31 00 00</SRF> EARTHWORK.  [Line the excavation with two plastic sheets before backfilling.]</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

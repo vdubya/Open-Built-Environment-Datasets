@@ -1,0 +1,2625 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 54 20 (February 2007)<BRK/>
+                                             Change 1 - 08/17<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 54 20 (October 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 54 20</SCN><BRK/>
+<BRK/>
+<STL>BIOREMEDIATION OF SOILS USING LANDFARMING SYSTEMS</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>reduction of the 
+concentrations of organic contaminants in soils by bioremediation using landfarming 
+systems.  Other terms that have been used in place of "landfarming" include 
+"land treatment" and "prepared bed bioreactors"</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Special requirements for handling RCRA wastes are not included in this 
+guide specification.  However, landfarming may be appropriate for treatment 
+of some types of RCRA hazardous waste.<BRK/>
+<BRK/>
+An edited version of this Section may be used to solicit a request for proposal 
+(RFP).  The RFP approach is often used as a selection tool, to distinguish between 
+the qualifications of prospective Contractors.<BRK/>
+<BRK/>
+Recommended references for design and operation of landfarming facilities include:<BRK/>
+<BRK/>
+1.  Bioremediation of Contaminated Soils, Agronomy Monograph no. 37, American 
+Society of Agronomy, Crop Science Society of America, Soil Science Society of 
+America, 1999.  This includes the following chapter titles: "Prepared Bed Bioreactors", 
+Sims, J. L., et al., and "Landfarming of Petroleum Contaminated Soils", Sims, 
+R. C. and Sims, J. L.<BRK/>
+<BRK/>
+2.  Bioremediation Using the Land Treatment Concept, EPA/600/R-93/164, Pope, 
+D. F., and Matthews, J. E.<BRK/>
+<BRK/>
+3.  Guidelines for Land Treating Petroleum Hydrocarbon-Contaminated Soils, Journal 
+of Soil Contamination, 3(3):299-318, Huesemann, M. H., 1994.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>MEASUREMENT AND PAYMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  These paragraphs should be edited based on whether the contract will 
+use lump sum, or unit prices.  If there is a separate Measurement and Payment 
+Section, edited versions of these paragraphs should be inserted in that section.</NPR><BRK/>
+<BRK/>
+<NPR>If the quantities of contaminated soils are well defined, payment may be based 
+upon a lump sum structure.  However, it is usually more cost-effective to use 
+a unit price structure when there is a significant degree of uncertainty in 
+the amount of contaminated material.  When specifying a unit price structure 
+for treatment, separate items should be provided in the Contract Price Schedule 
+to cover any other work required.  Other work items include, but are not limited 
+to: preparation of submittals, mobilization and demobilization, site preparation, 
+construction of the treatment cell and run on/runoff controls, water storage 
+facilities, contact water treatment and disposal, sampling and testing, implementing 
+health and safety requirements, and utilities.  Inclusion of separate items 
+in the Contract Price Schedule for the above work tasks should result in a lower 
+unit price for treatment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Bench-Scale Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Lump sum pricing is recommended for this item.  The lump sum should include 
+the cost for testing for chemical data.  However, bidders should also be required 
+to provide a unit cost amount for testing for chemical data.  This will provide 
+a basis for payment for additional analytical costs, if it is determined that 
+more testing will be required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for bench-scale testing will be a lump sum price for completion of specified tests.  The price must include 
+the cost of labor, materials, equipment usage, utilities, and fuel for: [preparation of the Bench-Scale Test 
+Plan] [collecting samples,] [sample shipment,] [pre-processing,] [process monitoring (including testing for chemical 
+data),] [disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of the Bench-Scale 
+Test Report,] [and] [_____].  Costs for procurement and handling of amendments must be included in the unit price 
+for treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Demonstration</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Prior to planning the field demonstration, bench-scale testing should 
+be performed to determine if the contaminants of concern are amenable to landfarming 
+in the site-specific soil matrix.  The field demonstration may either be conducted 
+prior to the construction of the full-scale facilities, or conducted using the 
+full-scale facilities and equipment.  Payment for the field demonstration should 
+be covered by a separate lump sum item, or by a unit price that is separate 
+from the unit price for full-scale treatment.  Because more intensive monitoring 
+is usually required during the field demonstration, the unit price for the field 
+demonstration will usually be higher than the unit price for full-scale treatment.  
+Testing for chemical data is not included as a component of the price in this 
+paragraph.  The contract price schedule should include separate, unit price 
+items for testing for chemical data.</NPR><BRK/>
+<BRK/>
+<NPR>If the results of the field demonstration indicate that an extended treatment 
+period (or other special measures) will be required to meet cleanup goals, it 
+may become necessary to modify the bid item that covers treatment pricing for 
+full-scale operations.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for the field demonstration will be [by the contract unit price schedule for each cubic [<MET>meter</MET><ENG> yard</ENG>] 
+[_____] treated during the field demonstration] [a lump sum price for completion of approved tests].  The price 
+must include the cost of labor, materials, equipment usage, utilities, and fuel for:  [excavation,] [hauling,] 
+[stockpiling,] [pre-processing,] [operation, maintenance and process monitoring (not including testing for chemical 
+data),] [disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of Field Demonstration 
+Report,] [and] [_____].  Costs for procurement and handling of amendments must be included in the unit price 
+for treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contaminated Soils Treatment Unit Price</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Testing for chemical data is not included in the unit price.  The contract 
+price schedule should include separate, unit price items for testing for chemical 
+data.</NPR><BRK/>
+<BRK/>
+<NPR>Unit price payment may either be based on weight or volume (in-place or ex-situ).  
+This paragraph uses ex-situ volume as the default unit.<BRK/>
+<BRK/>
+If unit price payment will be based on weight, dry weight should be specified 
+and requirements should be included for moisture content testing so that dry 
+weight can be determined.  However, surveys are usually required before and 
+after excavation of contaminated material, so that excavation and backfilling 
+can be paid for on the basis of in-place volume.  Thus, in some cases, it may 
+be advantageous to pay for processing and treatment of soils using in-place 
+volume as the pricing unit.  Payment may also be based on ex-situ volume, after 
+the oversize materials have been separated from the soil.  Because of the bulking 
+which usually occurs during excavation of soil, ex-situ volume will usually 
+be about 30 percent greater than the in-situ volume.  If there is a substantial 
+volume of oversize material, or if a substantial volume of excavated material 
+will not require treatment, it may be advantageous to use ex-situ volume as 
+the basis for payment.<BRK/>
+<BRK/>
+This paragraph should be coordinated with the treatment criteria and sampling 
+requirements paragraphs so that it will be possible to distinguish between soil 
+that passes, and does not pass, treatment criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for treatment of contaminated soil must be by the contract unit price schedule for each cubic [<MET>meter</MET><ENG> 
+yard</ENG>] [_____] based on [ex-situ volume, after separation of oversize material] [_____].  This unit price must 
+include the cost of labor, materials, equipment usage, utilities, and fuel for:  [excavation,] [hauling,] [stockpiling,] 
+[pre-processing,] [operation, maintenance and process monitoring (not including testing for chemical data),] 
+[disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of operations reports,] 
+[and] [_____].  Costs for procurement and handling of amendments must be included in the unit price for treatment.  
+After each lift of soil has been treated, the quantity of soil that does not meet treatment criteria must be 
+reported and subtracted from the quantity of soil comprising the lift, when determining payment for treatment.  
+See paragraph Treatment Cell Sizing below, for a definition of "lift of soil".  Payment will not be made for 
+soil that does not meet treatment criteria.  If additional tests, or additional processing and testing, are necessary 
+to show that material meets treatment criteria, the additional costs must be borne by the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oversize Materials from Contaminated Areas</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if payment for treatment and disposal 
+of oversize materials will be included as part of the unit price item for treatment 
+of contaminated soil.  Payment for disposal of oversize materials may be by 
+weight or volume, depending on the nature of the materials.  Oversize materials 
+may include brush, trees, roots, rocks, rubble, and construction debris.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for [and disposal] [treatment] of oversize material separated from contaminated soil will be by the contract 
+unit price schedule for each [<MET> kilogram</MET><ENG> pound</ENG>] [_____].  Soil, free water and other extraneous materials must 
+be separated from oversize materials prior to measuring quantities.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D2974</RID><RTL>(2014) Moisture, Ash, and Organic Matter of Peat and Other Organic Soils</RTL><BRK/><BRK/><RID>ASTM D4972</RID><RTL>(2018) Standard Test Methods for pH of Soils</RTL><BRK/><BRK/><RID>ASTM D6836</RID><RTL>(2016) Standard Test Methods for Determination of the Soil Water Characteristic Curve for Desorption Using a Hanging Column, Pressure Extractor, Chilled Mirror Hygrometer, and/or Centrifuge</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EM 1110-2-1913</RID><RTL>(2000) Engineering and Design; Design and Construction of Levees</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA 600/R-96/084</RID><RTL>(2000) Guidance for Data Quality Assessment: Practical Methods for Data Analysis  EPA QA/G-9, QA00 version</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>29 CFR 1910</RID><RTL>Occupational Safety and Health Standards</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>PROCESS DESCRIPTION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Requirements for a specific method of treatment are provided below.  
+If the use of a variation on landfarming process described will be allowed, 
+this paragraph should be revised to indicate that a process, other than described 
+in this Section, may be proposed by the Contractor; that the Contractor's approved 
+submittals must demonstrate equivalent capabilities; and that such approval 
+will not relieve the Contractor of responsibility for meeting specified requirements 
+for safety, reliability, and performance.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Treatment process must provide a safe, reliable method to treat contaminated material conforming to paragraph 
+PERFORMANCE REQUIREMENTS below, and must be based on the landfarming process described next.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DESIGN REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Landfarming Treatment Cell</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Siting of the treatment facility should be in accordance with regulatory 
+requirements.  The prevailing wind direction and the potential for dust generation 
+should also be taken into consideration.  The design of the treatment cell should 
+include provisions for control of storm water and contact water, and should 
+take into account the expected wheel loads of material handling equipment.</NPR><BRK/>
+<BRK/>
+<NPR>In-situ applications of landfarming are usually not recommended due to the potential 
+for spreading contamination into the vadose zone and groundwater.  Typically, 
+treatment of contaminated soil is performed in a lined treatment cell.  Lined 
+treatment cells usually include a composite clay or geomembrane liner with a 
+leachate collection system.</NPR><BRK/>
+<BRK/>
+<NPR>Care should be used when applying standards established for landfill liner systems, 
+to avoid requiring over-conservative and costly designs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment cell must be located in an area where seasonal, high water table level is at least<MET> [1.5] [_____] 
+meters</MET><ENG> [5.0] [_____] feet</ENG> below the lowest level of the liner.  The treatment cell must be designed to support 
+the load of material handling and tilling equipment.  The water collection system and sump must be in accordance 
+with paragraph Contact Water Management System and Design Storm, below.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Cell Sizing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The dimensions of the treatment cell should be based on the amount of 
+time required to reach cleanup goals for each lift of soil (including laboratory 
+turn-around time for compliance testing), the volume of soil and amendments 
+that can be held in the treatment cell, the configuration of the irrigation 
+system, and the type of material handling equipment that will be used.  A pie-shaped, 
+or semi-circular, treatment cell lends itself well to the use of a center-pivot 
+irrigation system.  Laboratory turn-around time is usually about 2 to 4 weeks.  
+The depth to which soil can be treated (i.e., lift depth) is limited by the 
+practical depth of tilling (usually about<MET> 300 mm</MET><ENG> 1 foot</ENG>).<BRK/>
+<BRK/>
+Traditionally, new lifts of contaminated soil were placed in the treatment cell 
+after treatment of preceding lifts were completed.  However, material handling 
+requirements may be decreased by placing the entire volume of contaminated soil 
+onto the treatment cell at once.  Under the latter scenario, treated lifts are 
+successively removed after they have been shown to meet clean-up goals.  One-time 
+placement of all the contaminated soil onto the treatment cell may also eliminate 
+the need to establish a contaminated soil stockpile area.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment cell must be located [within the area indicated on the drawings] [_____].  The treatment cell must 
+be sized to hold at least [_____]<MET> cubic meters</MET><ENG> cubic yards</ENG> of soil per lift, based on a lift depth of<MET> [0.3] [_____] 
+meters</MET><ENG> [1] [_____] foot</ENG>.  A lift is a single layer of contaminated soil contained within the treatment cell.  
+Active treatment occurs primarily in the uppermost lift of soil in the treatment cell.  Traditionally, a new 
+lift of contaminated soil is placed in the treatment cell after treatment of the preceding lift has been completed.  
+Alternatively, the entire volume of contaminated soil may be placed onto the treatment cell at once; then treated 
+lifts are successively removed after they have been shown to meet clean-up goals.  Sizing of the treatment cell 
+must be based on completing treatment of the estimated, total volume of contaminated soil in [_____] months from 
+initiating treatment of the first lift, assuming treatment is initiated on the following date: [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Porous Drainage Layer</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The gradation limits of the porous drainage layer should be compatible 
+with the grain-size distribution of the contaminated soil.  Gradation limits 
+should be determined as shown in EM 1110-2-1913, Engineering and Design - Design 
+of Construction Levees (see Appendix D Filter Design).  The slot width of the 
+leachate drainage piping (or pore size of filter fabric around the drainage 
+piping) must also be compatible with the gradation limits of the porous drainage layer.<BRK/>
+<BRK/>
+Geotextiles may be incorporated into the porous drainage layer to help prevent 
+fines from migrating into the leachate collection system.  Due to the potential 
+for clogging, use of geotextiles could pose a problem for a treatment cell that 
+is designed for long-term operation.  Geotextiles provide attachment sites for 
+microorganisms.  Growth of biomass may lead to reductions in the permeability 
+of the geotextile material.  However, experience at Region 8 EPA landfarming 
+operations for treatment of creosote-contaminated soil indicates that clogging 
+of geotextile has not been observed at projects that were completed within about 
+5 years.<BRK/>
+<BRK/>
+To protect the drainage piping, a minimum distance should be maintained between 
+the top of the drainage piping and the top of the porous drainage layer (e.g.<MET>
+, 203 to 254 mm</MET><ENG> 8 to 10 inches</ENG>).  Use of low-profile piping, such as panel pipe 
+for highway edge drains, laid flat against the geomembrane will allow the thickness 
+of the porous drainage layer to be minimized.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The porous drainage layer must be designed to facilitate drainage of free water and to prevent entry of contaminated 
+soils.  The porous drainage layer must be at least<MET> [0.3] [_____] meters</MET><ENG> [1.0] [_____] feet</ENG> thick.  The gradation 
+limits of the porous drainage layer must be compatible with the grain size distribution of representative samples 
+of contaminated soil, and must be selected in accordance with Appendix D of <RID>EM 1110-2-1913</RID>.  The minimum compacted 
+hydraulic conductivity of the porous drainage layer must be<MET> [1 x (10 to the minus 2 power)] [_____] cm/s</MET><ENG> [3.28 
+x (10 to the minus 4 power)] [_____] feet/s</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Leachate Controls and Collection</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Lined landfarm units should have a granular drainage layer to allow free 
+water to drain from the soil layer, and a leachate collection system to remove 
+drainage.  Some problems unique to landfarming applications are:</NPR><BRK/>
+<BRK/>
+<NPR>a.  Exposure to equipment traffic (e.g., applying soil, tilling, and removing 
+soil), can damage drainage layers and liners.</NPR><BRK/>
+<BRK/>
+<NPR>b.  Removing lifts of treated soil requires scraping and shoveling the treated 
+lift from the treatment cell, typically with a front-end loader.  To protect 
+the leachate collection and geomembrane layers, an armoring layer (gravel or 
+crushed stone) is often used to indicate over-excavation to the equipment operator.  
+The armoring layer is usually positioned immediately above the porous drainage 
+layer.</NPR><BRK/>
+<BRK/>
+<NPR>Slotted piping generally has more area available for water to flow into the 
+pipe than perforated piping, and is less susceptible to clogging and fouling 
+than filter fabric covered piping.  Thus slotted piping should be considered 
+for treatment cells that are designed for long-term operation, or where clogging 
+or fouling is a strong concern.<BRK/>
+<BRK/>
+Perforated piping is generally less expensive than slotted.  The combination 
+of perforated piping within a geotextile (filter fabric) sleeve has been used 
+with success in landfarm drainage layers.  The pore size of the geotextile must 
+be compatible with the grain-size distribution of the porous drainage layer.  
+Installing a layer of geotextile across the entire area of a treatment cell 
+is not recommended because it would require substantially more material than 
+using only geotextile sleeves around the collection piping, and geotextile sheets 
+would be susceptible to damage during removal of lifts of treated soil.</NPR><BRK/>
+<BRK/>
+<NPR>Leachate drainage lines are routed to a sump, which is usually placed below 
+the treatment cell.  The sump usually consist of a lined depression in the impermeable 
+layer packed with gravel.  Water holding facilities outside of the treatment 
+cell are commonly used for additional water storage capacity.  When the gravel 
+sump reaches a set level, water is pumped from the sump to the outer water holding 
+facility.  Options for water storage facilities outside of the treatment cell 
+include: an above-ground storage tank, a reinforced concrete basin, vertical 
+caisson piping, or a lined earthen pit.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Slots in drainage collection piping must be appropriately sized for the porous drainage layer in accordance with 
+Appendix D of <RID>EM 1110-2-1913</RID>.  Drainage water must be routed to a lined, gravel sump [as shown on the drawings].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Geomembrane and Clay Liners</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Liners usually consist of HDPE geomembrane or recompacted clay.  It is 
+atypical to require a composite liner system for a temporary landfarming facility.  
+Options have been provided for HDPE liners and recompacted clay liners.</NPR><BRK/>
+<BRK/>
+<NPR>If granular material in the drainage layer is greater than<MET> 13 mm</MET><ENG> 1/2 inch</ENG>, a 
+sand or geotextile protective layer should be required between the geomembrane 
+liner and the granular material.<BRK/>
+<BRK/>
+The drawings should provide requirements for sloping of the surface of the liner.  
+Recommended, minimum sloping requirements are as follows:  2 percent from the 
+sides of the treatment cell to the central drainage line, and 1 percent over 
+the length of the central drainage line (from the upslope end to the entry into 
+the gravel sump).<BRK/>
+<BRK/>
+Sections <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE and <SRF>02 56 14</SRF> CLAY BARRIER LAYER 
+provide some testing requirements for the liner.  Additional testing and leak 
+monitoring may be necessary for some projects.  Leak monitoring will be more 
+important for projects where the treatment cell is located over an area with 
+clean groundwater and a clean vadose zone.<BRK/>
+<BRK/>
+Monitoring wells, downgradient of the treatment cell, can be used to determine 
+if leaks have occurred in the past.  Lysimeters may be installed within and 
+around the perimeter of the treatment cell.  If used, lysimeters should be installed 
+before the liner to avoid damage to the liner during placement of lysimeters.  
+Penetrations through the liner must also be properly sealed.  Lysimeters may 
+Generally there is greater potential for leaks to occur in the sump, than in 
+other locations of the liner.  Water may remain in the sump for extended periods 
+if the sump is being used to store contact water.<BRK/>
+<BRK/>
+Leak sensing technologies are described in the following reference, Leak Detection 
+for Landfill Liners, Overview of Tools for Vadose Zone Monitoring, Karen Hix, 
+Technology Status Report Prepared for USEPA Technology Innovation Office under 
+a National Network of Environmental Management Studies Fellowship, Aug. 1998.  
+The reference can be accessed at the following internet site:  http://www.clu-in.org/download/char/leaklnfl.pdf<BRK/>
+<BRK/>
+Most of the leak sensing technologies involve installation of leak sensing devices 
+below the liner, prior to placement of the liner.  Because of the relatively 
+high capitol and O&amp;M costs for leak detection systems, they are usually 
+not installed.<BRK/>
+<BRK/>
+As a relatively inexpensive construction QA measure, the Two Electrode method 
+can be used for leak testing of the sump area.  The test can be performed by 
+filling the sump with water (before it has been filled with gravel) for a set 
+period (e.g., 24 hours), and monitoring for passage of current from the inside 
+the sump to the soil outside of the sump area.  If currrent is detected in the 
+electrode placed in the soil outside of the sump area, then the liner is checked 
+for penetrations, repaired, and the test is repeated.<BRK/>
+<BRK/>
+Leak testing, using one of the methods or devices described in the above reference, 
+is highly recommended; especially in the area immediately below the sump.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Line the treatment cell with [a chemically resistant, high density polyethylene geomembrane liner with a minimum 
+thickness of<MET> [0.1] [_____] mm</MET><ENG> [40] [_____] mils</ENG>.] [a recompacted clay liner with a minimum thickness of<MET> [0.6] 
+[_____] meters</MET><ENG> [2] [_____] feet</ENG> and a maximum permeability of<MET> [1 x (10 to the minus 7 power)] [_____] cm/s</MET><ENG> [3.28 
+x (10 to the minus 9 power)] [_____] feet/s</ENG>.]  Subgrade preparation and installation, testing, inspection, and 
+protection of the liner, must be in accordance with Section [<SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE] [
+<SRF>02 56 14</SRF> CLAY BARRIER LAYER].  The surface of the liner must be sloped [as indicated] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Contact Water Management System and Design Storm</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  In accordance with regulatory requirements, excess contact water may 
+be discharged to NPDES storm water discharge outfalls, POTW sewers, facility 
+sewer to onsite treatment systems, or treated and disposed of offsite.<BRK/>
+<BRK/>
+The source of data for the design storm should be referenced.  Sources for hypothetical 
+storm information in the United States are referenced in Appendix A of Hydrological 
+Analysis of Ungaged Watersheds Using HEC-1, Training Document No. 15, USACE 
+Hydrologic Engineering Center, April 1982; another source is Technical Paper 
+No. 40, Rainfall Frequency Atlas of the United States, for Durations from 30 
+Minutes to 24 Hours and Return Periods from 1 to 100 Years, US Dept. of Commerce, 
+May 1961.<BRK/>
+<BRK/>
+It is recommended that the surface of the treatment cell be sloped so that surface 
+run-off from high intensity precipitation events and snow melt can be collected 
+and transferred to contact water storage facilities.  If too much surface water 
+penetrates the contaminated soil layer, the soil may become waterlogged and 
+contaminant degradation rates may decrease.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water is defined as water that has come into contact with contaminated materials, or other contaminated 
+surfaces.  Sources of contact water may include, but are not limited to:  water from decontamination of equipment, 
+personnel, and PPE; runoff water from storage and pre-processing areas; and water that leaches through the treatment 
+cell.  The design storm must be the [24] [_____] hour duration storm with a return interval of [25] [_____] years, 
+based on data from [_____].  Water head in the gravel sump (under the treatment cell), in excess of<MET> [0.3] [_____] 
+meter</MET><ENG> [1] [_____] foot</ENG>, must be removed within [24] [_____] hours of the design storm event.  The water head 
+in the gravel sump (under the treatment cell) must be maintained at no more than<MET> [0.3] [_____] meter</MET><ENG> [1] [_____] 
+foot</ENG> between storm events.  The surface of the top layer of the treatment cell must be sloped, [as shown on the 
+drawings,] [_____] to allow surface run-off to be collected and transferred to contact water storage facilities.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Perimeter Berms</TTL><BRK/>
+<BRK/>
+<TXT>Berms must be constructed around the perimeter of the following areas:  [treatment cell,] [contact water storage,] 
+[stockpiling,] [laydown and storage areas,] [and] [_____].  The perimeter berms must be sized to prevent flood 
+water run-on from the [25] [_____] year flood while maintaining a minimum freeboard of<MET> [0.3] [_____] meter</MET><ENG> [1] 
+[_____] foot</ENG>.  The perimeter berms must also be sized to contain water from the design storm that collects on 
+the surface, inside of bermed areas, while maintaining a minimum freeboard of<MET> [0.3] [_____] meter</MET><ENG> [1] [_____] 
+foot</ENG>.  Berms constructed around the [treatment cell and contact water storage facility] [_____] must be keyed 
+into the underlying liners of these areas, [as shown on drawings] [_____].  Berms constructed around the [treatment 
+cell, stockpiling, and laydown and storage areas] [_____] must include ramps to permit vehicle access inside 
+these areas.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Storage Volume</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Typically, storage and testing of contact water is required prior to 
+discharge.  Thus contact water storage facilities should be sized to contain 
+the peak detention volume for the design storm.  In order to minimize treatment 
+and disposal costs, it is often desirable to reuse the contact water to irrigate 
+the treatment cell.  Using this approach, the storage volume must be sufficient 
+to retain the volume of water in storage prior to the design storm, and the 
+volume of water generated by the design storm.<BRK/>
+<BRK/>
+Sources of contact water include:  water from decontamination of equipment, 
+personnel, and PPE; and water that drains from storage, pre-processing and treatment 
+areas.  If the storage, pre-processing, or treatment areas are covered, then 
+the volume of contact water resulting from precipitation events should be reduced.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Size contact water storage facilities to contain [30] [_____] percent above that required for the design storm, 
+and [the maximum volume that will be held in storage for reuse] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reuse, Treatment, and Disposal</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It is possible for contact water to accumulate compounds (e.g., acids, 
+bases, or salts) at levels which may inhibit microbial activity.  However, contact 
+water can usually be applied to contaminated soil with little or no treatment.  
+Water which has accumulated excessive levels of acids, bases or salts may require 
+treatment, or offsite disposal.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water must be reused to the maximum extent in order to minimize the need for new makeup water and to 
+limit the treatment, discharge and offsite disposal of wastewater.  Prior to reuse, contact water must be tested 
+in accordance with paragraph Contact Water Testing in PART 3, and must meet the requirements of paragraph Water 
+Supply in PART 2.  Prior to disposal, contact water that cannot be applied to contaminated soil must be collected 
+and tested in accordance with paragraph Treatment Criteria for Contact Water, below.  Process sludge (resulting 
+from the removal of suspended material in the contact water) must be treated to meet the requirements of paragraph 
+[Treatment Criteria for Soil, below] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Irrigation Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Irrigation is critical to maintaining optimum moisture content, and maintaining 
+high degradation rates.  In arid climates, water usage rates will obviously 
+be higher than in non-arid climates.  Drip irrigation systems are generally 
+not recommended for landfarming because they are not designed to distribute 
+moisture uniformly.  Center-pivot irrigation systems have been successfully 
+used in conjunction with pie-shaped, or semi-circular, treatment cells.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Irrigation equipment must be capable of providing at least<MET> 0.7 L/s/1000 m2</MET><ENG> 40 gpm/acre</ENG> distributed uniformly 
+over the surface of the treatment cell.  The irrigation system must be designed to minimize interference with 
+tilling of the treatment cell.  Flood or overland flow irrigation methods must not be used.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Weather Cover</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if there will be no requirement for 
+use of a weather cover.  Weather covers allow an added measure of control over 
+moisture delivery to the treatment cell, and may also be used to increase soil 
+temperature.  Use of a weather cover will also allow the scale of the contact 
+water management facilities to be reduced.  Clam-shell buildings, metal buildings, 
+pole barns, large tents, or other prefabricated structures may serve as weather 
+covers.  The section containing requirements for the weather cover (e.g., Section 
+<SRF>13 34 19</SRF> PREENGINEERED METAL BUILDINGS), should include the design snow load, 
+maximum wind speed, soil bearing capacity, seismic parameters in accordance 
+with UFC 3-310-04, maximum and minimum ambient air temperatures.<BRK/>
+<BRK/>
+If landfarming will be performed inside of an enclosed structure, adequate ventilation 
+must be provided.  A rate of 3 to 6 air changes per hour has been recommended 
+for composting facilities.  Carbon dioxide is generated and oxygen may become 
+depleted during landfarming.  However, rates of oxygen consumption for most 
+landfarming applications will be significantly lower than that of composting.  
+During material handling operations (e.g., tilling) dust and engine exhaust 
+fumes will accumulate.  To ensure that proper and consistent ventilation requirements 
+are specified, this section should be coordinated with Section <SRF>23 00 00</SRF> AIR 
+SUPPLY, DISTRIBUTION, VENTILATION, AND EXHAUST SYSTEM.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use weather covers, or appropriate structures, to prevent precipitation from coming into contact with soil in 
+the treatment cell, and design in accordance with Section [<SRF>13 34 19</SRF> PREENGINEERED METAL BUILDINGS] [_____].  
+Covers must allow for free exchange of gasses between the atmosphere and the soil.  Weather covers must be sized 
+to allow unimpaired maneuvering of [front-end loaders,] [soil mixing equipment,] [and] [_____]; openings in weather 
+covers must be sized to allow for entry and exit of [front-end loaders,] [soil mixing equipment,] [and] [_____].  
+Ventilation of the covered facility must be in accordance with Section <SRF>23 00 00</SRF> AIR SUPPLY, DISTRIBUTION, VENTILATION, 
+AND EXHAUST SYSTEM.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiles</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The requirements outlined in this paragraph are the typical, minimum 
+criteria the Contractor should use to prepare the stockpile design.  However, 
+in very arid climates, covers may not be necessary.  If operations will continue 
+during subfreezing conditions, it may be necessary to ensure that the Contractor 
+has included provisions to prevent a portion of the contaminated soil stockpile 
+from freezing.  This paragraph should be edited based on site-specific factors 
+and regulatory requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Stockpiles must be constructed for storing [contaminated material,] [oversize material,] [treated material] [and] 
+[_____].  Stockpiles must be constructed to include:</TXT><BRK/>
+<BRK/>
+<ITM>a.  An impermeable HDPE geomembrane liner with a minimum thickness of<MET> 1.0 mm</MET><ENG> 40 mils</ENG>.  Subgrade 
+preparation; and installation, testing, inspection, and protection of the liner must be in accordance 
+with Section <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE.</ITM><BRK/>
+<BRK/>
+<ITM>b.  An impermeable geomembrane cover with a minimum thickness of<MET> [0.25] [_____] mm</MET><ENG> [10] [_____] 
+mils</ENG> to prevent precipitation from entering the stockpile.  Ancillary materials to keep the 
+cover anchored during windy conditions.</ITM><BRK/>
+<BRK/>
+<ITM>c.  Berms surrounding stockpiles in accordance with paragraph Perimeter Berms, above.</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Work Area Surfaces</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be revised if paved surfaces will not be required.  
+It may be necessary to require paving in areas designated for handling contaminated 
+material, and operation of heavy equipment (e.g., front-end loaders).  Concrete 
+pads are typically more expensive, though less permeable than asphalt pads.  
+Asphalt pads have been used for hazardous waste composting projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Locate the soils pre-processing area [within the area indicated] [_____], and construct and pave in accordance 
+with Section [<SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Accuracy of Measurement Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is primarily intended to ensure that calibrated scales 
+are being used to weigh treated soil, when weight is being used as the basis 
+for measurement and payment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measuring devices, such as scales, must be accurate to at least [15] [_____] percent of the unit used as the 
+basis for measurement and payment.  A check of calibration of measuring equipment must be performed prior to 
+initial use, and once every [7] [_____] calendar days.  The requirements of this paragraph do not apply to measurement 
+of chemical data.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PERFORMANCE REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Perform sampling and analyses in accordance with [_____].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Criteria and Criteria for Reuse of Treated Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Landfarming is primarily applicable to nonvolatile and semi-volatile 
+organic contaminants, including: low-volatility components of fuels, diesel 
+fuel, kerosine-based fuels, fuel oils, pentachlorophenol (PCP), some polycyclic 
+aromatic hydrocarbons (PAHs, as found in creosote), some pesticides, and some 
+herbicides.  Biodegradation of PAHs becomes more difficult as the number of 
+rings increases.  Thus, landfarming is usually not considered to be an efficient 
+process for treating PAHs that contain more than four aromatic rings.  Contaminated 
+soil will be aerated during tilling and material handling operations.  Thus, 
+the volatility of contaminants of concern should be taken into consideration 
+to ensure that air emissions requirements are not exceeded.  Non-weathered, 
+light fuels such as gasoline are not suitable for landfarming since the most 
+toxic components (i.e., BTEX) will readily volatilize.</NPR><BRK/>
+<BRK/>
+<NPR>Depending on regulatory requirements, both total concentration and leachability 
+concentrations for some compounds may be required.  Total concentrations can 
+be used to estimate worst case leachate concentrations.  If the contaminated 
+material is classified as characteristic waste, leachability testing will usually 
+be required, and the appropriate leachability test (e.g., EPA Synthetic Precipitation 
+Leachate Procedure (SPLP) or EPA Toxicity Characteristic Leachate Procedure 
+(TCLP)) must be selected.  If the treated material will not be disposed of in 
+a landfill, SPLP testing may be appropriate.<BRK/>
+<BRK/>
+Although there are EPA Land Application regulations for metals and pathogens 
+(40 CFR 503 - Standards for Use or Disposal of Sewage Sludge), these regulations 
+are not normally applicable to hazardous waste landfarming.</NPR><BRK/>
+<BRK/>
+<NPR>For compounds whose partial breakdown products (intermediates) have been defined, 
+it may be necessary to include testing for key intermediates.  However, it may 
+not be practical to require testing for intermediates if chemical standards 
+are not available.  A compound should not be targeted for analysis unless there 
+is a defensible basis for acquiring the data (e.g., if there is strong probability 
+of generating an intermediate with higher toxicity than the parent compound).<BRK/>
+<BRK/>
+Treatment criteria, and criteria for disposal (or reuse) should be in accordance 
+with Federal, state and local regulations.  Prior approval by regulatory representatives 
+should be acquired for treatment criteria values.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Treatment Criteria for Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Paragraph Confirmation of Attainment of Treatment Criteria for Contaminants 
+of Concern should be coordinated with this paragraph, and reviewed for guidance 
+on adding a separate set of "ceiling values" for each contaminant of concern 
+to this paragraph.<BRK/>
+<BRK/>
+It is possible for petroleum, oils and lubricants (POLs) and other fluids from 
+material handling equipment to be spilled onto soil during process operations.  
+Thus, testing for POLs should be considered.  The treatment criteria shown below 
+are only examples.  This paragraph should be edited to include site-specific 
+criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treated material must meet the criteria shown in Table 1.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="8">
+      <COL AUTOWIDTH="0" WIDTH="209.25"/>
+      <COL AUTOWIDTH="0" WIDTH="247.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 1 - TREATMENT CRITERIA FOR ORGANICS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">ORGANIC CONTAMINANT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">MAXIMUM TOTAL CONCENTRATION IN SOIL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Pentachlorophenol</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Total Polynuclear Aromatic Hydrocarbons (PAHs)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Total cPAHs (carcinogenic PAHs)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Total Petroleum Hydrocarbons (TPH)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Oil and Grease</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Criteria for Reuse of Treated Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For some projects this paragraph could be combined with the above paragraph, 
+Treatment Criteria for Soil.  For the purposes of this guide specification, 
+this paragraph has been separated to emphasize that a separate set of regulatory 
+criteria may have to be met before treated soil can be incorporated into top soil.<BRK/>
+<BRK/>
+The land application or beneficial use of treated soil will be largely controlled 
+by existing land disposal restrictions (40 CFR 268), specifically toxicity characteristics 
+for RCRA metals, volatiles, and semi-volatiles and any triggered universal treatment 
+standards (40 CFR 268.48).  While the metals loading rates found in 40 CFR 503 
+(i.e., 40 CFR 503.13 - Pollutant limits) may be useful in evaluating beneficial 
+reuse alternatives, the designer is cautioned that the scope of this standard 
+is for domestic sewage sludge.  Soils treated via landfarming may not meet this 
+definition, and therefore would not be excluded from hazardous waste management 
+regulations.  The application of ceiling values listed in 40 CFR 503.13 to treated 
+soil not excluded from hazardous waste regulations, is not allowed under regulation 
+(40 CFR 503.6).<BRK/>
+<BRK/>
+Although reductions in concentrations of heavy metals may occur due to mixing 
+and dilution effects, landfarming is usually not considered a treatment process 
+for inorganics.  Depending on regulatory requirements and intended end use, 
+it may be necessary to require testing for some inorganic parameters.  The treatment 
+criteria shown below are only examples.  This paragraph should be edited to 
+include site-specific criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to final disposition, the treated material must meet the criteria shown in Table 2.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="8">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 2 - TREATMENT CRITERIA FOR INORGANICS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">INORGANIC CONTAMINANT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">MAXIMUM TOTAL CONCENTRATION IN SOIL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Copper</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Barium</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Particle Size Criteria for Treated Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Oversized materials are typically separated from contaminated soil during 
+soil pre-processing.  Relatively impermeable oversize materials (e.g., rocks) 
+are often treated by rinsing or pressure washing.  However, clods of contaminated 
+soil or other large particle-size materials that are not broken-up during tilling 
+cannot be assumed to be adequately treated by landfarming.  If attrition of 
+this chunk-material does not occur with repeated tilling, it may be necessary 
+to perform additional sampling and analysis specifically to determine if chunk-material 
+is being treated.<BRK/>
+<BRK/>
+Particle size criteria may be waived if sampling and analysis of the large particle-size 
+materials demonstrates that treatment criteria is being achieved.  A sufficient 
+quantity of large particle-size material should be collected so that samples 
+will be representative of the "chunk-fraction" throughout the treatment cell.  
+The large particle-size material must then be ground-up so that subsamples can 
+be submitted for testing.<BRK/>
+<BRK/>
+If treatment of large particle-size materials can not be adequately demonstrated, 
+then an additional processing step may be necessary.  Equipment such as soil 
+shredders will increase the cost of treatment, but can be used to reduce the 
+particle size and thereby improve the degree of treatment achieved.  The goal 
+should be to reduce the particle size of treated soil to approximately<MET> 13 to 
+40 cm</MET><ENG> 0.5 to 1.5 inches</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>To achieve uniform treatment, clumps of soil must be reduced in particle size by tilling or other mechanical 
+means.  The maximum particle size in the treated soil matrix must be not greater than<MET> [40] [_____] mm</MET><ENG> [1.5] [_____] 
+inches</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Treatment Criteria for Contact Water</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Treatment and disposal options for contact water include:  onsite treatment 
+and discharge; offsite treatment and disposal; and storage and reuse as irrigation 
+water.  The treatment criteria shown below are only examples.  This paragraph 
+should be edited to include site-specific criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water must meet the criteria shown in Table 3 at the time of [discharge] [offsite disposal] [_____].</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="17">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 3 - WATER DISPOSAL/DISCHARGE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">MAXIMUM CONCENTRATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Copper</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">TPH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Oil and Grease</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Nitrate</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Total phosphates</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Ammonia</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Total Kjeldahl nitrogen</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Total suspended solids</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">5 Day Biochemical Oxygen Demand (BOD)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">minimum pH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">maximum pH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Treatment Criteria for Other Waste</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Other waste may include sludge or sediment resulting from treatment of 
+contact water, and oversize material.  Treatment may not be required for some 
+wastes.  Treatment criteria should be provided if treatment will be conducted 
+onsite.  If treatment criteria already provided in the preceding paragraphs 
+do not adequately cover "Other Wastes", it may be necessary to provide additional 
+criteria, specific to "Other Wastes".  Oversize material is often pressure-washed 
+prior to disposal.  Sludge or sediment may often be blended with contaminated 
+soil for processing in the treatment cell.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following materials must be treated prior to disposal:  [sludge or sediment resulting from treatment of contact 
+water, and oversize material that has been separated from contaminated soil] [_____].  Treatment must be in accordance 
+with regulatory requirements.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>LANDFARMING WORK PLAN</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Correspondence from regulatory agencies, and other relevant information, 
+should be attached to the specifications to indicate the level of effort necessary 
+for the Contractor to obtain finalized permits, permit equivalents, certifications 
+and to meet substantive regulatory requirements.</NPR><BRK/>
+<BRK/>
+<NPR>Sampling and analysis requirements for parameters i.e., non-chemical data should 
+be included in the landfarming Work Plan.  To avoid duplications in submittal 
+requirements, submittals in this Section should be coordinated with other sections 
+of the contract (e.g., <SRF>01 45 00.00 10</SRF> QUALITY CONTROL, and <SRF>01 32 01.00 10</SRF> PROJECT SCHEDULE).<BRK/>
+<BRK/>
+If a request-for-proposal contract is being prepared, this paragraph and the 
+Submittals paragraph should be edited and used to form the basis for Contractor 
+proposals.  The sub-paragraph titled, Contractor Experience, should be omitted 
+if the Contractor has been pre-selected.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit a Landfarming Work Plan not more than [480] [_____] calendar days after notice to proceed.  A period of 
+not less than [30] [_____] calendar days must be allowed for in the schedule for Government review.  The Plan 
+must include, but not be limited to, the following:</TXT>[<BRK/>
+<BRK/>
+<TXT><ATT>Correspondence</ATT> from regulatory agencies, and other relevant information, are attached to the specifications to 
+indicate the level of effort necessary to obtain finalized permits, permit equivalents, certifications and to 
+meet substantive regulatory requirements.</TXT>]<BRK/>
+<BRK/>
+<SPT><TTL>Schedule</TTL><BRK/>
+<BRK/>
+<TXT>The schedule must specify dates and durations for: excavation, hauling, stockpiling, start and completion of 
+mobilization, treatment cell construction, separation of oversize materials, field demonstration, full-scale 
+treatment of contaminated materials, storage of treated material, disposal of treated material and other wastes, 
+and demobilization.  The following details must also be provided: intended days and hours of operation; plans 
+for operating, or scaling back operations during winter conditions; routine maintenance down-time for tilling 
+equipment; anticipated time to reach cleanup goals for each lift of soil; and laboratory turn-around time to 
+receive data from compliance samples.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Project Organization and Personnel</TTL><BRK/>
+<BRK/>
+<TXT>An organization chart, including subContractors, must be provided; the chart must include the names, responsibilities, 
+education, and resume of the key project personnel.  Key personnel must include, but must not be limited to: 
+project managers, quality control personnel, supervisory operators and technicians, and engineering staff.  Responsibilities 
+of each individual in the organization must be clearly defined in terms of project activities including, but 
+not limited to:  project management and coordination; scheduling; quality control and quality assurance; sampling; 
+measurement; field and laboratory analysis; data management; operation and maintenance; and health and safety 
+management.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Selection of Amendments</TTL><BRK/>
+<BRK/>
+<TXT>Rationale for use of each proposed amendment.  Description of, and sources for, each amendment; including at 
+least one alternative source for each category of amendment.  Locations of each source, and distances from the 
+site must be included.  For amendments that are only available on a seasonal basis, a plan for substituting alternative 
+types of amendments must be provided.  For organic amendments, such as manure or wood products, the plan must 
+state the intended freshness of the amendment; or the length of the planned period of aging, prior to incorporating 
+the amendment into soil.  The proposed amount of each amendment that will be added to each cubic<MET> m</MET><ENG> yard</ENG> of contaminated 
+soil must also be included.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Emissions, Dust and Odor Control</TTL><BRK/>
+<BRK/>
+<TXT>For each stage of operations, the plan must include:  the sources of emissions, dust and odors during each stage 
+of operations, and proposed control measures.  The stages of operation must include, but must not be limited 
+to:  construction of treatment cell; soil pre-processing; treatment, transport, and disposal of oversize material; 
+material handling during landfarming operations, including tilling; transport and storage of treated soil; disposal 
+of treated soil.  If air monitoring will be required, the following must also be included:  type and locations 
+of monitoring devices; and for each stage of operations, frequency of sampling, number of samples from each location, 
+the total number of samples, and the parameters to be monitored.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Operations and Process Monitoring</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the proposed operation must be provided.  The description must include:  plans for 
+pre-processing of contaminated soils; plans for stockpiling materials; plans and schedule for pick-up, transport, 
+delivery and storage of each amendment during operations; plans for mixing amendments into soil; methods for 
+measuring quantities of soil, and amendments; treatment cell area required for each lift; contact water management 
+plans; parameters that will be monitored during landfarming; frequency of monitoring, tilling and irrigation 
+during operations; locations of each sampling station shown from plan view; sampling locations shown on a diagram 
+depicting a cross-section of the treatment cell; the number of sampling stations per each lift of soil; moisture 
+and temperature monitoring locations must also be shown; and plans for storage and disposal of treated materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protocol for Compliance Testing</TTL><BRK/>
+<BRK/>
+<TXT>A detailed, chronological description of the sequence of procedures and tests that will be used to determine 
+whether the soil has met treatment criteria.  The locations of each sampling station shown from plan view; the 
+number of sampling stations per each lift of soil; sampling locations shown on a diagram depicting a cross-section 
+of the treatment cell; the number of samples that will be tested for each type of test performed as a part of 
+compliance testing; and laboratory turn-around-time.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protocol for Determining if Soil Meets Criteria for Disposal</TTL><BRK/>
+<BRK/>
+<TXT>A detailed, chronological description of the sequence of procedures and tests that will be used to determine 
+whether the soil has met criteria for disposal; including: the location of each sampling station shown from plan 
+view; the number of sampling stations per each lift of soil; sampling locations shown on a diagram depicting 
+a cross-section of the treatment cell; and the number of samples that will be tested for each type of test performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Non-Landfarming Treatment Processes</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the procedures for treatment of air, liquid, and solid wastes that will be treated 
+by a process other than landfarming, including:  treatment criteria for oversize material and other wastes; testing 
+parameters; sampling locations; number of samples; monitoring frequency; and laboratory turn-around-time.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Equipment and Servicing</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the proposed treatment equipment must be provided.  For each proposed piece of equipment, 
+the description must include:  function, design capacity, equipment specifications identifying manufacturer and 
+model number, material of construction, recommended operating conditions, and the number of units that will be 
+present on-site during each stage of operations.  Equipment described must include, but must not be limited to:  
+tilling devices; pumps; irrigation equipment; sampling and testing devices for process monitoring; and moisture 
+and temperature monitoring devices.  Plans for servicing equipment must also be provided, and must explain how 
+material handling and tilling will be accomplished during servicing of equipment, and during unanticipated breakdown 
+of machinery.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Process Material Tracking Schedule</TTL><BRK/>
+<BRK/>
+<TXT>The proposed schedule must be used to record the quantities of the contaminated materials treated.  The dates 
+and duration of the following activities must also be provided for each lift of contaminated material: initiation 
+of landfarming; completion of landfarming; re-processing of any treated materials that failed to meet treatment 
+criteria; storage of treated material; disposal of treated material.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Disposal and Reuse of Wastes</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the plans for disposal of solid and liquid wastes.  For each type of waste that will 
+be generated, the following must be provided:  origin and description of waste; estimated total quantity of waste; 
+method of transport to disposal location; disposal location; and schedule showing the anticipated quantities 
+and dates for generation, transport, and disposal of the wastes.  Waste types must include: treated soil, oversize 
+materials, contact water, and other solid and liquid wastes generated during the project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Mobilization and Demobilization</TTL><BRK/>
+<BRK/>
+<TXT>A mobilization and demobilization plan must include:  transport of personnel, material, and equipment; decontamination 
+and disposal of materials and equipment brought to the site; decontamination and disposal of the treatment cell 
+and other paved surfaces.  The demobilization plan must include a Post-Treatment Cleanup and Sampling Plan for 
+areas where there was contact with contaminated materials.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>OTHER SUBMITTAL REQUIREMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Submittal scheduling should allow for an adequate amount of time for:<BRK/>
+1.  Preparation and review of submittals.<BRK/>
+2.  The treatment period of the bench-scale test and the field demonstration.<BRK/>
+3.  Receipt of analytical results from the laboratory for samples collected 
+on the last day of the treatment period.<BRK/>
+<BRK/>
+The time periods shown for completing submittals have been sequenced to illustrate 
+this point.  Ideally, the Bench-Scale Test Report should be completed before 
+the Contractor is required to submit the Field Demonstration Plan, and the Field 
+Demonstration Report should be completed before the Contractor is required to 
+submit the Landfarming Work Plan.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following must also be submitted as specified:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The bench-scale test plan not more than [30] [_____] calendar days after notice to proceed.  A period 
+of not less than [30] [_____] calendar days must be allowed for in the schedule for Government review.  
+This plan must include:  location of test facility; minimum, initial levels of contaminants in the soil 
+to be used for the study; locations that will serve as the source of soil for the study; test parameters 
+and number of samples that will be used to confirm that the soil meets criteria for the study; rationale 
+for use of each proposed amendment; and the source of each amendment.  For organic amendments, such as 
+manure or wood products, the plan must state the intended freshness of the amendment; and the length 
+of the period of aging, prior to incorporating the amendment into soil.  For each test condition, the 
+amount of each amendment that will be added per unit volume of soil; temperatures under which testing 
+will be performed; the number of replicate tests for each test condition; description of containers that 
+will be used; procedure for mixing soil; frequency of mixing; testing and monitoring parameters; number 
+of samples; monitoring frequency; length of monitoring period; and laboratory turn-around-time.  Test 
+methods, and other sampling and analysis requirements for the bench-scale test must be [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  A field demonstration plan not more than [270] [_____] calendar days after notice to proceed.  A 
+period of not less than [30] [_____] calendar days must be allowed for in the schedule for Government 
+review.  This plan must include:  location for performing the field demonstration; minimum, initial levels 
+of contaminants in the soil to be used for the demonstration; locations that will serve as the source 
+of soil for the demonstration; test parameters and number of samples that will be used to confirm that 
+the soil meets criteria for the demonstration; rationale for use of each proposed amendment; and the 
+source of each amendment.  For organic amendments, such as manure or wood products, the plan must state 
+the intended freshness of the amendment; and the length of the period of aging, prior to incorporating 
+the amendment into soil.  For each test condition, the amount of each amendment that will be added to 
+each cubic<MET> m</MET><ENG> yard</ENG> of contaminated soil; anticipated temperatures under which the field demonstration 
+will be performed; irrigation and tilling equipment specifications; irrigation water source; plan for 
+operation, maintenance and process monitoring; and laboratory turn-around-time.  Test methods, and other 
+sampling and analysis requirements for the field demonstration test must be [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Copies of records for treated or processed materials which have been disposed of not more than [45] 
+[_____] calendar days after disposal of each batch (or lift) of material.  The following must be included 
+for each batch (or lift) of treated material:  disposal location; date of transport to disposal location; 
+volume or weight of material; and chemical data reports.  Cross-references to the submittal specified 
+in Section <SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS MATERIALS, which includes the manifests, 
+must be provided for materials disposed of offsite.  For non-manifested materials disposed of offsite, 
+the following information must also be provided:  address, phone number, and point of contact for each 
+receiving offsite disposal facility.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The soil and amendment test report not more than [120] [_____] calendar days after notice to proceed.  
+Report must include:  the source of each amendment; characterization test results for each amendment; 
+the locations from where soil for the bench-scale test was collected; the quantity of soil collected 
+from each location; and characterization test results for soil for the bench-scale test.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  The bench-scale test report not more than [60] [_____] calendar days after completion of the bench-scale 
+test.  Report must include:  characterization test results for each amendment; the source of each amendment; 
+for each condition tested, the amount of each amendment that was added per unit volume of soil; the date 
+that the bench scale test was initiated; chronological table showing all materials added, amount added, 
+date of addition, and each mixing, irrigation and sampling event.  For organic amendments, such as manure 
+or wood products, the report must state the freshness of the amendment; and the length of the period 
+of aging, prior to incorporating the amendment into soil.  The report must also include: physical and 
+chemical monitoring data from before, and during treatment; degradation rates; final disposition of wastes 
+and treated material; and conclusions.  Recommendations for the field demonstration must also be provided 
+in the report.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  The field demonstration report not more than [60] [_____] calendar days after completion of the field 
+demonstration.  The report must include: characterization test results for each amendment; the source 
+of each amendment; for each condition tested, the amount of each amendment that was added per unit volume 
+of soil; chronological table showing all materials added, amount added, date of addition, and each mixing, 
+precipitation, irrigation and sampling event.  For organic amendments, such as manure or wood products, 
+the report must state the freshness of the amendment; and the length of the period of aging, prior to 
+incorporating the amendment into soil.  The report must also include: physical and chemical monitoring 
+data from before, and during treatment; degradation rates; final disposition of wastes and treated material; 
+and conclusions.  Recommendations for full-scale operations must also be provided in the report.  In 
+addition, the day-to-day log of operations and adjustments must be included in an appendix.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  During the [field demonstration,] [and] [full-scale operations,] reports must be furnished weekly 
+for the first [10] [_____] weeks, and every [2] [_____] weeks thereafter.  Copies of the reports must 
+be kept at the facility.  The following information must be recorded and maintained until closure of 
+the facility:  description (including sources) of contaminated soil and amendments on site; the dates 
+of receipt, storage, treatment, and disposal of contaminated soil and amendments; the location of all 
+amendments and contaminated soil on site, and the quantity at each location.  The location and quantity 
+of each type of material must be recorded on a map or diagram of the site.  This information must include 
+cross-references to specific manifest document numbers, if the waste was accompanied by a manifest.  
+Summary reports and details of all incidents that require implementing contingency plans, or corrective 
+action measures must also be provided.  The reports must also include:  date and time of each monitoring 
+or testing event; results from each monitoring or testing event; monitoring procedure, or test method 
+used; individual performing the monitoring or testing, and other individuals present; and remarks.  Cross-references 
+to submittals specified in other sections may be provided to prevent duplicate information in separate 
+submittals.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Safety data sheets (SDSs), certificates of analysis, and product performance data not more than [45] 
+[_____] calendar days after notice to proceed.  SDSs must be in accordance with <RID>29 CFR 1910</RID> Section 1200 
+(g).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Copies of the permits, permit equivalents and certifications with the Landfarming Work Plan.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PREVIOUSLY CONDUCTED TREATABILITY STUDIES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if no previous treatability studies 
+have been conducted.</NPR><BRK/>
+<BRK/>
+<NPR>The methods employed in previous treatability studies may not be the same as 
+those proposed by the Contractor.  Documentation of the previous treatability 
+studies should include the same information shown in the following sub-paragraphs:  
+Bench-Scale Test Report and Field Demonstration Report, in PART 3.  Treatability 
+study reports should be prepared to provide prospective Contractors with sufficient 
+information to prepare a responsive bid, or proposal, for the contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatability study report, appended to the technical specifications (Appendix [_____]), is for information 
+purposes only.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Bench-Scale Test</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Landfarming Work Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Treatment Completion Records</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Soil and Amendment Test Report</SUB></ITM><BRK/>
+<ITM><SUB>Bench-Scale Test Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration Report</SUB></ITM><BRK/>
+<ITM><SUB>Operations Reports</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Synthetic or Manufactured Additives</SUB></ITM><BRK/>
+<ITM><SUB>Landfarming Work Plan</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALIFICATIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For sites with unusual, or difficult to treat, contaminants of concern, 
+the designer should consider including a requirement that the Contractor have 
+completed a field demonstration or full-scale project where the same type of 
+contaminants were successfully treated.  However, including such a requirement 
+may limit the number of qualified bidders, and drive up the price of the contract.<BRK/>
+<BRK/>
+This paragraph should be omitted if the Contractor has been pre-selected.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Have successfully completed at least [1] [_____] landfarming project that required processing of a volume of 
+contaminated soil comparable to the estimated volume that will require treatment during this project.  Also have 
+successfully completed at least [1] [_____] full-scale project, that required handling and transport of soil 
+contaminated with a [RCRA hazardous constituent, or CERCLA hazardous substance] [_____].  For each project, the 
+following must be provided:  site name, location, the names of the Contractor's key personnel; key points of 
+contact and phone numbers (including government representatives, and other parties involved in the project); 
+dates of mobilization/demobilization; contaminants of concern; and the volume of contaminated soil handled or 
+treated.  The following must also be provided, if available:  dates for initiating and completing treatment; 
+amount of time required to treat each lift of contaminated soil; volume of amendments added per unit volume of 
+contaminated soil; initial volume of soil, and final volume after treatment; concentrations of contaminants of 
+concern in soil (before treatment), during treatment period, and after treatment.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Permits and Certifications.  Obtain the permits, permit equivalents and certifications; and meet 
+the substantive regulatory requirements necessary for the installation, operation and closure of the 
+project.  For any of the above-listed items requiring a longer time frame, copies of applications, and 
+scheduled dates for receiving final approval, must be included.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Drawings.  Project drawings must include:  limits of planned excavations; layout of the facility; 
+dimensions of amendment storage areas, pre-processing areas, and treatment cell; details of treatment 
+cell liner and sumps; dimensions and volumes of stockpiles for contaminated soils, oversize materials, 
+and treated materials; locations, dimensions, and volume of collection sumps and any ancillary water 
+storage facilities; plan view and cross sections of perimeter berms and collection sumps; ancillary water 
+storage facilities; size of contact water conveyance devices and structures; piping and instrumentation 
+diagrams; and process flow diagrams.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROJECT/SITE CONDITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The pertinent site characterization data should be placed in the appendices 
+of the technical specifications or on the drawings, and referenced here.  If 
+the site contains a significant amount of debris, the available information 
+about its extent and characterization should also be provided.  Indicate the 
+detail to which site characterization has been performed and indicate where 
+data gaps exist.  The information should also include: construction limits, 
+property survey, access gates and haul roads available to the Contractor, locations 
+of utilities, water sources, area available for the field demonstration and 
+treatment cell, restricted areas adjacent to the project site, chemical data, 
+geotechnical data, sampling locations, and boring logs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The physical conditions indicated on the [drawings] [and] [specifications] are the result of site investigations.  
+The nature and extent of contamination are [summarized in Table 4] [shown in an appendix to the specifications] 
+[_____].  Perform an independent interpretation of the site characterization data.  Notify the Contracting Officer 
+within [48 hours] [_____] if discrepancies between the data provided and actual field conditions are discovered.</TXT><BRK/>
+<TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="5" ROWCOUNT="10">
+      <COL AUTOWIDTH="0" WIDTH="85.50"/>
+      <COL AUTOWIDTH="0" WIDTH="85.50"/>
+      <COL AUTOWIDTH="0" WIDTH="115.50"/>
+      <COL AUTOWIDTH="0" WIDTH="85.50"/>
+      <COL AUTOWIDTH="0" WIDTH="96.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="20.25">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 4 - NATURE AND EXTENT OF CONTAMINATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="12.75">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">CONTAMINATED MATERIALS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL>
+<DTA TYPE="STRING">CONTAMINATED ZONE (1)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">AREA (2)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">AVERAGE DEPTH (3)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">VOLUME (4)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">CONTAMINANTS OF CONCERN</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL>
+<DTA TYPE="STRING">Zone 1</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL>
+<DTA TYPE="STRING">Zone 2</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Zone 3</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL MERGEACROSS="4">
+<DTA TYPE="STRING">(1)  Contaminated zones are defined in [Drawings] [Appendix [_____]]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL MERGEACROSS="4">
+<DTA TYPE="STRING">(2)  Area in [square<MET> meters</MET><ENG> feet</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.00">
+         <CEL MERGEACROSS="4">
+<DTA TYPE="STRING">(3)  Depth in [<MET>meters</MET><ENG> feet</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.75">
+         <CEL MERGEACROSS="4">
+<DTA TYPE="STRING">(4)  Volume in [cubic<MET> meters</MET><ENG> yards</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/></TAB><BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>STANDARD PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Materials and equipment must be the standard products of a manufacturer regularly engaged in the manufacture 
+of such products and must essentially duplicate items that have been in satisfactory use for at least 2 years 
+prior to bid opening.  Equipment must be supported by a service organization that is, in the opinion of the Contracting 
+Officer, capable of providing service, materials and equipment in an expedient manner.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WATER SUPPLY</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  One important concern for irrigation water is to ensure that salts do 
+not accumulate to levels that inhibit biological activity.  Conductivity is 
+an indicator of salt content.  Conductivity may be reported in micro-siemen 
+per cm, or micro-mho per cm.  Total dissolved solids (TDS) testing may be substituted 
+for conductivity.</NPR><BRK/>
+<BRK/>
+<NPR>Possible water sources include:  a nearby pond, or other surface water body; 
+a hydrant, or other connection to a water distribution line; runoff from precipitation; 
+and contact water; see paragraph Storage Volume.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Water for irrigation must not contain oils, acids, salts, alkalis, organic matter, solids or other substances 
+at concentrations that could be detrimental to the successful treatment of the contaminated materials.  The acceptable 
+ranges, or levels, of the following parameters in the irrigation water must not exceed the criteria established 
+in Table 5.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="6">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 5 - IRRIGATION WATER CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">REUSE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">maximum conductivity</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] micro-mho per cm</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">minimum pH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] standard units</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">maximum pH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] standard units</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>AMENDMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use of amendments may not be necessary for treatment of some types of 
+soils.  Adding amendments such as manure at too high of a rate can change porosity 
+characteristics, and may prevent proper drainage and aeration.  Organic contaminants 
+will adsorb onto organic amendments (e.g., wood chips), and may become less 
+available to degrading microorganisms.  Adsorption of contaminants can make 
+it appear like the contaminants have been biodegraded.  An in-depth discussion 
+of adsorption and bio-transformation reactions can be found in the chapter titled, 
+"Microbe-Soil-Organic Contaminant Interactions", Haider, K., from the text, 
+Bioremediation of Contaminated Soils, Agronomy Monograph no. 37, American Society 
+of Agronomy, Crop Science Society of America, Soil Science Society of America, 1999.<BRK/>
+<BRK/>
+Factors driving selection of amendments include:  seasonal availability, proximity 
+of sources to the site, costs, storage and handling properties, moisture content, 
+odor potential, texture and porosity, carbon-to-nitrogen (C:N) ratio, previous 
+experience with using an amendment, and consistency in the quality of an amendment.<BRK/>
+<BRK/>
+Addition of manure is an inexpensive way to bolster microbial activity, provide 
+nutrients (nitrogen, phosphorous and micro-nutrients), and increase the field 
+capacity of sandy soils.  Relative to most other types of manure, chicken manure 
+has a high nitrogen content.  Fresh manure will contain higher levels of nitrogen 
+than dried.  Nutrients will leach more readily from fresh than from dried manure.  
+Swine manure is not recommended due to the potential for odor problems.  Because 
+of the diversity of the bacterial populations within their digestive systems, 
+manure from ruminant animals (e.g., cows) is generally considered to be good 
+source of microbial innoculum.  Bedding materials will often be intermixed with 
+manure.  These bedding materials may help increase porosity, depending on the 
+soil type.  Pope and Matthews previously recommended that manure  be applied 
+to each lift at a rate of about 3-4 percent by weight of soil (Bioremediation 
+Using the Land Treatment Concept, EPA/600/R-93/164).  Pope currently recommends 
+a 2-4 application rate.<BRK/>
+<BRK/>
+Arsenic-containing compounds are often fed to chicken, turkey and swine as growth 
+promoters.  Thus, there is potential for residual levels of As to be present 
+in these types of manure (see "Sources and Practices Contributing to Soil Contamination", 
+Knox, A. S., et al., from the text, Bioremediation of Contaminated Soils, Agronomy 
+Monograph no. 37, American Society of Agronomy, Crop Science Society of America, 
+Soil Science Society of America, 1999.</NPR><BRK/>
+<BRK/>
+<NPR>The C and N contents of candidate amendments can be estimated using literature 
+values, see Appendix A of the On-Farm Composting Handbook (Northeast Regional 
+Agricultural Engineering Service, 1992).  Laboratory testing, for moisture and 
+ash content, may also be used to estimate carbon content.  By subtracting the 
+ash content from the dry weight, the organic matter content can be determined.  
+The carbon content is usually estimated by dividing the organic matter content 
+by 1.8.<BRK/>
+<BRK/>
+Carbon in the form of aged wood, or other aged wood products is generally considered 
+to be unavailable.  Carbon in manure and other relatively soluble organic materials 
+is generally considered to be available.  Amendments with high C:N ratios, and 
+high levels of available carbon, will tend to exert a nitrogen demand.  Microorganisms 
+will consume nitrogen as they degrade the organic carbon in the amendment.  
+Use of amendments high in available carbon and with high C:N ratios should be 
+limited; as their use will increase the amount of fertilizer needed to replenish 
+nitrogen.</NPR><BRK/>
+<BRK/>
+<NPR>Wood chips, shredded wood or bark may be used to increase the porosity of soil; 
+however, depending on plans for end-use, large-diameter materials may have to 
+be separated from treated soil.  It becomes more difficult to maintain aerobic 
+conditions as the porosity decreases, and as the moisture content increases 
+(see paragraph Moisture Control, in PART 3).  Organic contaminants will often 
+adsorb and accumulate onto wood products present in the contaminated-soil matrix.<BRK/>
+<BRK/>
+Wood products derived from treated wood should not be used, as this may result 
+in secondary contamination of soil.  Treated wood may contain CCA (chromated 
+copper arsenate), PAHs (from creosote), pentachlorophenol, or other contaminants.  
+Types of wood which contain naturally occurring compounds that inhibit microbial 
+activity (e.g., cedar) should be avoided.  Freshly processed wood products can 
+also release other organic compounds (e.g., organic acids) that can be detrimental 
+to the treatment process.  Wood products should be aged under moist conditions 
+for several months prior to use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Amendments must be free of chemicals, such as wood preservatives, which could result in secondary contamination 
+of soil.  The concentration of glass, plastic, and other foreign materials in each shipment of amendment must 
+not exceed [5] [_____] percent, by dry weight.  Asbestos containing materials must not be used as amendments.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>SYNTHETIC OR MANUFACTURED ADDITIVES</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Commercial fertilizers are an example of a synthetic or manufactured additive.  A certificate of analysis must 
+accompany each shipping unit of synthetic or manufactured additive supplied by the vendor.  Additives must be 
+shipped in properly labeled containers with instructions for handling and storage.  The instructions must be 
+strictly adhered to.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SOIL AND AMENDMENT TESTING AND BENCH-SCALE TESTING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Bench-scale tests should be performed to confirm that the landfarming 
+process is capable of meeting treatment criteria for the specific contaminants 
+and soil matrix.  For contaminants that are known to be amenable to landfarming 
+in a soil matrix similar to that of the project site, bench scale testing may 
+not be necessary.  The following reference should be used to prepare the plan 
+for Bench-Scale Testing:  EPA 540/R-93-519a, Guidance for Conducting Treatability 
+Studies Under CERCLA, Biodegradation Remedy Selection, 1993.<BRK/>
+<BRK/>
+These paragraphs, and the corresponding submittal descriptions, should be deleted 
+if amendment testing and bench-scale testing were performed prior to awarding 
+this contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL><SUB>Soil And Amendment Test Report</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If a proven type of amendment will be used, testing may not be necessary.  
+However, if a type of amendment has been proposed for which there is no previous 
+experience, the following tests should be considered:  bulk density, moisture 
+content, field capacity (or water holding capacity), conductivity, pH, organic 
+matter content (or volatile solids), ash content, and total Kjeldahl nitrogen 
+(TKN).  The field capacity of coarse, sandy soils may be improved by adding 
+an amendment with a high field capacity.  Conductivity is an indicator of salt 
+content.  High salt levels can be detrimental to microbial activity.  Organic 
+matter content, ash content, and TKN can be used to determine C:N ratios (see 
+note under paragraph Amendments, in PART 2).<BRK/>
+<BRK/>
+Contaminants may be present in an amendment that could affect plans for disposal 
+of treated soil.  Testing should be performed if it is suspected that use of 
+an amendment could result in secondary contamination of soil.<BRK/>
+<BRK/>
+Prior to initiating the bench-scale study, the soil to be used in the study 
+should be tested to confirm that the levels of contaminants are within the desired 
+range.  If test results indicate that the soil is not representative, or contaminant 
+levels are outside of the desired range, then more soil may need to be collected.  
+The bench-scale study should not be initiated until it can be ascertained that 
+the soil that has been collected meets the desired criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to the bench-scale test, collect and test samples of amendments for:  [moisture content, pH, and conductivity] 
+[_____].  For each type of amendment, [2 composite samples] [_____]  must be tested.  Contaminated soil for the 
+bench-scale test must be obtained from the following locations:  [_____].  After soil has been collected for 
+the bench-scale test, the soil must be homogenized and tested to determine if the soil is representative of the 
+contaminated zone, and if the levels of contaminants are within the desired range.  The soil must contain the 
+following minimum levels of contaminants:  [_____].  A minimum of [2 composite samples] [_____] must be tested.  
+Also a physical description of each soil sample, prepared by a geologist, must to provided to demonstrate that 
+soil-type is representative of the contaminated zone.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Bench-Scale Test</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  To reduce the chances of using soil samples that are not representative 
+of site conditions, a minimum volume of<MET> 4 liters</MET><ENG> 1 gallon</ENG> is recommended for 
+each condition to be tested at the bench scale.  Use of large particle-size 
+amendments (e.g., bark chips) makes it all-the-more important to require  relatively 
+large soil samples for bench-scale testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit the proposed test conditions to be included in the bench-scale testing.  At least [two, replicate] [_____] 
+tests must be performed simultaneously for each selected test condition.  Prior to initiating testing, the soil 
+must be homogenized and divided into replicate volumes.  The volume of contaminated soil included in each soil 
+pan must be not less than [<MET>[4] [_____] liters</MET><ENG> [1] [_____] gallons</ENG>] [_____].  Bench-scale testing must be performed 
+for a period of not less than [60 days] [_____] or until target levels are reached, whichever is shorter.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Bench-Scale Test Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>After completion of testing, compile the data, submit the Bench-Scale Test Report and propose the conditions 
+to be tested in the field demonstration, and include the proposal for the in the Bench-Scale Test Report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MOBILIZATION</TTL><BRK/>
+<BRK/>
+<TXT>Do not mobilize to the site until written approval is received from the Contracting Officer.  Delays caused by 
+the Contractor's failure to acquire permits, meet other regulatory requirements, or fulfill other contract requirements 
+must result in no additional costs.  Equipment which may have previously come into contact with contaminated 
+material must be decontaminated before being brought to the site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EMISSIONS AND DUST CONTROL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  See EP 1110-1-21, Air Pathway Analysis for the Design of Hazardous, Toxic 
+and Radioactive Waste (HTRW) Remedial Action Projects, to determine the need 
+for perimeter air monitoring and air emission control requirements.  If necessary, 
+perimeter air action levels, and meteorological monitoring and air emission 
+control requirements, should be included in this Section.  If perimeter air 
+monitoring, and emission control requirements are not necessary, this paragraph 
+should be deleted.</NPR><BRK/>
+<BRK/>
+<NPR>It may be necessary to implement control measures during the following activities:  
+the field demonstration, excavation, hauling, stockpiling, separation of oversize 
+materials, spreading of amendments, tilling, and disposal of treated soil.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following measures must be implemented to control emissions, and dust:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>FIELD DEMONSTRATION</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Field demonstrations should be performed to confirm that the landfarming 
+process is capable of meeting treatment criteria in a reasonable time frame.<BRK/>
+<BRK/>
+The field demonstration requirements are a function of the uncertainty of the 
+materials to be treated.  For well defined wastes, known to be amenable to landfarming, 
+optimization testing may be adequate.  Optimization testing would typically 
+be performed using full-scale equipment and facilities.  If the amenability 
+of the contaminated material to landfarming, has not been established, the field 
+demonstration should be preceded by bench-scale testing.  If the process has 
+yet to be demonstrated on a large scale for the specific soil type and contaminants 
+of concern, it may be advantageous to perform the field demonstration prior 
+to construction of full-scale facilities.</NPR><BRK/>
+<BRK/>
+<NPR>The treatment conditions and amendments used in the field demonstration should 
+be based on the results of the bench-scale test.  To prevent scale-up problems 
+between the field demonstration and full-scale operations, the area of each 
+treatment cell used for the field demonstration should be at least 5 percent 
+of the area planned for each full-scale treatment cell.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to full scale landfarming operations, a field demonstration must be performed.  If the materials treated 
+during the field demonstration do not meet the treatment criteria, an equal quantity of the same type of material 
+that failed must be processed, using modified operating conditions, until satisfactory results are obtained.  
+Any treated materials that failed the field demonstration must be kept segregated and returned to the contaminated 
+materials stockpile area for processing during full-scale remediation.  The area of each demonstration treatment 
+cell must be a minimum of<MET> [9] [_____] square meters</MET><ENG> [100] [_____] square feet</ENG>.  Separate treatment cells spaced 
+to prevent intermingling of contaminated material, must be provided for each condition being tested.  Conditions 
+to be tested must include:  [_____].  The field demonstration must be conducted using the same lift-depth, and 
+similar irrigation and tilling methods as proposed for the full scale operations.  The field demonstration must 
+not be initiated until written approval has been received from the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Sampling Locations</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Chemical testing should be performed to verify that the materials to 
+be used for the field demonstration contain the contaminants of concern at high 
+enough concentrations to adequately test the process.  Additional testing may 
+be warranted to verify that the physical properties of the materials are representative 
+of site conditions.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated soil for the field demonstration must be obtained from the following locations:  [_____].  Prior 
+to performing the field demonstration, [3 composite samples] [_____] of the material to be used for the field 
+demonstration must be tested to determine if the soil is representative of the contaminated zone, and if the 
+levels of contaminants are within the desired range.  The soil must contain the following minimum levels of contaminants:  
+[_____].  Also a physical description of each soil sample, prepared by a geologist, must to provided to demonstrate 
+that soil-type is representative of the contaminated zone.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Monitoring</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Because a more intensive level of monitoring is usually required during 
+the field demonstration than during full-scale operations, a separate set of 
+Operation, Maintenance and Process Monitoring requirements may need to be prepared.  
+The following differences in monitoring requirements are typical for the field 
+demonstration versus full-scale operations:  sampling stations may be spaced 
+more densely; temperature, moisture, and respiration testing may be performed 
+more frequently; and sampling and analysis for contaminants of concern may be 
+performed on a more frequent, and more regular basis.  A sufficient number of 
+samples should be tested to assess the heterogeneity of contaminant concentrations.  
+The field demonstration may also provide an opportunity to develop a site-specific 
+correlation between field, and laboratory analysis methods.<BRK/>
+<BRK/>
+A sufficient amount of time should be scheduled for the field demonstration 
+to determine the amount of time it will take to reach cleanup goals during full-scale 
+operations.  Degradation rates typically decrease as contaminant levels decrease; 
+e.g., it may take 3 times as long to go from 25 to 10 mg/kg as it takes to from 
+100 to 25 mg/kg.  Thus, trends in contaminant levels should not be extrapolated 
+in an attempt to predict how long it will take to reach cleanup goals.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>During the field demonstration, sampling and analysis must be performed as indicated under paragraph OPERATION, 
+MAINTENANCE AND PROCESS MONITORING, in PART 3; in addition to these requirements, the following processing monitoring 
+requirements must be implemented:  [_____].  The treatment period of the field demonstration must not exceed 
+[180] [_____] days, without written approval from the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Field Demonstration Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>After completion of field demonstration, compile the data and submit the Field Demonstration Report.  Proposed 
+changes in full-scale operations plans must be included in the Field Demonstration Report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SOIL PRE-PROCESSING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Soil pre-processing may include stockpiling, screening, and blending 
+of soil and amendments.  The maximum recommended particle diameter for soil 
+mixing / tilling equipment can range from 25 to 100 mm.  Although it is possible 
+to include relatively large particles in the soil matrix during landfarming, 
+an additional screening step may also be necessary to remove the large particles 
+prior to disposal.  The end use for the treated soil often  governs the maximum 
+allowable particle diameter.  More stringent requirements will apply if treated 
+soil will be allowed to be incorporated into top soil.  For surficial landscaping 
+purposes, the concentration of glass, plastic, and other foreign materials should 
+not exceed 5 percent, by dry weight.  This paragraph should be coordinated with 
+paragraph, Amendments, in PART 2.<BRK/>
+<BRK/>
+Relatively impermeable oversize materials (e.g., rocks) are usually treated 
+by rinsing or pressure washing.  For further discussion see paragraph, Particle 
+Size Criteria for Treated Soil.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The maximum particle size in the contaminated soil matrix must be [compatible with approved material handling 
+and tilling equipment, and not greater than 80 mm] [_____].  Oversize materials must be separated from contaminated 
+soil prior to mixing soil with amendments.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>OPERATION, MAINTENANCE AND PROCESS MONITORING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Operation and monitoring requirements should be based on:  applicable 
+literature references; knowledge gained from bench-scale studies and the field 
+demonstration; and historical data from projects with similar soils, and contaminants.  
+Aeration of soil (via tilling) and maintaining proper moisture content are fundamental 
+to successful landfarming.  Because there will always be exceptions, where the 
+default values provided in these paragraphs do not suit a specific project, 
+the following paragraphs should be edited appropriately.  These paragraphs should 
+be coordinated with Division 1 Sections of the contract; operations, maintenance, 
+and process monitoring requirements are covered in a Division 01 Section of 
+some contracts.</NPR><BRK/>
+<BRK/>
+<NPR>Some requirements for sampling and analysis are included below.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Full-scale operations must not be initiated until the Landfarming Work Plan has been approved, and written approval 
+has been received from the Contracting Officer.  Operation of the landfarm must proceed continuously, through 
+the term of the contract, except as described below.  When soil temperatures fall below [5 degrees C, and written 
+approval has been received from the Contracting Officer,]  [_____] operation of the landfarm may be suspended 
+for the season.  Operation of the landfarm must resume when soil temperatures remain above [5 degrees C, and 
+written approval has been received from the Contracting Officer] [_____].  See paragraph, Temperature Monitoring, 
+below.  <SUB>Operations Reports</SUB> must be submitted as specified.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Containment Inspection</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Routine operation of heavy equipment within lined landfarm facilities 
+can result in damage to the geomembrane liner.  Periodically, the granular drainage 
+layer and geomembrane liner should be inspected.<BRK/>
+<BRK/>
+Containment inspection may not be necessary where the mode of operation involves 
+successively placing new lifts of contaminated soil on top of treated lifts 
+of soil.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Each time soil within the treatment cell has been removed down to within<MET> [30.5] [_____] cm</MET><ENG> [12] [_____] inches</ENG>
+ of the granular layer, the geomembrane liner must be inspected for damage or penetrations.  If the geomembrane 
+liner is damaged or appears to have been penetrated, the granular material must be removed in that vicinity so 
+that the geomembrane liner may be inspected for damage.  Any damage to the geomembrane liner must be repaired 
+in accordance with Section <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE.  The depth of the granular layer must be restored 
+to the originally approved depth.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Tilling and Aeration</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Tilling too soon after heavy precipitation or irrigation may lead to 
+the formation of hard clods; especially, for soils with high clay content.  
+Light irrigation prior to tilling will help keep dust down.<BRK/>
+<BRK/>
+The direction of tilling should be alternated to facilitate thorough mixing 
+and uniform treatment of the contaminated material.  Thorough tilling will result 
+in more homogenous soil, and should reduce the variability of chemical data.<BRK/>
+<BRK/>
+The goal of tilling is to mix and aerate the soil while minimizing compaction.  
+Tilling too frequently can compromise soil structure (i.e., reduce pore volume, 
+and lead to compaction).  Although conventional agricultural plowing methods 
+(e.g., using a disk harrow or chisel plows) can result in some degree of mixing 
+and aeration, they are usually much less effective than rotary tilling equipment.  
+Periodic deep tilling (to a depth of about<MET> 500 mm</MET><ENG>1.6 ft</ENG>) using subsoil tillers 
+can be used to provide a limited degree aeration at depth, and may hasten treatment 
+of soil below the depth limit of a rotary tiller.<BRK/>
+<BRK/>
+Although most categories of organic contaminants biodegrade most readily under 
+aerobic conditions, there are some types of contaminants that are more amenable 
+to biodegradation under anaerobic conditions.  There are also some contaminants 
+that are most readily biodegraded under alternating conditions (e.g., anaerobic 
+followed by aerobic conditions).  It may be necessary to modify tilling requirements 
+to accommodate these types of alternative treatment strategies.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Tilling must be accomplished using a [rotary tiller, with tines attached to a rotating shaft] [_____].  The direction 
+of tilling must be alternated between lengthwise, crosswise, and diagonal.  Tilling must not be conducted within 
+[24] [_____] hours of a rainfall or irrigation event which saturates the soils.  A light irrigation event, prior 
+to tilling, may be used as a dust control measure.  The soil in the treatment cell must be tilled at least once 
+every [14] [_____] days, unless monitoring indicates that soil gas oxygen levels are greater than [2 percent] 
+[_____], by volume.  Additional tilling may be required in response to process monitoring; for example, to provide 
+additional aeration.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The water content at saturation will vary with soil type, and depending 
+on whether amendments were added.  Determination of water content as a percent 
+of field capacity (or water holding capacity) provides a more universal indicator 
+of the degree of saturation.  Field capacity is determined by saturating a sample, 
+allowing the free water to drain, and then determining the moisture content; 
+field capacity is the mass of water in the sample divided by the dry weight.  
+According to Bioremediation Using the Land Treatment Concept, EPA/600/R-93/164, 
+field capacity can range from 5 percent (for a sandy soil) to 30 percent (for 
+a clay soil).  The recommended moisture content for landfarming is between 40 
+and 80 percent of the moisture content at field capacity.  For example, if the 
+field capacity of a soil is determined to be 20 percent, then optimum moisture 
+content would be between 8 and 16 percent.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Field Capacity</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following methods may be used as approximate measures of field capacity:  
+ASTM D425 or ASTM D6836.<BRK/>
+<BRK/>
+When using porous-plate or pressure-membrane apparatus, the pressure that should 
+be applied depends on the soil-specific factors such as organic matter content, 
+soil structure, compaction, and percent sand, silt, and clay.  As a general 
+guideline, Methods of Soil Analysis recommends the following pressures for the 
+following soil types: <MET> 5-10 kPa</MET><ENG> 0.7-1.4 psi</ENG> for coarse-textured,<MET> 33 kPa</MET><ENG> 4.8 
+psi</ENG> for medium-textured, and<MET> 50 kPa</MET><ENG> 7.3 psi</ENG> for fine-textured.  If the centrifuge 
+method is used, the centrifuge speed should be adjusted to accommodate differences 
+in soil types (this is analogous to the above guideline for pressure versus 
+soil type).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to treating each lift of contaminated material, a minimum of [4] [_____] representative composite samples 
+must be tested to determine  field capacity (or water holding capacity).  Testing soil for field capacity must 
+be performed in accordance with [<RID>ASTM D6836</RID>][_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Content</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Visual/manual methods for estimating moisture content should be used 
+in conjunction with laboratory and field testing.  Moisture content should be 
+monitored more frequently than other process parameters.  The frequency of monitoring 
+usually depends on the climate and soil type; more frequent monitoring is required 
+in arid climates and for high permeability soils.<BRK/>
+<BRK/>
+ASTM D2974 and ASTM D2216 are equivalent, gravimetric laboratory methods for 
+moisture content testing.<BRK/>
+<BRK/>
+Many moisture monitoring devices used in agricultural applications are not suitable 
+for landfarming because they must be positioned in one location and left undisturbed.  
+Because landfarming involves frequent tilling, moisture monitoring devices that 
+can be inserted into the soil to take immediate readings are preferred.<BRK/>
+<BRK/>
+Several types of electronic moisture sensing devices that provide real-time 
+readings are available.  Electrical conductivity moisture sensors are inexpensive 
+but not highly accurate, compared to some of the more sophisticated instruments 
+available.  Neutron probes and time domain reflectometry (TDR) moisture sensors 
+offer a higher degree of accuracy, but at a substantially higher capitol cost.  
+However, neutron probes are not particularly well suited to landfarming because 
+they are not accurate for measurements less than<MET> 180 mm</MET><ENG> 7 inches</ENG> from the surface.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The moisture content must be quantitatively tested using a field method (for example, electronic field instrument) 
+at least every [Mon, Wed and Fri] [_____] for the first [6] [_____] weeks, and every [Mon and Thur] [_____] thereafter.  
+The field method may involve the use of an instrument that correlates moisture content to electrical conductivity.  
+Samples must be collected for laboratory analysis, and tested in accordance with <RID>ASTM D2974</RID> to determine moisture 
+content, according to the following schedule:  [a minimum of 2 samples per week, for the first 4 weeks; and a 
+minimum of 2 samples, once every 8 weeks thereafter] [_____].  These samples must be collected immediately after 
+testing using the field method, and from the same location as the samples tested using the field method.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Irrigation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Factors influencing irrigation water requirements include the field capacity 
+of the soil, water holding properties of amendments (if used), and the climate.  
+A tank truck or a water storage tank may be necessary if a local water source 
+is not available; see paragraph Storage Volume, in PART 1.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>When testing indicates that the soil moisture content is below [40] [_____] percent of the field capacity, the 
+treatment cell must be irrigated.  The rate of application must not exceed<MET> [13] [_____] mm</MET><ENG> [1/2] [_____] inches</ENG>
+ per hour.  Sufficient irrigation must be provided to bring the moisture content to within the acceptable limits 
+within [24] [_____] hours.  Irrigation must be immediately ceased if ponded water is observed in the treatment 
+cell, or if irrigation water is observed running off the treatment cell.  A water meter must be used to measure 
+the application rate.  The application rate, duration of the irrigation period, and volume of water applied must 
+be recorded.  The quantity of water from each precipitation event must also be measured and recorded each weekday.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contact Water Testing</TTL><BRK/>
+<BRK/>
+<TXT>Contact water, to be reused as irrigation water, must be tested for pH and conductivity on the [first,] [second,] 
+[_____] and [fourth] [_____] week after initiating treatment of each lift of soil.  If there is more than<MET> [13] 
+[_____] mm</MET><ENG> [1/2] [_____] inches</ENG> of precipitation in a 24 hour period, the pH and conductivity of the contact 
+water must be tested after water from the precipitation event has collected in the contact water storage facility.  
+Each time testing is performed, either one representative sample must be withdrawn from the contact water holding 
+vessel, or the water in the holding vessel must be directly tested by immersing the instrument probe in the water.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Nitrogen and Phosphorus Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Commercial fertilizers are often used as a source of nitrogen (N) for 
+landfarming operations. In commercial fertilizer specifications, N is the first 
+of the three components listed (i.e., 33:3:3 refers to N:P:K).  The N and P 
+(phosphorous) content is usually expressed as weight percent of N and phosphorus 
+pentoxide equivalents (P2O5) in the fertilizer.  To determine the percent of 
+P, by weight, the number corresponding to P should be divided by 2.3.  The potassium 
+content, expressed as K2O, in commercial fertilizers is much more significant 
+for plants than it is for microbial nutrition.  Slow release fertilizers require 
+less frequent application and supply nutrients at a more constant level.  Examples 
+of slow-release, nitrogen fertilizers include: sulfur-coated urea, urea formaldehyde, 
+as well as some organic products (e.g., fish meal, blood meal, etc.).  Agricultural 
+spreaders are commonly used to distribute fertilizer across the treatment cell, 
+or it may be dissolved into irrigation water and applied to the cell by the 
+irrigation system.<BRK/>
+<BRK/>
+When measuring nutrients in soils it is important to distinguish between available 
+and total concentrations of N and P.  Readily available nutrients are in a form 
+that can be rapidly assimilated by microorganisms.  Total nitrogen is usually 
+determined by adding the level of total Kjeldahl nitrogen (TKN) to that of nitrate 
+nitrogen.  TKN includes ammonia nitrogen and nitrogen bound to organics.  Nitrate 
+and ammonia (inorganic N) represent the most readily available forms of nitrogen.<BRK/>
+<BRK/>
+There are several different methods for determining available phosphorous in 
+soil.  Agricultural labs often use the Bray P-1 method (also known as Phosphorous 
+Soluble in Dilute Acid-Fluoride).  For highly calcareous soils (greater than 
+4 percent calcium carbonate), the Olsen P method (also known as Phosphorous 
+Soluble in Sodium Bicarbonate) is recommended.  For additional information on 
+test methods see, Methods of Soil Analysis, Part 2 Chemical and Microbiological 
+Properties, American Society of Agronomy and Soil Science Society of America, 1982.<BRK/>
+<BRK/>
+A wide range of optimal carbon-to-nitrogen (C:N) and carbon to phosphorous (C:P) 
+ratios for landfarming have been reported in the literature.  A C:N:P ratio 
+range of 100:10:1 to 300:10:1 was recommended (Pope &amp; Matthews, EPA/600/R-93/164).  
+C:N ratios between 25:1 and 38:1 have also been recommended (Huddleston, R.L., 
+et al., Land treatment biological degradation processes.  p. 41-61. In R.C. 
+Lowhr and J.F. Malina, Jr. (editors) Land treatment: A hazardous waste management 
+alternative. Water Resour. Symposium 13th. Center for Research in Water Resour., 
+Univ. of Texas, Austin, 1986.)<BRK/>
+<BRK/>
+Insufficient nitrogen levels may lead to sub-optimal degradation rates.  However, 
+excessive levels of nitrate and ammonia can also reduce hydrocarbon degradation 
+rates (see Huesemann, "Guidelines for Land-Treating Petroleum Hydrocarbon-Contaminated 
+Soils", Journal of Soil Contamination, 3(3):299-318, 1994).  Also organic nitrogen 
+is often present in soil before fertilizer has been added, and recycling of 
+nitrogen will occur as microorganisms die-off.  According to Huesmann, one-time 
+additions of inorganic N should be limited, and inorganic N levels should be 
+maintained above a threshold level of about 50 mg/kg.  Treatment of soil with 
+high levels of organic contaminants usually requires repeated applications of N.<BRK/>
+<BRK/>
+If the Contractor can demonstrate that increasing one-time applications of N 
+to a value higher than that prescribed below does not adversely affect contaminant 
+degradation rates, then the Contractor should present such data to obtain approval 
+to increase one-time N application rates.  However the data should be from the 
+same site, using the same soil type, the same type of N amendment, and treating 
+the same contaminants.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Within the [first 2 weeks] [_____] of initiating treatment of each new lift of contaminated soil in the treatment 
+cell, the levels of nitrogen and phosphorous must be tested.  Subsequent nitrogen and phosphorous testing must 
+be performed once every [90 days] [_____].  Nutrient testing and application of nutrients may be performed as 
+a pre-treatment step, prior to placement of the soil in the treatment cell.  A minimum of one representative, 
+composite sample per each<MET> 1000 cubic meters</MET><ENG> 1308 cubic yards</ENG> must be tested.  Nitrogen analysis must include 
+testing for the following parameters: [nitrate, ammonia, and total Kjeldahl nitrogen] [_____].  Phosphorous analysis 
+must be performed by testing for [phosphorous soluble in dilute acid - fluoride] [_____].  When the sum of the 
+nitrate and ammonia levels fall below [50] [_____] mg/kg as N, fertilizer must be applied to restore nitrogen 
+levels.  One time applications of nitrate and ammonia must not exceed<MET> 0.18 kg</MET><ENG> 0.31 lbs</ENG> of N per<MET> cubic meter</MET><ENG> cubic 
+yard</ENG>.  When the levels of phosphorous fall below [5] [_____] mg/kg as P, phosphorous-containing fertilizer must 
+be applied.  Each time fertilizer is applied, the product name, quantity, and N:P:K content must be recorded.  
+Take necessary precautions to prevent the release of chemicals, such as nitrate, to the vadose zone and groundwater.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Temperature Monitoring</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Control of temperature is usually not practical for large-scale treatment 
+cells.  The treatment cell can be covered by a layer of mulch to help insulate 
+the soil.  However the mulch layer may reduce the rate of oxygen diffusion from 
+the atmosphere to the soil, and will have to be removed prior to tilling.  In 
+cold climates, activity at large-scale landfarming operations is usually seasonal.<BRK/>
+<BRK/>
+For small-scale projects, it may be possible to perform landfarming inside of 
+a heated building or other type of covered structure during the winter.  Structures 
+similar to temporary greenhouses have been used to extend the "landfarming season" 
+during cold periods.  More than 3 temperature monitoring locations should be 
+required if a cover structure is being used to determine if adequate temperatures 
+are being maintained throughout the treatment cell.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The temperature of the soil in the treatment cell must be measured [once every 4 weeks at the following times:  
+800 hours, 1200 hours, and 1600 hours] [_____].  The temperature must be monitored at a minimum of [3] [_____] 
+locations, in the treatment cell.  Monitoring must be performed at the same locations during each event, and 
+at a depth of at least<MET> 76 mm</MET><ENG> 3 inches</ENG> below the surface of the soil.  The temperature, time, depth and location 
+of each temperature reading must be recorded during each monitoring event.  Ambient air temperatures at the time 
+of monitoring must also be recorded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Soil pH</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The optimum pH range for biodegradation of most types of contaminants 
+is between 6.0 and 8.5 standard units.  However, where acclimated populations 
+of microbes are present, degradation may proceed at an adequate rate when the 
+pH is as low as 5.0.  The pH can influence the availability of N, P, micronutrients, 
+metals and some types of organic contaminants (see Sims, et al., Prepared Bed 
+Bioreactors, in Bioremediation of Contaminated Soils, Agronomy Monograph no. 
+37, American Society of Agronomy, Crop Science Society of America, Soil Science 
+Society of America, 1999).<BRK/>
+<BRK/>
+Biological degradation of organic constituents may result in a reduction of 
+the pH of soils.  Strong caustics should not be used to adjust the pH of the 
+soil because they can cause large, rapid changes in soil pH, which may inhibit 
+biological activity.  Crushed limestone or lime are commonly used to increase 
+the pH.  Agricultural lime is available in several particle-size grades.  Finely 
+graded material acts faster than coarsely graded product.<BRK/>
+<BRK/>
+Some soils are naturally alkaline and may require downward pH adjustment.  Sulfur-based 
+amendments (e.g., elemental sulfur) may be used to decrease the pH of the soil.<BRK/>
+<BRK/>
+The goal of pH adjustment should be to adjust the pH in small increments.  If 
+it appears that pH adjustment may be necessary, samples should be sent to a 
+local soils laboratory (after ascertaining that the laboratory can accept soil 
+from a hazardous waste site).  Agricultural extension services (e.g., USDA, 
+Natural Resources Conservation Service) possess knowledge of local soil characteristics<BRK/>
+any may be able to identify site-specific factors that can influence pH, nutrient 
+availability and other considerations.<BRK/>
+<BRK/>
+Test results should be used to calculate how much pH adjustment agent should 
+be added (e.g., lime requirement test, or excess lime test).  Amendments used 
+to adjust the pH should be added in conservative, calculated doses.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>At a minimum, the pH of soil in the treatment cell mut=st be tested [each Monday of the first, second, fourth, 
+and eighth week after initiating treatment of each new lift of contaminated soil, and every 6 weeks thereafter] 
+[_____].  A minimum of one representative, composite sample per each<MET> 1000 cubic meters</MET><ENG> 1308 cubic yards</ENG> must 
+be tested.  The first [3] [_____] times pH testing is performed, a minimum of [2] [_____] samples must be tested 
+in accordance with <RID>ASTM D4972</RID> to determine the pH, and to verify the field method.  After the field method has 
+been verified, all subsequent testing may be performed in the field.  If the soil pH is greater than 8.5, or 
+less than 6.0, soil samples must be sent to a local soil testing laboratory (such as an agricultural extension 
+laboratory) to determine how much pH adjustment product should be added.  Prior to sending any samples, the local 
+soil testing laboratory must be notified regarding the contaminants that are present in the soil, and to determine 
+if they can accept such samples.  Samples must be tested for [Lime Requirement or Excess Lime] [_____].  The 
+first time the pH is adjusted, not more than [one fifth] [_____] of the area of the treatment cell must be adjusted.  
+Additional pH adjustment must not be performed until after pH adjustment has been demonstrated to result in increased 
+rates of contaminant degradation, and written approval has been received from the Contracting Officer.  Laboratory 
+or field demonstration data may be used to demonstrate that pH adjustment results in increased rates of contaminant 
+degradation.  After approval for pH adjustment has been obtained, the pH of stockpiled soil may be adjusted as 
+a pre-treatment step, prior to placement of the soil in the treatment cell.  Each time a pH adjustment product 
+is applied, the soil pH must be tested before and after adding the pH adjustment product.  Also the product name, 
+quantity, and supplier of the pH adjustment product used must be recorded after each application.  Aqueous caustics, 
+such as sodium hydroxide, must not be used as pH adjusting agents.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Odor Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  To help control odor problems, storage of manure on-site should be avoided.  
+If it is being used as an amendment, manure should be incorporated into soil 
+as soon as possible after delivery to the site.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>If objectionable odors are observed, the following must be recorded in the Operations Report:  locations where 
+the odors are the strongest; description of the odors; the times and dates when the odors were detected; and 
+the name of individual who observed, and recorded the odor.  If, in the opinion of the Contracting Officer, there 
+is a persistent problem with objectionable odors that has not been addressed, the Contractor will be notified 
+to implement measures to reduce odor levels.  Odor control measures must be implemented not more than [24] [_____] 
+hours after notification from the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Microbial Activity</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Several categories of tests are available for assessing microbial activity; 
+however, these tests are almost never direct indicators of the rate of biodegradation 
+of the contaminants of concern.  If chemical data indicates that the levels 
+of contaminants of concern are steadily decreasing, then there may not be any 
+need to test for microbial activity.  In addition to plate counts and respiration 
+testing (as discussed in the following paragraphs), there are a host of other 
+tests that can be used as indicators of microbial activity.<BRK/>
+<BRK/>
+Nucleic acid probes can be used to determine whether a gene coding for an enzyme 
+capable of degrading a specific contaminant of concern is present in soil, or 
+to determine whether a specific strain of microorganisms are present.  Use of 
+nucleic acid probes requires that the gene that codes for the specific enzyme 
+be known, or that the nucleic acid sequence of the specific microorganism be 
+known.  It is important to note that nucleic acid probes usually measure the 
+potential for expression of a gene.  Only messenger RNA (mRNA) probes measure 
+the actual activity of a gene.  For additional information on microbial activity 
+assays see, Methods of Soil Analysis, Part 2 Microbiological and Biochemical 
+Properties, Soil Science Society of America, 1994.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Enumeration of Soil Bacteria</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It is not uncommon for topsoil to contain greater than 1 X 10 6 colony 
+forming units (CFU) of heterotrophic bacteria per gram of soil.  However, enumeration 
+methods that rely on non-selective media (e.g., counts of heterotrophic bacteria) 
+do not target the specific microorganisms responsible for degrading contaminants 
+of concern.  Furthermore, enumeration data is generally not well correlated 
+with microbial activity in soil.<BRK/>
+<BRK/>
+Plate counts performed using selective media can be used to enumerate microorganisms 
+capable of degrading specific contaminants of concern.  Selective culturing 
+procedures (i.e., enrichment culture methods) require use of defined growth 
+media.  For example, to select for pentachlorophenol (PCP) degrading microorganisms, 
+a defined media which includes PCP as the sole carbon source would be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Enumeration of soil bacteria will not be required, but may be used as a diagnostic, or trouble-shooting, tool.  
+Contaminant-specific selective culturing methods (e.g., pentachlorophenol-degrading bacteria), are recommended 
+over non-specific test methods (e.g., total heterotrophic bacteria).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Respiration Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Depleted oxygen and elevated carbon dioxide levels in soil gas are often 
+used as indicators of microbial respiration.  Soil gas testing may be performed 
+in the field, and can provide a real-time indicator of microbial activity.  
+However, respiration tests do not target the specific groups of microorganisms 
+responsible for degrading contaminants of concern.  Oxygen is usually considered 
+to be a better indicator than carbon dioxide because carbon dioxide can be released 
+(or consumed) via abiotic reactions.  Levels of respiration are dependent on 
+temperature and moisture.  Thus, respiration measurements should be accompanied 
+by temperature and moisture measurements.<BRK/>
+<BRK/>
+Oxygen levels will usually decrease gradually after each tilling event as aerobic 
+microorganisms consume oxygen.  Oxygen concentrations greater than about 2 percent, 
+by volume, are generally indicative of aerobic conditions.  The concentration 
+of oxygen in the atmosphere is approximately 21 percent, by volume.  For most 
+types of organic contaminants, rates of biodegradation will be highest under 
+aerobic conditions.<BRK/>
+<BRK/>
+The depth of insertion of the gas probe and the volume of sample withdrawn must 
+be synchronized to minimize the chances of drawing in air from the atmosphere.  
+For example, assuming an air-filled pore volume of 25 percent, a<MET> 4 mL</MET><ENG> 0.001 
+gal</ENG> air sample drawn from a depth of<MET> 100 mm</MET><ENG> 4 inch</ENG> would theoretically come 
+from a spherical zone with a diameter of about<MET> 78 mm</MET><ENG> 3 inch</ENG> (from a depth of<MET>
+ 61 to 139 mm</MET><ENG> 2.4 to 5.5 inches</ENG>)</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Soil gas monitoring must be performed at least once every [7] [_____] days for the first [6] [_____] weeks of 
+treatment, and every [2] [_____] weeks thereafter.  Soil gas monitoring must be performed at not less than [5] 
+[_____] randomly selected locations in the treatment cell.  Soil gas must be tested for levels of [oxygen and 
+carbon dioxide] [_____].  The soil gas meter must be sensitive to [oxygen and carbon dioxide] [_____] levels 
+of at least [0.1] [_____] percent, by volume.  The depth of insertion for the soil gas probe must be not less 
+than<MET> [200] [_____] mm</MET><ENG> [7.9] [_____] inches</ENG>, and the volume of air withdrawn for the sample must not be greater 
+than<MET> [10] [_____] mL</MET><ENG> [0.61] [_____] cubic inches</ENG>.  Field measurements of soil temperature and moisture must be 
+performed at the same time and location of each soil gas measurement.  When soil gas monitoring is performed 
+the following information must be recorded:  the monitoring location, soil temperature, soil moisture (by field 
+method), the elapsed time since the last tilling event, and the time of day when monitoring was performed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Sampling and Analysis for Contaminants of Concern</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Definitive field analysis methods (e.g., immunoassay or colorimetric 
+test kits) are usually much less expensive than laboratory analysis for contaminants 
+of concern.  However, a site-specific correlation between data from field and 
+laboratory analysis should be developed.  Pigmented materials present in extracts 
+from soil samples may cause interferences in colorimetric, definitive field 
+analysis.  Laboratory analysis should be required on a minimum percentage of 
+samples to verify data from definitive field analysis.</NPR><BRK/>
+<BRK/>
+<NPR>The goal of the sampling should be to collect samples that are chemically and 
+physically representative of the soil in the treatment cell.  The strategy for 
+sampling and analysis should be consistent with the regulatory requirements 
+for the data.  See the following reference for more information on sample collection 
+procedures and analytical protocols:  EM 200-1-3, Requirements for the Preparation 
+of Sampling and Analysis Plans.<BRK/>
+<BRK/>
+Sample designs that may be applied to treatment cells include: simple random, 
+ranked set, and systematic grid.  Systematic grid sampling is simple to apply, 
+and provides for relatively uniform coverage of the area of interest (i.e., 
+the treatment cell).  See the following reference for more information on sampling 
+designs: Guidance on Choosing a Sampling Design for Environmental Data Collection 
+(G-5S), EPA/240/R-02/005, Dec. 2002.  Visual Sampling Plan, a useful software 
+program that can be used to develop sampling designs, can be accessed at the 
+following internet site: http://dqo.pnl.gov/VSP/Index.htm<BRK/>
+<BRK/>
+The following paragraphs provide an example of sampling and analysis requirements, 
+using a systematic grid sampling approach, with randomly selected sample locations 
+within each grid (also known as unaligned grid).  This example also includes 
+a field analysis component for pre-compliance testing.  This is only an example 
+of sampling and analysis requirements.  Compliance testing requirements are 
+project specific, and usually based on negotiations with regulatory officials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Sampling and analysis must be in accordance with [_____].  Results from each sampling event must be furnished 
+to the Contracting Officer not more than [24] [_____] hours after data is recorded by the Contractor, or released 
+by the laboratory.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Pre-Compliance Sampling Design</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  In the sample design shown in these paragraphs, one of the purposes of 
+pre-compliance testing is to determine the variability of the data (i.e., standard 
+deviation).  The variability of the data is then used to determine the minimum 
+number of samples (i.e., maximum grid-size) that will be required for confirmatory 
+sampling via the One-Sample t-Test.  Typical, default assumptions include: that 
+the data is normally distributed, and that the clean-up goals have not been 
+met (assume site is dirty).  An example of using the One-Sample t-Test to determine 
+the minimum, required number of samples is shown on page 3-8 of the following 
+reference:  Guidance for Data Quality Assessment, EPA QA/G-9, EPA/600/R-96/084.  
+The same calculation can be performed using the Visual Sampling Plan software 
+program (see http://dqo.pnl.gov/VSP/Index.htm ).<BRK/>
+<BRK/>
+The grid size shown in this example was arbitrarily set at a maximum of 1000 
+square meters (i.e., 4 grids per acre).  Grid sizing is a function of the variability 
+of the data, and the statistical criteria that will be used to demonstrate attainment 
+of clean-up criteria.  As the grid size increases, the required number of grids 
+(and samples) decrease.  Larger grid sizes may be allowable for data that exhibits 
+low variability.  An estimate of data variability should be used to arrive at 
+the grid size (and number of samples) for pre-compliance sampling.<BRK/>
+<BRK/>
+Based on landfarming project experience at "wood treater" sites in EPA Region 
+8, about 10-12 samples per treatment cell are usually needed to meet the statistical 
+requirements to show that clean-up goals were met.  Thus, the default number 
+in this paragraph was set at a minimum of 8 samples.  It may be necessary to 
+perform additional sampling and analysis, if the One-Sample t-Test indicates 
+that too few samples were collected.<BRK/>
+<BRK/>
+The default specified by this paragraph is for composite sampling within each 
+grid.  Relative to discrete sampling, compositing provides a better measure 
+of the mean contaminant level at a given number of analyses.  Discrete sampling 
+is useful for assessing variability within the treatment cell.  A round of discrete 
+sampling is recommended during treatment of the first one or two lifts of soil 
+to assess the effectiveness of the Contractor's mixing (i.e., tilling) practices.  
+Discrete sampling would typically involve sampling from one randomly selected 
+location per grid.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>To determine pre-compliance sampling locations, the treatment cell must be divided into grids of equal area.  
+The treatment cell must divided into a minimum of [8] [_____] grids.  Each grid must be a maximum<MET> [1000] [_____] 
+square meters</MET><ENG> [10890] [_____] square feet</ENG>.  Samples must be collected from [4, randomly selected locations] [_____] 
+within each grid.  Samples from each grid must be [composited] [_____] prior to testing.  Each sample must include 
+material from the entire depth interval of the top lift of soil in the treatment cell.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sampling Frequency for Pre-Compliance Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Another purpose of pre-compliance testing is to determine whether contaminant 
+levels have decreased to the point where confirmation testing should be performed.  
+Performing pre-compliance testing using a field analysis method can result in 
+considerable cost savings by avoiding the expense of unnecessary (i.e., premature) 
+confirmation testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Approved field analysis methods may be used for pre-compliance testing.  Sampling must be performed at least 
+two times during treatment of each lift of soil in the treatment cell:  (1)  immediately after initiating treatment 
+of new lift of contaminated soil; and (2)  at the estimated time at which the cleanup levels will have been met 
+(based on the results of the field demonstration).  Intermediate sampling may be performed to determine if contaminant 
+degradation is occurring according to schedule expectations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pre-Compliance Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Low-cost, definitive field analysis methods are recommended for pre-compliance 
+testing (if they are available for the contaminants of concern).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Testing for the following analytes must be performed during pre-compliance testing:  [_____].  Testing must be 
+conducted using the [field analysis] [_____] method for pre-compliance testing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Confirmational Sampling Design</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Compositing samples from each grid is recommended in order to provide 
+a reliable determination of the mean concentration of contaminant levels in 
+the treatment cell while minimizing analytical costs.  However, compositing 
+will decrease the variability of the data.<BRK/>
+<BRK/>
+Determination of the minimum number of samples will be dependent on the data 
+variability.  Data from discrete samples will usually exhibit a greater degree 
+of variability than data from composite samples.  A data set produced from discrete 
+samples may result in more samples being required to demonstrate attainment 
+of treatment criteria, relative to a data set produced from composite samples.  
+Thus, the determination of the required, minimum number of confirmatory samples 
+will be influenced by whether data from discrete (or composite) samples was 
+used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>To determine confirmational sampling locations, the treatment cell must be divided into grids of equal area.  
+The treatment cell must divided into a minimum of [8] [_____] grids.  The required, minimum number of samples 
+must be [based on a statistical analysis of the data from pre-compliance testing, using the One-Sample t-Test 
+in accordance with <RID>EPA 600/R-96/084</RID> (see p. 3-8 of the reference for an example of this procedure)] [_____].  
+Samples must be collected from [4, randomly selected locations] [_____] within each grid.  Samples from each 
+grid must be [composited] [_____] prior to testing.  Each sample must include material from the entire depth 
+interval of the top lift of soil in the treatment cell.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Confirmation of Attainment of Treatment Criteria</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If a statistically based criteria for determining attainment of treatment 
+criteria will be used, the contract should be prepared to allow some flexibility 
+as to the number of samples that will be required for confirmatory sampling.</NPR><BRK/>
+<BRK/>
+<NPR>Oversite must be performed to ensure that representative samples are being collected 
+by the Contractor, and to ensure that proper sampling procedures are being followed.  
+The proportion of fines and coarse particles in samples should be nearly the 
+same as that within the treatment cell.  Clumps of soil should not be excluded 
+from samples.  Clumps of soil present in samples should be crushed before finishing 
+homogenizing the sample.  The procedure for excluding other types of particles 
+(e.g., rocks that exceed a maximum diameter) should be established up front, 
+and in coordination with regulatory officials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After pre-compliance testing indicates that a lift of soil has met treatment criteria, and written approval has 
+been received from the Contracting Officer, compliance sampling must be performed.  Compliance sampling must 
+be performed in the presence of the Contracting Officer. Testing must be conducted using the method specified 
+in [_____].  The mean of the data for [the grids representing the top lift of soil in the treatment cell] [_____] 
+must be less than the level shown for each contaminant, in paragraph Treatment Criteria for Soil, in PART 1.  
+Data must be analyzed [using the One-Sample t-Test in accordance with <RID>EPA 600/R-96/084</RID> (see p. 3-8 of the reference 
+for an example of this procedure), and applying the following statistical conditions] [_____].  The statistical 
+conditions include: <BRK/>
+[true mean greater than or equal to action level (assume site is dirty)<BRK/>
+maximum false rejection rate (alpha) =5.0 percent; <BRK/>
+maximum false acceptance rate (beta) =20.0 percent; <BRK/>
+width of grey region (delta) =15.0 percent of treatment criteria value] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Post-Treatment Procedure</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If treatment criteria for contaminants of concern have been met, but 
+criteria for re-use (see paragraph Criteria for Reuse of Treated Soil, in PART 
+1) have not been met, the soil should either remain in the treatment cell, or 
+be moved to a storage area.<BRK/>
+<BRK/>
+At one Superfund project, lifts of treated soil were overlain by a new lifts 
+of contaminated material, gradually increasing the height of the treatment cell, 
+as each lift was treated.  This decreased material handling requirements, as 
+the treatment cell location served as the final disposal site.  However, such 
+a plan may also require monitoring to determine if contaminants are migrating 
+into and re-contaminating the treated material.<BRK/>
+<BRK/>
+There may be a benefit to purposely leaving a small volume of fully treated 
+soil in the treatment cell to mix with the new lift of contaminated soil.  Mixing 
+about<MET> 50 mm</MET><ENG> 2 inches</ENG> of the treated lift with untreated soil may decrease the 
+treatment time for the untreated lift; i.e., material from the treated lift 
+may act as a "starter culture" for the untreated lift.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After compliance test data indicates that treatment criteria have been met, and written approval from the Contracting 
+Officer has been received, the treated lift of soil may be [removed from the treatment cell] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Procedure for Non-Attainment of Treatment Criteria</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The situation may arise where there are one or two grids that still exhibit 
+substantially higher contaminant levels than other grids (i.e., outlier data 
+points).  If the statistical criteria for demonstrating attainment of clean-up 
+criteria can be satisfied based on data from all but the one or two outlier 
+grids, then it may be acceptable to move all of the treated soil (except for 
+the outlier grids) to the disposal location.  Soil from the one or two outlier 
+grids should continue to undergo treatment (either by themselves, or via mixing 
+the soil from the outlier grids with the next lift of soil across the entire 
+treatment cell).<BRK/>
+<BRK/>
+If additional sampling is performed to provide more data points for statistical 
+analysis, the Contractor should not be allowed to exclude "selected" data from 
+samples collected during the same time period.  Following additional treatment, 
+and more time for biodegradation to occur, data from new samples should be considered 
+separate from pre-existing data sets.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>If the treatment criteria is not achieved, implement corrective action at no additional cost.  The corrective 
+action may include:  [supplemental sampling and analysis to increase the size of the data set, to allow the statistical 
+analysis to be repeated; or continued treatment followed by additional sampling and analysis] [_____].  If there 
+are sections of the treatment cell for which substantial reduction of contaminants of concern was not observed 
+after the end of the estimated treatment period, prepare a report detailing all activities associated with those 
+sections of the treatment cell.  The report must include:  probable causes as to why significant reductions were 
+not observed; measures that will be implemented to prevent the same problems from recurring; and a proposed plan 
+for continued treatment of those sections of the treatment cell where treatment criteria were not met.  Obtain 
+written approval from the Contracting Officer prior to implementing measures that deviate from the Landfarming 
+Work Plan.  Continue monitoring (at no additional cost, and in accordance with paragraph OPERATION, MAINTENANCE 
+AND PROCESS MONITORING, above), until the treatment criteria is attained.  Submit <SUB>Treatment Completion Records</SUB>
+ as specified.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Post-Treatment Screening</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If wood chips or other large diameter particles must be separated from 
+the treated soil  prior to disposal, it may be desirable to reuse this material 
+in subsequent lifts of contaminated soil.<BRK/>
+<BRK/>
+Additional sampling and analysis may be required prior to disposal of wood chips.  
+Organic contaminants will often adsorb and accumulate on wood, or other organic 
+materials present in the contaminated-soil matrix.  Even though soil may meet 
+clean-up goals, interspersed wood chips may contain relatively high levels of 
+contaminants.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Wood chips or other materials whose diameter exceeds the maximum acceptable particle size for the intended end 
+use must be separated from the treated soil prior to disposal.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DISPOSAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Depending upon the characteristics and quantities, the potential disposal 
+scenarios for wastes may include:  on-site treatment and backfilling; partial 
+on-site treatment / backfill, and partial offsite disposal; and offsite disposal.  
+Asphalt surfaces may be removed and sent offsite for recycling, or left in place 
+if desired by stakeholders.  One disposal scenario for each type of waste should 
+be clearly defined.</NPR><BRK/>
+<BRK/>
+<NPR>If the treated soil will be incorporated into topsoil, the following indices 
+should meet quality guideline standards:  pH, conductivity, maximum particle 
+size, foreign material content, and the levels of heavy metals.  See the On-Farm 
+Composting Handbook (Natural Resource, Agriculture, and Engineering Service, 
+1992) regarding quality guidelines for different end uses of compost; also, 
+see paragraph Criteria for Reuse of Treated Soil, in PART 1.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Treated soil that has met treatment criteria [and criteria for reuse] must be disposed of in accordance with 
+regulatory requirements.  After it has been demonstrated that they meet disposal criteria, the following materials 
+must be disposed of on-site:  [oversize materials] [sludge resulting from treatment of contact water] [excess 
+amendments] [and] [_____].  The following materials must be treated, if necessary, and disposed of off-site:  
+[spent personal protective equipment] [spent granular activated carbon] [and] [_____].  Offsite disposal of hazardous 
+material must be in accordance with Section <SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS MATERIALS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DEMOBILIZATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A separate table should be prepared if criteria for soils below the treatment 
+pad, or other areas of the treatment facility, differ from criteria in the table, 
+Treatment Criteria for Soil.  This paragraph should be edited appropriately 
+if it is desired to retain portions of the landfarming treatment facilities 
+after project completion.  This paragraph should also be coordinated with Division 
+1 Sections of the contract.<BRK/>
+<BRK/>
+After treatment of the final lift of contaminated soil, an economical approach 
+for disposition of the treatment cell would involve: leaving the treated lift 
+in-place, puncturing the liner, and re-seeding the treated soil.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Do not commence demobilization until written approval is received from the Contracting Officer.  Demobilization 
+must include restoration of the [following areas, as shown on drawings, to their original condition:  [_____]].  
+Disposition of paved surfaces, and subsurface liners must include: [_____].  Disposition of the treatment cell 
+must include: [leaving the last lift of treated soil in-place, puncturing the the liner on<MET> 2.0 meter</MET><ENG> 6.6 ft</ENG> centers 
+across the length and width of the cell, re-seeding the treated soil.]  Demobilization must include, but must 
+not be limited to:  [removal of structures and materials used to house or cover the treatment cell,] [disconnecting 
+of utility service lines,] [decontamination and removal of equipment and materials,] [disposal of decontamination 
+wastes,] [disposal of residual wastewater,] [removal of  fertilizer, amendments and other unused materials,] 
+[and regrading of berms, as shown on drawings,]  [_____].  [Post-treatment testing of soils below work area surfaces 
+must be performed, to verify that the area is not contaminated.  These soils must meet the following criteria:  
+[treatment criteria in accordance with paragraph, Treatment Criteria for Soil, in PART 1.] [_____]].</TXT><BRK/>
+<BRK/></SPT>
+</PRT>     <END/><BRK/></SEC>

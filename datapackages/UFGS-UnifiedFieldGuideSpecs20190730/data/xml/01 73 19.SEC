@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                   UFGS-01 73 19 (April 2006)<BRK/>
+                                                --------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                     Replacing without change<BRK/>
+                                                UFGS-11708 (August 2004)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 73 19</SCN><BRK/>
+<BRK/>
+<STL>INSTALLATION OF GOVERNMENT-FURNISHED MEDICAL EQUIPMENT</STL><BRK/>
+<DTE>04/06</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>the removal or relocation 
+of Government-furnished and Contractor-installed existing medical equipment</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  On the drawings, show item locations.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Equipment inspection</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Submit an inspection report for any equipment found in unsatisfactory condition.</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>LOCATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The exact location will be indicated by Contracting Officer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>This equipment is currently located at [_____].</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>ITEMS</TTL><BRK/>
+<BRK/>
+<TXT>Remove the following equipment from existing location[s].  Protect, transport, and install where indicated.  
+Assume that all items to be relocated are in satisfactory operating condition unless otherwise indicated.  Report 
+in writing to Contracting Officer any equipment found to be in unsatisfactory condition.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[a.  Item [_____], [_____].]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[b.  Item [_____], [_____].]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[c.  Item [_____], [_____].]</LST><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REMOVAL OF EQUIPMENT FROM EXISTING LOCATION[S]</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Equipment Removal Schedule</TTL><BRK/>
+<BRK/>
+<TXT>Coordinate equipment removal schedule with Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Facility Shutdown</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when existing building is not operational or is 
+to be demolished.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Minimize shutdown of building operations.  Coordinate with Contracting Officer concerning allowance of maximum 
+shutdown time.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Utilities Shutdown</TTL><BRK/>
+<BRK/>
+<TXT>Do not turn off any utilities without approval of Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Removal</TTL><BRK/>
+<BRK/>
+<TXT>Remove equipment in accordance with Section <SRF>02 41 00</SRF> [DEMOLITION] [AND] [DECONSTRUCTION].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protection of Building and Occupants</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  In locations where asbestos lagging and/or gasket removal are encountered, 
+take special precautions to maintain airborne concentration of asbestos fibers 
+within permissible exposure limits.</NPR><BRK/>
+<BRK/>
+<NPR>1.  "Time Weighted Average (TWA)" - an 8 hour, time-weighted average airborne 
+concentration of fibers longer than 5 micrometers per cubic centimeter of air.</NPR><BRK/>
+<BRK/>
+<NPR>2.  "Ceiling Limit" - Civilian employees and military personnel shall not be 
+exposed to airborne concentrations of asbestos in excess of 0.5 fibers longer 
+than 5 micrometers per cubic centimeter of air, on an 8 hour, time-weighted 
+average.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Take the necessary precautions to protect building from damage and occupants from injury.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Pipelines</TTL><BRK/>
+<BRK/>
+<TXT>Cap and label pipelines to and from removed equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wiring</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Wiring Not Required To Serve Medical Equipment in Future: Cover and insulate all exposed wires to 
+and from removed equipment.  Plug all holes in outlet boxes left open as result of wiring removal.  Provide 
+covers for all outlet boxes.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  "Hard-Wired" Equipment:  Remove wiring serving each piece of equipment back to distribution panel.  
+Deenergize circuit breaker and label as spare.  Remove all exposed conduit.  Where conduit enters walls, 
+floor or ceiling, cut flush with surface.  Repair and refinish surface.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Floors</TTL><BRK/>
+<BRK/>
+<TXT>Cover all floor openings and flag projections.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Patching and Repairing of Existing Facilities</TTL><BRK/>
+<BRK/>
+<TXT>The patching and repairing shall be in accordance with Section <SRF>02 41 00</SRF> [DEMOLITION] [AND] [DECONSTRUCTION].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PROTECTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Utilities Piping</TTL><BRK/>
+<BRK/>
+<TXT>Close all pipe openings left open as a result of the removal of electrical wires with caps or plugs to prevent 
+entry of foreign objects.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Equipment</TTL><BRK/>
+<BRK/>
+<TXT>Tightly cover and protect equipment against dirt, moisture, or mechanical or chemical damage.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Repair</TTL><BRK/>
+<BRK/>
+<TXT>Repair or replace any Government property damaged by Contractor.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>RELOCATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Installation</TTL><BRK/>
+<BRK/>
+<TXT>Install each piece of equipment in accordance with Section <SRF>11 70 00</SRF> GENERAL REQUIREMENTS FOR MEDICAL AND DENTAL 
+EQUIPMENT.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Utility Connections</TTL><BRK/>
+<BRK/>
+<TXT>Provide final utility connections and service to equipment, including waste, under Section[s] [
+<SRF>23 03 00.00 20</SRF> BASIC MECHANICAL MATERIALS AND METHODS[.][;]] [<SRF>22 00 00</SRF> PLUMBING, GENERAL PURPOSE[.][;]] [
+<SRF>22 60 70</SRF> GAS AND VACUUM SYSTEMS FOR HEALTHCARE FACILITIES[.][;]] [<SRF>26 00 00.00 20</SRF> BASIC ELECTRICAL MATERIALS AND 
+METHODS[.][;]] [and] [<SRF>26 20 00</SRF> INTERIOR DISTRIBUTION SYSTEM.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>FIELD QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Equipment Inspection</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Existing equipment of a specialized or sophisticated nature shall be 
+inspected, tested, adjusted and repaired only by a qualified specialist or a 
+factory-trained representative.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><TST>Examine each piece of equipment for visual defects.  Correct defects in accordance with all applicable specifications.</TST></TXT><NED/><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Tests</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Existing equipment of a specialized or sophisticated nature shall be 
+inspected, tested, adjusted and repaired only by a qualified specialist or a 
+factory-trained representative.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><TST>Test each piece of equipment to ensure that the it is operational.</TST></TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT>    <END/><BRK/></SEC>

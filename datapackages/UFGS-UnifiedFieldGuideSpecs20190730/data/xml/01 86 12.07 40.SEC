@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 86 12.07 40 (February 2018)<BRK/>
+                                       Change 1 - 02/15<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NASA</PRA>              Superseding<BRK/>
+                                       UFGS-01 86 12.07 40 (February 2012)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 86 12.07 40</SCN><BRK/>
+<BRK/>
+<STL>RELIABILITY CENTERED ACCEPTANCE FOR MECHANICAL SYSTEMS</STL><BRK/>
+<DTE>02/18</DTE><BRK/>
+<NTE> <BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>Reliability Centered 
+Building and Equipment Acceptance for Mechanical systems</SCP>.  The contents universally 
+apply to mechanical systems and may be utilized by other organizations, if deemed 
+beneficial.</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 83 00.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR FACILITY 
+SHELLS (foundations, structure, walls, openings, roofs, insulation and vapor 
+barrier systems, etc.).</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 83 13.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR SUPERSTRUCTURE 
+PERFORMANCE REQUIREMENTS for externally exposed structures such as communication 
+towers, launch facilities; and partially open shelters such as those for fueling 
+chemical storage, as well as underground special structures for explosives and 
+ordinance.</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 86 26.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR ELECTRICAL 
+SYSTEMS for facility electrical power and distribution systems.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.</NPR><BRK/>
+<BRK/>
+<NPR>Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.</NPR><BRK/>
+<BRK/>
+<NPR>Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.</NPR><BRK/>
+<BRK/>
+<NPR>References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</ORG><BRK/><BRK/><RID>RCBEA GUIDE</RID><RTL>(2004) NASA Reliability Centered Building and Equipment Acceptance Guide</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR> An "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Quality Control Plan</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Material, Equipment, and Fixture Lists</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Connection Diagrams</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Bearing Layout</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Fabrication Drawings</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Installation Drawings</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Manufacturer's Catalog Data</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Equipment Foundation Data</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Specific Equipment Data</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Spare Parts List</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Warranty</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-05 Design Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Design Analysis and Calculations</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Alignment Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Balancing Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Borescope Inspection Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Code and Requirements Verification Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Cold Starting Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Cooling System Evaluation Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Ductwork Leakage Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Exhaust Emissions Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Flux Analysis Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>High-Voltage Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Hydraulic Oil Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Hydrostatic Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Infrared Thermography Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Insulation Power Factor Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Insulation Resistance Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Lubricating Oil Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Mechanical Performance Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Motor Circuit Evaluation Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Noise Level Acceptance Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Operational Fire Damper Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Performance Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Power/Output Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Thermodynamic Performance Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Ultrasonic (Airborne) Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Ultrasonic (Pulse) Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Vibration Analysis Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Warranty Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Certificates</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-08 Manufacturer's Instructions</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Manufacturer's Instructions</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-10 Operation and Maintenance Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Operations and Maintenance Manuals</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Record Drawings</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Acceptance Documentation</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<TXT>Submit a quality control plan outlining the intended methods of receiving, testing, and installing equipment.  
+Ensure that the plan meets the minimum requirements for test equipment specified in the <RID>RCBEA GUIDE</RID>.  Use personnel 
+who have been trained and certified in the appropriate predictive testing and inspection (PT&amp;I) technologies 
+to ensure that the results are accurate and consistent.  Submit the following as part of the <SUB>quality control 
+plan</SUB> for required acceptance testing:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  List of test equipment used, including the manufacturer, model number, calibration date, certificate 
+of calibration, and serial number.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Certificates showing the qualifications and certifications of test personnel.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WARRANTY</TTL><BRK/>
+<BRK/>
+<TXT>Submit a workmanship and performance <SUB>warranty</SUB> to the Contracting Officer for the work performed for a period 
+not less than [1][_____] years from the date of Government acceptance of the work.  Perform corrective action 
+that becomes necessary because of defective materials and workmanship while system is under warranty within [7][_____] 
+days of notification, unless additional time is approved by the Contracting Officer.  Failure to perform repairs 
+within the specified period constitutes grounds for having the corrective action and repairs performed by others 
+and billing the cost to the Contractor.  Provide a contractor installation warranty that covers a period of at 
+least [1][_____] year.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<BRK/>
+<TXT>This guide specification establishes acceptance requirements to ensure building equipment and systems meet installation 
+requirements and contain no identifiable defects that will shorten the design life of the equipment.  These requirements 
+utilize  use PT&amp;I technologies and are essential elements in the Government's Reliability-Centered Building 
+and Equipment Acceptance (RCBEA) Program. <BRK/>
+<BRK/>
+This guide specification is not intended to limit the inspection and acceptance process to the use of PT&amp;I 
+techniques.  This guide is intended to supplement comprehensive and detailed commissioning and quality control 
+specifications.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Design Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Submit applicable <SUB>design analysis and calculations</SUB> for the equipment listed below.</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engine</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Gearboxes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fans</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Fluid piping</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  HVAC ducts</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material handling conveyor</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Valves</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Steam traps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine expander</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbines, gas</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Turbines, steam</LST><BRK/>
+<BRK/>
+]</SPT></SPT><SPT><TTL>PRODUCT DATA</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>material, equipment, and fixture lists</SUB> for equipment, materials, and fixtures planned for use to complete 
+the job before starting work.  Include the item's description, quantity, manufacturer's style or catalog numbers, 
+and specification and drawing reference numbers.  List construction equipment to be used.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Manufacturer Product Data</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>fabrication drawings</SUB> for equipment and specialties.  Ensure that drawings contain details on fabrication 
+and assembly to be performed in the factory.[  Show cutaway and sectional views in gearbox fabrication drawings.]</TXT><BRK/>
+<BRK/>
+<TXT>Submit manufacturer's catalog data for equipment listed in paragraph PRODUCT DATA section.  Include manufacturer's 
+standard catalog data, at least [5 weeks][_____] before the purchase or installation of a particular component, 
+highlighted to show material, size, options, and equipment performance data charts and curves in adequate detail 
+to demonstrate compliance with contract requirements.  Include the manufacturer's instructions and procedures 
+for installation.  If vibration isolation is specified for a unit, include vibration isolator literature containing 
+catalog cuts and certification that the isolation characteristics of the isolators provided meet the manufacturer's 
+recommendations.  Submit product data for each specified component.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>bearing layout</SUB> drawings detailing the type, size, and orientation of bearings for equipment containing 
+bearings, including motors, pumps, fans, cranes, and gearboxes.</TXT><BRK/>
+<BRK/>
+<TXT>Submit manufacturer product data for equipment listed in the paragraph PRODUCT DATA.  Include plan dimensions 
+of foundations and relative elevations, equipment weight and operating loads, horizontal and vertical loads, 
+horizontal and vertical clearances for installation, and the size and location of anchor bolts.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>manufacturer's catalog data</SUB> and <SUB>equipment foundation data</SUB> for the following equipment:</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engine</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Gearboxes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fans</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Fluid piping</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  VAC ducts</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material handling conveyor</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Valves</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Steam traps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine expander</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbines, gas</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Turbines, steam</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Certification Data</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>certificates</SUB> for the equipment listed below, showing conformance with test requirements and laboratory 
+certifications.</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engine</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Gearboxes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fans</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Fluid piping</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  HVAC ducts</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material handling conveyor</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Valves</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Steam traps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine expander</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbines, gas</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Turbines, steam</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Specific Equipment Data</TTL><BRK/>
+<BRK/>
+<TXT>Submit the following information for the equipment listed below:  location of installation, Identification number, 
+date of installation (required or actual acceptance date), and reference drawing number. Unless explicitly stated 
+in submitted manufacturer's literature, submit the following <SUB>specific equipment data</SUB>:</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blower type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Number of rotating vanes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Number of stationary vanes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Rotating Speeds</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Number of belts (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Belt lengths – measured at the pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Diameter of the drive sheave at the drive pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Diameter of the driven sheave at the drive pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Boiler type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Compressor type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Number of compressor sections</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Number of blades per section</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Number of diffusers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Number of gear teeth on drive gear</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Number of driven shafts</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Number of gear teeth per driven shaft</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Rotating speed of each rotor</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Lubricating oil information, viscosity grade in ISO units, AGMA or SAE classification and 
+identification of additives</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Grease lubricant information, type of base stock, NLGI number, type and percent of thickener 
+dropping point, and base oil viscosity range in SUS</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Condenser type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Crane type, duty class and capacity</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Operating speeds</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Hoist lift</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Number of hoists per crane</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engines</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Engine type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Engine specifications</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Engine type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Generator type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Engine specifications</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Fans</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Fan type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Number of rotating fan blades/vanes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Number of stationary fan blades/vanes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Rotating speeds</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Number of belts (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Belt lengths – measured at the pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Diameter of the drive sheave at the drive pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Diameter of the driven sheave at the drive pitch line (if belt-driven)</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fluid piping</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Pipe material</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Pipe size and schedule</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Gearboxes</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Gearbox type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Type of gear tooth</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Gear material</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Number of teeth on each gear</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Gear ratio</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Input and output speeds</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Heat exchanger type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Cooling tower identification (type)</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  HVAC ducts</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Type of duct installed</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material handling conveyor</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Conveyor type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Motor type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Bearing information</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Frame size</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Motor class</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Full load and locked rotor current</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Winding resistance</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Winding inductance</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Cooling fan blades</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Number of rotor bars</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Number of stator slots</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) SCR firing sequence</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Pump type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Number of stages</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Number of vanes per stage</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Number of gear teeth on each pump gear</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Type of impeller or gear</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Rotating speed</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Number of volutes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Number of diffuser vanes</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Steam traps</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Steam trap type</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Turbine expanders</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Power turbine type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Manufacturer/PT model number</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Major component list</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Number of turbine stages with speed, blades per each row</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Coupling type and information</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Baseplate supports</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Lube oil system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Exhaust system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Control and data output systems</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Vibration system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Fire/gas/extinguishing system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Water wash system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Performance Test by the original equipment manufacturer  with customer verification/1-yr 
+HR-Output</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine, gas</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Gas turbine type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Site design conditions</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Manufacturer/GT model number</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Major component list</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Number of compressor/turbines with speeds, blades per each row</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Number of combustors and number of fuel nozzles per each combustor</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Gear box, drive, turbine cycle descriptions</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Fuel types along with combustion system info to control emissions</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Baseplate supports</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Acoustic enclosure – noise control</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Air inlet information – with filtration details</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Starting system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Lube oil system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(14) Exhaust system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(15) Control and data output systems</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(16) Vibration system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(17) Emergency power system along with DC battery and controls info</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(18) Fire/gas/extinguishing system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(19) Water wash system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(20) Performance Test Criteria by OEM with customer verification/1-yr. HR/Output Warranty</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbine, steam</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Steam turbine type</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Design conditions</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Manufacturer/ST model number</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Major component list</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Pressure sections, turbines with speed, blades per each row</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Bearings/gear box, drive, turbine cycle descriptions</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Baseplate supports</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Steam conditions at various locations – flow/pressure/temperature – heat balance diagram</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Lube oil system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Starting system/emergency power system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Control and data output systems</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Vibration system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Fire/gas/extinguishing system</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(14) Water wash system</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Valves</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Valve type</ITM><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Extra Materials</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>spare parts list</SUB> data for each different item of material and equipment specified, after approval of detail 
+drawings and at least [_____] months before the date of beneficial occupancy.  List parts and supplies, providing 
+current unit prices and source of supply, and list spare parts list recommended for [12][_____] months of operation.  
+List parts that the manufacturer recommends replacing  after [1] [and] [_____] years of service.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>EXAMINATION</TTL><BRK/>
+<BRK/>
+<TXT>Visually inspect the equipment listed below.  Correct abnormalities or defects as directed by the Contracting 
+Officer.</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engine</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Gearboxes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fans</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Fluid piping</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  HVAC ducts</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material handling conveyor</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Valves</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Steam traps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine expander</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbines, gas</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Turbines, steam</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>INSTALLATION</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>installation drawings</SUB> for installed equipment.  Ensure that the drawings consist of equipment layouts 
+including assembly, <SUB>manufacturer's instructions</SUB>, installation details and electrical connection diagrams.  Ensure 
+that layout and installation details include support structures, piping, and related system components.  Include 
+on the drawings information required to demonstrate that the system has been coordinated and will function within 
+the [HVAC] [_____] system, and show the relationship of equipment to other parts of the work, including clearances 
+required for operation and maintenance.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>connection diagrams</SUB> for equipment, pipes, valves and specialties, indicating the relations and connections 
+of devices and apparatus by showing the general physical layout of controls, the interconnection of one system 
+(or portion of system) with another, and internal tubing, wiring, and other devices.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>record drawings</SUB> at least [14][_____] days after completion of equipment installation and acceptance testing.  
+Update mechanical system drawings to reflect final record as-built conditions after related work is completed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>FIELD QUALITY CONTROL AND ACCEPTANCE TESTING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The acceptance criteria, as defined in this specification, may also be 
+used to establish the required baselines for future maintenance.</NPR><BRK/>
+<BRK/>
+<NPR>At the Government's option, the Government may elect not to have the Contractor 
+perform acceptance testing, but instead the acceptance testing may be performed 
+either by Government personnel or other designated third-party personnel.  This 
+option can be exercised on a case-by-case basis.  Regardless of who performs 
+the acceptance testing, Contractor compliance with the requirements of acceptance 
+is mandatory.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Deliver equipment and services that meet the contract requirements and specifications.  The Government desires 
+that such equipment be free of latent manufacturing and installation defects, and acceptance criteria is defined 
+to ensure, to the maximum extent possible within economic reason, that these criteria are met.  Perform acceptance 
+testing as defined in this specification and the <RID>RCBEA GUIDE</RID>, using both traditional and PT&amp;I technologies.  
+The Government will observe and monitor the acceptance testing, analysis and documentation as part of the Government's 
+Quality Assurance Program.  Not until the requirements of acceptance are met will the equipment or facility be 
+accepted by the Government.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Predictive Testing and Inspection</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Predictive Testing and Inspection (PT&amp;I) involves the use of acceptance 
+and inspection<BRK/>
+techniques that are nonintrusive and nondestructive in order to avoid introducing 
+problems.  It also involves the use of data collection devices, data analysis, 
+and computer databases to store and trend information.  Typical PT&amp;I technologies 
+used during equipment acceptance include vibration analysis, oil and hydraulic 
+fluid analysis, temperature monitoring, airborne ultrasonics, electrical system 
+testing, and fluid flow and process analysis.</NPR><BRK/>
+<BRK/>
+<NPR>The PT&amp;I tests prescribed in this section are MANDATORY for all assets and 
+systems identified as Critical, Configured, or Mission-Essential.  Unless the 
+PT&amp;I test is designated as "optional," do not remove the requirement from 
+this specification.  If the system is noncritical, nonconfigured, and not mission-essential, 
+use sound engineering discretion to assess the value of adding these test and 
+acceptance requirements.</NPR><BRK/>
+<BRK/>
+<NPR>Enhanced acceptance criteria increase the contractor costs, which increases 
+the Government's cost.  These acceptance criteria are not intended to unnecessarily 
+drive up the cost of equipment installations and contractor work.  If the cost 
+of the added inspections and the cost of enhanced equipment designs outweigh 
+their value of their performance and their life-cycle value, then overly restrictive 
+acceptance criteria should not be used.  The acceptance criteria should define 
+the “minimum” limits essential for a high-quality installation.  See the RCBEA 
+Guide for additional information regarding cost feasibility of PT&amp;I.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Perform the following PT&amp;I Tests in accordance with the requirements and criteria established in the <RID>RCBEA GUIDE</RID>
+.  Include test point locations in all submitted reports.</TXT><BRK/>
+<BRK/>
+<TXT>Provide final test reports to the Contracting Officer.  Provide reports with a cover letter/sheet clearly marked 
+with the System name, Date, and the words "[Preliminary] [Final] Test Report Data - Forward to the [Systems Engineer] 
+[Condition Monitoring Office] [Predictive Testing Group] for inclusion in the Maintenance Information Database."</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Perform <SUB><TST>Alignment Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blowers (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Compressors (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Cranes (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Fans (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Heat exchange cooling tower (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Material-handling conveyor (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Motors (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Pumps (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Turbine expander (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Turbines, gas (laser preferred)</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Turbines, steam (laser preferred)</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Perform <SUB><TST>Balancing Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blowers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Cranes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Heat exchange cooling tower</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Material-handling conveyor</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Motors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Perform <SUB><TST>Borescope Inspection Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Perform <SUB><TST>Code And Requirements Verification Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Miscellaneous safety wash</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Perform <SUB>Cold Starting Test</SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Diesel generator</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Motors</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Perform <SUB><TST>Cooling System Evaluation Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Diesel generator</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Perform <SUB><TST>Ductwork Leakage Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) HVAC ducts</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Perform <SUB><TST>Exhaust Emissions Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Diesel generator</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Perform <SUB><TST>Flux Analysis Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Motors</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Perform <SUB><TST>High Voltage Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Motors [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Perform <SUB><TST>Hydraulic Oil Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Gearboxes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Compressors [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Cranes [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Pumps [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Turbine expander [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Turbines, gas [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Turbines, steam [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Perform <SUB><TST>Hydrostatic Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Boilers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Fluid piping</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Heat exchangers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) A valves</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  Perform <SUB><TST>Infrared Thermography Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Condensers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) HVAC ducts</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Boilers [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Fluid piping [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Heat exchangers [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Motors [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Valves [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Perform <SUB><TST>Insulation Power Factor Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Motors</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Perform <SUB><TST>Insulation Resistance Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Cranes [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Motors [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Perform <SUB><TST>Lubricating Oil Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blowers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Cranes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Diesel generator</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Gearboxes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Heat exchange cooling tower</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Material-handling conveyor</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Motors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(14) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Perform <SUB><TST>Mechanical Performance Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Cranes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Diesel generator</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Perform <SUB><TST>Motor Circuit Evaluation Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Motors</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Perform <SUB><TST>Noise Level Acceptance Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Cranes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Diesel generator</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Perform <SUB><TST>Operational Fire Damper Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) HVAC ducts</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Perform <SUB><TST>Performance Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Material-handling conveyor</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Perform <SUB><TST>Power/Output Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">w.  Perform <SUB><TST>Thermodynamic Performance Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blowers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Boilers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Condensers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Fluid piping</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Heat exchangers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Heat exchange cooling tower</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) HVAC ducts</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Turbine, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Turbine, steam</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(14) Valves [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">x.  Perform <SUB><TST>Ultrasonic (Airborne) Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Boilers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Condensers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) HVAC ducts</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Motors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Steam traps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Fluid piping [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Heat exchangers [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Valves [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">y.  Perform <SUB><TST>Ultrasonic (Pulse) Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Fluid piping [optional]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Heat exchangers [optional]</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">z.  Perform <SUB><TST>Vibration Analysis Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Blowers</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Cranes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) Compressors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(4) Diesel engine</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(5) Diesel generator</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(6) Fans</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(7) Gearboxes</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(8) Heat exchange cooling tower</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(9) Material-handling conveyor</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(10) Motors</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(11) Pumps</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(12) Turbine expander</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(13) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(14) Turbines, steam</ITM><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">aa.  Perform <SUB><TST>Warranty Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(1) Turbines, gas</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) Turbines, steam</ITM><BRK/>
+<BRK/>
+]</SPT></SPT><SPT><TTL>OPERATIONS AND MAINTENANCE</TTL><BRK/>
+<BRK/>
+<TXT>Submit manufacturer's <SUB>operations and maintenance manuals</SUB> for the following equipment:</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Blowers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Boilers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Compressors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Condensers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Cranes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Diesel engine</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">g.  Diesel generator</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Gearboxes</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">i.  Fans</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Fluid piping</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Heat exchangers</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Heat exchange cooling tower</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  HVAC ducts</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Material-handling conveyor</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Miscellaneous safety wash</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Motors</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Pumps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Valves</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Steam traps</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Turbine expander</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Turbines, gas</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  Turbines, steam</LST><BRK/>
+<BRK/>
+]<TXT>Submit [six][_____] complete copies of operations and maintenance manuals in bound<MET> 216 mm by 279 mm</MET><ENG> 8-1/2 inch 
+by 11 inch</ENG> booklets listing step-by-step procedures required for system startup, operation, abnormal shutdown, 
+emergency shutdown, and normal shutdown.  Include the manufacturer's name, model number, parts list, routine 
+maintenance procedures, possible breakdowns and repairs, trouble shooting guide, and a brief description of items 
+of equipment and their basic operating features.  Include piping and equipment layouts and simplified wiring 
+and control diagrams of the system as installed.  Where available, provide technical manuals in electronic format 
+with Standard Graphics Markup Language.  When publications are provided in electronic format, only two copies 
+of the document are required. Submit operations and maintenance manuals [30][_____] calendar days before testing 
+equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ACCEPTANCE DOCUMENTATION</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of the project and acceptance testing, the Contracting Officer will provide <SUB>acceptance documentation</SUB>
+ to the Contractor.  Complete, <NED/>sign, and date this documentation and submit the documentation to the Contracting 
+Officer for processing and approval.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

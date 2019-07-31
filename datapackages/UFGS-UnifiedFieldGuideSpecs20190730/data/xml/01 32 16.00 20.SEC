@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 32 16.00 20 (August 2018)<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-01 32 16.00 20 (February 2015)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<HL4>SECTION 01 32 16.00 20</HL4><BRK/>
+<BRK/>
+<STL>SMALL PROJECT CONSTRUCTION PROGRESS SCHEDULES</STL><BRK/>
+<DTE>08/18</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification applies to Design-Build and Design-Bid-Build 
+projects and covers the requirements for <SCP>the preparation and use of construction 
+schedules for small projects</SCP>.  The small projects covered by this specification 
+may be simple or complex, but would not benefit from the use of a cost-loaded 
+Network Analysis Schedule (NAS) as required by Section <SRF>01 32 17.00 20</SRF> COST LOADED 
+NETWORK ANALYSIS SCHEDULES (NAS).  This specification includes two schedule 
+options to choose from based on the complexity of the project.  Edit this specification 
+by choosing the desired scheduling option described below.<BRK/>
+<BRK/>
+Confirm with the Administering FEAD/ROICC that the project schedule should be 
+prepared under the requirements of this section.  Further, this section should 
+be reviewed and approved by the Administering FEAD/ROICC prior to completion 
+of the Request for Proposal.<BRK/>
+<BRK/>
+Option 1: "Non-Cost Loaded Network Analysis Schedule (NAS)" – This is the NAVFAC 
+preferred schedule for use on most small projects and requires either Primavera 
+P6 or Microsoft Project 2010 scheduling software to be used.  Option is provided 
+for cost-loading Microsoft Project 2010 schedules at NAVFAC OCONUS locations 
+where Primavera P6 support is not currently available.<BRK/>
+<BRK/>
+Option 2: "Bar Chart Schedule" – In lieu of Option 1 for non-complex projects 
+or projects with minimal disciplines, a simple bar chart (Non-NAS) may be specified. 
+Project examples include: paving, painting, roof replacement, and lighting.<BRK/>
+<BRK/>
+Coordination is required with Section <SRF>01 20 00.00 20</SRF> PRICE AND PAYMENT PROCEDURES, 
+with selection of "Schedule of Prices" for bar charts and non-cost-loaded NAS, 
+or "Earned Value Report" for cost-loaded Microsoft Project 2010 schedules.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose a tailoring option for either Network Analysis Schedule (NAS) 
+or Bar Chart depending on which Option is selected.  Within NAS, Primavera P6 
+and Microsoft Project tailored options are available for the flexibility of 
+allowing both, or choosing one, depending on the FEAD/ROICC requirement.<BRK/>
+<BRK/>
+This section also contains tailored options for Design-Build (DB), Army, and 
+NAVFAC FE.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAI OPT="DB"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DB, delete <SRF>01 33 00</SRF>, SUBMITTAL PROCEDURES, and replace with 01 33 
+00.05 20, CONSTRUCTION SUBMITTAL PROCEDURES and 01 33 10.05 20, DESIGN SUBMITTAL 
+PROCEDURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Baseline Construction Schedule</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Baseline Design Schedule</SUB>;<SUB> G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Monthly Updates</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PRE-CONSTRUCTION SCHEDULE REQUIREMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for NAS and BAR CHART and for Design-Build 
+(DB).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to the start of work, prepare and submit to the Contracting Officer a <TAI OPT="DB"><SUB>Baseline Design Schedule</SUB> and </TAI><SUB>Baseline 
+Construction Schedule</SUB> in the form of a <TAI OPT="NAS">Network Analysis Schedule (NAS) </TAI><TAI OPT="BAR CHART">Bar Chart Schedule </TAI> in accordance with 
+the terms in Contract Clause FAR 52.236-15 Schedules for Construction Contracts, except as modified in this contract.  
+The approval of a Baseline Construction Schedule is a condition precedent to:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The Contractor starting demolition work or construction stage(s) of the contract.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Processing Contractor's invoice(s) for construction activities/items of work.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Review of any schedule updates.</LST><BRK/>
+<BRK/>
+<TXT>Submittal of the Baseline <TAI OPT="DB">Design and </TAI>Construction Schedule, and subsequent schedule updates, is understood to 
+be the Contractor's certification that the submitted schedule meets the requirements of the Contract Documents, 
+represents the Contractor's plan on how the work will be accomplished, and accurately reflects the work that 
+has been accomplished and how it was sequenced (as-built logic).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SCHEDULE FORMAT</TTL><BRK/>
+<BRK/>
+<TAI OPT="NAS"><SPT><TTL>Network Analysis Schedule (NAS)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for NAS.  Use this paragraph if Option 1 (described 
+in the Initial Editing Notes) is applicable and a NAS is required for the project; 
+otherwise delete.  This paragraph contains tailoring within for Primavera P6 
+and Microsoft Project.  Use the bracketed item "or" if both programs are allowed; 
+otherwise delete, and choose the tailoring for Primavera P6 or Microsoft Project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the bracketed option if Microsoft Project is the only software allowed.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use the critical path method (CPM) to schedule and control project activities.  Prepare and maintain project 
+schedules using<TAI OPT="PRIMAVERA P6"><TAI OPT="PRIMAVERA P6"> Primavera P6</TAI></TAI>[ or]<TAI OPT="MICROSOFT PROJECT"> Microsoft Project 2010</TAI>.<TAI OPT="MICROSOFT PROJECT">[  The scheduling software that will be utilized by 
+the Government on this project is Microsoft Project 2010 by Microsoft, Inc.  Notwithstanding any other provision 
+in the contract, schedules submitted for this project must be prepared using Microsoft Project.  Submission of 
+data from another software system where data conversion techniques or software is used to import into Microsoft 
+Projects scheduling software is not acceptable and will be cause for rejection of the submitted schedule.  ]</TAI>Importing 
+data into the scheduling program using data conversion techniques or third party software is cause for rejection 
+of the submitted schedule.</TXT><BRK/>
+<BRK/>
+<TXT>Within 15 calendar days after approval of the Initial Schedule <TAI OPT="DB">or approval of the final design for a design build 
+project</TAI>, submit to the Contracting Officer a final NAS schedule.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Activity Requirements</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  At a minimum, identify the following in the schedule:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) <TAI OPT="DB">Design and </TAI>Construction time for major systems and components</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Each activity assigned with its appropriate Responsibility Code</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Each activity assigned with its appropriate Phase and Area Codes</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Major submittals and submittal processing time</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Major equipment lead time</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Build the Schedule as follows:</LST><BRK/>
+<TAI OPT="NAVFAC FE"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following item contains a tailored option for NAVFAC FE to choose 
+a bracketed option if 6-day or 7-day work weeks are required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<ITM INDENT="-0.33">(1) Show <TAI OPT="DB">design periods, </TAI>submittals, Government review periods, material/equipment delivery, 
+utility outages, on-site construction, inspection, testing, and closeout activities.  Government 
+and Contractor on-site work activities must be driven by calendars that reflect Saturdays, Sundays 
+and all Federal Holidays as non-work days for 5-day work week calendars.<TAI OPT="NAVFAC FE">[  6-day work week calendars 
+must reflect Sundays and all Federal Holidays as non-work days.  7-day work week calendars must 
+reflect all Federal Holidays as non-work days unless otherwise agreed to by the Contracting 
+Officer.  Total work hours/day for all defined calendars is set to 8 unless otherwise agreed 
+upon.]</TAI></ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) With the exception of the Contract Award and End Contract milestone activities, use of open-ended 
+activities is not allowed; each activity must have predecessor and successor ties.  No activity 
+must have open start or open finish (dangling) logic.  Minimize redundant logic ties.  Once 
+an activity exists on the schedule it must not be deleted or renamed to change the scope of 
+the activity and must not be removed from the schedule logic without approval from the Contracting 
+Officer.  While an activity cannot be deleted, where said activity is no longer applicable to 
+the schedule but must remain within the logic stream for historical record, it can be changed 
+to a milestone.  Document any such change in the milestone's "Notebook," including a date and 
+explanation for the change.  The ID number for a deleted activity must not be re-used for another 
+activity.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Assign each activity its appropriate Responsibility Code and Area Code, indicating location 
+and responsibility to accomplish the work indicated by the activity, Phase Code, and Work Location 
+Code.  Include anticipated tasks to be assigned Government responsibility.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Date/time constraints or lags, other than those required by the contract, are not allowed 
+unless approved by the Contracting Officer.  Include as the last activity in the contract schedule, 
+a milestone activity named "Contract Completion Date".</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Include the following Contract Milestones:</ITM><BRK/>
+<BRK/>
+<ITM>(a) Include as the first activity on the schedule a start milestone titled "Contract Award", 
+which must have a Mandatory Start constraint equal to the Contract Award Date;</ITM><BRK/>
+<BRK/>
+<ITM>(b) Include Interim or Phased Completion Milestones required by the Contract or as approved 
+by the Contracting Officer;</ITM><BRK/>
+<BRK/>
+<ITM>(c) Include Facility Turnover Planning Meeting Milestones;</ITM><BRK/>
+<BRK/>
+<ITM>(d) Include an unconstrained finish milestone on the schedule titled "Substantial Completion".  
+Substantial Completion is defined as the point in time the Government would consider the project 
+ready for beneficial occupancy wherein by mutual agreement of the Government and Contractor.  
+Government use of the facility is allowed while construction access continues in order to complete 
+remaining items (e.g. punch list and other close out submittals).</ITM><BRK/>
+<BRK/>
+<ITM>(e) Include an unconstrained finish milestone on the schedule titled "Projected Completion".  
+Projected Completion is defined as the point in time the Government would consider the project 
+complete. This milestone must have the Contract Completion Date (CCD) milestone as its only 
+successor.</ITM><BRK/>
+<BRK/>
+<ITM>(f)  Include as the last activity on the schedule a finish milestone titled "Contract Completion 
+(CCD)" with constraint type "Must Finish No Later Than".  Calculation of schedule updates must 
+be such that if the finish of the "Projected Completion" milestone falls after the contract 
+completion date, then negative float will be calculated on the longest path and if the finish 
+of the "Projected Completion" milestone falls before the contract completion date, the float 
+calculation must reflect positive float on the longest path.  This milestone must be set to 
+5:00 pm.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6) Provide lead time for major equipment.</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Anticipated Weather Lost Work Days</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Check with the FEC's Scheduling Subject Matter Expert or with the FEAD/ROICC 
+for known site-specific Adverse Weather Delays to determine how to edit this 
+paragraph.  If historical data is not available, choose the first paragraph 
+using NOAA historical monthly averages as the basis for establishing non-workdays.  
+Note that NOAA historical data may not be available for all OCONUS locations.<BRK/>
+<BRK/>
+If the historical adverse weather data is available, use the bracketed paragraph 
+and table and populate the table with the known data.  Insert the data for each 
+month in the blank, bracketed item provided.  A bracketed choice of 2 days per 
+month is provided only as an option to remind the Designer to insert the actual 
+data.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A tailored bracketed option is provided for NAVFAC FE to use in lieu 
+of NOAA if actual data is not available.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Use the National Oceanic and Atmospheric Administration's (NOAA) Summary of Monthly Normals report to obtain 
+the historical average number of days each month with precipitation, using a nominal 30-year, greater than<MET> 2.5 
+mm</MET><ENG> 0.10 inch</ENG> precipitation amount parameter, as indicated on the Station Report for the NOAA location closest 
+to the project site as the basis for establishing a "Weather Calendar" showing the number of anticipated non-workdays 
+for each month due to adverse weather, in addition to Saturdays, Sundays and all Federal Holidays as non-work 
+days.</TXT><BRK/>
+<BRK/>
+]<TAI OPT="NAVFAC FE">[Use Japan Meteorological Agency's (JMA) 30 years historical monthly averages for days with precipitation, equal 
+or greater than<MET> 10 mm</MET><ENG> 0.39 inch</ENG> amount parameter, as indicated on the Station Report for the JMA location closest 
+to the project site.<BRK/>
+<BRK/>
+]</TAI>[<TXT>Use the following schedule of anticipated monthly non-work days due to adverse weather as the basis for establishing 
+a "Weather Calendar" showing the number of anticipated non-workdays for each month due to adverse weather, in 
+addition to Saturdays, Sundays and all Federal Holidays as non-work days.</TXT><BRK/>
+<BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="12" ROWCOUNT="3">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="37.50"/>
+      <COL AUTOWIDTH="0" WIDTH="55.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL MERGEACROSS="11" STYLEID="s50">
+<DTA TYPE="STRING"><HL4>MONTHLY ANTICIPATED ADVERSE WEATHER DELAYS</HL4></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">JAN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">FEB</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">MAR</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">APR</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">MAY</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">JUN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">JUL</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">AUG</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">SEP</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">OCT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NOV</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DEC</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[2][_]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]<TXT>Assign the Weather Calendar to any activity that could be impacted by adverse weather.  The Contracting Officer 
+will issue a modification in accordance with the contract clauses, giving the Contractor a time extension for 
+the difference of days between the anticipated and actual adverse weather delay if the number of actual adverse 
+weather delay days exceeds the number of days anticipated for the month in which the delay occurs and the adverse 
+weather delayed activities are critical to contract completion.  A lost workday due to weather conditions is 
+defined as a day in which the Contractor cannot work at least 50 percent of the day on the impacted activity.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Activity Identification</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a. Identify Government, Construction Quality Management (CQM), Construction activities planned for the 
+project and other activities that could impact project completion if delayed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Identify administrative type activity/milestones including pre-construction submittal and permit 
+requirements prior to demolition or construction stage.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Create separate activities for each Phase, Area, Floor Level, and Location the activity is occurring.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Do not use construction category activity to represent non-work type reference (Such as, Serial Letter 
+or Request for Information) in NAS.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Place non-work reference within P6 activity details notebook. Activity categories included in the 
+schedule are specified below.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Responsibility Code</TTL><BRK/>
+<BRK/>
+<TXT>Assign each activity its appropriate Responsibility Code indicating responsibility to accomplish the work indicated 
+by the activity, Phase Code and Work Location Code.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="PRIMAVERA P6"><SPT><TTL>Primavera P6 Settings and Parameters</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this tailored paragraph for NAS Schedules using Primavera P6.  Delete 
+this paragraph if only Microsoft Project 2010 is allowed.  This paragraph is 
+tailored for Primavera P6.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use the following Primavera P6 settings and parameters in preparing the Baseline Schedule.  Deviation from these 
+settings and parameters, without prior consent of the Contracting Officer, is cause for rejection of schedule 
+submission.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  General: Define or establish Calendars and Activity Codes at the "Project" level, not the "Global" 
+level.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Admin Drop-Down Menu, Admin Preferences, Time Periods Tab:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Set time periods for P6 to 8.0 Hours/Day, 40.0 Hours/Week, 172.0 Hours/Month and 2000.0 
+Hours/Year.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Use assigned calendar to specify the number of work hours for each time period: Must be 
+checked.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Admin Drop-Down Menu, Admin Preferences, Earned Value Tab:  Earned Value Calculation: Use "Budgeted 
+values with current dates".</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Project Level, Dates Tab:  Set "Must Finish By" date to "Contract Completion Date", and set "Must 
+Finish By" time to 05:00pm.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Project Level, Defaults Tab:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Duration Type: Set to "Fixed Duration &amp; Units".</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Percent Complete Type: Set to "Physical".</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Activity Type: Set to "Task Dependent".</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Calendar: Set to "Standard 5 Day Workweek".  Calendar must reflect Saturday, Sunday and 
+all Federal holidays as non-work days.  Alternative calendars may be used with Contracting Officer 
+approval.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Project Level, Calculations Tab:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Activity percent complete based on activity steps: Must be Checked.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Reset Remaining Duration and Units to Original: Must be Checked.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Subtract Actual from At Completion: Must be Checked.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Recalculate Actual units and Cost when duration percent (%) complete changes: Must be Checked.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Link Actual to Date and Actual This Period Units and Cost: Must be Checked.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6) Price/Unit: Set to "$1/h".</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(7) Update units when costs change on resource assignments: Must be Unchecked.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Project Level, Settings Tab:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Define Critical Activities: Check "Longest Path".</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  The NAS must have a minimum of 30 construction activities.  No on-site construction activity may 
+have durations in excess of 20 working days.</LST><BRK/>
+<BRK/></SPT>
+</TAI><TAI OPT="MICROSOFT PROJECT"><SPT><TTL>Microsoft Project 2010 Settings and Parameters</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this tailored paragraph for NAS schedules using Microsoft Project 
+2010.  Delete this paragraph if only NAS schedules using Primavera P6 are allowed.  
+This paragraph is tailored for Microsoft Project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use the following MS Project 2010 settings and parameters in preparing the Baseline Schedule:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The Network must have a minimum of 30 construction activities.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  No on-site construction activity may have durations in excess of 20 working days.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Critical is defined as having zero days of Total Slack. Within the Baseline Schedule no more than 
+20 percent of the activities shall be critical.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Logic: include the following setting:  File, Options, Schedule tab - Split in-progress tasks - must 
+be selected.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Status Date gridline is displayed in the Gantt Chart view.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Task Type is set to Fixed Work for "boots-on-the-ground" construction activities.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Task Type is set to Fixed Duration for design activities, submittals, Government reviews, procurement, 
+material/equipment delivery, and utility outages.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  "Effort Driven" is turned ON for Fixed Duration tasks.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Time Periods established for the project are set to 8 Hrs/Day, 40 Hrs/Week and 20 days/month.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Week starts on Monday must be selected.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Default start time is set to 8am (0800).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  Default end time is set to 5pm (1700).</LST><BRK/>
+<BRK/></SPT>
+<TAI OPT="MICROSOFT PROJECT">[<SPT><TTL>Cost Loading Microsoft Project 2010 Schedules</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for a Cost-Loading Microsoft Project Schedule on projects 
+at or above $750,000 and when required; otherwise, delete.  This paragraph is 
+tailored for Microsoft Project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Assign material, labor and equipment costs to their respective Construction Activities.  Assign material and 
+equipment costs, for which payment will be requested in advance of installation, to their respective procurement 
+activity (i.e. the material/equipment on-site activity).  Evenly disperse overhead and profit to each activity 
+over the duration of the project.  Cost loading must total to 100 percent of the value of the contract.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Software Settings</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Resource Sheet</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Resource Name: Enter each code and resource for the project</ITM><BRK/>
+<ITM INDENT="-0.33">(2) Type: Set to "Material"</ITM><BRK/>
+<ITM INDENT="-0.33">(3) Material Label:  Enter units of measurement for each resource</ITM><BRK/>
+<ITM INDENT="-0.33">(4) Std. Rate: Enter unit cost for each resource</ITM><BRK/>
+<ITM INDENT="-0.33">(5) Accrue at: Set to "Prorated"</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b. Assigning Resources to Each Activity</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Select each activity in Gantt Chart </ITM><BRK/>
+<ITM INDENT="-0.33">(2) Assign resources, Resource Tab </ITM><BRK/>
+<ITM INDENT="-0.33">(3) Select each resource and enter the quantity of the units; then, assign the resource(s) to 
+the activity</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c. Baseline for Earned Value Calculation, File Tab, Options, Advanced, Default task Earned Value method:  
+Set to "Physical % Complete" or as directed by the Contracting Officer</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Tabular Reports</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Tracking Gantt Schedule with Cost Table</TTL><BRK/>
+<BRK/>
+<TXT>Submit a Tracking Gantt Schedule with each schedule update showing activity baseline cost, cost percent complete, 
+and Budgeted Cost of Work Performed (BCWP), as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Earned Value Over Time Report</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  With each schedule submission, submit Earned Value Over Time Report S-Curves indicating Planned Value 
+to the contract completion date based on projected early and late activity finish dates and Earned Value.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Revise Earned Value Over Time Report S-Curves when the contract is modified, or as directed by the 
+Contracting Officer.</LST><BRK/>
+<BRK/></SPT>
+</SPT></SPT>]</TAI></TAI></SPT></TAI><TAI OPT="BAR CHART"><SPT><TTL>Bar Chart Schedule</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph if Option 2 (described in the Initial Editing Notes) 
+is applicable and a Bar Chart is required for the project.  This paragraph is 
+tailored for Bar Chart.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Bar Chart must, as a minimum, show work activities, submittals, Government review periods, material/equipment 
+delivery, utility outages, on-site construction, inspection, testing, and closeout activities.  The Bar Chart 
+must be time scaled and generated using an electronic spreadsheet program.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Schedule Submittals and Procedures</TTL><BRK/>
+<BRK/>
+<TXT>Submit Schedules and updates in hard copy and on electronic media that is acceptable to the Contracting Officer.  
+Submit an electronic back-up of the project schedule in an import format compatible with the Government's scheduling 
+program.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SCHEDULE <SUB>MONTHLY UPDATES</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for DB.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Update the <TAI OPT="DB">Design and </TAI>Construction Schedule at monthly intervals or when the schedule has been revised.  Keep 
+the updated schedule current, reflecting actual activity progress and plan for completing the remaining work.  
+Submit copies of purchase orders and confirmation of delivery dates as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Narrative Report: Identify and justify the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Progress made in each area of the project;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Longest Path: Include printed copy on<MET> 279 by 432 mm</MET><ENG> 11 by 17 inch</ENG> paper, landscape setting;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Date/time constraint(s), other than those required by the contract;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Listing of changes made between the previous schedule and current updated schedule including: 
+added or removed activities, original and remaining durations for activities that have not started, 
+logic (sequence, constraint, lag/lead), milestones, planned sequence of operations, longest 
+path, calendars or calendar assignments, and cost loading.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Any decrease in previously reported activity Earned Amount;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6) Pending items and status thereof, including permits, changes orders, and time extensions;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(7) Status of Contract Completion Date and interim milestones;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(8) Current and anticipated delays (describe cause of delay and corrective actions(s) and mitigation 
+measures to minimize);</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(9) Description of current and future schedule problem areas.</ITM><BRK/>
+<BRK/>
+<TXT>For each entry in the narrative report, cite the respective Activity ID and Activity Name, the date and reason 
+for the change, and description of the change.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="NAS"><SPT><TTL>CONTRACT MODIFICATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:   Use this paragraph for projects with NAS schedules; otherwise, delete.  
+Paragraph is tailored for NAS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit a Time Impact Analysis (TIA) with each cost and time proposal for a proposed change.  TIA must illustrate 
+the influence of each change or delay on the Contract Completion Date or milestones.  No time extensions will 
+be granted nor delay damages paid unless a delay occurs which consumes all available Project Float, and extends 
+the Projected Finish beyond the Contract Completion Date.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Each TIA must be in both narrative and schedule form.  The narrative must define the scope and conditions 
+of the change; provide start and finish dates of impact, successor and predecessor activity to impact 
+period, responsible party, describe how it originated, and how it impacts the schedule.  The schedule 
+submission must consist of three native files:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Fragnet used to define the scope of the changed condition</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Most recent accepted schedule update as of the time of the proposal or claim submission 
+that has been updated to show all activity progress as of the time of the impact start date.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) The impacted schedule that has the fragnet inserted in the updated schedule and the schedule 
+"run" so that the new completion date is determined.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  For claimed as-built project delay, the inserted fragnet TIA method must be modified to account for 
+as-built events known to occur after the data date of schedule update used.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  TIAs must include any mitigation, and must determine the apportionment of the overall delay assignable 
+to each individual<BRK/>
+delay.  Apportionment must provide identification of delay type and classification of delay by compensable 
+and non-compensable events.  The associated narrative must clearly describe analysis methodology used, 
+and the findings in a chronological listing beginning with the earliest delay event.</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Identify and classify types of delays as follows:</ITM><BRK/>
+<BRK/>
+<ITM>(a) Force majeure delay (e.g. weather delay): Any delay event caused by something or someone 
+other than the Government (including its agents) or the Contractor, or the risk of which has 
+not been assigned solely to the Government or the Contractor. If the force majeure delay is 
+on the critical path, in absence of other types of concurrent delays, the Contractor is granted 
+an extension of contract time, classified as a non-compensable event.</ITM><BRK/>
+<BRK/>
+<ITM>(b) A Contractor-delay: Any delay event caused by the Contractor, or the risk of which has been 
+assigned solely to the Contractor. If the contractor-delay is on the critical path, in absence 
+of other types of concurrent delays, Contractor is not granted extension of contract time, and 
+classified as a non-compensable event.  Where absent other types of delays, and having impact 
+to project completion, provide a Corrective Action Plan, identifying plan to mitigate delay, 
+to the Contracting Officer.</ITM><BRK/>
+<BRK/>
+<ITM>(c) A Government-delay: Any delay event caused by the Government, or the risk of which has been 
+assigned solely to the Government.  If the Government-delay is on the longest path, in absence 
+of other types of concurrent delays, the Contractor is granted an extension of contract time, 
+and classified as a compensable event.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Use functional theory to analyze concurrent delays, where: Separate delay issues delay project 
+completion, do not necessarily occur at same time, rather occur within same monthly schedule 
+update period at minimum, or within same as-built period under review.  If a combination of 
+functionally concurrent delay types occurs, it is considered Concurrent Delay, which is defined 
+in the following combinations:</ITM><BRK/>
+<BRK/>
+<ITM>(a) Government-delay concurrent with Contractor-delay:  Excusable time extension, classified 
+non-compensable event.</ITM><BRK/>
+<BRK/>
+<ITM>(b) Government-delay concurrent with force majeure delay: Excusable time extension, classified 
+non-compensable event.</ITM><BRK/>
+<BRK/>
+<ITM>(c) Contractor-delay concurrent with force majeure delay: Excusable time extension, classified 
+non-compensable event.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) A pacing delay, reacting to another delay (parent delay) equally or more critical than paced 
+activity, must be identified prior to pacing.  Contracting Officer will notify Contractor prior 
+to pacing.  Contractor must notify Contracting Officer prior to pacing.  Notification must include 
+identification of parent delay issue, estimated parent delay time period, paced activity(s) 
+identity, and pacing reason(s).  Pacing Concurrency is defined as follows:</ITM><BRK/>
+<BRK/>
+<ITM>(a) Government-delay concurrent with Contractor-pacing:  Excusable time extension, classified 
+compensable event.</ITM><BRK/>
+<BRK/>
+<ITM>(b) Contractor-delay concurrent with Government-pacing: Inexcusable time extension, classified 
+non-compensable event.</ITM><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>3-WEEK LOOK AHEAD SCHEDULE</TTL><BRK/>
+<BRK/>
+<TXT>Prepare and issue a 3-Week Look Ahead schedule to provide a more detailed day-to-day plan of upcoming work identified 
+on the Construction Schedule.  Key the work plans to activity numbers when a NAS is required and update each 
+week to show the planned work for the current and following two-week period.  Additionally, include upcoming 
+outages, closures, preparatory meetings, and initial meetings.  Identify critical path activities on the Three-Week 
+Look Ahead Schedule.  The detail work plans are to be bar chart type schedules, maintained separately from the 
+Construction Schedule on an electronic spreadsheet program and printed on<MET> 216 by 279 mm</MET><ENG> 8-1/2 by 11 inch</ENG> sheets 
+as directed by the Contracting Officer.  Activities must not exceed 5 working days in duration and have sufficient 
+level of detail to assign crews, tools and equipment required to complete the work.  Deliver three hard copies 
+and one electronic file of the 3-Week Look Ahead Schedule to the Contracting Officer no later than 8 a.m. each 
+Monday, and review during the weekly CQC Coordination or Production Meeting.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CORRESPONDENCE AND TEST REPORTS:</TTL><BRK/>
+<BRK/>
+<TXT>Correspondence (e.g., letters, Requests for Information (RFIs), e-mails, meeting minute items, Production and 
+QC Daily Reports, material delivery tickets, photographs) must reference Schedule Activities that are being addressed.  
+Test reports (e.g., concrete, soil compaction, weld, pressure) must reference Schedule Activities that are being 
+addressed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ADDITIONAL SCHEDULING REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Any references to additional scheduling requirements, including systems to be inspected, tested and commissioned, 
+that are located throughout the remainder of the Contract Documents, are subject to all requirements of this 
+section.</TXT><NED/><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><BRK/>
+<BRK/></PRT>
+    <END/><BRK/></SEC>

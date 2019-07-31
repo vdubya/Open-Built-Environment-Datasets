@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA           UFGS-01 91 00.15 10 (May 2019)<BRK/>
+                                        ----------------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>              Supeseding<BRK/>
+                                        UFGS-01 91 00.15 (February 2019)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 91 00.15 10</SCN><BRK/>
+<BRK/>
+<STL>TOTAL BUILDING COMMISSIONING</STL><BRK/>
+<DTE>05/19</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers <SCP>Total Building Commissioning requirements 
+for new construction and major renovations</SCP>.  Do not use this section for NAVY 
+projects; use Section <SRF>01 91 00.15</SRF> instead.  Ensure any other specifications 
+that reference commissioning are coordinated with this specification section.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This specification section was constructed to support Total Building 
+Commissioning in accordance with UFC 1-200-02 using a commissioning specialist 
+hired by the General/Prime Contractor.  <BRK/>
+<BRK/>
+UFC 1-200-02 requires compliance with the commissioning requirements of ASHRAE 
+189.1 including the commissioning of the systems identified therein.<BRK/>
+<BRK/>
+The Specifier must edit or add content as appropriate to accommodate any additional 
+systems or additional activities for Third Party Certification (TPC), if required 
+for the project.  The requirements herein satisfy many of the requirements for 
+LEED but may need to be augmented.  <BRK/>
+<BRK/>
+This specification is intended to be provided with design-bid-build construction 
+specifications or with design-build request for proposal specifications.  This 
+specification must be fully edited for design-build request for proposals.<BRK/>
+<BRK/>
+For design-build projects, this specification is meant to work with other UFGS 
+sections.  In the event such sections are not included in the RFP or required 
+for use and as criteria by the RFP, this specification section will require 
+additional editing to capture the necessary requirements of the other UFGS sections.<BRK/>
+<BRK/>
+Very small or non-complex projects may not require commissioning to the extent 
+called for in this specification section.  The commissioning requirements should 
+be appropriate to the size and complexity of the building and its systems components.  
+In such cases, coordinate with the Government PM to determine the appropriate 
+level of commissioning and edit the specification accordingly.<BRK/>
+<BRK/>
+Several tailoring options are included in this specification.  Select the the 
+AIR FORCE or ARMY tailoring option for Air Force or Army projects. Select DESIGN-BUILD 
+for design-build projects and DESIGN-BID-BUILD for design-bid-build projects.  
+Select LEEDV4 tailoring option for projects pursuing LEEDv4 certification.<BRK/>
+<BRK/>
+Select the Integrated Systems Test (IST) tailoring option when applicable.  
+Integrated Systems Tests (IST) may be applicable for project with complex interactive 
+operation between different systems such as fire protection, electrical distribution, 
+emergency power, and HVAC.  An example is a test of HVAC and fire system operation 
+with primary power down and the system switching to back-up utility or generators.  
+The project team must determine whether IST will be required for the project.<BRK/>
+<BRK/>
+If the project will include building envelope commissioning beyond the requirements 
+of Specification Sections <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM or 
+<SRF>07 05 23</SRF> PRESSURE TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS, select the 
+BUILDING ENVELOPE COMMISSIONING tailoring option.  If the project will not include 
+a building air barrier or additional commissioning is not required, deselect 
+the BUILDING ENVELOPE COMMISSIONING tailoring option.  Coordinate with the Government 
+PM, early in design or design-build contract preparation, to determine if additional 
+commissioning is required or will be funded.<BRK/>
+<BRK/>
+Some minor formatting and grammar corrections and relabeled appendices may be 
+needed after making bracketed selections or applying tailoring options.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>SUMMARY</TTL><BRK/>
+<BRK/>
+<TXT>Commission the building systems listed herein.  Employ the services of an independent Commissioning Firm.  The 
+Commissioning Firm must be a 1st tier subcontractor of the General or Prime Contractor and must be financially 
+and corporately independent of all other subcontractors.  The Commissioning Firm must employ a Lead Commissioning 
+Specialist that coordinates all aspects of the commissioning process.  Conform to the commissioning procedures 
+outlined in this specification.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="DESIGN-BUILD"><SPT><TTL>UNIFIED FACILTIES GUIDE SPECIFICATION REFERENCES</TTL><BRK/>
+<BRK/>
+<TXT>This specification section is intended to work in conjunction with the requirements included in the Unified Facilities 
+Guide Specifications (UFGS) referenced within this specification section.  Comply with the requirements of the 
+referenced UFGS to the extent specified herein.  UFGS can be found at on the Whole Building Design Guide website 
+at:  http://www.wbdg.org/</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>SYSTEMS TO BE COMMISSIONED</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select the systems to be commissioned.  UFC 1-200-02 requires compliance 
+with the commissioning requirements of ASHRAE 189.1 including selected systems.  <BRK/>
+<BRK/>
+Check with Government PM to determine the systems to be commissioned using this 
+specification; some systems may be handled through alternate means.<BRK/>
+<BRK/>
+Add other systems as appropriate for the facility to be commissioned.  Additional 
+requirements may need to be added to the procedures specified herein.  Examples 
+include elevator controls, fire suppression and alarm systems, security systems, 
+audio/visual systems, and communications systems.<BRK/>
+<BRK/>
+Add requirements andsystems as necessary to meet the requirements of Third Party 
+Certification (TPC) for sustainability such as LEED or Green Globes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Commission the following systems:</TXT><BRK/>
+<BRK/>
+[<LST>Heating, Ventilating, Air Conditioning, and Refrigeration Systems (HVAC)</LST><BRK/>
+][<LST>Building Automation System</LST><BRK/>
+][<LST>Utility Monitoring and Control System</LST><BRK/>
+][<LST>Lighting Systems</LST><BRK/>
+][<LST>Power Distribution Systems</LST><BRK/>
+][<LST>Power Generation Systems</LST><BRK/>
+][<LST>Renewable Energy Systems</LST><BRK/>
+][<LST>Service Water Heating Systems</LST><BRK/>
+][<LST>Plumbing Systems</LST><BRK/>
+][<LST>Natural Gas and Propane Systems</LST><BRK/>
+][<LST>Water Pumping and Mixing Systems</LST><BRK/>
+][<LST>Irrigation Systems</LST><BRK/>
+][<LST>Water Harvesting/Reclaim Systems</LST><BRK/>
+][<LST>Compressed Air and Vacuum Systems</LST><BRK/>
+][<LST>Energy and Water Utility Metering Systems and Sub-Meters</LST><BRK/>
+][<LST>Fenestration Control Systems</LST><BRK/>
+]<TAI OPT="BUILDING ENVELOPE COMMISSIONING"><LST>Building Envelope: include moisture, thermal integrity, and air tightness for the entire buidling envelope 
+including systems such as[ walls,][ fenestration,][ roofing,][ roof openings,][ floors,][ below grade 
+perimeter walls,][ crawlspaces,][ attics,][ slabs-on-grade,][ floor assemblies].</LST><BRK/></TAI>
+<BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (ASHRAE)</ORG><BRK/><BRK/><RID>ASHRAE 180</RID><RTL>(2012) Standard Practice for Inspection and Maintenance of Commercial Building HVAC Systems</RTL><BRK/><BRK/><RID>ASHRAE 202</RID><RTL>(2013; Addenda B 2018) Commissioning Process for Buildings and Systems</RTL><BRK/><BRK/></REF><REF><ORG>ASSOCIATED AIR BALANCE COUNCIL (AABC)</ORG><BRK/><BRK/><RID>ACG Commissioning Guideline</RID><RTL>(2005) Commissioning Guideline</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL ENVIRONMENTAL BALANCING BUREAU (NEBB)</ORG><BRK/><BRK/><RID>NEBB Commissioning Standard</RID><RTL>(2009) Procedural Standards for Whole Building Systems Commissioning of New Construction; 3rd Edition</RTL><BRK/><BRK/></REF><REF><ORG>SHEET METAL AND AIR CONDITIONING CONTRACTORS' NATIONAL ASSOCIATION (SMACNA)</ORG><BRK/><BRK/><RID>SMACNA 1429</RID><RTL>(1994) HVAC Systems Commissioning Manual, 1st Edition</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>ER 25-345-1</RID><RTL>(1991) Systems Operation and Maintenance Documentation</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>COMMUNICATION WITH THE GOVERNMENT</TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist (CxC) must submit all plans, schedules, reports, and documentation directly 
+to the Contracting Officer Representative concurrent with submission to the CQC System Manager. The Lead Commissioning 
+Specialist must have direct communication with the Contracting Officer's Representative regarding all elements 
+of the commissioning process; however, the Government has no direct contract authority with the Lead Commissioning 
+Specialist.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SEQUENCING AND SCHEDULING</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Sequencing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Determine whether testing of the lighting system with furniture in place 
+is feasible with the anticipated construction/furniture schedules.  Delete furniture 
+in place requirement if not appropriate.<BRK/>
+<BRK/>
+If lighting specified for the project does not require a burn-in period, delete 
+the lighting burn-in period prerequisite.<BRK/>
+<BRK/>
+Remove bracketed selection related to Air Barrier Pressure Test item when the 
+test is not required by the specifications.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Complete the following prior to starting Functional Performance Tests of mechanical systems:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  All equipment and systems have been completed, cleaned, flushed, disinfected, calibrated, tested, 
+and operate in accordance with contract documents and construction plans and specifications.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Performance Verification Tests of the controls systems have been completed and the Performance Verification 
+Test Report has been submitted and approved in accordance with <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Testing, Adjusting, and Balancing has been completed and the Testing, Adjusting, and Balancing Report,  
+has been submitted and approved in accordance with <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The building envelope is enclosed according to contract documents with final construction completed[, 
+the Air Barrier Pressure Tests have been completed and the Air Leakage Test Reports and Diagnostic Test 
+Reports have been submitted and approved in accordance with <TAI OPT="DESIGN-BUILD">UFGS Section 07 05 23</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>07 05 23</SRF></TAI> PRESSURE TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  The Pre-Functional Checklists have been submitted and approved.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  The Certificate of Readiness for mechanical systems has been submitted and approved.</LST><BRK/>
+<BRK/>
+<TXT>Complete the following prior to starting Functional Performance Tests of the electrical systems:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  All electrical, power generation, and lighting equipment and systems have been completed, calibrated, 
+tested, and operate in accordance with contract documents and construction plans and specifications.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The building envelope is enclosed according to contract documents with final construction completed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Ceiling tiles, floor coverings, and window coverings are in place.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The Certificate of Readiness for electrical systems has been submitted and approved.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">e.  Lamps have completed a minimum 100 hour burn-in period.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Furniture is in place.</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Project Schedule</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete inapplicable milestones based on systems to be commissioned and 
+the requirements of the technical specifications.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Include the following tasks in the project schedule required by Section <SRF>01 32 01.00 10</SRF> PROJECT SCHEDULE.  Ensure 
+sufficient time is scheduled to accommodate the requirements of this specification section.  The order of items 
+listed below is not intended to imply a specified sequence:</TXT><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">a.  Submission and approval of the Commissioning Firm and Commissioning Specialist</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">b.  Submission and approval of the Testing, Adjusting, and Balancing (TAB) Firm and TAB Specialist specified 
+in <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">c.  Submission of the Design Review Report specified herein.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">d.  Submission of the Design Review Report specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">e.  Submission and approval of the Construction Phase Commissioning Plan</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">f.  Installation of permanent utilities (gas, water, electric)</LST><BRK/>
+<BRK/>
+]<TAI OPT="BUILDING ENVELOPE COMMISSIONING">[<LST INDENT="-0.33">g.  Building Envelope Construction</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">h.  Submission and approval of the Building Envelope Inspection Checklists</LST>]</TAI><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">i.  Air Barrier Pressure Tests specified in <TAI OPT="DESIGN-BUILD">UFGS Section 07 05 23</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>07 05 23</SRF></TAI> PRESSURE 
+TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">j.  Drainage and Vent, Building Sewers, Water Supply Systems and Backflow Prevention Assembly Tests specified 
+in <TAI OPT="DESIGN-BUILD">UFGS Section 22 00 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>22 00 00</SRF></TAI> PLUMBING, GENERAL PURPOSE</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">k.  Factory Acceptance Testing for each of the systems to be commissioned as required by technical specifications</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">l.  Manufacturer's Equipment Start-Up for each of the systems to be commissioned.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">m.  Potable Water System Flushing specified in <TAI OPT="DESIGN-BUILD">UFGS Section 22 00 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>22 00 00</SRF></TAI> PLUMBING, 
+GENERAL PURPOSE</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">n.  Operational Tests of the plumbing system specified in <TAI OPT="DESIGN-BUILD">UFGS Section 22 00 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>22 00 00</SRF></TAI> PLUMBING, GENERAL PURPOSE.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">o.  Potable Water System Disinfection specified in <TAI OPT="DESIGN-BUILD">UFGS Section 22 00 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>22 00 00</SRF></TAI> PLUMBING, GENERAL PURPOSE</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">p.  Submission and approval of the TAB Schematic Drawings, Report Forms, and Procedures specified in <TAI OPT="DESIGN-BUILD">
+UFGS Section 23 09 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">q.  Submission and approval of Duct Air Leakage Test Procedures specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 95 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification 
+Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">r.  Duct Air Leakage Test Execution specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> 
+TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">s.  Submission and approval of the Final Duct Air Leakage Test Report specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 
+93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">t.  Testing, Adjusting, and Balancing (TAB) Field Work required by <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification 
+Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">u.  Submission and approval of the TAB Report specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section 
+<SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">v.  TAB Field Acceptance Testing required by <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> TESTING, 
+ADJUSTING, AND BALANCING FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">w.  Submission and approval of the Start-Up Testing Report specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification 
+Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">x.  Submission and approval of the Performance Verification Test Procedures specified in <TAI OPT="DESIGN-BUILD">UFGS Section 
+23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC.</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">y.  Performance Verification Tests required by  <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION 
+AND CONTROL FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">z.  Performance Verification Test Report specified in <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section  
+<SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">aa.  Pre-Functional Checklist Submittal</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">bb.  Functional Performance Testing for each system to be commissioned</LST><BRK/>
+<BRK/>
+]<TAI OPT="INTEGRATED SYSTEMS TEST"><LST INDENT="-0.33">cc.  Integrated Systems Tests</LST><BRK/>
+<BRK/></TAI>
+[<LST INDENT="-0.33">dd.  Post-Test Deficiency Correction for each system to be commissioned</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">ee.  Re-Testing</LST><BRK/>
+<BRK/>
+]<BRK/>
+<BRK/>
+[<LST INDENT="-0.33">gg.  Training for each of the systems to be commissioned</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">hh.  Systems Manual, <TAI OPT="ARMY">Maintenance Plan, and Service Life Plan </TAI>submission and approval</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">ii.  Submission and approval of the Commissioning Report</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">jj.  Seasonal Testing</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">kk.  Post-Construction Endurance Testing</LST><BRK/>
+<BRK/>
+][<LST INDENT="-0.33">ll.  Post-Construction Site Visit</LST><BRK/>
+<BRK/>
+]</SPT>[<SPT><TTL>Phasing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Paragraph allows for addition of language regarding project phasing for 
+large or complex projects.  Insert appropriate language specific to the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[_____].</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects or Air Force projects 
+managed by the Army, a code of up to three characters within the submittal tags 
+may be used following the "G" designation to indicate the approving authority.  
+Codes for Army projects using the Resident Management System (RMS) are:  "AE" 
+for Architect-Engineer; "DO" for District Office (Engineering Division or other 
+organization in the District Office); "AO" for Area Office; "RO" for Resident 
+Office; and "PO" for Project Office.  Codes following the "G" typically are 
+not used for Navy, Air Force, and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for information only.  When used, a designation following the "G" designation identifies the office that 
+will review the submittal for the Government.  Submittals with an "S" are for inclusion in the Sustainability 
+eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Submit the following in accordance with 
+Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Commissioning Firm</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Lead Commissioning Specialist</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Technical Commissioning Specialists</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Commissioning Firm's Contract</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<TAI OPT="DESIGN-BUILD"><LST><SUB>SD-05 Design Data</SUB></LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the tailoring option DESIGN-BUILD for design-build projects.  Design 
+Data submittals do not apply to design-bid-build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Design Phase Commissioning Plan</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/></TAI>
+<LST><SUB>SD-06 Test Reports</SUB></LST> <BRK/>
+<BRK/>
+<ITM><SUB>Design Review Report</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Interim Construction Phase Commissioning Plan</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Final Construction Phase Commissioning Plan</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<TAI OPT="BUILDING ENVELOPE COMMISSIONING"><ITM><SUB>Template Building Envelope Inspection Checklists</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Building Envelope Inspection Checklists</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/></TAI>
+<ITM><SUB>Pre-Functional Checklists</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Issues Log</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Commissioning Report</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM> <BRK/>
+<BRK/>
+<ITM><SUB>Post-Construction Trend Log Report</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Certificate of Readiness</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-10 Operation and Maintenance Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Training Plan</SUB>; <SUB>G<TAI OPT="ARMY">, RO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Training Attendance Rosters</SUB>; <SUB>G<TAI OPT="ARMY">, RO</TAI></SUB></ITM><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select Systems Manual for LEED projects.  Select Computerized Maintenance 
+Management System Manual for Green Globes projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Systems Manual</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Systems Manual</SUB> <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<TAI OPT="ARMY"><ITM><SUB>Maintenance and Service Life Plans</SUB>; <SUB>G<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/></TAI>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Final Commissioning Report</SUB>; <SUB>S<TAI OPT="ARMY">, DO</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Final Construction Phase Commissioning Plan</SUB>; <SUB>S</SUB></ITM><BRK/>
+<BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>COMMISSIONING FIRM</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For large, complex Design-Build projects, the project team may include 
+the commissioning firm and specialists as a requirement for submission in bid 
+proposals and for evaluation by the source selection evaluation board.  Edit 
+the paragraphs below and the instructions to offerors accordingly.  In that 
+event, the duties of the firm and specialists remain and the qualification requirements 
+move to the instructions to offerors.<BRK/>
+<BRK/>
+Delete the requirement for the Commissioning Firm's Contract if the project 
+will not include Post-Construction Support.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a Commissioning Firm that is certified in commissioning by one of the following: the AABC Commissioning 
+Group (ACG); the National Environmental Balancing Bureau (NEBB); the International Certification Board/Testing, 
+Adjusting, and Balancing Bureau (ICB/TABB), the Building Commissioning Association (BCA); the Association of 
+Energy Engineers (AEE).[  The Commissioning Firm may employ a commissioning professional certified by the University 
+of Wisconsin-Madison or the American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE) 
+as required in paragraph LEAD COMMISSIONING SPECIALIST as an alternative to certification of the Commissioning 
+Firm.]  The Commissioning Firm must be certified in all systems to be commissioned to the extent such certifications 
+are available from the certifying body.  Describe any lapses in certification or disciplinary action taken by 
+the certifying body against the proposed Commissioning Firm or Lead Commissioning Specialist in detail.  Any 
+firm or commissioning professional that has been the subject of disciplinary action by the certifying body within 
+the five years preceding contract award is not eligible to perform any duties related to commissioning.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Require 60 days for submittal of Commissioning Firm and Commissioning 
+Specialists for large or complex projects or projects with long duration.  The 
+first 30 days after Notice to Proceed involves a number of higher priority submittals.  
+For shorter duration contract or small, non-complex projects, 30 days may be 
+more appropriate.  Coordinate with the Government PM for appropriate submittal 
+dates.</NPR><BRK/>
+<BRK/>
+<NPR>If the project will include building envelope commissioning beyond the requirements 
+of Specification Sections <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM or 
+<SRF>07 05 23</SRF> PRESSURE TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS, retain the 
+paragraph regarding air barrier pressure test agency.  If the project will not 
+include a building air barrier or additional commissioning is not required, 
+delete the paragraph regarding air barrier pressure test agency.  Coordinate 
+with the Government PM to determine if additional commissioning is required 
+or will be funded.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  Submit the Commissioning Firm's certification of qualifications including the name of the firm and 
+certifications no later than [30][60] calendar days after Notice to Proceed.  Submit [one][_____] hard 
+copy and an electronic copy.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Commissioning Firm's and Commissioning Specialists' certifications must be maintained for the 
+entire duration of the duties specified herein.  If, for any reason, the firm or a specialist loses a 
+certification during this period, immediately notify the Contracting Officer's Representative and submit 
+another Commissioning Firm or Commissioning Specialist for approval.  All work specified in this specification 
+section performed by the Commissioning Firm or associated Commissioning Specialists is invalid if the 
+Commissioning Firm or Commissioning Specialist loses its certification prior to contract completion and 
+must be performed by an approved successor.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The Commissioning Firm must oversee and assist the General or Prime Contractor with the work specified 
+herein.  [Submit the <SUB>Commissioning Firm's Contract</SUB> including the Scope of Work associated with the paragraph 
+POST-CONSTRUCTION SUPPORT no later than [30][_____] calendar days after approval of the Commissioning 
+Firm.  Submit [one][_____] hard copy and an electronic copy.]</LST><BRK/>
+<BRK/>
+<TAI OPT="BUILDING ENVELOPE COMMISSIONING">[<LST INDENT="-0.33">d.  The Commissioning Firm may act as the Pressure Test Agency required by <TAI OPT="DESIGN-BUILD">UFGS Section 07 05 23</TAI><TAI OPT="DESIGN-BID-BUILD">Specification </TAI><TAI OPT="DESIGN-BID-BUILD">
+Section <SRF>07 05 23</SRF></TAI> PRESSURE TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS provided that all qualification 
+requirements of that specification section are met.</LST>]</TAI><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Lead Commissioning Specialist</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Commissioning Firm must provide a Lead Commissioning Specialist (CxC) that has a minimum of five years of 
+commissioning experience, including two projects of similar size and complexity, and that is one of the following: 
+a NEBB qualified Systems Commissioning Administrator (SCA);  ACG Certified Commissioning Authority (CxA); ICB/TABB 
+Certified Commissioning Supervisor; BCA Certified Commissioning Professional (CCP); AEE Certified Building Commissioning 
+Professional (CBCP); University of Wisconsin-Madison Qualified Commissioning Process Provider (QCxP); ASHRAE 
+Commissioning Process Management Professional (CPMP).</TXT> <BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Submit the Lead Commissioning Specialist's certification of qualifications including the name of 
+the specialist and firm; certifications; years of experience; and a listing of representative projects 
+of similar size and complexity no later than [30][60] calendar days after Notice to Proceed.  Submit 
+[one][_____] hard copy and an electronic copy.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Lead Commissioning Specialists certifications must be maintained for the entire duration of the 
+duties specified herein.  If, for any reason, the specialist loses a certification during this period, 
+immediately notify the Contracting Officer's Representative and submit another Lead Commissioning Specialist 
+for approval.  All work specified in this specification section to be performed by the Lead Commissioning 
+Specialist is invalid if the Lead Commissioning Specialist loses its certification prior to contract 
+completion and must be performed by an approved successor.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The Lead Commissioning Specialist must lead and oversee the commissioning work specified herein and 
+be the primary point of contact for the Government regarding the commissioning work.  One of the Technical 
+Commissioning Specialists may be the Lead Commissioning Specialist provided that all of the qualification 
+requirements are met.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Technical Commissioning Specialists</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The project team must determine whether an electrical commissioning specialist 
+is necessary for the project in coordination with the Government PM. For low 
+complexity electrical systems, the mechanical commissioning specialist may be 
+sufficient for commissioning of electrical systems.  In such a case, edit the 
+specification section accordingly. <BRK/>
+<BRK/>
+If additional commissioning support for building envelope beyond the requirements 
+listed in specification Sections <SRF>07 05 23</SRF> PRESSURE TESTING AN AIR BARRIER SYSTEM 
+FOR AIR TIGHTNESS and <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM is desired, 
+retain the associated paragraph.  If the project will not include a building 
+air barrier or additional commissioning is not required, deselect the BUILDING 
+ENVELOPE COMMISSIONING tailoring option (delete the associated paragraph).  
+Coordinate with Government PM to determine if this additional support is required 
+and the qualifications of the associated specialist.<BRK/>
+<BRK/>
+If additional systems are added, add qualification requirements for the appropriate 
+technical commissioning specialist.  Example:  Add fire protection technical 
+specialist qualifications if fire protection systems are added to scope of this 
+specification.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Technical Commissioning Specialists, employed by the Commissioning Firm and that have the following qualifications, 
+must perform the technical work specified herein associated with each system to be commissioned:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Mechanical Technical Commissioning Specialist:  The technical work associated with mechanical systems 
+including [Heating, Ventilating, Air Conditioning, and Refrigeration Systems]; [Building Automation System]; 
+[Utility Monitoring and Control System]; [Service Water Heating Systems]; [Plumbing Systems]; [Water 
+Pumping and Mixing Systems]; [Irrigation Systems]; [Compressed Air and Vacuum Systems]; [Energy and Water 
+Utility Metering Systems] must be performed by a Commissioning Specialist certified by NEBB, ACG, ICB/TABB, 
+or BCA in the commissioning of HVAC systems with five years of experience in the commissioning of HVAC 
+systems.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Electrical Technical Commissioning Specialist:  The technical work associated with electrical systems 
+including [Lighting Systems]; [Power Distribution Systems]; [Power Generation Systems]; [Renewable Energy 
+Systems]; [Electrical Utility Metering Systems] must be performed by an engineering technician certified 
+by the InterNational Electrical Testing Association (NETA) with five years of experience inspecting, 
+testing, and calibrating electrical distribution and generation equipment, systems, and devices.</LST><BRK/>
+<BRK/>
+<TAI OPT="BUILDING ENVELOPE COMMISSIONING"><LST INDENT="-0.33">c.  Building Envelope Technical Commissioning SpecialistThe technical work associated with the Building 
+Envelope system must be performed by a [registered architect with five years of building envelope design 
+or construction experience][or a professional with training and certification as an Air Barrier Installer 
+from the Air Barrier Association of America (ABAA) or other 3rd party air barrier association.  The Building 
+Envelope Technical Commissioning Specialist must have experience coordinating and instructing personnel 
+involved in installation, joining, and sealing of air barrier materials and components].  [The Commissioning 
+Firm team member with the required experience related to the building envelope may act as the Air Barrier 
+Inspector required by <TAI OPT="DESIGN-BUILD">UFGS Section 07 27 10.00 10</TAI><TAI OPT="DESIGN-BID-BUILD">S</TAI><TAI OPT="DESIGN-BID-BUILD">pecification Section <SRF>07 27 10.00 10</SRF></TAI> BUILDING AIR BARRIER 
+SYSTEM provided that all qualification requirements of that specification section are met.] [The Commissioning 
+Firm team member with the required experience related to the building envelope may act as the thermographer 
+required by <TAI OPT="DESIGN-BUILD">UFGS Section 07 05 23</TAI><TAI OPT="DESIGN-BID-BUILD">S</TAI><TAI OPT="DESIGN-BID-BUILD">pecification Section <SRF>07 05 23</SRF></TAI> PRESSURE TESTING AN AIR BARRIER SYSTEM 
+FOR AIR TIGHTNESS provided that all of the qualification requirements of that specification section are 
+met.]</LST></TAI><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[c][d].  Submit the Technical Commissioning Specialist's certification of qualifications including the 
+name of the specialist and firm; certifications; years of experience; and a listing of representative 
+projects of similar size and complexity no later than [30][60] calendar days after Notice to Proceed.  
+Submit [one][_____] hard copy and an electronic copy.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Commissioning Standard</TTL><BRK/>
+<BRK/>
+<TXT>Comply with the requirements of the commissioning standard under which the Commissioning Firm and Specialists 
+qualifications are approved.  When the firm and specialists are certified by BCA, AEE, ASHRAE, or the University 
+of Wisconsin-Madison, comply with the requirements of one of the acceptable standards unless otherwise stated 
+herein.  The acceptable standards are <RID>ACG Commissioning Guideline</RID>, <RID>NEBB Commissioning Standard</RID>, <RID>SMACNA 1429</RID>, 
+or <RID>ASHRAE 202</RID>.  Comply with applicable NETA testing standards for electrical systems.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Implement all recommendations and suggested practices contained in the Commissioning Standard and 
+electrical test standards.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Use the Commissioning Standard for all aspects of Commissioning, including calibration of instruments.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Where the instrument manufacturer calibration recommendations are more stringent than those listed 
+in the Commissioning Standard, adhere to the manufacturer calibration recommendations.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  All quality assurance provisions of the Commissioning Standard such as performance guarantees are 
+part of this contract</LST>.  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  The Commissioning Specialists must develop commissioning procedures for any systems or system components 
+not covered in the Commissioning Standard.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Use any new requirements, recommendations, and procedures published or adopted prior to contract 
+solicitation by the body responsible for the Commissioning Standard.</LST><BRK/>
+<BRK/></SPT>
+</SPT>[<SPT><TTL>SUSTAINABILITY THIRD PARTY CERTIFICATION (TPC)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Retain this paragraph for projects with sustainability related Third 
+Party Certification (TPC) requirements which include specification section 
+<SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Delete for projects with no TPC requirement.<BRK/>
+<BRK/>
+This paragraph includes a tailoring option for projects pursuing LEED version 
+4 to call attention to additional requirements that the commissioning firm/specialists 
+will be responsible for completing.  Edit the bracketed selections based on 
+the credits (options and paths) pursued.  Note that, for LEED projects, the 
+work will be performed by the Contractor's commissioning firm.  The Government 
+commissioning specialist, for design-bid-build projects, may need to act as 
+the LEED Commissioning Authority to meet the rules requiring contractual relationship 
+requirements.  Existing LEED interpretations allow for the LEED Commissioning 
+Authority to "review" and "approve" much of the work, with some minimal on-site 
+work by the LEED Commissioning Authority.  Ensure that the Government Commissioning 
+Specialist meets the qualification requirements for LEED Commissioning Authority 
+and is resourced to perform the functions minimally required for LEED.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Commissioning Specialists must execute and document the commissioning activities required of the Commissioning 
+Authority for the purposes of complying with the Third Party Certification (TPC) requirements for the project 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING. Provide all commissioning documentation required 
+to meet the TPC requirements.<TAI OPT="LEEDV4"><BRK/>
+<BRK/>
+The Commissioning Specialists must provide any additional documentation or perform additional acitivities required 
+by Leadership in Energy and Environmental Design version 4 (LEEDv4) Fundamental Commissioning and Verification 
+including such documents as the Current Facilities Requirements and Operations and Maintenance Plan.  [In addition, 
+the Commissioning Specialists must provide any additional documentation and perform additional activities as 
+required by LEEDv4 Enhanced Commissioning [Option 1: Path 1 Enhanced Commissioning][Option 1: Path 2 Enhanced 
+and Monitoring-Based Commissioning][ and Option 2 Envelope Commissioning] including such activities as [developing 
+and providing an ongoing commissioning plan][, developing and implementing a monitoring-based commissioning plan][, 
+and compliance with NIBS Guideline 1 for envelope commissioning].]</TAI></TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL><SUB>ISSUES LOG</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist must develop and maintain an Issues Log for tracking and resolution of all 
+deficiencies discovered through submittal reviews, inspection, and testing.  Include the date of final resolution 
+of issues as confirmed by the Commissioning Specialist.  Submit the Issues Log on a monthly basis at a minimum.  
+At any point during construction, any commissioning team member finding deficiencies may communicate those deficiencies 
+in writing to the Commissioning Specialist for inclusion into the Issues Log.</TXT><BRK/>
+<BRK/>
+<TXT>Track construction deficiencies identified in the Issues Log using QCS as specified in Specification Section 
+<SRF>01 45 00.15 10</SRF> RESIDENT MANAGEMENT SYSTEM CONTRACTOR MODE(RMS CM).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>CERTIFICATE OF READINESS</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the requirement for Building Envelope Inspection Checklists where 
+additional commissioning support beyond the requirements of Section 
+<SRF>07 05 23</SRF> PRESSURE TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS and 
+<SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM is not included in this section.  <BRK/>
+<BRK/>
+Retain the Air Leakage Test and Diagnostic Test Reports, if the tests are required 
+in the contract,  as a requirement for the Certificate of Readiness.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to scheduling Functional Performance Tests for each system, issue a Certificate of Readiness for the system 
+certifying that the system is ready for Functional Performance Testing.  The Certificate of Readiness must include, 
+for each system to be commissioned, all equipment and system start-up reports; Performance Verification Test 
+Reports; <TAI OPT="BUILDING ENVELOPE COMMISSIONING">completed Building Envelope Inspection Checklists; </TAI>completed Pre-Functional Checklists; Testing, Adjusting, 
+and Balancing (TAB) Report; HVAC Controls Start-Up Reports[; and the Air Leakage Test Reports and Diagnostic 
+Test Reports] to the extent applicable to the system.  The Contractor; the Lead Commissioning Specialist; the 
+Contractor's Quality Control Representative; the Mechanical, Electrical, Controls, and TAB subcontractor representatives 
+must sign and date the Certificate of Readiness.  Submit the Certificate of Readiness for each system no later 
+than 14 calendar days prior to Functional Performance Tests of that system.  Submit [one][_____] hard copy and 
+an electronic copy.  Do not schedule Functional Performance Tests for a system until the Certificate of Readiness 
+for that system receives approval by the Government.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TAI OPT="DESIGN-BUILD"><SPT><TTL>DESIGN PHASE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the tailoring option DESIGN-BUILD for design-build projects.  DESIGN 
+PHASE paragraph do not apply to design-bid-build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Design Commissioning Coordination Meeting</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate name of appropriate design submittal with the design-build 
+RFP requirements.  The intent is for the meeting to occur prior to 50 percent 
+design completion for specific systems to be commissioned.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Lead Commissioning Specialist (CxC) must lead a meeting prior to the interim design submittal for any system 
+required to be commissioned to discuss the commissioning process including project contract requirements, lines 
+of communication, roles and responsibilities, schedules, and documentation requirements.  The Contractor's Superintendent 
+or Project Manager, the Contractor's Quality Control Representative, the Designers of Record for the commissioned 
+systems, and the Government must attend this meeting.  The User and <TAI OPT="ARMY">[a Directorate of Public Works Representative][a 
+Reserve Support Command Representative]</TAI><TAI OPT="AIR FORCE">a Base Civil Engineer Office Representative</TAI>, [_____] may attend this meeting.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Design Phase Commissioning Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist (CxC) must prepare the Design Phase Commissioning Plan.  Submit the Design 
+Phase Commissioning Plan no later than 14 calendar days after approval of the Commissioning Specialists.  Submit 
+[one][_____] hard copy and an electronic copy.</TXT><BRK/>
+<BRK/>
+<TXT>Outline the commissioning process, commissioning team members and responsibilities, lines of communication, and 
+documentation requirements for the design phase of the project in the Design Phase Commissioning Plan.  Identify 
+the Commissioning Standard chosen for the project.</TXT><BRK/>
+<BRK/>
+<BRK/>
+<BRK/></SPT>
+<SPT><TTL>Design Review</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Owner's Project Requirements (OPR) Document incorporates criteria 
+and owner/user needs, relative to commissioned systems, into a single document.  
+This document aids the commissioning team in determining what is most important 
+to the Owner (Government) for the project.  The OPR is written in layman terms 
+and does not form a part of the construction contract.  The Commissioning team 
+reviews the construction and design for conformance to the OPR in addition to 
+the contract requirements.  The requirement for this element of review is not 
+intended to imply that the OPR is a part of the contract.  If an issue is in 
+conformance with the contract but not with the OPR, the issues must be identified 
+and properly resolved by the project team.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Lead Commissioning Specialist and Technical Commissioning Specialists must review the design-build construction 
+contract, Design Plans and Specifications, the Basis of Design, and the Owner's Project Requirements Document 
+prior to 60 percent completion of the design.  The Owner's Project Requirements Document is attached as Appendix 
+A.  The Owner's Project Requirements Document is not contract requirements and is provided for commissioning 
+review purposes only.  The Commissioning Specialists must assess the completeness and clarity of the Owner's 
+Project Requirements, verify that the requirements stated in the design-build construction contract and the Owner's 
+Project Requirements are addressed in the Basis of Design, and verify that the Design Plans and Specifications 
+are prepared in accordance with the Basis of Design, the design-build construction contract, the Unified Facilities 
+Criteria (UFC) referenced by the design-build construction contract, and the Owner's Project Requirements.  The 
+Commissioning Specialists must also identify any deficiencies that would prevent the building systems from operating 
+or performing effectively.  The Commissioning Specialists must backcheck the reviewed documents at all subsequent 
+design documentation submissions. </TXT> <BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with the Government PM to determine whether the design review 
+report should be submitted with the corrected or certified final design documents 
+for design-build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+<TXT>The Commissioning Specialists must provide a <SUB>Design Review Report</SUB> for each submittal identifying any discrepancies 
+between the reviewed documents or deficiencies that would prevent the building systems and features from operating 
+or performing effectively in accordance with the design-build construction contract and Owner's Project Requirements 
+Document and from being adequately maintainable.  Individually list each deficiency and the corresponding proposed 
+corrective action necessary for proper system performance in the Design Review Report.  Submit [one][_____] hard 
+copy and an electronic copy of the report with the [corrected][certified] final design submission.  The Contracting 
+Officer's Representative, the Lead Commissioning Specialist, and the Designers of Record for the associated systems 
+must meet, discuss, and resolve any outstanding items contained in the report no later than 14 calendar days 
+after submission of the report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></TAI><SPT><TTL>CONSTRUCTION PHASE</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Construction Commissioning Coordination Meeting</TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist must lead a Construction Commissioning Coordination Meeting no later than <TAI OPT="DESIGN-BID-BUILD">14 
+days after approval of the Commissioning Firm and Commissioning Specialists</TAI><TAI OPT="DESIGN-BUILD">30 days following construction notice 
+to proceed</TAI> to discuss the commissioning process including contract requirements, lines of communication, roles 
+and responsibilities, schedules, documentation requirements, inspection and test procedures, and logistics as 
+specified in this specification section.  The Contractor's Superintendent or Project Manager, the Contractor's 
+Quality Control Representative, and the Government must attend this meeting.  Invite the User and <TAI OPT="ARMY">[a Directorate 
+of Public Works Representative][a Reserve Support Command Representative]</TAI><TAI OPT="AIR FORCE">a Base Civil Engineer Office Representative</TAI>
+, [_____] to attend this meeting.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="DESIGN-BID-BUILD">[<SPT><TTL>Design Phase Commissioning Plan</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the DESIGN-BID-BUILD tailoring option for applicable projects.  This 
+paragraph does not apply to design-build projects.  If a design phase commissioning 
+plan was developed during design, include this paragraph and provide the plan 
+as Appendix C.  Otherwise, delete this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A commissioning plan developed during design phase is provided as Appendix C for information only.  The design 
+phase commissioning plan does not form a part of this contract and is provided for commissioning review purposes 
+only.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI><SPT><TTL>Construction Phase Commissioning Plan</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If additional commissioning support for building envelope beyond the 
+requirements listed in specification Sections <SRF>07 05 23</SRF> PRESSURE TESTING AN AIR 
+BARRIER SYSTEM FOR AIR TIGHTNESS and <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM 
+is desired, select the BUILDING ENVELOPE COMMISSIONING tailoring option.  If 
+the project will not include a building air barrier or additional commissioning 
+is not required, deselect the BUILDING ENVELOPE COMMISSIONING tailoring option.  
+Coordinate with Government PM to determine if this additional support is required.<BRK/>
+<BRK/>
+Integrated Systems Tests (IST) may be applicable for project with complex interactive 
+operation between different systems such as fire protection, electrical distribution, 
+emergency power, and HVAC.  An example is a test of HVAC and fire system operation 
+with primary power down and the system switching to back-up utility or generators.  
+The project team must determine whether IST will be required for the project.  
+Select the INTEGRATED SYSTEMS TEST tailoring option if applicable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+<SPT><TTL><SUB>Interim Construction Phase Commissioning Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist (CxC) must prepare the Interim Construction Phase Commissioning Plan.  Submit 
+the Interim Construction Phase Commissioning Plan no later than 30 calendar days after the Construction Commissioning 
+Coordination Meeting and no later than 14 days prior to the start of construction of the building envelope.  
+Submit [one][_____] hard copy and an electronic copy.</TXT><BRK/>
+<BRK/>
+<TXT>Identify the commissioning and testing standards and outline the overall commissioning process, the commissioning 
+schedule, the commissioning team members and responsibilities, lines of communication, documentation requirements 
+for the construction phase of the project<TAI OPT="BUILDING ENVELOPE COMMISSIONING">, and Template Building Envelope Inspection Checklists</TAI> in the Interim 
+Construction Phase Commissioning Plan.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Checklists</TTL><BRK/>
+<BRK/>
+<TXT>Download example <TAI OPT="BUILDING ENVELOPE COMMISSIONING">Building Envelope Inspection Checklists, </TAI>Pre-Functional Checklists<TAI OPT="INTEGRATED SYSTEMS TEST">,</TAI><TAI OPT="INTEGRATED SYSTEMS TEST"> Integrated Systems Test 
+Checklists,</TAI> and Functional Performance Test Checklists for specification section <SRF>01 91 00.15 10</SRF> TOTAL 
+BUILDING COMMISSIONING at the following location:  <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables">http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL>
+.  The checklists submitted in the Interim and Final Construction Phase Commissioning Plans must contain the 
+same level of detail shown in the examples.  The submitted checklists are not required to match the format of 
+the examples.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TAI OPT="BUILDING ENVELOPE COMMISSIONING"><TTL><SUB>Template Building Envelope Inspection Checklists</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Building Envelope Technical Commissioning Specialist must develop the Template Building Envelope Inspection 
+Checklists. Include all items that verify the building materials and construction maintain the required thermal 
+and moisture integrity and air tightness of the building envelope system in the Building Envelope Inspection 
+Checklists.</TXT></TAI><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Final Construction Phase Commissioning Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The Lead Commissioning Specialist (CxC) must prepare the Final Construction Phase Commissioning Plan.  Submit 
+the Final Construction Phase Commissioning Plan no later than 30 calendar days prior to the start of Pre-Functional 
+Checks.  Submit [one][_____] hard copy and an electronic copy. Once approved, file the approved plan in the Sustainability 
+eNotebook.</TXT><BRK/>
+<BRK/>
+<TXT>Include the information provided in the Interim Construction Phase Commissioning Plan.  In addition, the Technical 
+Commissioning Specialist must develop the Pre-Functional Checklists<TAI OPT="INTEGRATED SYSTEMS TEST">, Integrated Systems Test Checklists,</TAI> and 
+Functional Performance Test Checklists for each building, for each system required to be commissioned, and for 
+each component for inclusion in the Final Construction Phase Commissioning Plan.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Pre-Functional Checklists</TTL><BRK/>
+<BRK/>
+<TXT>The Pre-Functional Checklists must include items for physical inspection or testing that demonstrate that installation 
+and start-up of equipment and systems is complete.  Refer to paragraph Pre-Functional Checks for more information.  </TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Functional Performance Test Checklists</TTL><BRK/>
+<BRK/>
+<TXT>Functional Performance Test Checklists must include procedures that  explain, step-by-step, the actions and expected 
+results that will demonstrate that the system performs in accordance with the contract.  Refer to paragraph Functional 
+Performance<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems</TAI> Tests for more information.  Include the following sections and details appropriate 
+to the systems being tested in the Functional Performance Test Checklists:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Notable system features including information about controls to facilitate understanding of system 
+operation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Conclusions and recommendations.  Conclusions must clearly indicate if system does or does not perform 
+in accordance with contract requirements.  Recommendation must clearly indicate that the system should 
+or should not be accepted by the Government.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Test conditions including date, beginning and ending time, and beginning and ending outdoor air conditions</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Attendees </LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Identification of the equipment involved in the test</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Control system feature identification </LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Point-to-point observations including demonstrating system flow meters and sensors have been calibrated 
+and are correctly displayed on the Operator work station</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Actuator operation observations demonstrating actuator responses to commands from the control system</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  As-found condition of the system operation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  List of test items with step numbers along with the corresponding feature or control operation, intended 
+test procedure, expected system response, and pass/fail indication.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Space for comments for each test item.</LST><BRK/>
+<BRK/></SPT>
+<TAI OPT="INTEGRATED SYSTEMS TEST"><SPT><TTL>Integrated Systems Test Checklists</TTL><BRK/>
+<BRK/>
+<TXT>Integrated Systems Test Checklists must include test procedures that explain, step-by-step, the actions and expected 
+results that will demonstrate that the interactive operations between systems performs in accordance with the 
+contract.  Refer to paragraph Functional Performance and Integrated Systems Tests for more information.  Include 
+the following sections in the Integrated Systems Test Checklists:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Notable features of the interconnected systems organized by discipline including information to facilitate 
+understanding of system operation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Conclusions and recommendations.  Conclusions must clearly indicate if the systems do or do not perform 
+in accordance with contract requirements.  Recommendation must clearly indicate that the systems should 
+or should not be accepted by the Government</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Test conditions including date and beginning and ending time</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Attendees </LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Identification of the equipment and systems involved in the test</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  List of test items with step numbers along with the corresponding feature or control operation, intended 
+test procedure, expected system response, and pass/fail indication.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Space for comments for each test item.</LST><BRK/>
+<BRK/></SPT>
+</TAI></SPT></SPT><TAI OPT="DESIGN-BID-BUILD">[<SPT><TTL>Design Review</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the DESIGN-BID-BUILD tailoring option for applicable projects.  This 
+paragraph does not apply to design-build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Lead Commissioning Specialist and Technical Commissioning Specialists must review the construction contract 
+plans and specifications, the Owner's Project Requirements Document, and the Basis of Design.  The Owner's Project 
+Requirements Document is attached as Appendix A.  The Basis of Design is attached as Appendix B.  The Owner's 
+Project Requirements Document and Basis of Design documents are not contract documents and are provided for commissioning 
+review purposes only.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Advise the Contracting Officer's Representative of any discrepancies between the Basis of Design 
+and Owner's Project Requirements, deficiencies of the design to comply with the Owner's Project Requirements 
+or Basis of Design, and deficiencies that would prevent the building systems and features from operating 
+or performing effectively and from being adequately maintainable.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Commissioning Specialists must provide a <SUB>Design Review Report</SUB> individually listing each deficiency 
+and the corresponding proposed corrective action necessary for proper system operation or performance.  
+Submit [one][_____] hard copy and an electronic copy of the report to the Contracting Officer's Representative 
+no later than 14 days after approval of the Commissioning Specialists.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The Lead Commissioning Specialist must participate in a meeting to discuss any items contained in 
+the report no later than 14 calendar days after submission of the report.</LST><BRK/>
+<BRK/></SPT>
+]</TAI><SPT><TTL>Construction Submittals</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the tailoring in this paragraph if the section is being used 
+in a Design-Build project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide all submittals associated with the systems to be commissioned, including shop drawings; equipment submittals; 
+test plans, procedures, and reports; and resubmittal's to the Commissioning Specialists.  The Technical Commissioning 
+Specialist must review the submittals to the extent necessary verify that the equipment and system installation 
+will comply with the contract requirements<TAI OPT="DESIGN-BUILD">, the Unified Facilities Criteria (UFC) referenced by the design-build 
+contract,</TAI> and the requirements of the Basis of Design and the Owner's Project Requirements Document.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Inspection and Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If additional commissioning support for building envelope beyond the 
+requirements listed in specification sections <SRF>07 05 23</SRF> PRESSURE TESTING AN AIR 
+BARRIER SYSTEM FOR AIR TIGHTNESS and <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM 
+is desired, retain the building envelope inspection inspection requirements; 
+otherwise, delete the building envelope requirement.  Coordinate with Government 
+PM to determine if this additional support is required.<BRK/>
+<BRK/>
+Integrated Systems Tests (IST) may be applicable for project with complex interactive 
+operation between different systems such as fire protection, electrical distribution, 
+emergency power, and HVAC.  An example is a test of HVAC and fire system operation 
+with primary power down and the system switching to back-up utility or generators.  
+The project team must determine whether IST will be required for the project.  
+Select the INTEGRATED SYSTEMS TEST tailoring option if applicable</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Demonstrate that all system components have been installed, that each control device and item of equipment operates, 
+and that the systems operate and perform, including interactive operation between systems, in accordance with 
+contract documents and the Owner's Project Requirements.  Requirements in related specification sections are 
+independent from the requirements of this section and do not satisfy any of the requirements specified in this 
+specification section.  Provide all materials, services, and labor required to perform the Pre-Functional Checks<TAI OPT="BUILDING ENVELOPE COMMISSIONING">
+, Building Envelope Inspection</TAI><TAI OPT="INTEGRATED SYSTEMS TEST">, Integrated Systems Tests,</TAI> and Functional Performance Tests.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Commissioning Team</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select the contractors and design team members based on systems to be 
+commissioned and the commissioning plan.<BRK/>
+<BRK/>
+Select the correct representative from the installation.  DPW for Army Installations.  
+BCE for Air Force Installations.  RSC for Army Reserve Facilities generally  
+when not on an installation; DPW otherwise.   Verify the correct representative 
+with the Government PM.  <BRK/>
+<BRK/>
+Coordinate with the Government PM to determine if <BRK/>
+designer attendance at Functional Performance Tests will be required.  For design-bid-build 
+projects, the designer only attends if the AE contract requires designer to 
+attend or if the in-house team will be funded to attend.  For design-build projects, 
+this specification may require attendance by the designers, if necessary.  Edit 
+the listing of team members as appropriate.<BRK/></NPR>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a commissioning representative for each sub-contractor associated with the systems to be commissioned.  
+Each commissioning representative is responsible for coordination of their respective sub-contractor's execution 
+of the commissioning activities and participation in the inspection and testing required by this specification 
+section.  The designers listed below are the designers of record for their respective systems.  Substitutes must 
+be approved by the Contracting Officer's Representative.</TXT><BRK/>
+<BRK/>
+<TAI OPT="BUILDING ENVELOPE COMMISSIONING"><SPT><TTL>Building Envelope Inspections Team</TTL><BRK/>
+<BRK/>
+<TXT>The following team members must participate in building envelope inspections:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="6">
+      <COL AUTOWIDTH="0" WIDTH="134.25"/>
+      <COL AUTOWIDTH="0" WIDTH="321.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CxB</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Building Envelope Technical Commissioning Specialist</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">QAR</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contracting Officer's Quality Assurance Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CQC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Quality Control Personnel</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">BEC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Building Envelope Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[AD]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Architectural Designer]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Mechanical System Pre-Functional Checks Team</TTL><BRK/>
+<BRK/>
+<TXT>The following team members must participate in Pre-Functional checks of mechanical systems:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="10">
+      <COL AUTOWIDTH="0" WIDTH="100.50"/>
+      <COL AUTOWIDTH="0" WIDTH="355.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CxM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Mechanical System Technical Commissioning Specialist</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">QAR</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contracting Officer's Quality Assurance Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CQC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Quality Control Personnel</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">MC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Mechanical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">EC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Electrical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Controls Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TABC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's TAB Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Plumbing Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">IC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Irrigation Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Electrical System Pre-Functional Checks Team</TTL><BRK/>
+<BRK/>
+<TXT>The following team members must participate in Pre-Functional checks of electrical systems:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="100.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="355.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CxE</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Electrical System Technical Commissioning Specialist</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">QAR</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contracting Officer's Quality Assurance Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CQC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Quality Control Personnel</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">EC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Electrical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>[Mechanical] [_____] Systems Test Team</TTL><BRK/>
+<BRK/>
+<TXT>The following team members must participate in Functional Performance[, Seasonal,]<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Testing</TAI>
+ of mechanical systems:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="13">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="100.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="355.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CxM</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Mechanical System Technical Commissioning Specialist</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">QAR</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contracting Officer's Quality Assurance Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CQC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Quality Control Personnel</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">MC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Mechanical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">EC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Electrical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Controls Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TABC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's TAB Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Plumbing Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">IC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Contractor's Irrigation Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[MD]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Mechanical Designer]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[PD]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Plumbing Designer]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="51.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[ID]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Irrigation Designer]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>[Electrical] [_____] Systems Test Team</TTL><BRK/>
+<BRK/>
+<TXT> The following team members must participate in Functional Performance <TAI OPT="INTEGRATED SYSTEMS TEST">and Integrated Systems </TAI>Testing of electrical 
+systems:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="6">
+      <COL AUTOWIDTH="0" WIDTH="100.50"/>
+      <COL AUTOWIDTH="0" WIDTH="355.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CxE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Electrical System Technical Commissioning Specialist</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">QAR</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contracting Officer's Quality Assurance Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CQC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Quality Control Personnel</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">EC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Contractor's Electrical Commissioning Representative</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="28.50">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[ED]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Electrical Designer]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Other Pre-Functional and Functional Performance Participants</TTL> <BRK/>
+<BRK/>
+<TXT>The following may participate as team members during Pre-Functional Checks and Functional Performance Testing:</TXT><BRK/>
+<BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="100.50"/>
+      <COL AUTOWIDTH="0" WIDTH="355.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Designation</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Function</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[DPW]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Directorate of Public Works Representative]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[BCE]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Base Civil Engineer Office Representative]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[RSC]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Reserve Support Command Representative]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">User</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Using Agent's Representative</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+</SPT><TAI OPT="BUILDING ENVELOPE COMMISSIONING"><SPT><TTL>Building Envelope Inspection</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Specification section <SRF>07 05 23</SRF> PRESSURE TESTING AN AIR BARRIER SYSTEM 
+FOR AIR TIGHTNESS and <SRF>07 27 10.00 10</SRF> BUILDING AIR BARRIER SYSTEM describe requirements 
+for Air Barrier Systems and Testing including inspector and test agency requirements.  
+This paragraph may be used if additional commissioning support for the building 
+envelope is necessary; otherwise, delete this paragraph. Coordinate with Government 
+PM to determine if this additional support is required.</NPR><BRK/>
+<BRK/>
+<NPR>Paragraph is tailored for BUILDING ENVELOPE COMMISSIONING</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Document building envelope inspection by the commissioning team using the approved Template Building Envelope 
+Inspection Checklists.  Indicate commissioning team member inspection and acceptance of each Building Envelope 
+Inspection Checklist item by initials at the time they are inspected and found to be in conformance with contract 
+requirements.  Inspect checklist items before they become hidden as construction progresses.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Submit the completed and initialed <SUB>Building Envelope Inspection Checklists</SUB> no later than 7 calendar 
+days after completion of inspection of all checklists items.  Submit [one][_____] hard copy and an electronic 
+copy.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Building Envelope Technical Commissioning Specialist must make at least two site visits to the 
+site to observe construction of the building envelope in-progress.  On each visit, the Building Envelope 
+Commissioning Specialist must review the Contractor's in-progress checklists to ensure that the commissioning 
+team is inspecting the building envelope as required.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The Building Envelope Technical Commissioning Specialist must witness the building envelope pressure 
+tests and diagnostic tests specified in <TAI OPT="DESIGN-BUILD">UFGS Section 07 05 23</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>07 05 23</SRF></TAI> PRESSURE 
+TESTING AN AIR BARRIER SYSTEM FOR AIR TIGHTNESS.  The Building Envelope Technical Commissioning Specialist 
+must review the resulting reports and provide recommendations for correction of any deficiencies or further 
+testing.</LST><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Pre-Functional Checks</TTL><BRK/>
+<BRK/>
+<TXT><SUB>Pre-Functional Checklists</SUB> from the approved Final Construction Phase Commissioning Plan must be completed by 
+the commissioning team.  Complete one Pre-Functional Checklist for each individual item of equipment or system 
+for each system required to be commissioned including, but not limited to, ductwork, piping, equipment, fixtures 
+(lighting and plumbing), and controls.  Indicate commissioning team member inspection and acceptance of each 
+Pre-Functional Checklist item by initials.  Acceptance of each Pre-Functional Checklist item by each team member 
+indicates that item conforms to the construction contract<TAI OPT="DESIGN-BUILD"> and accepted design</TAI> requirements in their area of responsibility.  
+Technical Commissioning Specialist acceptance of each Pre-Functional Checklist item indicates that each item 
+has been installed correctly and in accordance with contract documents and the Owner's Project Requirements.  
+Submit the completed and initialed Pre-Functional Checklists no later than 7 calendar days after completion of 
+inspection of all checklists items for each system.  Submit [one][_____] hard copy and an electronic copy.  Include 
+manufacturer start-up checklists associated with equipment with the submission of the Pre-Functional Checklists.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Testing, Adjusting, and Balancing (TAB) Report and Field Acceptance Testing</TTL><BRK/>
+<BRK/>
+<TXT>The Mechanical System Technical Commissioning Specialist must review the pre-final TAB Report required by <TAI OPT="DESIGN-BUILD">UFGS 
+Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC.  Identify any deficiencies 
+to the Contracting Officer's Representative and the Contractor's Quality Control Personnel.  Resolve all deficiencies 
+prior to TAB Field Acceptance Testing. <BRK/>
+<BRK/>
+The Mechanical System Technical Commissioning Specialist must witness the TAB Field Acceptance Testing specified 
+by <TAI OPT="DESIGN-BUILD">UFGS Section 23 05 93</TAI><TAI OPT="DESIGN-BID-BUILD">Specification </TAI><TAI OPT="DESIGN-BID-BUILD">Section <SRF>23 05 93</SRF></TAI> TESTING, ADJUSTING, AND BALANCING FOR HVAC.  Include a 
+certification by the Mechanical Technical Specialist that no outstanding deficiencies exist in the systems relative 
+to Testing, Adjusting, and Balancing with the final TAB Report submittal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>HVAC Controls Test Reports</TTL><BRK/>
+<BRK/>
+<TXT>The Mechanical System Technical Commissioning Specialist must review the Start-Up Testing Report and the PVT 
+Procedures and Reports required by <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL 
+FOR HVAC [and <TAI OPT="DESIGN-BUILD">UFGS Section 25 10 10</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section </TAI><SRF>25 10 10</SRF> UTILITY MONITORING AND CONTROL SYSTEM (UMCS) 
+Front End and Integration].  Include a certification by the Mechanical System Technical Commissioning Specialist 
+that the submittals contain no deficiencies or that the submittals do not indicate any deficiencies in the HVAC 
+systems or HVAC control systems with each of these submittals.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Tests</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Functional Performance<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems</TAI> Tests</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Integrated Systems Tests (IST) may be applicable for project with complex 
+interactive operation between different systems such as fire protection, electrical 
+distribution, emergency power, and HVAC.  An example is a test of HVAC and fire 
+system operation with primary power down and the system switching to back-up 
+utility or generators.  The project team must determine whether IST will be 
+required for the project.  Select the INTEGRATED SYSTEMS TEST tailoring option 
+if applicable</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Schedule Functional Performance Tests for each system only after the Certificate of Readiness has been approved 
+by the Government for the system.  Correct all deficiencies identified through any prior review, inspection, 
+or test activity before the start of Functional Performance Tests.<TAI OPT="INTEGRATED SYSTEMS TEST">  Perform Integrated Systems Tests only after 
+the Functional Performance Tests for each associated system are completed with all deficiencies resolved and 
+after the related Functional Performance Test Checklists have been signed by each commissioning team member.</TAI></TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI> must be performed with the Contracting 
+Officer's Quality Assurance Representative present.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Abort Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> or Integrated Systems Tests</TAI> when any system deficiency prevents 
+the successful completion of the test.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">c. Technical Commissioning Specialists must lead and document all Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated 
+Systems Tests</TAI> for the systems to be commissioned with the Contractor and appropriate sub-contractors 
+performing the Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI>.  The representatives listed 
+in the paragraph Commissioning Team must attend the tests.  Abort Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> or Integrated 
+Systems Tests</TAI> when any required commissioning team member is not present for the test.</LST><BRK/>
+<BRK/>
+<SPT><TTL>Checklist</TTL>  <BRK/>
+<BRK/>
+<TXT>Use the Functional Performance Test<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Test</TAI> Checklists from the approved Final Construction 
+Phase Commissioning Plan to guide the Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI>.  Functional 
+Performance Tests must be performed for each item of equipment and each system required to be commissioned and 
+verify all sensor calibrations, control responses, safeties, interlocks, operating modes, sequences of operation, 
+capacities, lighting levels, and all other performance requirements comply with construction contract<TAI OPT="DESIGN-BUILD"> and accepted 
+design requirements</TAI> regardless of the specific items listed within the Functional Performance Test<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated 
+Systems Test Checklists</TAI> provided.  Testing must progress from equipment or components to subsystems to systems 
+to interlocks and connections between systems.  <TAI OPT="INTEGRATED SYSTEMS TEST">Integrated Systems Tests must be performed for the interactive 
+operation between systems such as HVAC systems, fire protection systems, back-up electrical supply, energy generation 
+systems, and other systems, and verify correct interactive operation, acceptable speed of response, and other 
+contract requirements for both normal and failure modes. Examples of Integrated Systems Tests include the correct 
+operation of HVAC systems during emergency system activation, correct operation of uninterruptible power supplies 
+or energy generators and connected systems, or lighting system operation during power outage or emergency system 
+activation.</TAI>  The order of components and systems to be tested must be determined by the Technical Commissioning 
+Specialists.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Acceptance</TTL><BRK/>
+<BRK/>
+<TXT>Indicate acceptance of each item of equipment and systems tested by signature of each commissioning team member 
+for each Functional Performance Test<TAI OPT="INTEGRATED SYSTEMS TEST"> or Integrated Systems Test Checklist</TAI>.  The Contractor's Quality Control 
+Representative and the Technical Commissioning Specialists must indicate acceptance after the equipment and systems 
+are free of deficiencies.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>HVAC Test Methods</TTL><BRK/>
+<BRK/>
+<TXT>Perform Functional Performance Tests in accordance with the following:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Prior to Testing</TTL><BRK/>
+<BRK/>
+<TXT>Prior to testing operating modes, sequences of operation, interlocks, and safeties, complete control point-to-point 
+observations, test sensor calibrations, and test actuator commands. </TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Simulating Conditions</TTL><BRK/>
+<BRK/>
+<TXT>Over-writing control input values through the controls system is not acceptable, unless approved by the Contracting 
+Officer's Representative. Identify proposed exceptions in a protocol submitted to the Contracting Officer's Representative 
+for approval. Before simulating conditions, overwriting values (if approved), or changing set-points, calibrate 
+all sensors, transducers and devices.  Below are several examples of exceptions that would be considered acceptable:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  When varying static pressures inside ductwork can not be simulated within the duct, and where a sensor 
+signals the controls system to initiate sequences at various duct static pressures, it is acceptable 
+to simulate the various pressures with a Pneumatic Squeeze-Bulb Type Signaling Device with gauge temporarily 
+attached to the sensing tube leading to the transmitter. It is not acceptable to reset the various set-points, 
+nor to simulate an electric analog signal (unless approved as noted above).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Dirty filter pressure drops can be simulated using sheets of cardboard at filter face.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Freeze-stat safeties can be simulated by packing portion of sensor with ice.</LST> <BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  High outside air temperatures can be simulated with a hair blower.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  High entering cooling coil temperatures can be used to simulate entering cooling coil conditions.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Do not use signal generators to simulate sensor signals unless approved by the Contracting Officer's 
+Representative, as noted above, for special cases.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Control set points can be altered.  For example, to see the air conditioning compressor lockout work 
+at an outside air temperature below<MET> 13 degrees C</MET><ENG> 55 degrees F</ENG>, when the outside air temperature is above<MET>
+ 13 degrees C</MET><ENG> 55 degrees F</ENG>, temporarily change the lockout set point to be<MET> minus 18 degrees C</MET><ENG> 0 degrees 
+F</ENG> above the current outside air temperature. Caution: Set points are not to be raised or lowered to a 
+point such that damage to the components, systems, or the building structure and/or contents will occur.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Test duct mounted smoke detectors in accordance with the manufacturer's recommendations. Perform 
+the tests with air system at minimum airflow condition in ductwork.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Test current sensing relays used for fan and pump status signals to control system to indicate unit 
+failure and run status by resetting the set point on the relay to simulate a lost belt or unit failure 
+while the unit is running.  Confirm that the failure alarm was generated and received at the control 
+system.  After the test is conducted, return the set point to its original set-point or a set-point as 
+indicated by the Contracting Officer's Representative.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Setup</TTL><BRK/>
+<BRK/>
+<TXT>Perform each test under conditions that simulate actual conditions as close as is practically possible. Provide 
+all necessary materials and system modifications to produce the necessary flows, pressures, temperatures, and 
+other conditions necessary to execute the test according to the specified conditions. At completion of the test, 
+return the affected building equipment and systems to their pre-test condition.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Sample Strategy</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the correct tailoring options for DESIGN-BUILD or DESIGN-BID-BUILD.  
+100 percent testing of all components will be required for design-build projects.  
+The sampling strategy will be defined below for design-bid-build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TAI OPT="DESIGN-BID-BUILD"><TXT>Perform Functional Performance Tests using the following sample strategy.  Prepare and complete a Functional 
+Performance Test Checklist for each item of equipment or system to be tested.  For sample sizes less than 100 
+percent for all similar equipment, the Government will select the specific equipment or system to be tested during 
+testing.  Equipment Identifiers are as indicated on the design drawings:</TXT><BRK/>
+<TXT><TAB WIDTH="83">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="8">
+      <COL AUTOWIDTH="0" WIDTH="225.75"/>
+      <COL AUTOWIDTH="0" WIDTH="150.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">Equipment Identifier</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Sample Size (Percent)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">AHU</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">VAV</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">CUH</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">CWP</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">DWH</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">Lighting Controls</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.75">
+         <CEL>
+<DTA TYPE="STRING">Renewable Energy Systems/Equipment</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT><TAI OPT="INTEGRATED SYSTEMS TEST">Perform Integrated Systems Tests for all systems and equipment having interactive operation.</TAI></TXT></TAI><BRK/>
+<BRK/>
+<TXT><TAI OPT="DESIGN-BUILD">Perform Functional Performance Tests <TAI OPT="INTEGRATED SYSTEMS TEST">and Integrated Systems Tests </TAI>for all equipment and systems.  Prepare and 
+complete a Functional Performance Test Checklist for each item of equipment or system.<TAI OPT="INTEGRATED SYSTEMS TEST">  Prepare and complete 
+an Integrated Systems Test Checklist for each item of equipment or system.</TAI></TAI></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Seasonal Tests</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Initial Functional Performance Tests</TTL><BRK/>
+<BRK/>
+<TXT>Perform Initial Functional Performance Tests as soon as all contract work is completed, regardless of the season.  
+Develop and implement means of artificial loading to demonstrate, to a reasonable level of confidence, the ability 
+of the HVAC systems to handle peak seasonal loads.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Full-Load Conditions</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Depending on the critical nature of the facility, the peak cooling condition 
+tests may need to be performed with full occupancy to demonstrate operation 
+during actual full load.  For other facilities, post-construction performance 
+monitoring may be sufficient to determine that the cooling equipment and systems 
+function adequately at full load.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In addition to the Initial Functional Performance Tests, perform Functional Performance Tests of HVAC systems 
+under full-load conditions during peak heating and cooling seasons during outdoor air condition design extremes. 
+[Test cooling equipment and systems with the building fully occupied when performing the Functional Performance 
+Tests during peak cooling season.]</TXT><BRK/>
+<BRK/>
+<TXT>Schedule Seasonal Functional Performance Tests in coordination with the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>System Acceptance</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Paragraph contains tailoring option for DESIGN-BUILD.</NPR><BRK/>
+<BRK/>
+<NPR>NOTE:  Partial acceptance is acceptance of those parts of the system that could 
+be tested and verified to function in conformance with the construction contract 
+during initial Functional Performance Tests</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Systems may be partially accepted by the Government prior to seasonal testing if they comply with all construction 
+contract<TAI OPT="DESIGN-BUILD"> and accepted design requirements</TAI> that can be tested during initial Functional Performance Tests.  All 
+Functional Performance Test procedures must be completed prior to full systems acceptance.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Aborted Tests and Re-Testing</TTL><BRK/>
+<BRK/>
+<TXT>Abort Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST">, Integrated Systems Tests,</TAI> or Seasonal Tests if any deficiency prevents successful 
+completion of the test or if any required commissioning team member is not present for the test.  Reimburse the 
+Government for all costs associated with effort lost due to re-testing due to test failures and aborted tests.  
+These costs must include salary, travel costs, and per diem for Government commissioning team members.  Re-test 
+only after all deficiencies identified during the original tests have been corrected.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>100 Percent Sample</TTL><BRK/>
+<BRK/>
+<TXT>Systems or equipment for which 100 percent sample size are tested fail if one or more of the test procedures 
+results in discovery of a deficiency and the deficiency cannot be resolved within 5 minutes during the test.<BRK/>
+<BRK/>
+Re-test to the extent necessary to confirm that the deficiencies have been corrected without negatively impacting 
+the performance of the rest of the system.</TXT></SPT><BRK/>
+<BRK/>
+<TAI OPT="DESIGN-BID-BUILD"><SPT><TTL>Less than 100 Percent Sample</TTL><BRK/>
+<BRK/>
+<TXT>For systems tests with a sample size less than 100 percent,  if one or more of the test procedures for an item 
+of equipment or a system results in discovery of a deficiency, regardless of whether the deficiency is corrected 
+during the sample tests, the item of equipment or system fails the test.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  If the system failure rate is 5 percent or less, meaning that 5 percent or less of the equipment 
+or systems had at least one deficiency, re-test only on the items which experienced the initial failures.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  If the system failure rate is higher than 5 percent, meaning that more than 5 percent of equipment 
+or systems tested had at least one deficiency, re-test the items which experienced the initial failures 
+to the extent necessary to confirm that the deficiencies have been corrected .  In addition, test another 
+random sample of the same size as the initial sample for the first time.  If the second random sample 
+set has any failures, re-test those failed items and all remaining equipment and systems to complete 
+100 percent testing of that system type.</LST><BRK/>
+<BRK/></SPT>
+</TAI></SPT></SPT></SPT><SPT><TTL><SUB>Training Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Develop a training plan which identifies all training required by specification sections associated with commissioned 
+systems. Include a matrix listing each training requirement, content of the training, the trainer name, trainer 
+contact information, and schedule and location of training.  Submit [one][_____] hard copy and an electronic 
+copy of the Training Plan to the Commissioning Specialists and the Government no later than [30][_____] calendar 
+days prior to the associated training.</TXT><BRK/>
+<BRK/>
+<TXT>Document training attendance using <SUB>training attendance rosters</SUB> and provide completed attendance rosters to the 
+Commissioning Specialists and the Government no later than 7 calendar days following the completion of training 
+for each system to be commissioned.  Submit [one][_____] hard copy and an electronic copy..</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Systems Manual</TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit a <SUB>Systems Manual</SUB> including a signed certification or letter from the Technical Commissioning 
+Specalists and the Lead Commissioning Specialist stating that the Systems Manual is complete, clear, and accurate.  
+The Systems Manual, for all commissioned systems, must conform to Appendix A SYSTEMS MANUAL ORGANIZATION AND 
+CONTENT to <RID>ER 25-345-1</RID>, available at the USACE Publications website at the following location: https://www.publications.usace.army.mil/USACE-Publications/Engineer-Regulations/.  
+Update and resubmit the Systems Manual based on any corrective action taken during the warranty period.</TXT><BRK/>
+<BRK/>
+<TXT>Submit Systems Manual no later than 30 calendar days following completion of Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and 
+Integrated Systems Tests</TAI>.  Submit [three][_____] hard copies and an electronic copy.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY"><SPT><TTL><SUB>Maintenance and Service Life Plans</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Maintenance and Service Life Plans are required for Army and Army 
+Reserve projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Maintenance Plan</TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit a Maintenance Plan for the project mechanical, electrical, plumbing, and fire protection systems.  
+Prepare the HVAC and refrigeration sections of the Maintenance Plan in accordance with <RID>ASHRAE 180</RID>.  Develop required 
+inspection and maintenance tasks similar to Section 5 of <RID>ASHRAE 180</RID> for the other commissioned systems and fire 
+protection systems.</TXT><BRK/>
+<BRK/>
+<TXT>Submit the Maintenance Plan no later than 30 calendar days following the completion of Functional Performance 
+Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI>.  Submit [three][_____] hard copies and an electronic copy.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Service Life Plan</TTL><BRK/>
+<BRK/>
+<TXT>Prepare and submit a Service Life Plan for the building envelope, structural systems, and site hardscape that 
+includes the following for each assembly or component:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  A description of each including the materials or products.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The estimated service life, in years.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The estimated maintenance frequency and description of maintenance tasks.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The point of maintenance access for the components with estimated service life less than service 
+life of the building.</LST><BRK/>
+<BRK/>
+<TXT>Submit the Service Life Plan no later than 30 calendar days following the completion of Functional Performance 
+Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI>.  Submit [three][_____] hard copies and an electronic copy.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></TAI></SPT><SPT><TTL><SUB>COMMISSIONING REPORT</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Following the completion of Functional Performance Tests<TAI OPT="INTEGRATED SYSTEMS TEST"> and Integrated Systems Tests</TAI>, with the exception of 
+Seasonal Tests, the Lead Commissioning Specialist must prepare a Commissioning Report.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Include an executive summary describing the overall commissioning process, the results of the commissioning 
+process, any outstanding deficiencies and recommended resolutions, and any seasonal testing that must 
+be scheduled for a later date.  Indicate, in the executive summary, whether the systems meet the requirements 
+of the construction contract<TAI OPT="DESIGN-BUILD"> and accepted design</TAI> and the Owner's Project Requirements.</LST>  <BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Detail any deficiencies discovered during the commissioning process and the corrective actions taken 
+in the report. Include the completed <TAI OPT="BUILDING ENVELOPE COMMISSIONING">[Building Envelope Inspection Checklists, ]</TAI>Pre-Functional Checklists, 
+Functional Performance Test Checklists<TAI OPT="INTEGRATED SYSTEMS TEST">, Integrated Systems Test Checklists,</TAI>the Commissioning Plans, the 
+Issues Log, Performance Verification Test Reports, Training Attendance Rosters, the Design Review Report, 
+the final TAB Report.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Submit the Commissioning Report no later than 14 calendar days following commissioning team acceptance 
+of all Functional Performance Tests <TAI OPT="INTEGRATED SYSTEMS TEST">and Integrated Systems Tests </TAI>with the exception of Seasonal Tests.  
+Submit [three][_____] hard copies and an electronic copy.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Following any Seasonal Tests or Post-Construction Activities, update the <SUB>Final Commissioning Report</SUB>
+ to reflect any changes and resubmit. File the approved, updated, Final Commissioning Report in the Sustainability 
+eNotebook.</LST><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>POST-CONSTRUCTION SUPPORT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the paragraphs below if Post-Construction support is not part 
+of project requirements or not funded.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+  <BRK/>
+<BRK/>
+[<SPT><TTL>Post-Construction Endurance Test</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Endurance Tests evaluate HVAC system performance under actual operating 
+load during normal operation.  This activity is highly recommended.  The Endurance 
+Tests provide improved probability of identifying deficiencies prior to warranty 
+expiration.  If the building operators plan to monitor system performance closely 
+or this activity is not funded, delete this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Perform an Endurance Test in accordance with the paragraph Endurance Test in <TAI OPT="DESIGN-BUILD">UFGS Section 23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification 
+Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC once during the peak heating season and once during the 
+peak cooling season during outdoor air condition extremes with the exception that network bandwidth usage measurement 
+and recording is not required.  [Use the Temporary Trending Hardware, if necessary, in accordance with <TAI OPT="DESIGN-BUILD">UFGS Section 
+23 09 00</TAI><TAI OPT="DESIGN-BID-BUILD">Specification Section <SRF>23 09 00</SRF></TAI> INSTRUMENTATION AND CONTROL FOR HVAC.] </TXT><BRK/>
+<BRK/>
+<TXT>The Mechanical System Commissioning Specialists must review the trend logs from the Endurance Tests to ensure 
+that the systems have stable operation and operate as required by the construction contract<TAI OPT="DESIGN-BUILD">, the accepted design</TAI>
+, and the Owner's Project Requirements Document.  The Commissioning Specialists must provide a <SUB>Post-Construction 
+Trend Log Report</SUB> that identifies any deficiencies noted in operation, recommendations for correction, and includes 
+a graphical representation of the trends.  Provide one Trend Log Report for the peak cooling season and one Trend 
+Log Report for the peak heating season.  Submit [one][_____] hard copy and one electronic copy of the Post-Construction 
+Trend Log Reports no later than 14 calendar days following receipt of the trend log data by the Commissioning 
+Specialist.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Post-Construction Site Visit</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Refer to Sustainability Third Party Certification guidelines to determine 
+if post-construction site visit is required.  This activity is good practice 
+and will result in better capability to identify problems during the warranty 
+period.  The site visit is especially useful if post-construction Endurance 
+Tests have been deleted.  If the visit cannot be supported due to project constraints, 
+delete the relevant paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Commissioning Specialists must visit the building site [concurrent with the 9 month warranty inspection][_____] 
+to inspect building system equipment and review building operation with the building operating/maintenance staff. 
+The Commissioning Specialists must identify any deficiency of the building systems to operate in accordance with 
+the contract <TAI OPT="DESIGN-BUILD"> and accepted design</TAI> requirements and the Owner's Project Requirements.  The Commissioning Specialists 
+must advise the Contracting Officer's Representative of any identified deficiencies and the proposed corrective 
+action.  Submit an updated commissioning report and systems manual documenting the results of the post-construction 
+inspection.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT>]<BRK/>
+<BRK/>
+<PGE/><BRK/>
+<TXT><HL4><HL3><ATT>APPENDIX A - OWNER'S PROJECT REQUIREMENTS DOCUMENT</ATT></HL3></HL4></TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  NOTE:  The Owner's Project Requirements (OPR) document is a requirement 
+for Third Party Certification (TPC) systems such as LEED and Green Globes.  
+Edit this OPR template or replace with an OPR specific to this project for either 
+design-bid-build or design-build projects. Development of the OPR is the responsibility 
+of the team developing the specifications for solicitation (designer or RFP 
+preparer) in coordination with the military installation, users, and funding agencies.<BRK/>
+<BRK/>
+The OPR template below is specifically tailored for LEED projects.  Replace 
+this document with a TPC compliant OPR where using a TPC other than LEED.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+<PGE/><HL4><HL3>OWNER'S PROJECT REQUIREMENTS DOCUMENT</HL3></HL4><BRK/>
+<BRK/>
+<TXT>Project:  Project, Location, PN #####</TXT><BRK/>
+<BRK/>
+<TXT>Approved:   <HL1>                                                          </HL1><BRK/>
+            Name      Design Agent's Representative      Date<BRK/>
+<BRK/>
+            <HL1>                                                          </HL1><BRK/>
+            Name      Owner's Representative             Date</TXT><BRK/>
+<BRK/>
+ <BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>Instructions:  Each bullet point describes information that should be inputted 
+and provides examples of appropriate information.  Replace the explanation of 
+the bullet point with the appropriate information.  Add fields or additional 
+spaces as necessary to provide all pertinent information to the commissioning 
+of the building energy-related systems.  <BRK/>
+<BRK/>
+The format below is not required; however, all of the pertinent information 
+must be provided.  Where there is no requirement for an item, indicate that 
+there are no specific requirements. <BRK/>
+<BRK/>
+Matrices may be provided to describe Indoor Environmental Quality Requirements 
+rather than listing per the outline.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+<BRK/>
+<PGE/><HL4><HL3>OWNER'S PROJECT REQUIREMENTS DOCUMENT</HL3></HL4><BRK/>
+<BRK/>
+Contents<BRK/>
+<BRK/>
+1. Owner and User Requirements<BRK/>
+   a. Primary Purpose, Program, and Use<BRK/>
+   b. Project History<BRK/>
+   c. Broad Goals<BRK/>
+      i. Future Expansion<BRK/>
+     ii. Flexibility<BRK/>
+    iii. Quality of Materials<BRK/>
+     iv. Construction Costs<BRK/>
+      v. Operational Costs<BRK/>
+2. Environmental and Sustainability Goals<BRK/>
+   a. LEED or Green Globes Goal<BRK/>
+   b. Other<BRK/>
+3. Energy Efficiency Goals<BRK/>
+   a. Goals/Policy<BRK/>
+   b. Systems and Feature Energy Impact<BRK/>
+4. Indoor Environmental Quality Requirements<BRK/>
+   a. Space Type 1<BRK/>
+      i. Intended Use<BRK/>
+     ii. Occupancy Schedule<BRK/>
+    iii. Environmental Requirements<BRK/>
+     iv. Occupant System Control Ability<BRK/>
+      v. Type of Lighting<BRK/>
+     vi. After-hour Use Accommodation<BRK/>
+   b. Space Type 2<BRK/>
+      i. Intended Use<BRK/>
+     ii. Occupancy Schedule<BRK/>
+    iii. Environmental Requirements<BRK/>
+     iv. Occupant System Control Ability<BRK/>
+      v. Type of Lighting<BRK/>
+     vi. After-hour Use Accommodation<BRK/>
+5. Equipment and System Expectations<BRK/>
+   a. HVAC Systems<BRK/>
+      i. Quality and Reliability<BRK/>
+     ii. Type<BRK/>
+    iii. Automation<BRK/>
+     iv. Flexibility<BRK/>
+      v. Maintenance Requirements<BRK/>
+   b. Lighting Systems<BRK/>
+      i. Quality and Reliability<BRK/>
+     ii. Type<BRK/>
+    iii. Automation<BRK/>
+     iv. Flexibility<BRK/>
+      v. Maintenance Requirements<BRK/>
+   c. Domestic Hot Water Systems<BRK/>
+      i. Quality and Reliability<BRK/>
+     ii. Type<BRK/>
+    iii. Automation<BRK/>
+     iv. Flexibility<BRK/>
+      v. Maintenance Requirements<BRK/>
+   <BRK/>
+<BRK/>
+<BRK/>
+<BRK/>
+Contents (continued)<BRK/>
+<BRK/>
+d. On-site Power Systems<BRK/>
+      i. Quality and Reliability<BRK/>
+     ii. Type<BRK/>
+    iii. Automation<BRK/>
+     iv. Flexibility<BRK/>
+      v. Maintenance Requirements<BRK/>
+   e. Other Systems   <BRK/>
+      i. Quality and Reliability<BRK/>
+     ii. Type<BRK/>
+    iii. Automation<BRK/>
+     iv. Flexibility<BRK/>
+      v. Maintenance Requirements<BRK/>
+6. Building Occupant and O&amp;M Personnel Requirements<BRK/>
+   a. Facility Operation<BRK/>
+   b. UMCS (EMCS or FMCS)<BRK/>
+   c. Occupant Training and Orientation<BRK/>
+   d. O&amp;M Staff Training and Orientation<BRK/>
+<BRK/>
+ <BRK/>
+<PGE/>1. Owner and User Requirements<BRK/>
+<BRK/>
+   a. Primary Purpose, Program, and Use<BRK/>
+<BRK/>
+      Explain the purpose, program, and use of the facility. (i.e. Army Reserve Center used for training reserve 
+units.  Training includes spaces such as weapons, medical, vehicle repair, cooking, etc.)<BRK/>
+<BRK/>
+   b. Project History<BRK/>
+<BRK/>
+      Explain the history of the project related to design/construction (i.e. D/B/B, D/B, IDIQ, JOC, COE in-house, 
+A/E, etc.).  Explain any additional project background that would impact energy/sustainability goals.<BRK/>
+<BRK/>
+   c. Broad Goals<BRK/>
+<BRK/>
+      i. Future Expansion: Explain goals related to potential future expansion.<BRK/>
+<BRK/>
+     ii. Flexibility: Explain goals related to flexibility for layout and use of the building. (i.e. high rate of 
+office churn, expected frequency of renovation, etc.)<BRK/>
+<BRK/>
+    iii. Quality of Materials: Explain goals related to quality of materials. (i.e. highest quality materials, 50 
+yr life, 25 yr life, highest quality within budget, etc.)<BRK/>
+<BRK/>
+     iv. Construction Costs: Explain goals related to construction costs.  (i.e. how low can you go, set project 
+amount, select simplest systems for low cost, etc.)<BRK/>
+<BRK/>
+      v. Operational Costs: Explain goals related to operational costs. (i.e. low utilities based on water and energy 
+conservation, trade-off allowable on maintenance costs to reduce utility cost, utility cost unimportant compared 
+to construction cost, etc.)<BRK/>
+<BRK/>
+<PGE/>2. Environmental and Sustainability Goals<BRK/>
+<BRK/>
+   a. LEED/Green Globes Goal<BRK/>
+<BRK/>
+      Set LEED/Green Globes goal and explain sustainable features permissible or preferred to be incorporated.  Explain 
+relative importance of LEED/Green Globes goal within project scope.  Indicate requirement from service or agency 
+specific criteria and policy.<BRK/>
+<BRK/>
+   b. Other <BRK/>
+<BRK/>
+      Explain any special sustainability or environmental goals associated with the project.  Identify specific sustainability 
+features that may be required or desired.  (i.e. hydro-power, solar power, on-site water treatment, on-site water 
+infiltration, impervious cover reduction, parking capacity, etc.)<BRK/>
+<BRK/>
+<PGE/>3. Energy Efficiency Goals<BRK/>
+<BRK/>
+   a. Goals/Policy<BRK/>
+<BRK/>
+      Explain the specific project goals and requirements regarding energy efficiency.  Incorporate the requirements 
+of UFC 1-200-02 High Performance and Sustainable Building Requirements and/or other relevant agency policies.  <BRK/>
+<BRK/>
+   b. Systems and Feature Energy Impacts<BRK/>
+<BRK/>
+      Identify and explain envelope, system, or site and building features that will be incorporated to maximize 
+energy efficiency.  Identify features that must be incorporated that will reduce or limit energy efficiency.<BRK/>
+ <BRK/>
+<PGE/>4. Indoor Environmental Quality Requirements<BRK/>
+<BRK/>
+   a. Space Type 1<BRK/>
+<BRK/>
+      i. Intended Use: Explain how the space will be used (i.e. classroom occasionally used as conference room).<BRK/>
+<BRK/>
+     ii. Occupancy Schedule: Describe the occupancy including number of  people at various times (i.e. drill weekend-maximum 
+capacity, weekdays-20 percent; or 0700-0900 - none, 0900-1400 - 30 people, 1400-1600  - none).<BRK/>
+<BRK/>
+    iii. Environmental Requirements: Describe the environmental requirements of the space.  Include description of 
+temperatures, humidity levels, ventilation rates, air quality, lighting levels, or any other specific parameters 
+desired (i.e. 75 deg F, 50 percent rh, 30 fc, etc.).<BRK/>
+<BRK/>
+     iv. Occupant System Control Ability: Describe the desired level of control the occupants will have over the 
+thermal comfort and lighting systems.  (i.e. adjustable thermostat for every person, adjustable thermostat in all 
+private offices, no adjustable thermostats, adjustable thermostat in senior rank also controlling other offices, 
+occupancy sensors for lighting, adjustable dimming, etc.)<BRK/>
+<BRK/>
+      v. Type of Lighting: Describe the type of lighting desired (i.e. task lighting with minimal overhead, maximize 
+daylight with dimming on overhead, accent lighting, particular fixtures, etc.).<BRK/>
+<BRK/>
+     vi. After-hour Use Accommodations: Describe whether and how often the space may be used after hours.  Describe 
+the systems that activate when an occupant uses the building after-hours.  Describe the level  of control of after-hour 
+use HVAC.  <BRK/>
+<BRK/>
+         (Example: Space is rarely used after-hours by few occupants.  HVAC and lighting system should activate when 
+occupants enter after-hours.  The HVAC operation will be limited to that required to provide heating, A/C, and ventilation 
+to the occupied space alone.) (Example:  Space is rarely used after-hours by few occupants. Lighting and heating 
+systems should activate.  Ventilation and cooling should remain in normal after-hour operation.)<BRK/>
+<BRK/>
+   b. Space Type 2<BRK/>
+<BRK/>
+<PGE/>5. Equipment and System Expectations<BRK/>
+<BRK/>
+   a. HVAC Systems<BRK/>
+<BRK/>
+      i. Quality and Reliability: Explain the level of quality and reliability required of the HVAC systems.  <BRK/>
+<BRK/>
+         (Example:  Equipment efficiency should meet ASHRAE [_____] and FEMP/Energy Star requirements.  Due to critical 
+nature of facility, additional redundancy in the cooling and heating systems is required, i.e. multiple chillers, 
+boilers, and pumps.)  (Example:  No specific quality or reliability requirements specified.  Equipment should remain 
+serviceable over life of building or to the extent typical of the type of equipment.)<BRK/>
+<BRK/>
+     ii. Type: Explain the type of equipment desired.  <BRK/>
+         <BRK/>
+         (Example:  Boilers should be condensing type.  Use hydronic heating and cooling.  Use self-contained A/C 
+units in computer rooms.)<BRK/>
+<BRK/>
+    iii. Automation: Explain the level of automation in the HVAC System desired.  <BRK/>
+<BRK/>
+         (Example:  Single loop HVAC systems permissible.  Use packaged controls only.)  (Example:  Control HVAC 
+systems from DDC system connected to the base UMCS.)  (Example:  Boilers should have packaged controls connected 
+to the DDC system.)<BRK/>
+<BRK/>
+     iv. Flexibility: Describe the desired level of flexibility of the HVAC system.  <BRK/>
+<BRK/>
+         (Example:  System should accommodate frequent office layout changes including private office wall movement.)  
+(Example:  Layout will remain mostly unchanged; no flexibility required.)  (Example:  Accommodate potential for conference 
+and classrooms to change to offices.)<BRK/>
+<BRK/>
+      v. Maintenance Requirements: Describe the level of maintenance available or the requirements of the equipment 
+regarding maintainability. <BRK/>
+<BRK/>
+         (Example:  Equipment should be located to allow easy maintenance access.  Equipment vendors or repair service 
+should be able to respond within 24 hrs.) <BRK/>
+<BRK/>
+   b. Lighting Systems<BRK/>
+<BRK/>
+      i. Quality and Reliability: Explain the level of quality and reliability required of the lighting system controls.  <BRK/>
+   <BRK/>
+         (Example: The building lighting system should meet<MET> ASHRAE 90.1 - SI</MET><ENG> ASHRAE 90.1 - IP</ENG> requirements.)<BRK/>
+<BRK/>
+     ii. Type: Explain the type of lighting or control equipment desired. <BRK/>
+         <BRK/>
+         (Example:  High-efficiency fluorescent lamps with high-efficiency ballasts will be specified.  Indirect 
+lighting will be used in all office and classroom spaces.   Lighting foot-candle levels may be reduced to 45 foot-candles 
+in lieu of the typical 50 foot-candles when indirect lighting is used.)<BRK/>
+<BRK/>
+    iii. Automation: Explain the level of automation in the lighting control system desired.  <BRK/>
+<BRK/>
+         (Example:  Provide occupancy sensors in restrooms, corridors, and storage areas.)<BRK/>
+<BRK/>
+     iv. Flexibility: Describe the desired level of flexibility of the lighting system and control systems.  <BRK/>
+<BRK/>
+         (Example:  Provide dual level switching in classrooms and conference rooms.)<BRK/>
+<BRK/>
+      v. Maintenance Requirements: Describe the level of maintenance available or the requirements of the equipment 
+regarding maintainability.  <BRK/>
+      <BRK/>
+         (Example:  )<BRK/>
+<BRK/>
+   c. Domestic Hot Water Systems<BRK/>
+<BRK/>
+      i. Quality and Reliability: Explain the level of quality and reliability required of the domestic hot water systems.  <BRK/>
+<BRK/>
+         (Example:  Equipment efficiency should meet ASHRAE and FEMP/Energy Star requirements.  Due to critical nature 
+of facility, additional redundancy in the water heating systems is required, i.e. multiple hot water heaters and 
+circulation pumps.) (Example:  No specific quality or reliability requirements specified.  Equipment should remain 
+serviceable over life of building or to the extent typical of the type of equipment.)<BRK/>
+<BRK/>
+     ii. Type: Explain the type of equipment desired.  <BRK/>
+<BRK/>
+         (Example:  Gas-fired storage tank water heater with mixing valve for temperature control.)  (Example:  Instantaneous 
+electric water heater at lavatories.)  (Example:  Instantaneous electric water heater with integral control system 
+for eyewash/showers.)<BRK/>
+<BRK/>
+    iii. Automation: Explain the level of automation in the domestic hot water control system desired.  <BRK/>
+<BRK/>
+         (Example:  Occupancy schedule control for recirculation loop and gas burner.  Connect package controls to 
+DDC system.)<BRK/>
+<BRK/>
+     iv. Flexibility: Describe the desired level of flexibility of the domestic hot water systems.  <BRK/>
+<BRK/>
+         (Example:  No anticipated changes to restroom layout; no additional flexibility required.)<BRK/>
+<BRK/>
+      v. Maintenance Requirements: Describe the level of maintenance available or the requirements of the equipment 
+regarding maintainability. <BRK/>
+ <BRK/>
+         (Example: Equipment should be located to allow easy maintenance access.  Equipment vendors or repair service 
+should be able to respond within 24 hrs.)<BRK/>
+<BRK/>
+   d. On-site Power Systems<BRK/>
+<BRK/>
+      i. Quality and Reliability: Explain the level of quality and reliability required of the on-site power system.  <BRK/>
+<BRK/>
+     ii. Type: Explain the type of on-site power system desired.   <BRK/>
+<BRK/>
+    iii. Automation: Explain the level of automation in the on-site power system desired.  <BRK/>
+<BRK/>
+     iv. Flexibility: Describe the desired level of flexibility of the on-site power system.  <BRK/>
+<BRK/>
+      v. Maintenance Requirements: Describe the level of maintenance available or the requirements of the on-site 
+power system regarding maintainability.  <BRK/>
+<BRK/>
+   e. Other Systems<BRK/>
+<BRK/>
+      i. Quality and Reliability: Explain the level of quality and reliability required of the system.<BRK/>
+<BRK/>
+     ii. Type: Explain the type of system desired.<BRK/>
+<BRK/>
+    iii. Automation: Explain the level of automation in the system desired.<BRK/>
+<BRK/>
+     iv. Flexibility: Describe the desired level of flexibility of the system.<BRK/>
+<BRK/>
+      v. Maintenance Requirements: Describe the level of maintenance available or the requirements of the system 
+regarding maintainability.<BRK/>
+<BRK/>
+<BRK/>
+<PGE/>6. Building Occupant and O&amp;M Personnel Requirements<BRK/>
+<BRK/>
+   a. Facility Operation<BRK/>
+<BRK/>
+      Describe how the facility will be operated.  Who operates the facility?  Who maintains the facility?  Who pays 
+the utility bills?<BRK/>
+<BRK/>
+   b. UMCS (EMCS or FMCS)<BRK/>
+<BRK/>
+      Will the building be tied to an UMCS/EMCS/FMCS?  What system will be connected to?  Provide information regarding 
+connection requirements, protocols, and control, scheduling and monitoring points.<BRK/>
+<BRK/>
+   c. Occupant Training and Orientation<BRK/>
+<BRK/>
+      How much training and orientation is desired for building occupants?  Will training need to be provided for 
+all systems?  To what extent do the occupants need to understand and use the systems?<BRK/>
+<BRK/>
+   d. O&amp;M Staff Training and Orientation<BRK/>
+<BRK/>
+      How much training and orientation is desired for building occupants?  Will training need to be provided for 
+all systems?  To what extent do the occupants need to understand and use the systems?<BRK/>
+<BRK/>
+<BRK/>
+<TAI OPT="DESIGN-BID-BUILD"><PGE/><BRK/>
+<TXT><HL4><HL3><ATT>APPENDIX B - BASIS OF DESIGN</ATT></HL3></HL4></TXT><BRK/>
+<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert the Basis of Design document for design-bid-build projects.  The 
+Basis of Design is a document required by Third Party Certification (TPC) systems 
+such as LEED and Green Globes.  The Basis of Design includes narratives that 
+address how the Owner's Project Requirements are achieved through the design 
+and includes design assumptions, standards and criteria listing, and narrative 
+descriptions of systems.  Generally, the Design Analyses for projects cover 
+the Basis of Design requirement.  <BRK/>
+<BRK/>
+For design-build projects, the Contractor is responsible for developing the 
+Basis of Design for TPC purposes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/></TAI>
+<TAI OPT="DESIGN-BID-BUILD"><PGE/><BRK/>
+<TXT><HL4><HL3><ATT>APPENDIX C - DESIGN PHASE COMMISSIONING PLAN</ATT></HL3></HL4></TXT><BRK/>
+<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert the commissioning plan developed during design phase for design-bid-build 
+projects if one was developed.  This commissioning plan does not form a part 
+of the contract and is provided for information only.  Design phase commissioning 
+plan for design-build projects is the responsibility of the Contractor.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/></TAI>
+</PRT>    <END/><BRK/></SEC>

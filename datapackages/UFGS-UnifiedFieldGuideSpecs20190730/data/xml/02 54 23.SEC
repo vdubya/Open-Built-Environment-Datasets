@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 54 23 (February 2010)<BRK/>
+                                             Change 1 - 08/17<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 54 23 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 54 23</SCN><BRK/>
+<BRK/>
+<STL>SOIL WASHING THROUGH SEPARATION/SOLUBILIZATION</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:   This guide specification covers the requirements for <SCP>removal of heavy 
+metals/inorganics, organics, and radioactive wastes by water-based soil washing</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This UFGS provides the framework for developing a project-specific soil 
+washing specification.  It should be modified as necessary for a given site, 
+to incorporate the conditions, soil washing technology, and regulatory requirements 
+which are specific to the site.</NPR><BRK/>
+<BRK/>
+<NPR>The appropriate regulatory agencies should be consulted to obtain their approval 
+of work plans, specifications, drawings, and on the sampling methodology for 
+a soil washing treatment project.  The maximum allowable quantity of the treated 
+materials or the process sludge from which one composite sample must be taken 
+for characterization and/or compliance should also be verified.  This maximum 
+allowable quantity per composite sample collection may effect the size of a 
+stockpile, and subsequently, determine the number of days required to reach 
+this quantity based on the daily generation of the treated materials or the 
+process sludge.</NPR><BRK/>
+<BRK/>
+<NPR>The soil washing operation considered in this section starts with the raw contaminated 
+material piles; continues through preparation, feeding, washing, separation, 
+stockpiling, waste (solid, liquid and/or gaseous) treatment and disposal; ends 
+at the treated clean material piles.  Refer to Section <SRF>02 61 13</SRF> EXCAVATION AND 
+HANDLING OF CONTAMINATED MATERIAL for requirements related to excavation of 
+the contaminated materials and redeposition (or backfilling) of the treated 
+clean materials.  Refer to Section <SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS 
+MATERIALS for requirements relevant to offsite transportation and disposal.</NPR><BRK/>
+<BRK/>
+<NPR>Additional references from Federal, state, and local regulatory requirements; 
+utility company regulations; and applicable codes and standards published by 
+scientific and engineering institutions should be included where appropriate 
+in the body of the specification.  Some of the potentially applicable Federal 
+regulations are listed as follows:</NPR><BRK/>
+<BRK/>
+<NPR>Toxicity Characteristic Leaching Procedure (TCLP)</NPR><BRK/>
+<BRK/>
+<NPR>Recording and Reporting Occupational Injuries and Illnesses</NPR><BRK/>
+<BRK/>
+<NPR>Occupational Safety and Health Standards</NPR><BRK/>
+<BRK/>
+<NPR>Safety and Health Regulations for Construction</NPR><BRK/>
+<BRK/>
+<NPR>Permitting</NPR><BRK/>
+<BRK/>
+<NPR>National Primary and Secondary Ambient Air Quality Standards</NPR><BRK/>
+<BRK/>
+<NPR>National Emission Standards for Hazardous Air Quality Pollutants</NPR><BRK/>
+<BRK/>
+<NPR>State and Local Air Quality Standards </NPR><BRK/>
+<BRK/>
+<NPR>National Pollution Discharge Elimination System (NPDES) Discharge Limitations 
+and Permit Procedures</NPR><BRK/>
+<BRK/>
+<NPR>Hazardous Waste Identification and Standards Applicable to Generators, Transporters, 
+and Owners and Operators of Treatment, Storage and Disposal Facilities (TSDF)</NPR><BRK/>
+<BRK/>
+<NPR>Land Disposal Restrictions (LDRs)</NPR><BRK/>
+<BRK/>
+<NPR>Department of Transportation Hazardous Materials Program Procedures</NPR><BRK/>
+<BRK/>
+<NPR>Hazardous Materials Transportation Regulations</NPR><BRK/>
+<BRK/>
+<NPR>Standards for Protection Against Radiation</NPR><BRK/>
+<BRK/>
+<NPR>Land Disposal of Low-Level Radioactive Waste</NPR><BRK/>
+<BRK/>
+<NPR>Packaging and Transportation of Radioactive Materials</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>MEASUREMENT AND PAYMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be modified based on the project specific conditions.  
+Special Clauses should address modification of the full scale remediation unit 
+price due, if warranted, based on the results of the field demonstration testing.  
+This paragraph should be deleted if the work is in one lump sum contract or 
+there is a separate Measurement and Payment Section.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Measurement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Materials (such as soil, sediment, and sludge) at a given site should 
+be classified as contaminated materials when levels of the organic, inorganic, 
+and radioactive contaminants in the contaminated materials exceed the site action 
+level criteria which have been established based on regulatory requirements 
+and/or site-specific risk assessment to protect human health and the environment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The feed oversize and the feed materials must be weighed separately during operation of the soil washing treatment 
+plant (the treatment plant).  The feed oversize (or debris) consists of the oversized materials separated from 
+the raw contaminated materials by the soil preparation and feed system.  The feed materials are the balance of 
+the raw contaminated materials after the feed oversize has been removed.  [A properly calibrated platform weigh 
+scale] [_____] and/or [conveyor belt weigh scale] [_____] must be used to accurately measure the gross (bulk) 
+weights in [<MET>metric ton</MET><ENG> short ton</ENG>] [_____] of the feed oversize and the feed materials, respectively.  The measured 
+gross (bulk) weight of the feed materials to be treated by soil washing must be converted to dry weight based 
+on the [percent moisture content] [_____] of representative feed material samples.  [The percent moisture content 
+must be determined in accordance with <RID>ASTM D2216</RID>] [<RID>ASTM D4643</RID>] [_____].  [Moisture content must be determined 
+[daily.] [for every [500] [_____] [<MET>metric ton</MET><ENG> short ton</ENG>] of feed material.]]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Compensation for performing [treatability studies] [_____], demonstration testing, treatment and/or disposal 
+of the feed oversize, soil washing treatment of feed materials, and other base bid project activities will be 
+provided as specified in the following subparagraphs.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Treatability Studies</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph if treatability studies have already been performed.  
+In that case, the Contractor has the option to perform additional treatability 
+studies at Contractor's expense.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for treatability studies will be [included as part of base bid items] [based on lump sum price] [_____].  
+The price will include costs for labor and materials for:  preparing plans; collecting representative contaminated 
+materials; conducting the studies (including sampling and analysis); evaluating results; preparing the <SUB>treatability 
+study report</SUB>; and treating and/or disposing of study-derived wastes.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Demonstration Test Run</TTL><BRK/>
+<BRK/>
+<TXT>Payment for field demonstration test runs will be [included as part of base bid items] [based on lump sum price 
+for each test run requested by the Contracting Officer and properly completed].  The price will include costs 
+for labor and materials for:  [hauling] [_____], stockpiling, processing and treatment, testing and analyzing, 
+report preparation, treatment and/or disposal of wastes (solid, liquid and/or gaseous) generated during test 
+runs, and other incidental work (such as, manufacturers' field services, health and safety monitoring and controls, 
+and utilities).  The demonstration test runs must be performed at full scale throughout as specified in this 
+section.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Feed Oversize Materials Treatment and/or Disposal</TTL><BRK/>
+<BRK/>
+<TXT>The feed oversize materials must include, but not be limited to, contaminated materials, roots, tree trunks, 
+construction debris, etc., greater than [<MET>50 mm</MET><ENG> 2 inches</ENG>] [_____] in size.  Payment for treatment and disposal 
+of feed oversize material must be based on the contract unit price schedule for each [<MET>metric ton</MET><ENG> short ton</ENG>] [_____] 
+on a gross (bulk) weight basis of the previously untreated feed oversize material.  The unit price must include 
+costs for labor, disposal, and [materials] [stockpiling] [transporting] [treatment] [other incidental work] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Feed Materials Treatment</TTL><BRK/>
+<BRK/>
+<TXT>Payment for soil washing treatment of the feed materials will be based on the contract unit price schedule for 
+each [<MET>metric ton</MET><ENG> short ton</ENG>] [_____] on a dry weight basis of the previously untreated feed materials entering 
+the treatment plant following removal of feed oversize material.  This unit price will include costs for materials, 
+labor, [hauling] [_____], stockpiling, processing and treatment, testing and analyzing, operation and maintenance, 
+and wastes (solid, liquid and/or gaseous) treatment and/or disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Work Items</TTL><BRK/>
+<BRK/>
+<TXT>Payment for other work items not included in the above paragraphs will be included in the payment for the base 
+bid for remediation of the contaminated materials.  The other work items include submittals related to operation 
+of the treatment plant, soil washing mobilization and demobilization, site preparation in the treatment plant 
+area, configuration and installation of the treatment plant, manufacturers' field services, environmental compliance 
+monitoring, health and safety monitoring and controls, and utilities required for the soil washing operation 
+if approved by the Government as necessary for the project.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Excess Quantity</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be coordinated with design drawings and paragraphs 
+above for consistency.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The payment for the excess quantity must be based on the contract excess quantity unit price schedule for each 
+additional [<MET>metric ton</MET><ENG> short ton</ENG>] [_____] of previously untreated feed oversize material (on a gross weight basis) 
+and feed materials following separation of feed oversize materials (on a dry weight basis) entering the treatment 
+plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reprocessing</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor will not be paid for reprocessing the contaminated materials not meeting the post treatment criteria 
+outlined in this section.  Contaminated materials requiring reprocessing must be identified and deducted from 
+the daily production quantity.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D2216</RID><RTL>(2010) Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass</RTL><BRK/><BRK/><RID>ASTM D4643</RID><RTL>(2017) Standard Test Method for Determination of Water Content of Soil and Rock by Microwave Oven Heating</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA 540/2-91/020A</RID><RTL>(1991) Guide for Conducting Treatability Studies under CERCLA: Soil Washing: Interim Guidance</RTL><BRK/><BRK/><RID>EPA 540/R-92/071a</RID><RTL>(1992) A Guide For Conducting Treatability Studies Under CERCLA, Final Report</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If pretreatment such as blending for a homogenous feed or separating 
+contaminated materials with different characteristics for different treatment 
+operating conditions is required, some of the pretreatment requirements should 
+be specified in Section <SRF>02 61 13</SRF> EXCAVATION AND HANDLING OF CONTAMINATED MATERIAL 
+so the pretreatment required can be properly specified in this specification 
+without any duplication.  In addition, representative samples of the contaminated 
+materials excavated and stockpiled should be collected and analyzed regularly 
+to check and document the physical and chemical characteristics of the contaminated 
+materials.  These sampling and analysis efforts should also be specified in 
+the section dealing with excavation and stockpiling.</NPR><BRK/>
+<BRK/>
+<NPR>For remediation using soil washing, a Request for Proposal (RFP) rather than 
+Invitation for Bid (IFB) procurement process is generally used to select a Contractor.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Soil Washing Treatment Process</TTL><BRK/>
+<BRK/>
+<TXT>Washwater must consist of water only or water plus approved reagents/additives such as acids, bases, surface 
+active agents (surfactants), solvents, and chelating or sequestering agents, to enhance the solubilization and/or 
+separation of the contaminants and thus increase the efficiency of the soil washing treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Soil Washing Treatment Plant</TTL><BRK/>
+<BRK/>
+<TXT>The treatment plant must be configured based on the contaminated material characteristics data, [the Contractor's 
+own interpretation of the previously conducted treatability study results] [_____], and [the bench-scale and/or 
+pilot-scale treatability studies performed by the Contractor] [_____].  The treatment plant [must be transportable.  
+The] materials, components, accessories, and equipment used to fabricate the treatment plant must meet their 
+functional requirements, and must be compatible with the contaminants of concern, the reagents/additives used 
+in the treatment processes, and the operating conditions of each unit operation.  The Contractor may propose 
+a treatment plant different from the treatment plant for which specific requirements are provided in this section, 
+in which case the proposed treatment plant capable of providing equivalent performance must be addressed in detail 
+[in the Contractor's proposal] [and] [in the Work Plan] [_____].  Provide a safe and reliable soil washing treatment 
+plant in compliance with the applicable codes, regulations, and specified requirements; submit <SUB>Permits and Certifications</SUB>
+ as specified.  The treatment plant must consist of the following major systems:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Soil Preparation and Feed System</TTL><BRK/>
+<BRK/>
+<TXT>Soil preparation and feed system must include, but not be limited to, feed oversize separation, blending and/or 
+separation of different materials (if needed), stockpiling of feed oversize and feed materials, conveying, feeding, 
+treatment and/or disposal of feed oversize, dust/emission controls, and measurement of feed oversize and feed 
+materials.  The capacity of this system must be sized based on the downstream treatment system operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Soil Washing and Separation System</TTL><BRK/>
+<BRK/>
+<TXT>Soil washing and separation system must include mixing, washing, [solids and liquid separation] [particle size 
+separation] [_____], dewatering, stockpiling of treated materials, and measurement of process parameters and 
+treated materials.  Treated materials are the feed materials having been washed and separated by the soil washing 
+and separation system.  Treated clean materials are the treated materials which meet the post treatment criteria.  
+The system must be equipped with direct means for controlling the washwater settings including [pH] [temperature] 
+[pressure] [composition] [quantity] [contact time] and [cut size] [_____].  The mixing and washing equipment 
+must have the capability to dissociate the contaminated fine particles from the coarse particles and/or to solubilize 
+the contaminants into the washwater so that the post treatment criteria can be achieved.  [Magnetic separation 
+of ferrous material must be done using electromagnets.] The dewatering equipment must have the capability of 
+lowering the moisture content to less than [10] [15] [_____] percent as required for the backfilling operation.  
+The treated materials must be separately stockpiled on a [daily] [_____] basis [according to the sampling and 
+testing requirements] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Spent Washwater Treatment System</TTL><BRK/>
+<BRK/>
+<TXT>Spent washwater is washwater that has been in contact with contaminated feed materials or other contaminated 
+surfaces, consisting of a mixture of contaminated fine particles and/or dissolved contaminants, washwater, and 
+run off water from storage and treatment areas.  Spent washwater treatment system (if required) must include 
+physical, chemical, and/or biological treatment of spent washwater; dissolved and/or suspended solids removal; 
+process sludge dewatering; recycle, reuse, and/or discharge of treated washwater; stockpiling, treatment and/or 
+disposal of process sludge; and measurement of treatment parameters and dewatered and/or treated process sludge.  
+Process sludge is the sludge resulting from the removal of dissolved contaminants and/or the contaminated fine 
+particles in the spent washwater.  The treated washwater must meet the quality limits for [recycle] [reuse] [discharge], 
+and/or [disposal] [_____].  The process sludge must be treated and/or disposed of according to its characteristics 
+and regulatory requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Plant Supporting System</TTL><BRK/>
+<BRK/>
+<TXT>The plant supporting system must include facilities for water storage and distribution, reagents/additives storage 
+and distribution, [power and steam] [power] generation and distribution, and fire safety.  These supporting facilities 
+must have adequate capacities to provide water, reagents/additives, power, [steam] [_____], and fire protection 
+necessary for operation of the soil preparation and feed system, soil washing and separation system, and [spent 
+washwater treatment system] [_____].  Reagents/Additives used in the treatment plant must be stored in tanks, 
+drums or other containers which are made of compatible materials.  The feeding equipment for each reagent/additive 
+must consist of a feed tank and mixer for preparing feed stock, and a metering pump for controlled feeding.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Performance Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Table 1 should be developed based on site-specific contaminants of concern 
+and regulatory requirements.</NPR><BRK/>
+<BRK/>
+<NPR>Planned treatment criteria, as well as sampling and analysis requirements, should 
+be reviewed by regulatory agencies in the early stages of design.  These criteria 
+generally consist of cleanup levels and/or contaminant limits derived from risk 
+based requirements, Toxicity Characteristic Leaching Procedure (TCLP) limits, 
+Synthetic Precipitation Leachate Procedure (SPLP), Resource Conservation and 
+Recovery Act (RCRA), Land Disposal Restrictions (LDRs), and RCRA delisting requirements.  
+Coordinate backfilling with Section <SRF>02 61 13</SRF> EXCAVATION AND HANDLING OF CONTAMINATED 
+MATERIAL to ensure geotechnical parameters are specified.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A treatment plant capable of processing contaminated materials at [an average expected rate factoring in downtime, 
+startup time, and shutdown time] [a designed rate based on adjusted dry weight] of [[_____]<MET> metric</MET><ENG> short</ENG> tons 
+per hour] [_____] must be provided.  The concentrations of the contaminants in the treated material and in the 
+TCLP extract of the treated material must not exceed, respectively, the cleanup level and TCLP extract limit 
+specified in Table 1.</TXT><BRK/>
+<TXT><TAB HEADERROWS="3">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="11">
+      <COL AUTOWIDTH="0" WIDTH="190.50"/>
+      <COL AUTOWIDTH="0" WIDTH="131.25"/>
+      <COL AUTOWIDTH="0" WIDTH="135.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">TABLE 1 - POST TREATMENT CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL/>
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">CLEANUP LEVEL IN TREATED MATERIAL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TOTAL CONCENTRATION IN TREATED MATERIAL</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TCLP EXTRACT LIMIT</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Cadmium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Pentachlorophenol</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">1,4-Dichlorobenzene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PCBs</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s51"/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">Radium</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____] pCi/g</DTA>
+         </CEL>
+         <CEL STYLEID="s51"/>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Cut Size Requirement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if removal of contaminants is not dependent 
+upon separation of contaminated fine particles (i.e., entirely due to solubilization 
+or other removal techniques).  This paragraph provides options for either the 
+design engineer to specify or the Contractor to choose the cut size requirements.  
+The feed materials at a given site may have different physical and chemical 
+characteristics.  Therefore, during soil washing treatment, different cut sizes 
+may be used so that the treated materials will meet the post treatment criteria.  
+If the design engineer chooses to specify the cut size and if treatment involves 
+a variety of cut sizes, then the different cut sizes should be specified for 
+different feed materials in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Cut size is the targeted grain size used to define the demarcation of the coarse and fine fractions of the feed 
+materials to be separated during the soil washing operation.  [The feed materials must be treated to meet the 
+post treatment criteria by using a cut size of no greater than [_____] micron in the soil washing treatment.] 
+[Each cut size must be based on the treatability study results so that the treated materials will meet the post 
+treatment criteria with minimum generation of process sludge.  Each selected cut size with supporting documentation 
+must be submitted for review prior to implementation.  The supporting document must include information correlating 
+contaminant concentrations for the various size fractions based on the grain size distribution.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Installation Requirements</TTL><BRK/>
+<BRK/>
+<TXT>The treatment plant must be installed in accordance with applicable action-specific and location-specific federal, 
+state, and local regulations.  If the technical specifications overlook and/or conflict with the applicable codes, 
+standards, and/or regulations, the Contracting Officer must be informed and consulted for interpretation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Results of Previously Conducted Treatability Studies</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if no previous treatability studies 
+have been conducted.</NPR><BRK/>
+<BRK/>
+<NPR>The unit processes/operations employed in the previous treatability studies 
+(bench and/or pilot scale) may not be the same as those proposed by the Contractor.  
+Documentation of the previous treatability studies should provide prospective 
+Contractors with sufficient information to prepare a detailed proposal and should 
+include the testing materials, procedures and conditions, sampling and analytical 
+methods, evaluation, and results.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The previously conducted treatability study documents in Appendix [_____] are for information purposes only.  
+The results indicate that soil washing is capable of meeting the post treatment criteria identified in this section.  
+Nevertheless, perform an independent evaluation of these studies and results.  If deemed necessary, additional 
+studies must be performed at the Contractor's own expense to confirm the previously conducted treatability studies 
+and results.  Based on the Contractor's own interpretation of the previous studies and results [and the the Contractor's 
+own studies and results], provide a full scale treatment plant which meets the requirements identified in this 
+section.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Utilities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The locations and details (such as utility point of contact, sizes, capacities, 
+and flows) of the utility hookups should be provided on the drawings for the 
+Contractor's use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide the utilities associated with the installation and operation of the treatment plant including, but not 
+limited to:  telephone, electricity, water,[steam,] [gas,] [_____], sanitary, and solid waste facilities.  The 
+[telephone] [electricity] [steam] [water] [gas] [sanitary] and [solid waste facilities] [_____] are available 
+at the site.  [Refer to the drawings for hookup locations and other details.</TXT>]<BRK/>
+<BRK/></SPT>
+<SPT><TTL>Spent Washwater Treatment and Disposal Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  These paragraphs provide the generic requirements for wastewater treatment 
+and disposal, solid waste treatment and disposal, and emission and dust control.  
+These paragraphs should be modified based on the site specific design of the 
+soil washing treatment plant and regulatory requirements.</NPR><BRK/>
+<BRK/>
+<NPR>The spent washwater should be treated if necessary and reused or treated for 
+offsite disposal.</NPR><BRK/>
+<BRK/>
+<NPR>Modify this paragraph to reflect the following site-specific requirements.</NPR><BRK/>
+<BRK/>
+<NPR>If a performance specification is prepared, the treatment and disposal requirements 
+should be specified based on the conceptual/process design and applicable regulations.  
+Table 2 should be presented to list the disposal/discharge criteria for the 
+contaminants of concern in accordance with regulatory requirements.  If the 
+specification is prepared based on detailed design, the detailed design requirements 
+describing the treatment and disposal scenario as well as the unit processes/operations 
+employed should also be specified.</NPR><BRK/>
+<BRK/>
+<NPR>Spent washwater should be characterized to determine whether it constitutes 
+a RCRA hazardous waste in accordance with RCRA Identification and Listing of 
+Hazardous Wastes or applicable state regulations.  The "derived-from" rule requires 
+treatment residues from the treatment of RCRA listed waste to be managed as 
+listed waste.  If the spent washwater is classified as a hazardous waste, a 
+determination should be made as to whether additional treatment is required 
+to comply with LDRs.  In addition, the requirements in RCRA Standards for Generators 
+of Hazardous Waste and applicable state regulations should be identified and 
+satisfied.</NPR><BRK/>
+<BRK/>
+<NPR>If other wastewaters are treated along with the spent washwater, they should 
+be mentioned in this paragraph.  These wastewaters may include, for example, 
+the rainfall run offs from the stockpiles of feed oversize, feed materials, 
+treated materials, and process sludge; and the wastewaters generated from onsite 
+treatment of feed oversize, process sludge, and/or spent process treatment material.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Characterize the spent washwater.  The spent washwater must be recycled and/or treated for reuse whenever possible, 
+to minimize the amount of wastewater requiring treatment and disposal.  The spent washwater must meet the criteria 
+presented in Table 2 at the time of [disposal] [discharge].  Modify Table 2 [in the proposal][ and ][_____] in 
+the Work Plan to address additional requirements such as changes to spent washwater characteristics requiring 
+additional treatment or a change in the [disposal] [discharge] criteria.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="10">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 2 - SPENT WASHWATER DISPOSAL/DISCHARGE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">DISPOSAL/DISCHARGE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Cadmium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Pentachlorophenol</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">1,4-Dichlorobenzene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PCBs</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">Radium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] pCi/L</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Solid Waste Treatment and Disposal Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Solid wastes generated during the plant operation may include feed oversize, 
+process sludge, and/or spent process treatment material.</NPR><BRK/>
+<BRK/>
+<NPR>One treatment and disposal scenario for each of these solid wastes should be 
+clearly defined.</NPR><BRK/>
+<BRK/>
+<NPR>If a performance specification is prepared, the treatment and disposal requirements 
+should be specified based on the conceptual/process design.  Table 3 should 
+be presented to list the disposal criteria for the contaminants of concern for 
+each of the solid wastes.  The applicable federal, state, and local regulations 
+specifically related to the site should be identified.  If the specification 
+is prepared based on detailed design, the description of the treatment and disposal 
+scenario as well as the individual treatment components should also be specified.</NPR><BRK/>
+<BRK/>
+<NPR>If secondary solid, liquid, and gaseous wastes are generated by onsite treatment, 
+their treatment and disposal requirements should be addressed in the same manner 
+as the solid, liquid, and gaseous wastes generated by the treatment plant.  
+If the liquid wastes are treated along with the spent washwater, their treatment 
+and disposal requirements should be addressed in the paragraph entitled Spent 
+Washwater Treatment and Disposal Requirements.  Similarly, the gaseous wastes 
+can also be addressed in the paragraph entitled Emissions and Dust Control Requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The solid wastes must be characterized.  The [feed oversize removed from the raw contaminated materials] [process 
+sludge generated from treatment of spent washwater] and [spent process treatment material] [_____] from installation, 
+operation and closure of the treatment plant must be properly treated and/or disposed of.  Spent process treatment 
+material is the process treatment material for which the capacity to remove contaminants from the contaminated 
+medium in a treatment process has been used or exhausted.  Solid waste disposal must meet the criteria presented 
+on Table 3.  Propose modifications to Table 3 to address solid wastes generated by the soil washing treatment 
+plant with characteristics which necessitates additional treatment, and/or disposal requirements be attained.  
+These additional requirements must be addressed [in the proposal][ and ][_____] in the Work Plan.</TXT><BRK/>
+<TXT><TAB HEADERROWS="3">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="11">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="148.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="167.25"/>
+      <COL AUTOWIDTH="0" WIDTH="141.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 3 - SOLID WASTE DISPOSAL CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s51"/>
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">DISPOSAL CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CONCENTRATION LEVEL IN TREATED SOLID WASTE</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">TCLP EXTRACT LIMIT</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Cadmium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Pentachlorophenol</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,4-Dichlorobenzene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PCBs</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="29.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Radium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] pCi/g</DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>Emissions and Dust Control</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  An air pathways analysis should be performed during design in accordance 
+with EP 1110-1-21 Air Pathway Analysis for the Design of Hazardous, Toxic and 
+Radioactive Waste (HTRW) Remedial Action Projects.  Depending upon the contaminants 
+of concern in the contaminated materials, the unit processes/operations employed 
+in the treatment plant, the amount of pollutants emitted, and the geographical 
+location of the site, the emission standards and limitations for certain contaminants 
+and dust control can be identified from the following regulations including, 
+but not limited to, National Primary and Secondary Ambient Air Quality Standards, 
+National Emission Standards for Hazardous Air Quality Pollutants, and state 
+and local regulations.<BRK/>
+<BRK/>
+Based on the regulatory requirements, the proper technologies or apparatus for 
+the emissions control if required can be determined.  Upon completion of the 
+design of the treatment plant, these emission requirements and control technologies 
+should be defined by the design engineer.</NPR><BRK/>
+<BRK/>
+<NPR>Modify this paragraph to reflect the following site-specific requirements.</NPR><BRK/>
+<BRK/>
+<NPR>If a performance specification is prepared, the emissions, dust sources, and 
+contaminants of concern should meet specified requirements based on applicable 
+regulations.  Table 4 should list the emissions criteria for the contaminants 
+of concern for each emission and dust source, and if applicable, monitoring 
+requirements should be specified.  The applicable federal, state, and local 
+regulations should also be identified.  If the specification is prepared based 
+on detailed design, the technologies or apparatus for controlling the emissions 
+and dust sources should also be specified.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Characterize the emissions and dust sources.  The emissions must meet the criteria presented in Table 4.  The 
+monitoring requirements for emissions and dust control must be developed in accordance with the environmental 
+compliance required by the regulatory agencies and the health and safety requirements.  They must be implemented 
+during the installation and operation of the treatment plant to ensure compliance.  Modify Table 4 [in the proposal] 
+[and] [_____] in the Work Plan to address treatment plant emissions sources, dust sources, and control technologies, 
+which differ from those presented in Table 4.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="3">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 4 - AIR EMISSIONS CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><HL3>EMISSIONS CRITERIA</HL3></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>Noise Control</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Based on the geographical location of the site, and the land uses and 
+environment surrounding the site, the site-specific noise level requirements 
+for the day and night operations and monitoring requirements can be identified 
+from the state and local regulations and/or developed by interacting with the 
+state and local agencies.  These requirements should be specified in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment plant must meet the state and local noise pollution control regulations.  The monitoring requirements 
+for noise control must be developed in accordance with the environmental compliance required by the regulatory 
+agencies.  Implement noise control requirements during the installation, operation, and closure of the treatment 
+plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sampling, Monitoring, and Control Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The process and waste generation data storage requirements should be 
+specified based on the quantity, frequency, and requirement of data reduction 
+and analysis for a specific project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment plant must have the appropriate sampling and monitoring equipment for controlling the performance 
+of the treatment processes and for complying with design and regulatory requirements.  The monitoring and control 
+equipment for the treatment processes must have the necessary accuracy and sensitivity to measure and control 
+the operating ranges for system parameters such as [materials feed rate] [washwater flow rate] [pH] [contact 
+time] [cut size] [_____] so that the treatment plant can perform to its designed capacity, efficiency, and reliability.  
+The unit operations of the treatment plant must be complete with required instruments, controls, and local control 
+panels.  A main control center must be provided to facilitate the overall control of the treatment plant.  The 
+signal transmission to and from the main control center must be [4-20 mA] [_____].  The process and waste generation 
+data must be maintained in the main control center and recorded on [magnetic tapes] [discs] or [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contaminated Material Measurement Accuracy Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Scales, meters, and volumetric measuring devices for measuring feed oversize, feed materials, reagents, and water 
+must have an accuracy of plus or minus [0.5] [_____] percent of the quantity being measured.  Scales must be 
+calibrated at least once every 5 working days.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Mobilization</TTL><BRK/>
+<BRK/>
+<TXT>The treatment plant must not mobilize to the site until the Work Plan has been approved by the Contracting Officer 
+and the Contractor has received written confirmation.  The Contractor's mobilization plan must include, but not 
+be limited to, preparation, arranging, and/or transportation of personnel, material, and equipment; and connecting 
+supporting utilities for installation and operation of the treatment plant.  Delays caused by the Contractor's 
+failure to meet regulatory requirements must result in no additional cost to the Government.  The equipment which 
+is rented and/or previously used for other site remediation must be decontaminated and tested for contaminants 
+of concern before being brought to the site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Demobilization</TTL><BRK/>
+<BRK/>
+<TXT>Demobilization must begin only after the contaminated materials, spent washwater, and solid wastes have been 
+treated and disposed of in accordance with the post treatment criteria listed in Table 1, the disposal/discharge 
+criteria in Table 2, and the disposal criteria in Table 3, respectively.  Demobilization must include disconnecting 
+and removal of utility service lines, decontamination of equipment and the treatment plant area, disposal of 
+decontamination wastes, disposal of spent washwater left from operation of the treatment plant, removal of the 
+unused reagents/additives and the equipment associated with the treatment plant, and [demolition and disposal 
+of foundation slab] [_____].  [Post treatment testing must also be performed after demobilization to verify that 
+the area associated with soil washing treatment operations is not contaminated.  The soils in the area must meet 
+the post treatment criteria listed in Table 1] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Submittal Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Submit a Work Plan within [45] [_____] days after notice to proceed.  Allow [30] [_____] days in the schedule 
+for Government review and approval of the Work Plan.  The Work Plan must address the technical requirements listed 
+in this section and must include, but is not limited to, the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Schedule.  The schedule must specify dates for the start and completion of [treatability studies] 
+[_____], mobilization, installation, field demonstrations, treatment of contaminated materials, disposal 
+of wastes, and demobilization.  The schedule must include details such as intended hours of operation, 
+scheduled downtime, and routine maintenance downtime.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Project Organization.  A project organization must be proposed for carrying out the remediation of 
+contaminated materials by soil washing treatment.  An organization chart including subContractors must 
+be provided.  The responsibilities of each individual in the organization must be clearly defined in 
+terms of project activities including, but not limited to:  project management and coordination; scheduling 
+and schedule control; quality control; sampling, measurement, analysis, and data management; and operation 
+and maintenance of the treatment plant.  In addition, the previous experience of each individual in the 
+project organization must also be submitted for review and approval.  Credentials of new operators, quality 
+control personnel, and supervisory engineering and technical staff must be furnished to the Contracting 
+Officer for approval [5] [_____] working days prior to such personnel assuming duties onsite.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Treatability Study Work Plan.  The Treatability Study Work Plan must outline the planned testing 
+and evaluation.  This study must include, but not be limited to:  contaminated materials characterization 
+(including the contaminant concentration as a function of grain size if a cut size needs to be determined), 
+washwater determination and optimization, residuals management, mass balance calculation, unit processes/operations 
+evaluation, cut size determination for separation (if applicable), treated materials characterization, 
+sampling locations, analytes, testing protocols, and waste streams characterization.  In addition, the 
+Treatability Study Work Plan must include a thorough discussion of how the study's operating conditions 
+will compare with full scale conditions, and how the variances will be addressed in scale-up.  If proprietary 
+reagents/additives are to be used in the processes, Safety Data Sheets (SDS's) and other non-proprietary 
+type information of the reagents/additives must be provided to assess their potential for secondary contamination 
+during the installation and operation of the treatment plant.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Principles of Operation.  A detailed description of the proposed treatment plant must be provided.  
+The description must include treatment systems and corresponding unit operations, treatment capacity, 
+preparation of feed material, soil handling and feed systems, quality of washwater, properties and handling 
+of reagents/additives, mechanism of contaminant removal, characteristics and stockpiling of the treated 
+materials, and wastes generation and disposal.  Post treatment criteria, [disposal criteria] [discharge 
+criteria] and [air emissions criteria] [_____] must be presented based on the proposed treatment plant 
+and the site conditions.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Equipment.  Treatment system equipment must be described completely.  The description must include, 
+but not be limited to, equipment identification, manufacture make and model, physical size, operating 
+conditions, and materials of construction.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Drawings.  The drawings provided must include, but not be limited to:  layout of the treatment plant 
+including feed material stockpiles, including a drainage and leachate collection plan for the area, treated 
+material stockpiles, and solid waste stockpiles; piping and instrumentation diagrams; and process flow 
+diagrams.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Quality Control.  A site-specific quality control program must be provided to detail the procedures 
+for inspection, testing, and correction of deficiencies.  This program must ensure that the Contractor's 
+operations comply with the requirements of the contract plans and specifications with respect to quality 
+of materials, workmanship, construction, finish, functional performance, and accuracy of data.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Process Material Tracking Schedule.  A proposed Process Material Tracking Schedule for recording 
+and managing the quantities of the contaminated materials processed, [feed oversize treated and/or requiring 
+disposal], [process sludge treated and/or requiring disposal], [other waste streams requiring disposal 
+such as [_____]], [reprocessing of treated materials that fail to meet post treatment criteria] [_____], 
+and the treated clean materials to be backfilled.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Mobilization and Demobilization.  A mobilization and demobilization plan must be included.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Field Demonstration Plan.   Outline the planned demonstration and evaluation activities.  This plan 
+must address, but not be limited to, contaminated materials characterization (including the contaminant 
+concentration as a function of grain size if a cut size needs to be determined), proposed demonstration 
+testing runs (including specification of washwater mix design and testing/operating conditions of the 
+unit processes/operations for each run), sampling locations, analyses, and analytical methods, mass balance 
+calculation and performance evaluation [for each major piece of equipment], cut size determination for 
+separation (if applicable), treated materials and waste characterization, health and safety monitoring 
+and control, and waste treatment and/or disposal.  If proprietary reagents/additives are to be used in 
+the processes, SDS's and other non-proprietary type information of the reagents/additives must be provided 
+to assess their potential for secondary contamination during the demonstration testing.  In addition, 
+the day-to-day log of operations and adjustments to optimize the treatment system must be included in 
+the appendices.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Site-specific Noise Control and Monitoring Plan.  For environmental compliance,this plan must include, 
+but not be limited to, expected noise level, sources of noise, proposed noise control, and types and 
+locations of monitoring devices.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  Site-specific Emissions and Dust Control Monitoring Plan.  For environmental compliance and process 
+control,this plan must include, but not be limited to, expected quantity of emissions, sources of emissions, 
+proposed emissions control.  If an air pathway analysis indicates monitoring is required, backup calculations, 
+and regulatory information substantiating decisions proposed must be provided in addition to types and 
+locations of monitoring devices.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Treatability Study Report that addresses, but is not be limited to, the materials, procedures, and 
+methods used in the study; tests performed; sampling and analysis; mass balance and performance evaluation; 
+and results, conclusions with supporting dialog, and recommendations.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Submittal Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Permits, certifications, and/or substantive regulatory requirements necessary for the configuration, installation, 
+operation, and closure of the treatment plant.  The required permits, certifications, and/or substantive regulatory 
+requirements must be provided along with the Work Plan.  For those permits, certifications, and/or substantive 
+regulatory requirements which have not been obtained, a copy of these applications must accompany the Work Plan.  
+The following must also be submitted:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  During the soil washing treatment operation, the physical and chemical test results of the [contaminated 
+materials] [_____], treated materials, and wastes, background sampling under stockpiles and the plant 
+area prior to construction activities, and following removal of the soil washing equipment and stockpile 
+areas.  The test results must include time of sampling, location of sampling, and Contractor Quality 
+Control (such as duplicate sample analysis, field and trip blank analysis, laboratory QC analysis, etc.) 
+results.  Data validation of the test results must be performed before submittal.  The sample collection, 
+packaging, shipping, analyses, and reporting must be conducted in accordance with <TAI OPT="ARMY">, Section 
+<SRF>01 45 00.00 10</SRF> QUALITY CONTROL</TAI>.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Reports of daily tests and operations; Certificates of analyses for reagent and additives; and analytical 
+results of the water analysis to verify purity before use.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Soil Washing Work Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration</SUB></ITM><BRK/>
+<ITM><SUB>Noise Control</SUB></ITM><BRK/>
+<ITM><SUB>Emissions and Dust Control</SUB></ITM><BRK/>
+<ITM><SUB>Permits and Certifications</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Treatability Study Report</SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Water Supply Analysis</SUB></ITM><BRK/>
+<ITM><SUB>Daily Operations Report</SUB></ITM><BRK/>
+<ITM><SUB>Physical and Chemical Test Results</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Reagent/Additive Certificates of Analyses</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALIFICATIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Requirements for the Contractor's experience should be determined and 
+specified based on the experience, availability, and advancement of the soil 
+washing technology industry and the site-specific requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Demonstrate capabilities and experience adequate to configure, install, and operate a soil washing treatment 
+plant to remediate the contaminated materials.  Demonstrate a minimum of [3] [_____] years of experience in the 
+field of soil washing and/or the successful completion of [at least [1] [_____] soil washing project of comparable 
+size and scope] [at least [3] [_____] soil washing pilot scale treatability studies, demonstration studies, and/or 
+full scale remediation projects that required handling and transportation of soils contaminated with [RCRA hazardous 
+wastes] [CERCLA hazardous material] [_____]].  Provide a field team (consisting of soil washing unit operators, 
+quality control personnel, health and safety personnel, supervisory engineering, and technical staff) qualified 
+to install and operate the treatment plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DELIVERY, STORAGE, AND HANDLING</TTL><BRK/>
+<BRK/>
+<TXT>The equipment, raw materials (including reagents/additives), contaminated materials, and treated materials must 
+be safely transported, stored, and handled.  Packaging and shipping of these items must be in compliance with 
+United States Department of Transportation (USDOT) requirements.  Storage and handling of these items onsite 
+must be in accordance with the manufacturer's recommendations and in compliance with applicable regulatory requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SITE CONDITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The pertinent site characterization data should be placed in the appendices 
+of the technical specifications or on the drawings, and referenced here.  If 
+the site contains a significant amount of debris (feed oversize), the available 
+information about its extent and characterization should also be provided.  
+Indicate the detail to which site characterization has been performed and indicate 
+where obvious data gaps exist.  The information should also include construction 
+limits, property utilities, chemical data, geotechnical data, sampling locations 
+and boring logs. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The site investigation data presented is representative of surface and subsurface conditions at a specific location; 
+variations in the contaminated materials could occur.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Environmental Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  When temperature is below the freezing point, the treatment plant equipment 
+may not function properly or efficiently.  Frozen materials can make excavation, 
+conveying, screening, and blending operations difficult and less cost-effective.  
+The general practice is to avoid the operation of an outdoor treatment plant 
+during the extreme winter weather.  In places where there is a long winter season 
+or in projects where the plant operation is required throughout the year to 
+meet the project schedule, it may be necessary to perform soil washing inside 
+a temporary building with proper heating and ventilation.  Use of UFGS should 
+address only the minimal requirements to satisfy the temporary construction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment plant must not be operated during periods when temperatures reach freezing or below [unless operated 
+in a structure].  Do no perform soil washing during periods of heavy rainfall if this will interfere with the 
+effective operation of the treatment plant.  The main control center must have the necessary provisions for heating, 
+ventilation, and air conditioning for proper operation of the instruments, controls, and electronic data storage 
+system.  The treatment plant must be equipped with sufficient lighting for security purposes and for treatment 
+plant operation during inadequate daylight or at night.  [Refer to Section <SRF>23 00 00</SRF> AIR SUPPLY, DISTRIBUTION, 
+VENTILATION, AND EXHAUST SYSTEMS for proper heating, ventilation, air conditioning, and Section <SRF>26 56 00</SRF> EXTERIOR 
+LIGHTING for illumination.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Existing Conditions</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The information presented in Table 5 and in the Appendix should also 
+include other information such as chemical data, geotechnical data, sampling 
+locations, and boring logs.  The information presented in Table 5 can be presented 
+either in tabular form or on the drawings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The existing site conditions are presented [in Appendix [_____]] [on the drawings].  These include [physical 
+configuration] [topography] [land uses] [geotechnical characteristics of the contaminated materials (including 
+[grain size analysis] [total organic content] [cation exchange capacity] [pH] [moisture content] [density] [porosity]) 
+[hydrogeology]] and [nature and extent of contamination] [_____].  The contaminants of concern and the estimated 
+volume of contaminated materials are given in [Table 5] [_____]:</TXT><BRK/>
+<TXT><TAB HEADERROWS="3">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="5" ROWCOUNT="10">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="82.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="82.50"/>
+      <COL AUTOWIDTH="0" WIDTH="82.50"/>
+      <COL AUTOWIDTH="0" WIDTH="56.25"/>
+      <COL AUTOWIDTH="0" WIDTH="153.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="4" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 5 - NATURE AND EXTENT OF CONTAMINATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="14.25">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">CONTAMINATED ZONE</DTA>
+         </CEL>
+         <CEL MERGEACROSS="2" STYLEID="s52">
+<DTA TYPE="STRING">CONTAMINATED MATERIALS</DTA>
+         </CEL>
+         <CEL INDEX="5" STYLEID="s52">
+<DTA TYPE="STRING">CONTAMINANTS OF CONCERN</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.00">
+         <CEL STYLEID="s51"/>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">AREA</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">AVERAGE DEPTH</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">VOLUME</DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Zone 1</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Zone 2</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Zone n</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="12.75">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">1.  Contaminated zones are defined on the Drawings [_____].</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="15.00">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">2.  Area in square<MET> m</MET><ENG> yd</ENG>.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="20.25">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">3.  Depth in<MET> m</MET><ENG> ft</ENG>.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">4.  Volume in cubic<MET> m</MET><ENG> yard</ENG>.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Perform an independent interpretation of the data/results.  The data/results must include contaminant concentrations, 
+[grain size analysis of the contaminated materials] [contaminant concentrations in each grain size fraction] 
+[sample depth and location],[_____], and other contaminated material characteristics presented in the specification.  
+Based on their own interpretation of the data/results, determine their treatment plant configuration.  Discrepancies 
+between the data presented and field conditions discovered during the initial trial/startup period must be brought 
+to the Contracting Officer's attention immediately.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>MATERIALS AND EQUIPMENT</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Water Supply</TTL><BRK/>
+<BRK/>
+<TXT>Water must not contain oils, acids, salts, alkalis, organic matter, solids or other substances that could be 
+detrimental to the successful treatment of the contaminated materials; submit a <SUB>Water Supply Analysis</SUB> as specified.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Reagent/Additive Certificates of Analyses</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The treatment plant may use reagents/additives for formulation of washwater, treatment of spent washwater, control 
+of air emissions, and treatment of solid wastes.  The parameters for each reagent/additive to be provided must 
+include, but are not limited to, chemical formula, grade/purity, form, strength, and typical supplier.  The residuals 
+of these reagents/additives in the treated materials or the solid, liquid and gaseous wastes from the treatment 
+plant must not cause secondary contamination to the environment.  A certificate of analysis for each of the reagents/additives 
+must be supplied by the vendor and must accompany each shipment.  Reagents/additives must be shipped in properly 
+labeled containers with instructions for handling and storage.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MIXES</TTL><BRK/>
+<BRK/>
+<TXT>The composition of washwater and the quantity ratios of washwater to feed materials must be determined for the 
+mixing and washing operations to achieve the required treatment results.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SAMPLES FOR TREATABILITY STUDIES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be included if treatability studies are to be performed 
+by the Contractor.  Action level criteria should be specified for the purpose 
+of collecting representative samples for treatability studies.  Table 6 should 
+be developed based on site-specific contaminants of concern and their corresponding 
+action levels.  Since the action level criteria are also applicable to excavation, 
+coordination between this section and the section dealing with excavation and 
+stockpiling should be made with respect to these criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[The Contracting Officer will provide the required samples to conduct the treatability studies.] [Select sampling 
+locations and collect representative samples to conduct the treatability studies.  The existing site conditions 
+presented in paragraph Existing Conditions must be considered for selecting sampling locations.  The collected 
+treatability study samples must have contaminant concentration levels [representative of the average concentration 
+of the contaminants identified] [and] [greater] [than the action level criteria presented] in Table 6.  Otherwise, 
+sampling must be repeated until the contaminant concentration levels exceed the action level criteria.  Coordinate 
+the sampling protocol with the Contracting Officer before obtaining the samples.]  Treatability studies must 
+not commence until soil samples meet the aforementioned concentration criteria.  The treatability studies must 
+be conducted in accordance with <RID>EPA 540/2-91/020A</RID> and <RID>EPA 540/R-92/071a</RID>.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="10">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="11.25">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 6 - ACTION LEVEL CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">ACTION LEVEL CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Cadmium</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Pentachlorophenol</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,4-Dichlorobenzene</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PCBs</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Radium</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____] pCi/g</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Conduct a pre-installation examination of the treatment plant equipment for any damage, defect, and dilapidation.  
+The results of the pre-installation examination must be documented and submitted to the Contracting Officer for 
+review and information.  Upon completion of the treatment plant installation, a pre-operational test of the equipment 
+and controls must be performed under operating conditions using clean water to check for leaks and continuity.  
+The Contracting Officer will conduct an independent examination to ascertain the condition and functionality 
+of the equipment.  Based on this examination, the Contracting Officer has the right to reject the entire system 
+or any damaged, defective or dilapidated equipment.  The cost associated with equipment or control replacement 
+or repair, and delays caused by the rejection must be borne by the Contractor.  The equipment must be properly 
+and routinely inspected and maintained to provide the operation of the treatment plant as required by the contract 
+schedule.  Any schedule delay and cost associated with power failure, line plugging, improper functioning of 
+equipment and controls, unavailability of labor and materials, etc., must be the responsibility of the Contractor.  
+The Contractor is also responsible for providing alternate/auxiliary power source if sufficiently reliable source 
+is not available.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PREPARATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Stockpiles of Contaminated Materials</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Background sampling under the stockpiles of contaminated materials should 
+be performed before their construction, unless previous information is adequate.  
+Coordinate with Section <SRF>02 61 13</SRF> EXCAVATION AND HANDLING OF CONTAMINATED MATERIAL.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The clearing and grubbing as well as excavation must be performed in accordance with Section <SRF>02 61 13</SRF> EXCAVATION 
+AND HANDLING OF CONTAMINATED MATERIAL.  Stockpile storage areas for feed oversize, feed materials, treated materials, 
+process sludge and [_____] must be constructed.  [One] [_____] composite surface background sample must be taken 
+from the stockpile areas prior to their construction to document the level of contamination present at the onset 
+of construction [_____].  Contamination under stockpile areas resulting from remedial action activities must 
+be cleaned up to [action] [background] levels at the Contractor's expense.  The following minimum requirements 
+must be incorporated in the stockpile design:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Liner</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The liner is not always necessary and should be deleted if not required.  
+If the liner is required, then reference separate section to address installation 
+and construction of the liner.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use a [geomembrane] [_____] liner under the stockpiles to prevent the release of contaminated leachate to the 
+environment.  The construction and installation of the liner must conform to the manufacturer's requirements.  
+The minimum thickness of the liner must be [<MET>1 mm</MET><ENG> 40 mils</ENG>] [_____].  [Liner must be as specified in Section 
+<SRF>33 47 13</SRF> POND AND RESERVOIR LINERS.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cover</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph will be included if an impermeable synthetic cover is 
+considered necessary.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Use a [geomembrane] [_____] (reinforced ultra-violet stabilized polyethylene) cover to prevent precipitation 
+from entering a stockpile and volatile emissions and dust from escaping.  [Do not use the cover during active 
+plant operation.]  Employ control measures such as wetting the stockpile surfaces to suppress dust.  The minimum 
+thickness of the cover must be [<MET>0.25 mm</MET><ENG> 10 mils</ENG>] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Diversion Measures</TTL><BRK/>
+<BRK/>
+<TXT>Berms, a minimum of [<MET>[300] [_____] mm</MET><ENG> [12] [_____] inches</ENG>] in height and/or other suitable diversion measures 
+(such as drainage swale) must be constructed around the stockpiles to prevent run on and run off.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpile Leachate</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Leachate may not need treatment.  If treatment is needed, it can be treated 
+and disposed of at an offsite facility or treated along with the spent washwater 
+for reuse, discharge, and/or offsite disposal.  If the leachate is classified 
+as a derived waste from a listed hazardous waste, it should be contained and 
+then characterized.</NPR><BRK/>
+<BRK/>
+<NPR>Coordinate this paragraph with requirements in paragraph Spent Washwater Treatment 
+and Disposal Requirements.  Typically, water will be treated on a batch basis.  
+If a continuous discharge is anticipated, modify the paragraph accordingly and 
+include sample type and frequency.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Characterize the leachate collected from the stockpiles to determine the need for treatment prior to reuse in 
+the soil washing process.  Do not discharge the leachate to the environment, or transport it offsite for disposal 
+prior to analyzing for and meeting the discharge requirements in paragraph SPENT WASHWATER TREATMENT AND DISPOSAL 
+REQUIREMENTS.  The vessel, impoundment, [_____], storing the leachate must be tested prior to emptying that storage 
+facility.  No leachate must be added to a storage facility after a sampling event until the unit is emptied.  
+For discharge or offsite disposal, the applicable Federal, state, and local regulatory requirements must be met.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Foundations</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Minimum requirements should be specified for the foundation/containment 
+area of the treatment plant.  Depending upon the duration of soil washing treatment, 
+the weight support requirement of the plant, rainfall and equipment washdown 
+water collection requirements, the foundation to be employed can range from 
+a simple foundation consisting of synthetic liner, sand, and/or gravel, to a 
+concrete slab.  For a long term project, large project, or a project handling 
+multiple soil fractions, a concrete or asphalt pad should be provided for the 
+treatment plant.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Suitable foundations (ranging from a simple foundation consisting of synthetic liner, sand and or gravel, to 
+an asphalt or a concrete slab) must be constructed to support and accommodate the treatment plant.  Concrete 
+must be proportioned in accordance with Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.  The area around the soil washing 
+equipment must be graded so that the water drains away from the work area adjacent to the treatment area.  Water 
+collected must be recycled or properly treated for disposal.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>ERECTION, INSTALLATION, AND DEMOBILIZATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Referenced UFGS should be edited to include only the minimum requirements 
+applicable to a temporary installation.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatment plant must be erected and installed on a temporary basis and must be removed from the site after 
+completion of the contract work.  The erection and installation must be performed such that there is minimal 
+damage to the existing site environment.[  The mechanical work must conform to the requirements of Section 
+<SRF>23 00 00</SRF> AIR SUPPLY, DISTRIBUTION, VENTILATION, AND EXHAUST SYSTEMS].  The electrical work must conform to the 
+requirements of Sections [<SRF>33 71 01</SRF> OVERHEAD TRANSMISSION AND DISTRIBUTION] [<SRF>33 71 02</SRF> UNDERGROUND ELECTRICAL DISTRIBUTION] 
+[_____], and [Section <SRF>26 20 00</SRF> INTERIOR DISTRIBUTION SYSTEM].  The plumbing work must conform to the requirements 
+of [Section <SRF>22 00 00</SRF> PLUMBING, GENERAL PURPOSE] [Section <SRF>40 05 13</SRF> PIPELINES, LIQUID PROCESS PIPING] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>OPERATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Different Types of Contamination and Materials</TTL><BRK/>
+<BRK/>
+<TXT>Different types of contamination, materials, and resulting waste streams must be treated separately if the testing 
+results indicate that different operating conditions of the treatment plant have to be implemented in order to 
+achieve effective treatment of these materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpile Management</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Sampling location, contaminant type, and sampling frequency should be 
+presented for each feed type and/or treated material/sludge.  A format similar 
+to Tables 1 and 2 should be used.  During the design, the design engineer should 
+interact with the regulatory agencies to determine the requirements pertaining 
+to the type of storage facility, accumulation time, and permitting for feed 
+oversize, feed materials, treated materials, and process sludge for incorporation 
+into the related subparagraphs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The different materials generated by the treatment plant must be stockpiled separately as specified below.  The 
+wastewater, solid wastes, and dust generated during stockpile management must be handled as specified in Paragraph 
+SYSTEM DESCRIPTION.  The stockpiles must be managed so no contaminants or fine particles are released into the 
+environment.  Run on and run off water must be controlled in the stockpile areas.  The rainfall run off and any 
+leachate material from the stockpile areas must be collected and treated for discharge/disposal or used for make 
+up water in the treatment plant.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Feed Oversize</TTL><BRK/>
+<BRK/>
+<TXT>The feed oversize stockpiles must be treated (if required) and disposed of according to their waste classification 
+and accumulated quantities.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Feed Material</TTL><BRK/>
+<BRK/>
+<TXT>The feed material stockpiles must be limited to a quantity capable of sustaining [5] [_____] days operation of 
+the treatment plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Treated Materials</TTL><BRK/>
+<BRK/>
+<TXT>Treated materials must be segregated into units (stockpiles) on a [daily] [_____] basis for post treatment testing.  
+If the test results indicate the treated materials of a stockpile meet the post treatment criteria presented 
+in Table 1, this stockpile of treated materials must be combined with the stockpile of previously treated clean 
+materials awaiting backfilling.  Treated materials that do not meet the post treatment criteria in Table 1 must 
+be reprocessed by the treatment plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Process Sludge</TTL><BRK/>
+<BRK/>
+<TXT>The process sludge stockpiles must be treated (if required) and disposed of in a cost effective manner, according 
+to their waste classification and quantities accumulated.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Auxiliary Requirements for System Operations</TTL><BRK/>
+<BRK/>
+<TXT>All required spare, auxiliary, and support equipment, such as a portable generator to provide emergency power 
+for lighting, controls, and computer system operation [,_____] must be provided.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Management of Reagents/Additives</TTL><BRK/>
+<BRK/>
+<TXT>Sufficient quantities of the required reagents/additives must be stored in the plant area to support the operation 
+of the treatment plant.  The reagents/additives must be stored in accordance with manufacturer's instructions 
+and regulatory requirements.  The reagent/additive holding times must not be exceeded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Change of Operating Conditions</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If adjustment to the mix design is required due to change in feed material 
+characteristics, then the Contractor's adjusted mix design should be evaluated 
+by the Contracting Officer for the extent of changes from the previous mix design.  
+Further, price negotiation may be required based on the extent of changes from 
+the previous mix design.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following two requirements must be met in order to be considered for change of operating conditions:  (1) 
+the physical and chemical characteristics of the contaminated materials are significantly different from the 
+originally defined characteristics, and (2) the treatment requirements cannot be met under the current treatment 
+plant mix design and related operating conditions.  When change of operating condition is necessary, notify the 
+Contracting Officer before changes are made to the mix design and related operating conditions.  The Contracting 
+Officer may require the Contractor to perform a field demonstration for significant changes made to the mix design 
+and related operating conditions in accordance with paragraph DEMONSTRATION, for approval.  Changes to mix design 
+and associated time and costs must be accomplished at no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Management of Treatment Plant Wastewater</TTL><BRK/>
+<BRK/>
+<TXT>The wastewater generated by the unit operations of the soil washing treatment plant must be recycled and/or reused 
+to the maximum extent for plant operations in order to minimize the need for new makeup water and limit the treatment, 
+discharge, and/or offsite disposal of wastewater.  If a wastewater treatment system (including the Spent Washwater 
+Treatment System) is provided, it must have the capacity and capability to treat the wastewater (including collected 
+rainfall run offs) for recycle or reuse.  Wastewater discharged to the environment, or sent to an offsite treatment 
+facility must comply with the requirements identified in paragraph SPENT WASHWATER TREATMENT AND DISPOSAL REQUIREMENTS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Daily Operations Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a daily operations report for review following each day's operation of the treatment plant.  The daily 
+operations report must consist of a log of operating conditions including, but not limited to:  hours of operation; 
+staffing; weather conditions; noise, dust, and emissions monitoring data; process materials tracking schedule; 
+sample shipment; receipt of analytical results; changes in operating parameters; results of the testing and calibration 
+activities; and inspection and maintenance activities.  In addition, attach the <SUB>physical and chemical test results</SUB>
+ generated onsite or received from offsite laboratories to the report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>TESTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The amount of post treatment testing performed should be minimized.  
+It is preferable to maintain quality control of the treatment plant by verifying 
+the designed operating conditions during the field demonstration and by monitoring 
+and controlling the operating parameters to achieve the designed performance.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Post Treatment Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Time limits for sample shipment, analysis, and reporting of results should 
+be selected based on the analytical costs and the management of stockpiles.</NPR><BRK/>
+<BRK/>
+<NPR>The shorter the turnaround time requested, the higher the analytical cost will 
+be.  In addition, there are time limits on how fast the requested analyses can 
+be completed.  Coordinate with the regulators regarding the maximum quantity 
+of material per composite sample.  This will define the size of each stockpile, 
+and the time required to reach this quantity.  Coordinate requirements with 
+paragraph STOCKPILE MANAGEMENT.</NPR><BRK/>
+<BRK/>
+<NPR>The feed oversize is generally handled by either onsite decontamination for 
+backfilling or offsite disposal as hazardous wastes.  The disposal of spent 
+process treatment material such as activated carbon is generally negotiated 
+as part of the suppliers contract and may not require post treatment testing.  
+Therefore, only treated materials and the process sludge are addressed in this 
+paragraph.  Offsite transportation and disposal of feed oversize, spent process 
+treatment material, and process sludge require manifesting and record keeping 
+for each material shipment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>One composite sample must be collected from each stockpile for each [_____] [CM] [CY] of feed material treated 
+and the process sludge generated.  One composite sample must be collected for each [_____] [CM] [CY] of oversize 
+material generated.  One composite sample must be collected for each [_____] [CM] [CY] of sludge generated.  
+The samples must be sent to the laboratory for analysis via overnight shipment.  The laboratory must analyze 
+the samples within [48] [_____] hours.  The results of the analysis must be telecopied or telephoned to the Contractor.  
+Report the results to the Contracting Officer within [4] [_____] hours after receipt of the results.  The treated 
+material samples must be analyzed for the parameters listed under post treatment criteria in Table 1.  The process 
+sludge samples must be analyzed for the parameters specified in Table 3.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reprocessing</TTL><BRK/>
+<BRK/>
+<TXT>Reprocessing and retesting must be performed on the treated materials that do not meet the post treatment criteria 
+listed in Table 1.  The treated material which needs to be reprocessed must be done at no additional cost to 
+the Government.  Treated materials that do not meet the post treatment criteria must be [immediately reprocessed 
+and retested] [stored separately while waiting for reprocessing and retesting].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Government Testing</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor's sampling and analysis, as well as quality assurance laboratory requirements must be as indicated 
+[_____]</TXT>.<BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>GOVERNMENT INSPECTION</TTL><BRK/>
+<BRK/>
+<TXT>The Government will conduct inspection of the system installation and perform periodic inspections during the 
+plant operation to verify that the project activities are performed in accordance with the approved plans, specifications, 
+and the regulatory requirements.  Inspection findings must be addressed immediately and resolved to the Government's 
+satisfaction.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DEMONSTRATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Field Demonstration</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The contract should contain provisions for issuing a second notice (or 
+third notice in project where treatability studies are performed) to proceed 
+by Contracting Officer upon approval of the field demonstration.</NPR><BRK/>
+<BRK/>
+<NPR>This paragraph is prepared based on a continuous operation of the treatment 
+plant.  If the treatment plant is operated as a batch process, the requirements 
+on the minimum operation time and the sample frequency should be modified accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to full scale soil washing operations, perform a field demonstration at the full scale throughput capacity 
+to verify the performance of the treatment plant.  Perform preliminary tests and system checkout prior to the 
+field demonstration in order to minimize problems during the field demonstration.  Conduct each field demonstration 
+run for a minimum period of [8] [_____] hours per day for at least [2] [_____] days.  During the demonstration 
+run, [composites samples] [_____] must be taken every [2] [_____] hours from the feed materials, [feed oversize] 
+[_____], spent washwater, effluent from treatment of spent washwater, treated materials, process sludge, and 
+the other locations necessary to perform mass balance calculations.  The samples must be analyzed for the purpose 
+of performing mass balance calculations and to evaluate compliance with regulatory requirements.  Allow [10] 
+[_____] working days in the schedule for Government review and approval of the <SUB>field demonstration report</SUB>.  A 
+field demonstration run must be performed on each distinctive type of material or contaminant which requires 
+a substantial change in treatment plant operating conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Full Scale Processing Equipment</TTL><BRK/>
+<BRK/>
+<TXT>The full scale treatment plant must be utilized for the field demonstration.  The operating conditions used during 
+the field demonstration must be the same as those proposed for use during the remediation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sampling Locations</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Specify each location and depth at which contaminated material samples 
+for the field demonstration will be obtained.  A separate table listing minimum 
+concentrations of specific contaminants may be inserted if desired.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated materials used for the field demonstration must be obtained [as directed by the Contracting Officer] 
+[_____].  In order to be sure that the contaminated materials are appropriate for use in the field demonstration 
+runs, [1] [_____] initial composite sample for chemical analysis per demonstration run must be performed on the 
+contaminated materials to verify the average contaminant concentration levels are representative of the average 
+contaminant concentrations at the site [and exceed the action level criteria listed in Table 6] [_____].  A composite 
+sample representing the minimum period identified in paragraph FIELD DEMONSTRATION.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Testing</TTL><BRK/>
+<BRK/>
+<TXT>Testing must be performed to verify that the treated materials from the field demonstration meets the post treatment 
+criteria listed in Table 1.  If the treated materials produced during the field demonstration do not meet the 
+post treatment criteria, an equal quantity of the same type of material that failed must be reprocessed, using 
+properly modified operating conditions, until satisfactory results are obtained.  The treated materials that 
+failed the demonstration testing must be returned to the contaminated materials stockpile for processing during 
+remediation.  Testing of the contaminated and the treated materials before and after demonstration test runs 
+must be performed in accordance with the same testing protocol as proposed for the full scale operation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Commencement of Full Scale Operation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It is preferable to direct the Contractor to stop processing contaminated 
+materials until results from the field demonstration testing indicate the Contractor's 
+proposed operating conditions can successfully treat the contaminated materials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Full scale operations must not be initiated until written approval has been received from the Contracting Officer, 
+and the following submittals have been approved:  [<SUB>soil washing work plan</SUB>] [field demonstration report] [_____].  
+[After completion of the field demonstration, the Contractor may continue to process the contaminated materials.  
+However, if test results indicate that treated materials do not meet the post treatment criteria listed in Table 
+1, the contaminated materials treated with the failed operating conditions must be reprocessed at no additional 
+cost to the Government.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PROCESS MATERIALS MANAGEMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Table 7 is an example and should be modified based on site-specific conditions 
+and requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Process materials tracking must be performed during the operation of the treatment plant.  The schedules for 
+process materials tracking must provide data and information to identify locations and quantities of materials 
+at any given time.  The tracking must be performed on materials including, but not limited to, contaminated materials, 
+feed oversize, feed materials, treated  materials, treated clean materials, [_____], and process sludge.  Tracking 
+of each material must start from the original source, continue through various stages of handling and treatment, 
+and end at the ultimate disposal.  Use Table 7 or other equivalent schedule approved by the Contracting Officer 
+to perform the material tracking during operation.  Table 7 must be filled out for each material and each of 
+the locations where this material is stockpiled or temporarily stored, including Stockpile Number.  The completed 
+tracking schedules must be submitted to the Contracting Officer as part of the Daily Operations Report.</TXT><BRK/>
+<TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="7" ROWCOUNT="9">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="56.25"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="63.00"/>
+      <COL AUTOWIDTH="0" WIDTH="56.25"/>
+      <COL AUTOWIDTH="0" WIDTH="69.75"/>
+      <COL AUTOWIDTH="0" WIDTH="54.00"/>
+      <COL AUTOWIDTH="0" WIDTH="65.25"/>
+      <COL AUTOWIDTH="0" WIDTH="103.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="6" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 7 - SCHEDULE FOR PROCESS MATERIALS TRACKING DURING SOIL WASHING OPERATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="6" STYLEID="s52">
+<DTA TYPE="STRING">MATERIAL:  CONTAMINATED SOIL<BRK/>LOCATION:  STOCKPILE NO. CS-1</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">INPUT</DTA>
+         </CEL>
+         <CEL INDEX="4" STYLEID="s52"/>
+         <CEL MERGEACROSS="2" STYLEID="s52">
+<DTA TYPE="STRING">OUTPUT</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="6" STYLEID="s51">
+<DTA TYPE="STRING">(QUANTITIES IN <MET>METRIC TONS</MET><ENG>SHORT TONS</ENG>)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DATE/TIME</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">FROM</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">QUANTITY</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">TO</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">QUANTITY</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">QUANTITY AT THE LOCATION</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">REMARKS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">4/15/98 8:00 AM</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">--</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">0</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">--</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">0</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">0</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Excavation starts</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">10:00 AM</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Excavation Area No. 1</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>54</MET><ENG>70</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">--</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">0</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>54</MET><ENG>70</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">12:00 Noon</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Same</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>54</MET><ENG>70</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Soil Preparation and Feed System</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>38</MET><ENG>50</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>70</MET><ENG>90</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2:00 PM</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">--</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">0</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Same</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>38</MET><ENG>50</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><MET>32</MET><ENG>40</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s52"/>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

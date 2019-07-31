@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                  UFGS-01 11 00 (August 2015)<BRK/>
+                                               ---------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                    Superseding<BRK/>
+                                               UFGS-01 11 00 (August 2011)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 11 00</SCN><BRK/>
+<BRK/>
+<STL>SUMMARY OF WORK</STL><BRK/>
+<DTE>08/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>a description of 
+work covered in this contract and is required for use in all projects</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAI OPT="NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Navy projects only, include on the drawing:</NPR><BRK/>
+<BRK/>
+<NPR>1.  Location of project.</NPR><BRK/>
+<BRK/>
+<NPR>2.  Limits of contractor's work area.</NPR><BRK/>
+<BRK/>
+<NPR>3.  Location of Government-furnished work.</NPR><BRK/>
+<BRK/>
+<NPR>4.  Location of Government installed work.</NPR><BRK/>
+<BRK/>
+<NPR>5.  Contractor's on-base route to site.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This section contains tailoring options for NAVY and NASA.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<TAI OPT="NASA"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following 6 submittals are for NASA projects only, and are tailored 
+for NASA.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Utility Outage Requests</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Utility Connection Requests</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Borrow Permits</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Excavation Permits</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Welding Permits</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Burning Permits</SUB></ITM><BRK/>
+<BRK/></TAI>
+<ITM><SUB>Salvage Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WORK COVERED BY CONTRACT DOCUMENTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Project Description</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Describe the project (such as facility to be constructed and square footage, 
+building shell construction, foundation) and the types of work involved in sufficient 
+detail so as to present a general picture which is self contained but does not 
+refer to the drawings or to other parts of the specification.  Mention peculiar 
+or hazardous work, and monitoring of archaeological resources.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The work includes [_____] and incidental related work.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Location</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Provide the station name and geographic location in the blank provided.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The work is located at the [_____], approximately as indicated.  The exact location will be shown by the Contracting 
+Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><TAI OPT="NASA"><SPT><TTL>CONTRACT DRAWINGS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for NASA only.  Do not use for Army or Navy projects.  
+This paragraph is tailored for NASA.</NPR><BRK/>
+<AST/></NTE><BRK/>
+<BRK/>
+<TXT>The following drawings accompany this specification and are a part thereof.</TXT><BRK/>
+<BRK/>
+<LST>Drawing No. [_____]<BRK/>
+Sheets 1 through [_____]</LST><BRK/>
+<BRK/>
+<TXT>[Five] [_____] sets of full size contract drawings, maps, and specifications will be furnished to the Contractor 
+without charge. Reference publications will not be furnished.  Immediately check furnished drawings and notify 
+the Government of any discrepancies.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WORK RESCHEDULING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for NASA projects only.  Do not use for Navy or Army 
+projects.  This paragraph is tailored for NASA.  Requirements for Army and Navy 
+are in Section <SRF>01 14 00</SRF> WORK RESTRICTIONS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Allow for a maximum of [_____] calendar days in the construction schedule where construction activity is prohibited 
+due to NASA operations.  Where other construction activities are permitted impose a further allowance for [_____] 
+calendar days in the schedule, of excavation and subsurface activity abeyance.  Government will provide 24 hour 
+notification each time the restrictions are invoked.</TXT><BRK/>
+<BRK/>
+<TXT>Normal duty hours for work are from [_____] a.m. to [_____] p.m., Monday through Friday.  Requests for additional 
+work requires written approval from the Contracting Officer 7 days in advance of the proposed work period.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>OCCUPANCY OF PREMISES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph if building is occupied during construction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Building(s) will be occupied during performance of work under this Contract.[  Occupancy notifications will be 
+posted in a prominent location in the work area.]</TXT><BRK/>
+<BRK/>
+<TXT>Before work is started, arrange with the Contracting Officer a sequence of procedure, means of access, space 
+for storage of materials and equipment, and use of approaches, corridors, and stairways.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>EXISTING WORK</TTL><BRK/>
+<BRK/>
+<TXT>In addition to FAR 52.236-9 Protection of Existing Vegetation, Structures, Equipment, Utilities, and Improvements:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Remove or alter existing work in such a manner as to prevent injury or damage to any portions of 
+the existing work which remain.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Repair or replace portions of existing work which have been altered during construction operations 
+to match existing or adjoining work, as approved by the Contracting Officer.  At the completion of operations, 
+existing work must be in a condition equal to or better than that which existed before new work started.</LST><BRK/>
+<BRK/></SPT>
+]<TAI OPT="NASA"><SPT><TTL>ON-SITE PERMITS</TTL><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph and subparagraphs for NASA projects only.  These paragraphs 
+are tailored for NASA use.  Requirements for Army and Navy are in Section 
+<SRF>01 14 00</SRF> WORK RESTRICTIONS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL><SUB>Utility Outage Requests</SUB> and <SUB>Utility Connection Requests</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Schedule work to minimize outages.  For utility outages and connections required during the execution of work 
+that affect existing systems, schedule outside the regular working hours or on weekends, as approved by the Contracting 
+Officer.  Schedule utility outages and connections to minimize disruptions tothe Government.  No additional payment 
+will be provided for utility outages and connections required to be performed outside the regular work hours.</TXT><BRK/>
+<BRK/>
+<TXT>Submit requests for utility outages and connections in writing to the Contracting Officer for approval at least 
+[_____] calendar days in advance of the time required.  In each request, state the system involved, area involved, 
+approximate duration of outage, and the nature of work involved.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Borrow, Excavation, Welding, and Burning Permits</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit paragraph title and permits required.  Coordinate use of burning 
+permits with UFGS 01 57 19 TEMPORARY ENVIRONMENTAL CONTROLS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="205.50"/>
+      <COL AUTOWIDTH="0" WIDTH="157.50"/>
+      <COL AUTOWIDTH="0" WIDTH="105.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING"><HL1>ACTIVITY</HL1></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL1>SUBMISSION DATE</HL1></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL1>SUBMISSION FORM</HL1></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">[<SUB>Borrow Permits</SUB>]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____] calendar days prior to work]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____]]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">[<SUB>Burning Permits</SUB>]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____] calendar days prior to work]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____]]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">[<SUB>Excavation Permits</SUB>]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____] calendar days prior to work]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____]]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">[<SUB>Welding Permits</SUB>]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____] calendar days prior to work]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[[_____]]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TXT>Post permits at a conspicuous location in the construction area.</TXT><BRK/>
+<BRK/>
+<TXT>Burning of trash or rubbish is [not] permitted at [_____] [on project site].[  Comply with requirements for burning 
+of trash or rubbish, as established by the Authority having Jurisdiction .]</TXT><BRK/>
+<BRK/></SPT>
+</SPT></TAI><SPT><TTL>LOCATION OF UNDERGROUND UTILITIES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Check with Installation on if the Contractor or the Base marks the utilities.  
+Use and edit the bracketed item in first paragraph if Contractor is responsible 
+for location and marking of utilities.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Obtain digging permits prior to start of excavation, and comply with Installation requirements for locating and 
+marking underground utilities.[  Contact local utility locating service a minimum of [48 hours][_____] prior 
+to excavating, to mark utilities, and within sufficient time required if work occurs on a Monday or after a Holiday.]  
+Verify existing utility locations indicated on contract drawings, within area of work.</TXT><BRK/>
+<BRK/>
+<TXT>[Identify and mark all other utilities not managed and located by the local utility companies.  Scan the construction 
+site with Ground Penetrating Radar (GPR), electromagnetic, or sonic equipment, and mark the surface of the ground[, 
+pier deck] or paved surface where existing underground utilities [or utilities encased in pier structures ]are 
+discovered.  Verify the elevations of existing piping, utilities,and any type of underground [or encased ]obstruction 
+not indicated, or specified to be removed, that is indicated or discovered during scanning, in locations to be 
+traversed by piping, ducts, and other work to be conducted or installed.[  Verify elevations before installing 
+new work closer than nearest manhole or other structure at which an adjustment in grade can be made.]]</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Notification Prior to Excavation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Check with the Installation to choose the bracketed item for number of 
+days notification required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Notify the Contracting Officer at least [48 hours][15 days][_____] prior to starting excavation work.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>[<SPT><TTL>GOVERNMENT-FURNISHED MATERIAL AND EQUIPMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph only when the Contractor will be required to install 
+Government-Furnished Materials and Equipment or provide utilities for same.  
+Obtain information to identify the items from the Government.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  There are situations in which equipment installation data or templates 
+would allow the Contractor to prepare rough-in and proceed with construction 
+prior to taking delivery of Government-furnished equipment.  This paragraph 
+may be expanded to include scheduling delivery of installation data or templates 
+as well as the equipment itself, if the data can be made available more quickly 
+than the Government-furnished equipment and if advanced delivery would be helpful 
+to the Government.  Obtain listing of material from the activity providing it.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Pursuant to Contract Clause FAR 52.245-1 Government Property, the Government will furnish the following materials 
+and equipment for installation by the Contractor:</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Provide complete description and quantities for Government-furnished 
+and Contractor-installed material and equipment.  Identify manufacturer, make, 
+model and operating characteristics.  Avoid generic descriptions especially 
+for equipment requiring utilities such as water service, drains, natural gas, 
+steam, or electricity.  This information should be made available by the activity 
+furnishing the material or equipment to be installed through the Government.  
+When a utility is required to serve the Government-furnished item, ensure that 
+the appropriate Section for the utility needed is included in the project specification.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Do not list salvage property to be removed and reused in the general 
+work area; indicate such material on the drawings..</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAB WIDTH="58">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="99.75"/>
+      <COL AUTOWIDTH="0" WIDTH="91.50"/>
+      <COL AUTOWIDTH="0" WIDTH="80.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">DESIGNATION NO.</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">QUANTITY</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph as applicable for quantities.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Quantities indicated for the above-listed items marked with an asterisk are estimates.  It is the intention of 
+the Government to furnish all quantities of the asterisk items required to complete the work as specified, and 
+the various quantities will be adjusted when necessary.  Quantities stated for the above items not marked with 
+an asterisk are all that will be furnished by the Government.  Provide any additional quantities that are required.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Delivery Schedule</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose the version of this paragraph which best satisfies the project 
+conditions.  The first alternative is best suited for projects requiring careful 
+scheduling of Government-furnished equipment.  Establish the number of calendar 
+days required for notification or that have elapsed before availability after 
+considering (1) a reasonable time between the Contract Award and the first need 
+for Government-furnished equipment and (2) the lead time required for Government 
+procurement.  Set the storage rate at the commercial rate in the area of storage.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Notify the Contracting Officer in writing at least [_____] calendar days in advance of the date on which the 
+materials and equipment are required. Pick up materials and equipment no later than 30 calendar days after such 
+date.  When materials and equipment are not picked up by the 30th day, the Contractor will be charged for storage 
+at the rate of [_____] per<MET> [45 kg][3 cubic meters]</MET><ENG> 100 [pounds][cubic feet]</ENG> per month or fraction thereof.</TXT><BRK/>
+<BRK/>
+][<TXT>Materials and equipment will be available on or after [_____] calendar days after the award of contract.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Delivery Location</TTL><BRK/>
+<BRK/>
+<TXT>The materials and equipment [are located at [_____]] [are located within [_____] miles of the jobsite] [will 
+be delivered to [_____]][the salvage receiving point [_____]].</TXT><BRK/>
+<BRK/></SPT>
+</SPT>][<SPT><TTL>GOVERNMENT-INSTALLED WORK</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph if the Government is to install equipment or perform 
+other work at the job site, excluding inspection and testing.  Define the extent 
+and type of Government work that may impact the operations of the Contractor.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[_____].</TXT><BRK/>
+<BRK/></SPT>
+]<TAI OPT="NAVY">[<SPT><TTL>NAVY AND MARINE CORPS (NMCI) COORDINATION REQUIREMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for Navy projects only.  In addition to the EIA/TIA 
+standards for telecommunications, the architectural, structural, mechanical, 
+plumbing, electrical and fire protection designs must comply with the requirements 
+in the latest version of UFC 3-580-10.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>NMCI Contractor Access</TTL><BRK/>
+<BRK/>
+<TXT>Allow the NMCI Contractor access to the facility towards the end of construction (finishes 90 percent complete, 
+rough-in 100 percent complete, Inside Plant (ISP)/Outside Plant (OSP) infrastructure in place) to provide equipment 
+in the telecommunications rooms and make final connections.  Coordinate efforts with the NMCI Contractor to facilitate 
+joint use of building spaces during the final phases of construction.  After the Contracting Officer has facilitated 
+coordination meetings between the two contractors, within one week, incorporate the effort of additional coordination 
+with the NMCI Contractor into the construction schedule to demonstrate a plan for maintaining the contract duration.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]</TAI><SPT><TTL>SALVAGE MATERIAL AND EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Items designated by the Contracting Officer to be salvaged remain the property of the Government.  Segregate, 
+itemize, deliver and off-load the salvaged property at the [Government designated] storage area located within 
+[_____]<MET> kilometers</MET><ENG> miles</ENG> of the construction site.</TXT><BRK/>
+<BRK/>
+<TXT>Provide a <SUB>salvage plan</SUB>, listing material and equipment to be salvaged, and their storage location.  Maintain 
+property control records for material or equipment designated as salvage.  Use a system of property control that 
+is approved by the Contracting Officer.  Store and protect salvaged materials and equipment until disposition 
+by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><NED/><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><BRK/></PRT>
+    <END/><BRK/></SEC>

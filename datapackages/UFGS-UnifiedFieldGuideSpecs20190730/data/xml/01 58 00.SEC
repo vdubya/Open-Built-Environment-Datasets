@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                  UFGS-01 58 00 (August 2009)<BRK/>
+                                               ---------------------------<BRK/>
+Preparing Activity: <PRA>NAVFAC</PRA>                     Superseding<BRK/>
+                                               UFGS-01 58 00 (August 2008)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 58 00</SCN><BRK/>
+<BRK/>
+<STL>PROJECT IDENTIFICATION</STL><BRK/>
+<DTE>08/09</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>temporary signs 
+for project identification</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the following on project drawings:</NPR><BRK/>
+<BRK/>
+<NPR>1.  Location of project sign.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN WOOD PROTECTION ASSOCIATION (AWPA)</ORG><BRK/><BRK/><RID>AWPA C1</RID><RTL>(2003) All Timber Products - Preservative Treatment by Pressure Processes</RTL><BRK/><BRK/><RID>AWPA C2</RID><RTL>(2003) Lumber, Timber, Bridge Ties and Mine Ties - Preservative Treatment by Pressure Processes</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EP 310-1-6a</RID><RTL>(2006) Sign Standards Manual, VOL 1</RTL><BRK/><BRK/><RID>EP 310-1-6b</RID><RTL>(2006) Sign Standards Manual, VOL 2, Appendices</RTL><BRK/><BRK/></REF></SPT><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Include the following Submittal and Quality Assurance paragraphs in all 
+design-build projects and on other applicable projects where the Contractor 
+must provide the rendering. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Preliminary One Line</SUB> Drawings Of Project Rendering; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<TAI OPT="NAVY"><BRK/>
+<ITM><SUB>Preliminary Drawing Indicating Layout And Text Content</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/></TAI>
+<BRK/>
+<ITM><SUB>Sign Legend Orders</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Final Rendering</SUB> Sample; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Final Framed Rendering</SUB> and Copies; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+[<ITM><SUB>Facility Recognition Plaque</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM>]<BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+[<SPT><TTL>Rendering</TTL><BRK/>
+<BRK/>
+<TXT>Provide the project rendering in accordance with the following drawing stages as required in the paragraph SUBMITTALS.  
+The following submittal data is required to properly identify the appropriate view and approve the final rendering 
+of the facility.  The final painted rendering will be used to produce the image for the signboard and framed 
+photographic copies provided to the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Preliminary One Line</SUB> Drawings</TTL><BRK/>
+<BRK/>
+<TXT>Provide three different views of the facility in a preliminary single line drawing (black and white) format.  
+These three views will represent the best angles at which to view the proposed facility showing the [_____][best 
+design features] and the three dimensional character of the facility.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Final Rendering</SUB> Sample</TTL><BRK/>
+<BRK/>
+<TXT>Provide a photographic copy (<MET>200 by 250 millimeters</MET><ENG>8 by 10 inches</ENG> minimum size) of final rendering for approval 
+of color, landscaping, and foreground/background development prior to final submittal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Final Framed Rendering</SUB> and Copies</TTL><BRK/>
+<BRK/>
+<TXT>Provide final full color rendering of the proposed facility as specified.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]<TAI OPT="NAVY">[<SPT><TTL><SUB>Facility Recognition Plaque</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph for new people oriented/ people occupied MCON/MILCOM 
+facilities such as: BEQ, Administration, Child Care Centers, Fitness Centers, 
+and other appropriate landmark or unique facilities.  Confirm the decision to 
+use this plaque with the Project Manager.  Provide design, details and specifications 
+on the contract documents for this plaque.  Coordinate the names and organizations 
+that will be identified on the plaque with the Project Manager.  Refer to UFC 
+1-300-09N, "Design Procedures" for further plaque requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit full size drawing of Facility Recognition Plaque for approval.  Contractor shall confirm the content (message), 
+location and mounting with Contracting Officer prior to fabrication.  The names on the plaque shall be determined 
+at the end of the project duration to assure that current participants can be identified and recognized on the 
+plaque.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI></SPT><SPT><TTL>PROJECT SIGN</TTL><BRK/>
+<TAI OPT="AIR FORCE,NAVFAC EURAFSWA,NAVFAC LANT,NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  TO DOWNLOAD UFGS GRAPHICS:<BRK/>
+Go to <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL></NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Provide project signboard on all MILCON and other significant facility 
+projects for CNIC and NAVFAC in accordance with Plates 1, 3, and 4 of attached 
+sketches.  For USMC and NAVFAC projects, provide signboard in accordance with 
+Plates 1MC, 3 and 4 of attached sketches.  Significant projects are those projects, 
+greater than $1,000,000, that are located in an area visible to large numbers 
+of people; will provide visual construction activities; will be of sufficient 
+size and scope; or of high interest to the using activity.  Unless waived by 
+government project management, provide project signboard with rendering for 
+all MILCON and other significant projects. Signboard with rendering details 
+for CNIC and NAVFAC are indicated in accordance with Plates 2, 3, 4 and 5 of 
+attached sketches.  Signboard with rendering details for USMC and NAVFAC are 
+indicated in accordance with Plates 2MC, 3, 4 and 5 of attached sketches.  Signs 
+are generally not required for projects located in remote areas; projects involving 
+all interior work; parking lot and utilities projects whether overhead or underground; 
+etc.  Discuss the necessity of a sign with the using Activity.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The<MET> 1220 mm by 2440 mm</MET><ENG> 4 ft by 8 ft</ENG> size of the signboard depicted in 
+Plates 1 and 2 is a minimum size requirement.  Adjust size to suit, massing, 
+distance from most traveled roads, traffic and speed.  When a size larger than 
+the minimum is warranted, provide adequate support and bracing based on soil 
+and wind conditions and increase lettering size in proportion to the dimensions 
+of the sign.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: For design-build projects eliminate the bracketed option stating that 
+the Government will provide a temporary rendering and include the last bracketed 
+option for Contractor to provide a color rendering.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to initiating any work on site, provide [one][_____] project identification sign at the location [indicated][designated].  
+Construct the sign in accordance with <ATT>project sign detail</ATT>, which can be downloaded at: <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL>
+.  Maintain sign throughout the life of the project.  Upon completion of the project, remove the sign from the 
+site.[  The Government will temporarily supply the Contractor a copy of the rendering to use in the production 
+of the final signboard artwork.][  Provide color rendering of the project.  Reproduce the rendering on the signboard 
+or enclose a copy of the rendering under a water-proof, transparent cover, and caulk for weather protection.]</TXT></TAI><BRK/>
+<TAI OPT="NAVFAC LANT,NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: For NAVFAC Atlantic (NAVFAC LANT) and NAVFAC Europe projects in Italy 
+(NAVFAC EURAFSWA), add the following paragraph.  Obtain the current name of 
+the Design Safety Coordinator from NAVFAC Atlantic or NAVFAC Europe project 
+manager and insert below. Obtain the current name of the Resident Officer in 
+Charge of Construction from NAVFAC Atlantic or NAVFAC Europe project manager 
+and insert as the Construction Safety Officer. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>On the project sign, provide points of contact for the Design Safety Coordinator and the Construction Safety 
+Officer in accordance with Italian Law as follows:  "Design Safety Coordinator-[_____], CEC, U.S. Navy, Commanding 
+Officer, Engineering Field Activity Mediterranean" "Construction Safety Officer - [_____], CEC, U.S. Navy, Resident 
+Officer in Charge of Construction".</TXT><BRK/>
+<BRK/>
+]</TAI><TAI OPT="NAVY">[<SPT><TTL>Project Identification Signboard (Navy)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraph for all NAVY projects and include the appropriate 
+project identification signboard plates at the end of this section.  Signboard 
+Plates are grouped for CNIC and NAVFAC without rendering, USMC and NAVFAC without 
+rendering, CNIC and NAVFAC with rendering, and USMC and NAVFAC with rendering. 
+Delete this paragraph for Air Force projects and utilize the Air Force paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A project identification signboard shall be provided in accordance with attached Plates [1, 3, and 4][1MC, 3, 
+and 4][2, 3, 4, and 5][2MC, 3, 4, and 5].  Provide <SUB>preliminary drawing indicating layout and text content</SUB>.  The 
+signboard shall be provided at a conspicuous location on the job site where directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The field of the sign shall consist of a<MET> 1200 by 2400 mm</MET><ENG> 4 by 8 foot</ENG> sheet of grade B-B medium density 
+overlaid exterior plywood.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Lumber shall be B or better Southern pine, pressure-preservative treated in accordance with <RID>AWPA C1</RID>
+ and <RID>AWPA C2</RID>.  Nails shall be aluminum or galvanized steel.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The entire signboard and supports shall be given one coat of exterior alkyd primer and two coats 
+of exterior alkyd enamel paint.  The lettering and sign work shall be performed by a skilled sign painter 
+using paint known in the trade as bulletin colors.  The colors, lettering sizes, and lettering styles 
+shall be as indicated.  Where preservative-treated lumber is required, utilize only cured pressure-treated 
+wood which has had the chemicals leached from the surface of the wood prior to painting.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Use spray applied automotive quality high gloss acrylic white enamel paint as background for the 
+NAVFAC logo.  NAVFAC logo shall be an applied<MET> 0.0508 mm</MET><ENG> 2 mil</ENG> film sticker/decal with either transparent 
+or white background or paint the logo by stencil onto the sign.  The weather resistant sticker/decal 
+film shall be rated for a minimum of 2-year exterior vertical exposure.  The self-adhering sticker shall 
+be mounted to the sign with pressure sensitive, permanent acrylic adhesive.  Shop cut sticker/decal to 
+rectangular shape and provide pull-off backing sheet on adhesive side of design sticker for shipping.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Sign paint colors (manufacturer's numbers/types listed below for color identification only)</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Blue = To match dark blue color in the NAVFAC logo.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) White = To match Brilliant White color in the NAVFAC logo.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  NAVFAC logo must retain proportions and design integrity.  NAVFAC logos in electronic format may 
+be obtained from the NAVFAC web portal via the following link: <URL>https://www.navfac.navy.mil/about_us/logos_and_seals.html</URL>
+  .  Use the following to choose color values for the paint to be used:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Dark Blue = equivalent to CMYK values 100, 72, 0, 8 .</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Light Blue = equivalent to CMYK values 69, 34, 0, 0.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Cyan = equivalent to CMYK values 100, 9, 0, 6.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Yellow = equivalent to CMYK values 0.9,94, 0.</ITM><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Use the following paragraph when a rendering is required on the signboard.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">g.  Final signboard artwork (rendering) may be either mounted under plexiglass as indicated in attached 
+Plates 2 and 5, or at the Contractor's option may be electrostatically printed on<MET> 0.1016 mm</MET><ENG> 4 mil</ENG> self-adhering, 
+weather resistant, glossy vinyl film and mounted to signboard.  Provide film that is capable of full 
+color reproduction of the building rendering and cover it with an ultra-violet protection film.  Laminate 
+the<MET> 0.0508 mm</MET><ENG> 2 mil</ENG> satin gloss clear protection film to the white<MET> 0.1016 mm</MET><ENG> 4 mil</ENG> vinyl image film.  
+Utilize pressure sensitive "controltac" adhesive to attach rendering to signboard and smooth out surface 
+with hand pressure tools in accordance with manufacturer's recommendations.  Shop cut sticker to size 
+required and provide pull-off backing sheet on adhesive side of film for shipping.  Provide the rendering 
+on film that is rated for a minimum of 2 years exterior vertical exposure.</LST><BRK/>
+<BRK/>
+][<SPT><TTL>Project Rendering</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Use the following paragraph for projects that require the Contractor to 
+provide the rendering.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a full color rendering of the proposed facility as specified below:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Provide rendering by a company that regularly does this work as a major component of their normal 
+business.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Colors used on rendering shall match the exterior color scheme indicated in the contract document.<BRK/></LST>
+<BRK/>
+<LST INDENT="-0.33">c.  The rendering shall be a full vignette/fully developed, on heavy illustration board.  Approximate 
+finished size shall be<MET> 610 by 760 mm</MET><ENG> 24 by 30 inches</ENG> with minimum inside mat dimension of<MET> 406 by 508 
+mm</MET><ENG> 16 by 20 inches</ENG>.  Draw the rendering at [human eye][roof][bird's eye][_____] level view, painted with 
+Case-in Tempera.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Use contract award date for fully designed projects and preliminary design 
+approval for Design Build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">d.  Provide three preliminary single line black and white perspectives prior to proceeding with the color 
+rendering.  Provide these preliminary perspectives within 30 days after [preliminary design approval][contract 
+award] for evaluation by the Contracting Officer.  The view selected by the Contracting Officer shall 
+be developed into the final rendering.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Provide the final rendering sample photograph within 30 days after approval of preliminary single 
+line drawings.  Provide this sample photograph for evaluation by the Contracting Officer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Provide final original color rendering, two (2) full size photographic reproductions of the original 
+rendering, and the photographic negative.  Original and reproductions shall be mounted on acid free board, 
+double-matted (acid free matting) with appropriate colored board and framed in contemporary metal frames, 
+using non-glare glass.  Project name, location, Architect/Engineer firm's name shall be printed on the 
+matting.  On the back of the renderings and reproductions, indicated the project name, the location, 
+the contract number, and the date of reproduction.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Insert into the blank the address of the EFD/EFA Project Manager of the 
+project design. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">g.  The rendering, the photographic copies, and the negative shall be shipped in resilient packaging 
+to ensure damage-free delivery.</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">Deliver to:     [_____]</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Provide copy of rendering to be used for the signboard that has been protected from UV damage as 
+per specifications.</LST><BRK/>
+<BRK/></SPT>
+]</SPT>]</TAI><TAI OPT="AIR FORCE">[<SPT><TTL>Project Signboard (Air Force)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraph for all Air Force projects.  The host Activity 
+provides sign colors and details to the Government in the project book submittal.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Furnish the sign, maintain the sign during construction, and remove the sign from the job site upon completion 
+of the project.  Details of sign graphics and construction are indicated in Plates 6 and 7 of sketches attached 
+to this section.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Confirm with Contracting Officer for each project as to whether the Contractor 
+or Government will provide the applied Air Force logo.  NAVFAC logos shall not 
+be provided by the Government.  If the Government will provide Air Force stickers 
+delete the following requirement.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>The<MET> 450 mm</MET><ENG> 18 inch</ENG> maximum width and height for Air Force and rectangular height for NAVFAC applied stickers 
+shall be created in the design indicated, and printed on a<MET> 0.0508 mm</MET><ENG> 2 mil</ENG> transparent film.  The weather resistant, 
+self adhering film shall be rated for a minimum of 2 year exterior vertical exposure and be mounted to sign with 
+pressure sensitive, permanent acrylic adhesive.  Shop cut sticker to square shape and provide pull-off backing 
+sheet on adhesive side of sticker for shipping.</TXT><BRK/>
+]<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for projects at Aviano Air Base, Aviano, Italy (NAVFAC 
+EURAFSWA) only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Move the "PLANNED COMPLETION DATE" to the sign left edge and add to the sign right side "EMERGENCY RESPONSE (ERP) 
+COORDINATES:  [_____]".  These coordinates, which are used to locate base emergencies, will be provided by the 
+ROICC.</TXT><BRK/>
+]<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Air Force projects on Guam, add the paragraph below.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>On the project sign, list two points of contact by name and telephone number for a Navy representative and an 
+Air Force representative, which will be provided by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+]</SPT>]</TAI><SPT><TAI OPT="ARMY"><TTL>Construction Project Signs (USACE)</TTL><BRK/>
+<BRK/>
+<TXT>Furnish the construction project sign package, maintain the signs during construction, and remove the signs from 
+the job site upon completion of the project.  The construction project sign package consists of two signs: one 
+for project identification and the other to show the on-the-job safety performance of the contractor.  The package 
+shall conform to the requirements of <RID>EP 310-1-6a</RID> and <RID>EP 310-1-6b</RID>, specifically Section 16.  Submit the <SUB>sign legend 
+orders</SUB> as described in Section 16 of <RID>EP 310-1-6a</RID> prior to erecting the signs.</TXT></TAI><BRK/>
+<NED/><BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+    <END/><BRK/></SEC>

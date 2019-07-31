@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 56 13 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UGGS-02 56 13 (October 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 56 13</SCN><BRK/>
+<BRK/>
+<STL>WASTE CONTAINMENT GEOMEMBRANE</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>geomembrane barrier 
+for waste containment applications</SCP>.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This section is not to be used for POL systems.  UFGS Section 
+<SRF>33 56 19</SRF> FUEL IMPERMEABLE LINER SYSTEM for POL tank dike liners and Standard 
+Design 078-24-27 for liners under POL tank bottoms.</NPR><BRK/>
+<BRK/>
+<NPR>Typical materials used in waste containment applications include linear low 
+density polyethylene (LLDPE), high density polyethylene (HDPE), polyvinyl chloride 
+(PVC), or polypropylene (PP).  These materials are produced with both smooth 
+and textured surfaces.  The need for a textured versus a non textured material 
+will be based on cover stability analyses.  The drawings must clearly indicate 
+the limits of placement for textured and non textured geomembranes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>MEASUREMENT AND PAYMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when lump sum bidding is used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measurement shall be made of the total surface area in square<MET> meters</MET><ENG> feet</ENG> covered by geomembrane.  Final quantities 
+will be based on as-built conditions.  Allowance will be made for geomembrane in anchor and drainage trenches; 
+however, no allowance will be made for waste, overlap, repairs, or materials used for the convenience of the 
+Contractor.  Geomembrane installed and accepted by the Contracting Officer will be paid for at the respective 
+contract unit price in the bidding schedule.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D1004</RID><RTL>(2013) Initial Tear Resistance of Plastic Film and Sheeting</RTL><BRK/><BRK/><RID>ASTM D1203</RID><RTL>(2016) Standard Test Methods for Volatile Loss from Plastics Using Activated Carbon Methods</RTL><BRK/><BRK/><RID>ASTM D1204</RID><RTL>(2014) Linear Dimensional Changes of Nonrigid Thermoplastic Sheeting or Film at Elevated Temperature</RTL><BRK/><BRK/><RID>ASTM D1505</RID><RTL>(2018) Standard Test Method for Density of Plastics by the Density-Gradient Technique</RTL><BRK/><BRK/><RID>ASTM D1593</RID><RTL>(2009) Standard Specification for Nonrigid Vinyl Chloride Plastic Film and Sheeting</RTL><BRK/><BRK/><RID>ASTM D1603</RID><RTL>(2014) Carbon Black Content in Olefin Plastics</RTL><BRK/><BRK/><RID>ASTM D1790</RID><RTL>(2014) Brittleness Temperature of Plastic Sheeting by Impact</RTL><BRK/><BRK/><RID>ASTM D3895</RID><RTL>(2014) Oxidative-Induction Time of Polyolefins by Differential Scanning Calorimetry</RTL><BRK/><BRK/><RID>ASTM D4218</RID><RTL>(2015) Determination of Carbon Black Content in Polyethylene Compounds by the Muffle-Furnace Technique</RTL><BRK/><BRK/><RID>ASTM D4833/D4833M</RID><RTL>(2007; E 2013; R 2013) Index Puncture Resistance of Geotextiles, Geomembranes, and Related Products</RTL><BRK/><BRK/><RID>ASTM D5199</RID><RTL>(2012) Measuring Nominal Thickness of Geosynthetics</RTL><BRK/><BRK/><RID>ASTM D5321/D5321M</RID><RTL>(2017) Standard Test Method for Determining the Shear Strength of Soil-Geosynthetic and Geosynthetic-Geosynthetic Interfaces by Direct Shear</RTL><BRK/><BRK/><RID>ASTM D5397</RID><RTL>(2019) Standard Test Method for Evaluation of Stress Crack Resistance of Polyolefin Geomembranes Using Notched Constant Tensile Load Test</RTL><BRK/><BRK/><RID>ASTM D5596</RID><RTL>(2003; R 2016) Standard Test Method For Microscopic Evaluation of the Dispersion of Carbon Black in Polyolefin Geosynthetics</RTL><BRK/><BRK/><RID>ASTM D5721</RID><RTL>(2008; R 2013) Air-Oven Aging of Polyolefin Geomembranes</RTL><BRK/><BRK/><RID>ASTM D5885/D5885M</RID><RTL>(2017) Standard Test Method for Oxidative Induction Time of Polyolefin Geosynthetics by High-Pressure Differential Scanning Calorimetry</RTL><BRK/><BRK/><RID>ASTM D5994/D5994M</RID><RTL>(2010; R 2015; E2015) Standard Test Method for Measuring Core Thickness of Textured Geomembranes</RTL><BRK/><BRK/><RID>ASTM D638</RID><RTL>(2014) Standard Test Method for Tensile Properties of Plastics</RTL><BRK/><BRK/><RID>ASTM D6392</RID><RTL>(2012; R 2018) Standard Test Method for Determining the Integrity of Nonreinforced Geomembrane Seams Produced Using Thermo-Fusion Methods</RTL><BRK/><BRK/><RID>ASTM D6497/D6497M</RID><RTL>(2002; R 2015; E 2015)Standard Guide for Mechanical Attachment of Geomembrane to Penetrations or Structures</RTL><BRK/><BRK/><RID>ASTM D7238</RID><RTL>(2006; R 2012) Standard Test Method for Effect of Exposure of Unreinforced Polyolefin Geomembrane Using Fluorescent UV Condensation Apparatus</RTL><BRK/><BRK/><RID>ASTM D7466</RID><RTL>(2010) Standard Test Method for Measuring Asperity Height of Textured Geomembranes</RTL><BRK/><BRK/><RID>ASTM D751</RID><RTL>(2006; R 2011) Coated Fabrics</RTL><BRK/><BRK/><RID>ASTM D792</RID><RTL>(2013) Density and Specific Gravity (Relative Density) of Plastics by Displacement</RTL><BRK/><BRK/><RID>ASTM D814</RID><RTL>(1995; R 2014) Rubber Property - Vapor Transmission of Volatile Liquids</RTL><BRK/><BRK/><RID>ASTM D882</RID><RTL>(2012) Tensile Properties of Thin Plastic Sheeting</RTL><BRK/><BRK/></REF><REF><ORG>GEOSYNTHETIC INSTITUTE (GSI)</ORG><BRK/><BRK/><RID>GSI GRI GM7</RID><RTL>(1995) Accelerated Curing of Geomembrane Test Strip Seams Made by Chemical Fusion Methods</RTL><BRK/><BRK/><RID>GSI GRI GM9</RID><RTL>(1995; R 2013) Cold Weather Seaming of Geomembranes</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>PANEL LAYOUT</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>geomembrane panel layout</SUB> and penetration detail drawings, a minimum of [7] [_____] days prior to geomembrane 
+placement.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Geomembrane Panel Layout</SUB></ITM><BRK/>
+<ITM><SUB>Penetrations</SUB></ITM><BRK/>
+<ITM><SUB>As-Built Drawings</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Materials</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Field Seaming</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Qualifications</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Samples</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Surface Preparation</SUB></ITM><BRK/>
+<ITM><SUB>Non-Destructive Field Seam Continuity Testing</SUB></ITM><BRK/>
+<ITM><SUB>Destructive Field Seam Testing</SUB></ITM><BRK/>
+<ITM><SUB>Destructive Seam Test Repairs</SUB></ITM><BRK/>
+<ITM><SUB>Interface Friction Testing</SUB></ITM><BRK/>
+<ITM><SUB>Tests</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Samples</SUB></ITM><BRK/>
+<ITM><SUB>Materials</SUB></ITM><BRK/>
+<ITM><SUB>Surface Preparation</SUB></ITM><BRK/>
+<ITM><SUB>Destructive Field Seam Testing</SUB></ITM><BRK/>
+<ITM><SUB>Destructive Seam Test Repairs</SUB></ITM><BRK/>
+<ITM><SUB>Interface Friction Testing</SUB></ITM><BRK/>
+<ITM><SUB>Tests</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Qualifications</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Manufacturer</TTL><BRK/>
+<BRK/>
+<TXT>Manufacturer shall have produced the proposed geomembrane sheets for at least 5 completed projects having a total 
+minimum area of<MET> [930,000] [_____] square meters</MET><ENG> [10] [_____] million square feet</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fabricator</TTL><BRK/>
+<BRK/>
+<TXT>The fabricator is responsible for seaming geomembrane sheets into panels.  Fabricator shall have fabricated the 
+proposed geomembrane panels for at least 5 completed projects having a total minimum area of<MET> [186,000] [_____] 
+square meters</MET><ENG> [2] [_____] million square feet</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Installer</TTL><BRK/>
+<BRK/>
+<TXT>The installer is responsible for field handling, deploying, seaming, anchoring, and field Quality Control (QC) 
+testing of the geomembrane.  The installer shall have installed the proposed geomembrane material for at least 
+5 completed projects having a total minimum area of<MET> [186,000] [_____] square meters</MET><ENG> [2] [_____] million square 
+feet</ENG>.  At least one seamer shall have experience seaming a minimum of<MET> [46,500] [_____] square meters</MET><ENG> [500,000] 
+[_____] square feet</ENG> of the proposed geomembrane using the same type of seaming equipment and geomembrane thickness 
+specified for this project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QC Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A separate third party quality assurance (QA) contract should be considered 
+based on the qualifications of the Government QA personnel, the size and importance 
+of the project, and impacts of a geomembrane failure.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The QC inspector is the person or corporation hired by the Contractor, who is responsible for monitoring and 
+documenting activities related to the QC of the geomembrane from manufacturing through installation.  The QC 
+inspector shall have provided QC inspection during installation of the proposed geomembrane material for at least 
+5 completed projects having a total minimum area of<MET> [186,000] [_____] square meters</MET><ENG> [2] [_____] million square 
+feet</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QC Laboratory</TTL><BRK/>
+<BRK/>
+<TXT>The QC laboratory shall have provided QC and/or Quality Assurance (QA) testing of the proposed geomembrane and 
+geomembrane seams for at least five completed projects having a total minimum area of<MET> [186,000] [_____] square 
+meters</MET><ENG> [2] [_____] million square feet</ENG>.  The QC laboratory shall be accredited via the Geosynthetic Accreditation 
+Institute's Laboratory Accreditation Program (GAI-LAP) for the tests the QC laboratory will be required to perform.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Submittal Requirements</TTL><BRK/>
+<BRK/>
+Submit manufacturer's, and fabricator's qualification statements, including resumes of key personnel involved in 
+the project, a minimum of [7] [_____] days prior to geomembrane shipment.  Also submit installer's, QC inspector's, 
+and QC laboratory's qualification statements including resumes of key personnel involved in the project a minimum 
+of [7] [_____] days prior to geomembrane placement.  The submittal from the QC laboratory shall include verification 
+that the laboratory is accredited via the Geosynthetic Accreditation Institute's Laboratory Accreditation Program 
+(GAI-LAP) for the tests the QC laboratory will be required to perform.  The following shall also be submitted:<BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Manufacturer's and fabricator's QC manuals, a minimum of [7] [_____] days prior to geomembrane shipment.  
+Installer's QC manual, a minimum of [7] [_____] days prior to geomembrane placement.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Geomembrane QA and QC samples.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Manufacturer's certified raw and sheet material test reports and a copy of the QC certificates, a 
+minimum of [7] [_____] days prior to shipment of geomembrane to the site.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Certification from the QC inspector and installer of the acceptability of the surface on which the 
+geomembrane is to be placed, immediately prior to geomembrane placement.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  QC inspector certified test results on all field seams.  Installer and certified QC laboratory test 
+results on all destructively tested field seams.  QC inspector certified test results on all repaired 
+seams.  Certified QC test results.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Certified laboratory interface friction test results including description of equipment and test 
+method, a minimum of [7] [_____] days prior to geomembrane shipment.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DELIVERY, STORAGE AND HANDLING</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Delivery</TTL><BRK/>
+<BRK/>
+<TXT>The QC inspector shall be present during delivery and unloading of the geomembrane.  Each geomembrane roll/panel 
+shall be labeled with the manufacturer's name, product identification number, roll/panel number, and roll dimensions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Storage</TTL><BRK/>
+<BRK/>
+<TXT>Temporary storage at the project site shall be on a level surface, free of sharp objects where water cannot accumulate.  
+The geomembrane shall be protected from puncture, abrasion, excessive heat or cold, material degradation, or 
+other damaging circumstances.  Storage shall not result in crushing the core of roll goods or flattening of the 
+rolls.  Rolls shall not be stored more than two high.  Palleted materials shall be stored on level surfaces and 
+shall not be stacked on top of one another.  Ultraviolet sensitive materials (i.e., PVC) shall be covered with 
+a sacrificial opaque and waterproof covering or placed in a temporary shelter.  Damaged geomembrane shall be 
+removed from the site and replaced with geomembrane that meets the specified requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Handling</TTL><BRK/>
+<BRK/>
+<TXT>Rolls/panels shall not be dragged, lifted by one end, or dropped.  A pipe or solid bar, of sufficient strength 
+to support the full weight of a roll without significant bending, shall be used for all handling activities.  
+The diameter of the pipe or solid bar shall be small enough to be easily inserted through the core of the roll.  
+Chains shall be used to link the ends of the pipe or bar to the ends of a spreader bar.  The spreader bar shall 
+be wide enough to prevent the chains from rubbing against the ends of the roll.  Alternatively, a stinger bar 
+protruding from the end of a forklift or other equipment may be used.  The stinger bar shall be at least three-fourths 
+the length of the core and also must be capable of supporting the full weight of the roll without significant 
+bending.  If recommended by the manufacturer, a sling handling method utilizing appropriate loading straps may 
+be used.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>AMBIENT CONDITIONS</TTL><BRK/>
+<BRK/>
+<TXT>Geomembrane shall not be deployed or field-seamed in the presence of excess moisture (i.e., rain, fog, dew), 
+in areas of ponded water, or in the presence of excess wind.  Unless authorized by the Contracting Officer, no 
+placement or seaming shall be attempted at ambient temperatures below<MET> 0 degrees C</MET><ENG> 32 degrees F</ENG> or above<MET> 40 degrees 
+C</MET><ENG> 104 degrees F</ENG>.  Ambient temperature shall be measured at a height no greater than<MET> 150 mm</MET><ENG> 6 inches</ENG> above the 
+ground or geomembrane surface.  If seaming is allowed below<MET> 0 degrees C</MET><ENG> 32 degrees F</ENG>, the procedures outlined 
+in <RID>GSI GRI GM9</RID> shall be followed.  In marginal conditions, seaming shall cease unless destructive field seam 
+tests, conducted by the QC laboratory, confirm that seam properties meet the requirements listed in Table [3] 
+[5].  Tests shall be conducted in accordance with paragraph Destructive Field Seam Testing.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>MATERIALS</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Raw Materials</TTL><BRK/>
+<BRK/>
+<TXT>Resin used in manufacturing geomembrane sheets shall be made of virgin uncontaminated ingredients.  No more than 
+[10] [_____] percent regrind, reworked, or trim material in the form of chips or edge strips shall be used to 
+manufacture the geomembrane sheets.  All regrind, reworked, or trim materials shall be from the same manufacturer 
+and exactly the same formulation as the geomembrane sheet being produced.  No post consumer materials or water-soluble 
+ingredients shall be used to produce the geomembrane.  For geomembranes with plasticizers, only primary plasticizers 
+that are resistant to migration shall be used.  Submit a copy of the test reports and QC certificates for materials 
+used in the manufacturing of the geomembrane shipped to the site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sheet Materials</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  USACE practice on landfill cover systems has been to use a minimum nominal 
+geomembrane thickness of<MET> 1 mm</MET><ENG> 40 mils</ENG>.  This criterion is based on survivability.  
+USACE practice for landfill liner systems has been to use a minimum nominal 
+geomembrane thickness of<MET> 1.5 mm</MET><ENG> 60 mils</ENG>.  Site-specific analyses should be conducted 
+to determine the appropriate thickness for both landfill liners and covers.  
+Reinforced geomembranes are generally not recommended where geomembrane elongation 
+properties are critical (i.e., landfill covers) but may be suitable for other 
+applications such as liquid surface impoundments.  The property values listed 
+in Tables 1, 2, and 4 are based on industry agreed upon Manufacturing Quality 
+Control (MQC) values for 40 mil smooth and textured HDPE and 40 mil smooth PVC.  
+These values are provided as examples only.  Refer to GRI Test Method GM-13 
+when specifying MQC values for other thicknesses of HDPE.<BRK/>
+<BRK/>
+Tables 1 and 2 can also be used for LLDPE geomembranes.  Refer to GSI GRI GM17 
+when specifying MQC property requirements for LLDPE.  If LLDPE geomembrane is 
+being specified, omit property requirements for stress crack resistance (ASTM 
+D5397), yield strength (ASTM D882), and yield elongation (ASTM D882).<BRK/>
+<BRK/>
+Include property requirements for multi-axial tensile strength (ASTM D5617).  
+Property requirements for multi-axial tensile tests simulate a void beneath 
+the geomembrane or differential settlement which may stress the geomembrane 
+beyond its multi-axial strain limit.  Multi-axial tensile tests are typically 
+specified for HDPE geomembranes only when the geomembrane is likely to be subjected 
+to significant multi-axial stresses.  If multi-axial testing will be performed 
+on an HDPE geomembrane, tests should be performed in accordance with ASTM D5617.  
+A minimum multi-axial tensile strain at rupture of 20 percent is typically specified 
+for smooth HDPE geomembranes.  For textured HDPE geomembranes, the specified 
+minimum multi-axial tensile strain at rupture should be 15 percent.<BRK/>
+<BRK/>
+Refer to the PVC Geomembrane Institute's PGI 1197 when specifying MQC values 
+for other thicknesses of PVC.  For other material types, evaluate at least three 
+current manufacturer's property sheets for each acceptable material type before 
+specifying property test values.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Geomembrane sheets shall be [unreinforced] [reinforced] and manufactured as wide as possible to minimize factory 
+and field seams.  Geomembrane sheets shall be uniform in color, thickness, and surface texture.  For slopes greater 
+than or equal to 1V on [_____] H, sheets shall be textured on [the upper face] [the lower face] [both faces].  
+The textured surface features shall consist of raw materials identical to that of the parent sheet material and 
+shall be uniform over the entire face of the geomembrane.  The sheets shall be free of and resistant to fungal 
+or bacterial attack and free of cuts, abrasions, holes, blisters, contaminants and other imperfections.  Geomembrane 
+sheets and factory seams shall conform to the requirements listed in Table [1] [2] [3] [4] and [5] for Manufacturing 
+Quality Control (MQC).</TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s53">
+         <ALN HORIZONTAL="RIGHT" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="23">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="168.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="97.50"/>
+      <COL AUTOWIDTH="0" WIDTH="87.75"/>
+      <COL AUTOWIDTH="0" WIDTH="114.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL MERGEACROSS="3" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 1 - SMOOTH HDPE GEOMEMBRANE PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">MQC TESTING FREQUENCY (MIN.)</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Thickness (min ave)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[1] [_____] mm</MET><ENG>[40] [_____] mils</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">per roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5199</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Lowest individual of 10 values</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">-10 percent</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">per roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5199</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Density (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0.940 g/cc</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1505</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Tensile Properties(1)(min ave)</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 9,000 kg</MET><ENG>per 20,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D638</RID><BRK/>Type IV</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">yield stress</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[15] [_____] kN/m</MET><ENG>[84] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">break stress</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[27] [_____] kN/m</MET><ENG>[152] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">yield elong</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[12] [_____] percent</DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">break elong</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[700] [_____] percent</DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Tear Resistance (min ave)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[125] [_____] N</MET><ENG>[28] [_____] lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1004</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Puncture Resistance(min ave)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[320] [_____] N</MET><ENG>[72] [_____] lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4833/D4833M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Stress Crack Resistance (2)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[200] [_____] hr</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5397</RID> (Appendix)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Carbon Black Content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2.0-3.0 percent</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 9,000 kg</MET><ENG>per 20,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1603</RID> (3)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Carbon Black Dispersion</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (4)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5596</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Oxidative Induction Time (OIT)(min ave)(5)</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><HL4>-Std OIT</HL4></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">100 min</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D3895</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><HL4>-High Pres OIT</HL4></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">400 min</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Oven Aging at<MET> 85 deg C</MET><ENG> 185 deg F</ENG> (min ave) (5), (6)</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING">per year and change in formulation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5721</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">Std OIT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">55 percent at 90 days</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D3895</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s53">
+<DTA TYPE="STRING">or           High Pres OIT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">80 percent at 90 days</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">UV Resistance (min ave) (7)</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING">per year and change in formulation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D7238</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="63.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">High Pres OIT(8)(9)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">50 percent at 1600 hours</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="RIGHT"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="26">
+      <COL AUTOWIDTH="0" WIDTH="166.50"/>
+      <COL AUTOWIDTH="0" WIDTH="96.75"/>
+      <COL AUTOWIDTH="0" WIDTH="91.50"/>
+      <COL AUTOWIDTH="0" WIDTH="113.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="3" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 2 - TEXTURED HDPE GEOMEMBRANE PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">MQC TESTING FREQUENCY (MIN.)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL>
+<DTA TYPE="STRING">Nominal Thickness</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[1] [_____] mm</MET><ENG>[40] [_____] mils</ENG></DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Thickness (min ave)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">-5 percent of nominal</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">per roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5994/D5994M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL>
+<DTA TYPE="STRING">Lowest individual for 8 out of 10 values</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">-10 percent of nominal</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">per roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5994/D5994M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Lowest individual of 10 values</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">-15 percent of nominal</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">per roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5994/D5994M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Asperity Height (min ave) (10)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>0.25 mm</MET><ENG>10 mils</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">every second roll</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D7466</RID> (11)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Density (min)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">0.940 g/cc</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1505</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Tensile Properties(1)(min ave)</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 9,000 kg</MET><ENG>per 20,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D638</RID><BRK/>Type IV</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">yield stress</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[15] [_____] kN/m</MET><ENG>[84] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">break stress</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[11] [_____] kN/m</MET><ENG>[60] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">yield elongation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[12] [_____] percent</DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">break elongation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[100] [_____] percent</DTA>
+         </CEL>
+         <CEL/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL>
+<DTA TYPE="STRING">Tear Resistance (min ave)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[125] [_____] N</MET><ENG>[28] [_____] lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1004</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Puncture Resistance(min ave)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[267] [_____] N</MET><ENG>[60] [_____] lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4833/D4833M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL>
+<DTA TYPE="STRING">Stress Crack Resistance (2)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[200] [_____] hr</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5397</RID> (Appendix)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="42.00">
+         <CEL>
+<DTA TYPE="STRING">Carbon Black Content</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">2.0-3.0 percent</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 9,000 kg</MET><ENG>per 20,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1603</RID> (3)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL>
+<DTA TYPE="STRING">Carbon Black Dispersion</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Note (4)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 20,000 kg</MET><ENG>per 45,000 lb</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5596</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL>
+<DTA TYPE="STRING">Oxidative Induction Time (OIT)(min ave)(5)</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><MET>per 90,000 kg</MET><ENG>per 200,000 lb</ENG></DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="41.25">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Std OIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">100 min</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D3895</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="29.25">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">or           High Pres OIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">400 min</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="41.25">
+         <CEL>
+<DTA TYPE="STRING">Oven Aging at<MET> 85 deg C</MET><ENG> 185 deg F</ENG> (min ave) (5), (6)</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">per year and change in formulation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5721</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Std OIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">55 percent at 90 days</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D3895</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">or           High Pres OIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">80 percent at 90 days</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.00">
+         <CEL>
+<DTA TYPE="STRING">UV Resistance (min ave) (7)</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">per year and change in formulation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D7238</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="63.00">
+         <CEL>
+<DTA TYPE="STRING">High Pres OIT(8)(9)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">50 percent at 1600 hours</DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D5885/D5885M</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="13">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="73.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="394.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 1 AND TABLE 2 NOTES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">MQC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Manufacturing Quality Control</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="90.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (1)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Minimum average machine direction and minimum average cross machine direction values shall be based on 5 test specimens in each direction.  For HDPE geomembrane, yield elongation is calculated using a gauge length of<MET> 33 mm</MET><ENG> 1.3 inches</ENG>.  For HDPE geomembrane, break elongation is calculated using a gauge length of<MET> 50 mm</MET><ENG> 2.0 inches</ENG>.  For LLDPE geomembrane, break elongation is calculated using a gage length of<MET> 50 mm</MET><ENG> 2.0 inches</ENG> at<MET> 50 mm/min</MET><ENG> 2 inches/min</ENG>.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (2)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">For HDPE geomembrane, the yield stress used to calculate the applied load for test method <RID>ASTM D5397</RID> (Appendix), shall be the manufacturer's mean value.  <RID>ASTM D5397</RID> does not need to be run on LLDPE geomembrane.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="54.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (3)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Other methods such as <RID>ASTM D4218</RID> or microwave methods are acceptable if an appropriate correlation to <RID>ASTM D1603</RID> can be established.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (4)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Carbon black dispersion for 10 different views:<BRK/>             - minimum 8 of 10 in Categories 1 or 2<BRK/>             - all 10 in Categories 1,2, or 3</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (5)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">The manufacturer has the option to select either one of the OIT methods to evaluate the antioxidant content.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (6)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Evaluate samples at 30 and 60 days and compare with the 90 day response.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (7)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">The condition of the test shall be a 20 hour UV cycle at<MET> 75 degrees C</MET><ENG> 167 degrees F</ENG> followed by a 4 hour condensation cycle at<MET> 60 degrees C</MET><ENG> 140 degrees F</ENG>.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (8)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">The standard OIT test (<RID>ASTM D3895</RID>) shall not be used in determining UV resistance.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (9)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">UV resistance is based on percent retained value regardless of the original HP-OIT value.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="41.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (10)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Textured Geomembrane Only:  Of 10 readings; 8 out of 10 must be<MET> 0.18 mm</MET><ENG>  7 mil</ENG>, and lowest individual reading must be<MET> 0.13 mm</MET><ENG> 5 mil</ENG>.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Note (11)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Textured Geomembrane Only:  Alternate the measurement side for double sided textured sheet.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="6">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL AUTOWIDTH="0" WIDTH="156.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 3 - HDPE SEAM PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Seam Shear Strength (min) (1)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[14.0] [_____] kN/m</MET><ENG>[80] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D6392</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Seam Peel Strength (min) (1) (2)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[8.4] [_____] kN/m</MET><ENG>[48] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D6392</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">Note (1):  Seam tests for peel and shear must fail in the Film Tear Bond mode.  This is a failure in the ductile mode of one of the bonded sheets by tearing or breaking prior to complete separation of the bonded area.</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">Note (2):  Where applicable, both tracks of a double hot wedge seam shall be tested for peel adhesion.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="RIGHT" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="22">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL AUTOWIDTH="0" WIDTH="156.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 4 - SMOOTH PVC GEOMEMBRANE PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Thickness (nominal)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[1] [_____] mm</MET><ENG>[40] [_____] mils</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1593</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Thickness (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[0.95] [_____] mm</MET><ENG>[38] [_____] mils</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1593</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Specific Gravity (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">1.2 g/ml</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D792</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Tensile Properties (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s51"/>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D882</RID>, Method A</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">break strength (Machine direction (MD) and Transvers direction (TD))</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[17.0] [_____] kN/m</MET><ENG>[97] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">elongation @ break (MD and TD)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[400] [_____] percent</DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">modulus @ 100 percent (MD and TD)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[7.2] [_____] kN/m</MET><ENG>[41] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Tear Resistance (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[46.7] [_____] kN/m</MET><ENG>[10.5] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1004</RID>, Die C</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Low Temperature, pass</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>-29 degrees C</MET><ENG>-20 degrees F</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1790</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Dimensional Stability (max)(MD and TD)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[3] [_____] percent</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1204</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Water Extraction (max)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[0.2] [_____] percent loss</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">See Note 1</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Volatile Loss (max)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[0.5] [_____] percent loss</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1203</RID> (A)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">Resistance to Soil Burial</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">See Note 1</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">breaking factor</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">+/-  5 percent</DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">elongation @ break</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">+/- 20 percent</DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">100 percent modulus</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">+/- 20 percent</DTA>
+         </CEL>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Water Vapor</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">.00000000005 m/sec</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D814</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Hydrostatic Resistance (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING"><MET>[827] [_____] kN/sq m</MET><ENG>[120] [_____] lb/sq in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D751</RID> (A)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50"/>
+         <CEL STYLEID="s50"/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">NOTE 1:  Water Extraction and Resistance to Soil Burial testing shall be performed in accordance with manufacturer's approved procedures.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="5">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.00"/>
+      <COL AUTOWIDTH="0" WIDTH="156.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 5 - PVC SEAM PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Seam Shear Strength (min)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[13.5] [_____] kN/m</MET><ENG>[77] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Installers approved procedure</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Seam Peel Strength (min) (1)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>[2.6] [_____] kN/m</MET><ENG>[15] [_____] lb/in</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Installers approved procedure</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">Note (1):  Where applicable, both tracks of a double hot wedge seam shall be tested for peel adhesion.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+<SPT><TTL>Factory Seams</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Polyethylene geomembranes are not usually factory seamed.  Delete this 
+paragraph when factory seaming is not applicable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Geomembrane sheets shall be factory seamed into maximum sized panels to minimize field seaming.  Factory seaming 
+shall be by methods approved by the geomembrane manufacturer.  Seams shall meet the minimum shear and peel strength 
+requirements shown in Table [3] [5].  Factory seams shall extend to the end of the sheet so that no unbonded 
+edges greater than<MET> 3.2 mm</MET><ENG> 1/8 inch</ENG> wide are present.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>TESTS, INSPECTIONS, AND VERIFICATIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Interface Friction Testing</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Interface friction testing should be conducted on all potential slip 
+interfaces.  The rate of displacement and normal stresses used for interface 
+friction testing are dependent on the materials being tested and anticipated 
+site conditions.  Normal stresses specified should cover the range of anticipated 
+field loads.  Selection of peak versus residual values should be based on anticipated 
+interface displacements taking into account seismic activities and long term conditions.<BRK/>
+<BRK/>
+The number of interface friction tests must be determined on a site specific 
+basis considering regulator input and the potential for damage due to a shear 
+failure.  This testing should be completed during design or by the Contractor 
+prior to the start of construction.<BRK/>
+<BRK/>
+A method sometimes used to model saturated conditions at the shear interface 
+is to wet these surfaces prior to shearing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Laboratory interface friction tests shall be conducted on the following interfaces:  [_____].  The frequency 
+of testing for each interface shall be [1 per [_____] acres of geomembrane placed] [[_____] per project].  Tests 
+shall be conducted in accordance with <RID>ASTM D5321/D5321M</RID>.  Normal stresses of [_____], [_____], and [_____]<MET> kPa</MET><ENG>
+ psi</ENG> along with a displacement rate of<MET> [1.0] [5.0] [_____] mm</MET><ENG> [0.04] [0.2] [_____] inches</ENG> per minute shall be 
+used.  Interfaces tested shall be [wet] [dry].  Soil components shall be the same as used for full scale construction 
+and shall be compacted to the same moisture-density requirements specified for full scale field placement.  Geosynthetics 
+shall be the same materials as those proposed for use during full scale construction.  Geosynthetics shall be 
+oriented such that the shear force is parallel to the down slope orientation of these components in the field.  
+A minimum [peak] [residual] interface friction angle of [_____] degrees is required for all interfaces.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Manufacturing, Sampling, and Testing</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Raw Materials</TTL><BRK/>
+<BRK/>
+<TXT>Raw materials shall be tested in accordance with the approved MQC manual.  Any raw material which fails to meet 
+the geomembrane manufacturer's specified physical properties shall not be used in manufacturing the sheet.  Seaming 
+rods and pellets shall be manufactured of materials which are essentially identical to that used in the geomembrane 
+sheet.  Seaming rods and pellets shall be tested for density, melt index and carbon black content in accordance 
+with the approved MQC manual.  Seaming rods and pellets which fail to meet the corresponding property values 
+required for the sheet material, shall not be used for seaming.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sheet Material</TTL><BRK/>
+<BRK/>
+<TXT>Geomembrane sheets shall be tested in accordance with the approved MQC manual.  As a minimum, MQC testing shall 
+be conducted at the frequencies shown in Table 1.  Sheets not meeting the minimum requirements specified in Table 
+1 shall not be sent to the site.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Equipment used in performance of the work shall be in accordance with the geomembrane manufacturer's recommendations 
+and shall be maintained in satisfactory working condition.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PREPARATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Surface Preparation</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Ensure other sections of the specification package adequately address 
+compaction requirements for soil subgrade layers.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Surface preparation shall be performed in accordance with Section <SRF>31 00 00</SRF> EARTHWORK.  Rocks larger than<MET> [13] 
+[_____] mm</MET><ENG> [1/2] [_____] inch</ENG> in diameter and any other material which could damage the geomembrane shall be 
+removed from the surface to be covered with the geomembrane.  Construction equipment tire or track deformations 
+beneath the geomembrane shall not be greater than<MET> 25 mm</MET><ENG> 1.0 inch</ENG> in depth.  Each day during placement of geomembrane, 
+the [QC Inspector] [Contracting Officer] and installer shall inspect the surface on which geomembrane is to be 
+placed and certify in writing that the surface is acceptable.  Repairs to the subgrade shall be performed at 
+no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Anchor Trenches</TTL><BRK/>
+<BRK/>
+<TXT>Where an anchor trench is required, it shall be placed<MET> [610] [_____] mm</MET><ENG> [24] [_____] inches</ENG> back from the edge 
+of the slope to be covered.  The anchor trench shall be<MET> [610] [_____] mm</MET><ENG> [24] [_____] inches</ENG> deep and<MET> [460] [_____] 
+mm</MET><ENG> [18] [_____] inches</ENG> wide.  If the anchor trench is excavated in cohesive soil susceptible to desiccation, 
+only the amount of anchor trench required for placement of geomembrane in a single day shall be excavated.  Ponded 
+water shall be removed from the anchor trench while the trench is open.  Trench corners shall be slightly rounded 
+to avoid sharp bends in the geomembrane.  Loose soil, rocks larger than<MET> [13] [_____] mm</MET><ENG> [1/2] [_____] inch</ENG> in 
+diameter, and any other material which could damage the geomembrane shall be removed from the surfaces of the 
+trench.  The geomembrane shall extend down the front wall and across the bottom of the anchor trench.  Backfilling 
+and compaction of the anchor trench shall be in accordance with Section <SRF>31 00 00</SRF> EARTHWORK.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>GEOMEMBRANE DEPLOYMENT</TTL><BRK/>
+<BRK/>
+<TXT>The procedures and equipment used shall not elongate, wrinkle, scratch, or otherwise damage the geomembrane, 
+other geosynthetic layers, or the underlying subgrade.  Geomembrane damaged during installation shall be replaced 
+or repaired, at the [QC inspector's] [Contracting Officer's] discretion.  Only geomembrane panels that can be 
+anchored and seamed together the same day shall be deployed.  Adequate ballast (i.e., sand bags) shall be placed 
+on the geomembrane, without damaging the geomembrane, to prevent uplift by wind.  No equipment shall be operated 
+on the top surface of the geomembrane without permission from the Contracting Officer.  Seams shall be oriented 
+parallel to the line of maximum slope.  Where seams can only be oriented across the slope, the upper panel shall 
+be lapped over the lower panel.  The methods used to deploy and backfill over the geomembrane shall minimize 
+wrinkles and tensile stresses in the geomembrane.  The geomembrane shall have adequate slack to prevent the creation 
+of tensile stress.  The wrinkle height to width ratio for installed geomembrane shall not exceed 0.5.  In addition, 
+geomembrane wrinkles shall not exceed<MET> 150 m</MET><ENG> 6 inches</ENG> in height.  Wrinkles that do not meet the above criteria 
+shall be cut out and repaired in accordance with the installer's approved QC manual.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>FIELD SEAMING</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Trial Seams</TTL><BRK/>
+<BRK/>
+<TXT>Trial seams shall be made under field conditions on strips of excess geomembrane.  Trial seams shall be made 
+each day prior to production seaming, whenever there is a change in seaming personnel or seaming equipment and 
+at least once every four hours, by each seamer and each piece of seaming equipment used that day.  Trial seam 
+samples shall be collected and tested in accordance with <RID>ASTM D6392</RID>.  One sample shall be obtained from each 
+trial seam.  This sample shall be at least<MET> 920 mm long by 305 mm wide</MET><ENG> 36 inches long by 12 inches wide</ENG> with the 
+seam centered lengthwise.  Ten random specimens<MET> 25.4 mm</MET><ENG> 1 inch</ENG> wide shall be cut from the sample.  Five seam 
+specimens shall be field tested for shear strength and 5 seam specimens shall be field tested for peel adhesion 
+using an approved quantitative tensiometer.  Where necessary, accelerated curing of trial seams made by chemical 
+methods shall be conducted in accordance with <RID>GSI GRI GM7</RID>.  To be acceptable, 4 out of 5 replicate test specimens 
+shall meet seam strength requirements specified in Table [3] [5].  If the field tests fail to meet these requirements, 
+the entire operation shall be repeated.  If the additional trial seam fails, the seaming apparatus or seamer 
+shall not be used until the deficiencies are corrected by the installer and 2 consecutive successful trial seams 
+are achieved.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Seams</TTL><BRK/>
+<BRK/>
+<TXT>Panels shall be seamed in accordance with the geomembrane manufacturer's recommendations.  In sumps, corners 
+and odd-shaped geometric locations, the number of field seams shall be minimized.  Seaming shall extend to the 
+outside edge of panels.  Soft subgrades shall be compacted and approved prior to seaming.  The seam area shall 
+be free of moisture, dust, dirt, and foreign material at the time of seaming.  Fish mouths in seams shall be 
+repaired.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Polyethylene Seams</TTL><BRK/>
+<BRK/>
+<TXT>Polyethylene geomembranes shall be seamed by thermal fusion methods.  Extrusion welding shall only be used for 
+patching and seaming in locations where thermal fusion methods are not feasible.  Seam overlaps that are to be 
+attached using extrusion welds shall be ground prior to welding.  Grinding marks shall be oriented perpendicular 
+to the seam direction and no marks shall extend beyond the extrudate after placement.  Extrusion welding shall 
+begin within 10 minutes after grinding.  Where extrusion welds are temporarily terminated long enough to cool, 
+they shall be ground prior to applying new extrudate over the existing seam.  The total depth of the grinding 
+marks shall be no greater than 10 percent of the sheet thickness.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Non-Polyethylene Seams</TTL><BRK/>
+<BRK/>
+<TXT>Non-polyethylene geomembranes shall be seamed by methods as recommended by the geomembrane manufacturer.  Seaming 
+adhesives, solvents, or chemical cleaning agents shall be stored away from the geomembrane and only spill-resistant 
+containers shall be used while working on the geomembrane.  If low temperatures slow the curing process of chemically 
+fused seams and delay seam testing, <RID>GSI GRI GM7</RID> shall be used to accelerate sample curing.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL><SUB>SAMPLES</SUB></TTL><BRK/>
+<BRK/>
+<TXT>One QC sample, <MET>500 mm</MET><ENG> 18 inches</ENG> in length, for the entire width of a roll, shall be obtained for every<MET> 9,000 
+square meters</MET><ENG> 100,000 square feet</ENG> of material delivered to the site.  Samples shall not be obtained from the 
+first three feet of the roll.  For accordion folded geomembranes, samples of equivalent size shall be collected 
+from approved locations.  The samples shall be identified by manufacturer's name, product identification, lot 
+and roll/panel number.  The date, a unique sample number, and the machine direction shall also be noted.  In 
+addition, a<MET> [305 by 305 mm] [_____]</MET><ENG> [12 inch by 12 inch] [_____]</ENG> QA sample shall be collected, labeled, and submitted 
+to the Contracting Officer each time QC samples are collected.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>TESTS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide all QC samples to the QC laboratory to determine density, thickness, tensile strength at break, and elongation 
+at break in accordance with the methods specified in Table [1] [2] [4].  Samples not meeting the specified requirements 
+shall result in the rejection of applicable rolls/panels.  As a minimum, rolls/panels produced immediately prior 
+to and immediately after the failed roll/panel shall be tested for the same failed parameter.  Testing shall 
+continue until a minimum of three successive rolls/panels on both sides of the original failing roll/panel pass 
+the failed parameter.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Non-Destructive Field Seam Continuity Testing</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Field seams shall be non-destructively tested for continuity over their full length in accordance with the installer's 
+approved QC manual.  Seam testing shall be performed as the seaming work progresses, not at the completion of 
+field seaming.  Any seams which fail shall be documented and repaired in accordance with the installer's approved 
+QC manual.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Destructive Field Seam Testing</SUB></TTL><BRK/>
+<BRK/>
+<TXT>A minimum of one destructive test sample per<MET> [230] [_____] m</MET><ENG> [750] [_____] feet</ENG> of field seam shall be obtained 
+at locations specified by the [QC inspector] [Contracting Officer].  Sample locations shall not be identified 
+prior to seaming.  Samples shall be a minimum of<MET> 305 mm</MET><ENG> 12 inches</ENG> wide by<MET> 1.1 m</MET><ENG> 42 inches</ENG> long with the seam 
+centered lengthwise.  Each sample shall be cut into 3 equal pieces, with one piece retained by the installer, 
+one piece given to the QC laboratory, and the remaining piece given to the Contracting Officer for QA testing 
+and/or permanent record.  Each sample shall be numbered and cross referenced to a field log which identifies:  
+(1) panel number; (2) seam number; (3) date and time cut; (4) ambient temperature within<MET> 150 mm</MET><ENG> 6 inches</ENG> above 
+the geomembrane; (5) seaming unit designation; (6) name of seamer; and (7) seaming apparatus temperature and 
+pressures (where applicable).  Ten<MET> 25 mm</MET><ENG> 1 inch</ENG> wide replicate specimens shall be cut from the installer's sample.  
+Five specimens shall be tested for shear strength and 5 for peel adhesion using an approved field quantitative 
+tensiometer.  Jaw separation speed shall be in accordance with the approved QC manual.  To be acceptable, 4 out 
+of 5 replicate test specimens shall meet the seam strength requirements specified in Table [3][5].  If the field 
+tests pass, 5 specimens shall be tested at the QC laboratory for shear strength and 5 for peel adhesion in accordance 
+with the QC laboratory's approved procedures.  To be acceptable, 4 out of 5 replicate test specimens shall meet 
+the seam strength requirements specified in Table [3][5].  If the field or laboratory tests fail, the seam shall 
+be repaired in accordance with paragraph Destructive Seam Test Repairs.  Holes for destructive seam samples shall 
+be repaired the same day they are cut.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DEFECTS AND REPAIRS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Destructive Seam Test Repairs</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Seams that fail destructive seam testing may be overlaid with a strip of new material and seamed (cap stripped).  
+Alternatively, the seaming path shall be retraced to an intermediate location a minimum of<MET> 3 m</MET><ENG> 10 feet</ENG> on each 
+side of the failed seam location.  At each location a<MET> 305 by 460 mm</MET><ENG> 12 by 18 inch</ENG> minimum size seam sample shall 
+be taken for 2 additional shear strength and 2 additional peel adhesion tests using an approved quantitative 
+field tensiometer.  If these tests pass, then the remaining seam sample portion shall be sent to the QC laboratory 
+for 5 shear strength and 5 peel adhesion tests in accordance with the QC laboratory's approved procedures.  To 
+be acceptable, 4 out of 5 replicate test specimens must meet specified seam strength requirements.  If these 
+laboratory tests pass, then the seam shall be cap stripped or repaired using other approved methods between that 
+location and the original failed location.  If field or laboratory tests fail, the process shall be repeated.  
+After repairs are completed, the repaired seam shall be non-destructively tested in accordance with paragraph 
+Non-Destructive Field Seam Continuity Testing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Patches</TTL><BRK/>
+<BRK/>
+<TXT>Tears, holes, blisters and other defects shall be repaired with patches.  Patches shall have rounded corners, 
+be made of the same geomembrane, and extend a minimum of<MET> 150 mm</MET><ENG> 6 inches</ENG> beyond the edge of defects.  Minor localized 
+flaws shall be repaired by spot welding or seaming as determined by the QC inspector.  Repairs shall be non-destructively 
+tested.  The Contracting Officer or the QC inspector may also elect to perform destructive seam tests on suspect 
+areas.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>VISUAL INSPECTION AND EVALUATION</TTL><BRK/>
+<BRK/>
+<TXT>Immediately prior to covering, the geomembrane, seams, and non-seam areas shall be visually inspected by the 
+QC inspector and Contracting Officer for defects, holes, or damage due to weather conditions or construction 
+activities.  At the Contracting Officer's or the QC inspector's discretion, the surface of the geomembrane shall 
+be brushed, blown, or washed by the installer if the amount of dust, mud, or foreign material inhibits inspection 
+or functioning of the overlying material.  Each suspect location shall be non-destructively tested in accordance 
+with paragraph Non-Destructive Field Seam  Continuity Testing.  Each location that fails non-destructive testing 
+shall be repaired in accordance with paragraph Patches and non-destructively retested.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>PENETRATIONS</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Minimize the number of penetrations and show their locations on the drawings.  
+Referencing the manufacturer's typical penetration details is generally acceptable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Geomembrane penetration details shall be [as indicated] [in accordance with <RID>ASTM D6497/D6497M</RID> or as recommended 
+by the geomembrane manufacturer].  Use factory fabricated boots wherever possible.  Non-destructively test field 
+seams for penetrations in accordance with the installer's approved QC manual.  Repair seams that fail non-destructive 
+testing in accordance with the installer's approved QC manual and non-destructively tested prior to acceptance.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROTECTION AND BACKFILLING</TTL><BRK/>
+<BRK/>
+<TXT>The deployed and seamed geomembrane shall be covered with the specified material within [5] [14] [_____] calendar 
+days of acceptance.  Wrinkles in the geomembrane shall be prevented from folding over during placement of cover 
+materials.  Cover soil shall not be dropped onto the geomembrane or overlying geosynthetics from a height greater 
+than<MET> 1 m</MET><ENG> 3 feet</ENG>.  The soil shall be pushed out over the geomembrane or overlying geosynthetics in an upward tumbling 
+motion.  Soil shall be placed from the bottom of the slope upward.  The initial loose soil lift thickness shall 
+be<MET> [350] [_____] mm</MET><ENG> [12] [_____] inches</ENG>.  Equipment with ground pressures less than<MET> 50 kPa</MET><ENG> 7 psi</ENG> shall be used 
+to place the first lift over the geomembrane.  A minimum of<MET> [460] [610] [915] [_____] mm</MET><ENG> [18] [24] [36] [_____] 
+inches</ENG> of soil shall be maintained between construction equipment with ground pressures greater than<MET> 50 kPa</MET><ENG> 7 
+psi</ENG> and the geomembrane.  Cover soil compaction and testing requirements are described in Section <SRF>31 00 00</SRF> EARTHWORK.  
+Equipment placing cover soil shall not stop abruptly, make sharp turns, spin their wheels, or travel at speeds 
+exceeding<MET> [2.2] [_____] m/s</MET><ENG> [5] [_____] mph</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>As-Built drawings</TTL><BRK/>
+<BRK/>
+<TXT>Submit final <SUB>as-built drawings</SUB> of the geomembrane installation.  These drawings shall include panel numbers, 
+seam numbers, location of repairs, destructive seam samples, and penetrations.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

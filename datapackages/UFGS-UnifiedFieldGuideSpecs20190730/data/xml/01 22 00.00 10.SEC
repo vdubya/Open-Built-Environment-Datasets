@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA            UFGS-01 22 00.00 10 (August 2015)<BRK/>
+                                         ---------------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>               Superseding<BRK/>
+                                         UFGS-01 22 00.00 10 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 22 00.00 10</SCN><BRK/>
+<BRK/>
+<STL>PRICE AND PAYMENT PROCEDURES</STL><BRK/>
+<DTE>08/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification provides an example of the appropriate form 
+to be used in developing a project specification covering <SCP>lump sum schedule 
+payment items and unit price schedule payment items</SCP>.  This section was originally 
+developed for and is recommended to be included in all Civil Works projects.  
+Parts of this section are shown for illustration purposes only and the section 
+must be extensively edited to fit the job.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM A615/A615M</RID><RTL>(2016) Standard Specification for Deformed and Plain Carbon-Steel Bars for Concrete Reinforcement</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.][information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Weight Certificates</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SINGLE JOB PAYMENT ITEMS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A letter from the OFFICE OF THE UNDER SECRETARY OF DEFENSE dated October 
+3, 2011, SUBJECT: Contract Line Item Pricing Integrity, states, "No contract 
+action should be issued using 'lump sum' or 'dollars' as a unit of measure."  
+Replace LUMP SUM with JOB in all UFGS sections for DoD Contracts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The number and identification of single job payment item(s) is primarily 
+a Construction Division concern.  Generally, it is better to keep the number 
+of single job payment items to a minimum.  The description of the work included 
+in a payment item is unique for each job and must be developed for each construction 
+contract.  For bracketed items, choose applicable item(s) or insert appropriate 
+information.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment items for the work of this contract for which contract job payments will be made are listed in the <TAI OPT="DESIGN-BID-BUILD">[BIDDING] 
+[PRICING]</TAI><TAI OPT="DESIGN-BUILD">PROPOSAL</TAI> SCHEDULE and described below.  All costs for items of work, which are not specifically mentioned 
+to be included in a particular job or unit price payment item, are included in the listed job item most closely 
+associated with the work involved.  The job price and payment made for each item listed constitutes full compensation 
+for furnishing all plant, labor, materials, and equipment, and performing any associated Contractor quality control, 
+environmental protection, meeting safety requirements, tests and reports, and for performing all work required 
+for which separate payment is not otherwise provided.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Mobilization and Demobilization</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If mobilization and demobilization costs are expected to be a minor cost 
+under the contract, this clause and payment item should be deleted.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with mobilization and demobilization, as defined in Special Contract 
+[Clause] [Requirement] PAYMENT FOR MOBILIZATION AND DEMOBILIZATION.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  job.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Structure No. 1</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with operations necessary for construction of the structure at Station 
+XX+XX.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  job.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Structure No. 2</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with operations necessary for construction of the structure at Station 
+YY+YY.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  job.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>UNIT PRICE PAYMENT ITEMS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Unit price payment items should be used only where appropriate under 
+the guidance of Federal Acquisition Regulation (FAR) Part 36 - Construction 
+and Architect-Engineer Contracts paragraph 36.207 Pricing Fixed-Price Construction 
+Contracts.</NPR><BRK/>
+<BRK/>
+<NPR>The Unit Price payment items shown below are for illustration purposes only.  
+Unit price payment item language must be written specifically for each job.   
+Unit price payment item language appropriate for inclusion below is contained 
+in guide specification sections and must be moved to this section to develop 
+the pay items for the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment items for the work of this contract on which the contract unit price payments will be made are listed 
+in the <TAI OPT="DESIGN-BID-BUILD">[BIDDING] [PRICING]</TAI><TAI OPT="DESIGN-BUILD">PROPOSAL</TAI> SCHEDULE and described below.  The unit price and payment made for each item 
+listed constitutes full compensation for furnishing all plant, labor, materials, and equipment, and performing 
+any associated Contractor quality control, environmental protection, meeting safety requirements, tests and reports, 
+and for performing all work required for each of the unit price items.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Excavation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Modify this paragragh if Section <SRF>02 61 13</SRF> EXCAVATION AND HANDLING OF 
+CONTAMINATED MATERIAL is used.  For bracketed items, choose applicable item(s) 
+or insert appropriate information. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with excavation [for the channel][ and ][for the structure], which 
+includes performing required excavation and other operations incidental thereto, Contractor-furnished disposal 
+area(s) and disposition of excess excavated material and unsuitable and frozen materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Measurement</TTL><BRK/>
+<BRK/>
+<TXT>The total quantity of excavated material for which payment will be made will be the theoretical quantity between 
+the ground surface as determined by a survey and the grade and slope of the theoretical cross sections indicated.  
+No allowance will be made for overdepth excavation or for the removal of any material outside the required slope 
+lines unless authorized.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  cubic<MET> meter</MET><ENG> yard</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><MET>M 90 </MET>Riprap</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This example was taken from Section <SRF>35 31 19</SRF> STONE, CHANNEL, SHORELINE/COASTAL 
+PROTECTION FOR STRUCTURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with furnishing, transporting, stockpiling (if applicable), placing, 
+and constructing the stone protection as specified.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Measurement</TTL><BRK/>
+<BRK/>
+<TXT>Measure riprap for payment by the ton<MET> (metric)</MET><ENG> (2,000 pounds)</ENG> by weighing each truckload to the nearest 0.1 ton, 
+and the final quantity of [each truckload] [the whole sum] is rounded to the nearest whole ton.  Weigh the riprap 
+for payment on approved scales before being placed in the work.  Quarry weights will not be accepted.  Use scales 
+of sufficient length to permit simultaneous weighing all axle loads.  Scales must be inspected, tested and sealed 
+as directed to assure accuracy with 0.5 percent throughout the range of the scales.  Certify scales located at 
+the site of the work as to accuracy by an acceptable scales company representative prior to weighing any riprap.  
+Scales will be checked and certified before riprap hauling and rechecked and recertified whenever a variance 
+is suspected.  Furnish the scales.  If commercial scales are readily available in close proximity,<MET> 15 kilometers</MET><ENG>
+ 10 miles</ENG> of site of work, the Contracting Officer may approve the use of the scales.  Weigh riprap in the presence 
+of the Government representative.  The Contracting Officer may elect to accept certified <SUB>weight certificates</SUB> 
+furnished by a public weighmaster in lieu of scale weights at the jobsite.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  ton<MET> (metric)</MET><ENG> (2,000 pounds)</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Deformed Steel Bars for Concrete Reinforcement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This example was taken from Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with furnishing, transporting, delivering, and placing deformed steel 
+bars for concrete reinforcement, which includes steel in laps as indicated or as required.  No payment will be 
+made for the additional steel in laps which are authorized for the convenience of the Contractor.  No separate 
+payment will be made for accessories; include payment in the contract unit price for the items of work to which 
+the accessories are incidental.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Measurement</TTL><BRK/>
+<BRK/>
+<TXT>The measured lengths of deformed steel bars for concrete reinforcement will be converted to weights for the size 
+of bars listed by the use of the nominal weights per lineal<MET> meter</MET><ENG> foot</ENG> specified in <RID>ASTM A615/A615M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  per<MET> kilogram</MET><ENG> pound</ENG> in place.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT>[<SPT><TTL>CONTAMINATED SOIL REMOVAL</TTL><BRK/>
+<BRK/>
+<TXT>Payment items for the work of this contract on which the contract unit price payments will be made are listed 
+in the <TAI OPT="DESIGN-BID-BUILD">[PRICING] [BIDDING]</TAI><TAI OPT="DESIGN-BUILD">PROPOSAL</TAI> SCHEDULE and described below.  The unit price and payment made for each item 
+listed must constitute full compensation for furnishing all plant, labor, materials, and equipment, and performing 
+any associated Contractor quality control, environmental protection, meeting safety requirements, [tests and 
+reports,] and for performing all work required for each of the unit price items.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure:  cubic<MET> meter</MET><ENG> yard</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>][<SPT><TTL>DREDGING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Modify this paragraph if SECTION <SRF>35 20 23</SRF> DREDGING is used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment will be made at the contract lump sum job price and must constitute full compensation for performing 
+all dredging, disposal, [and ice and snow removal], stockpiling, and replacement.  Payment will be in accordance 
+with above paragraph, SINGLE JOB PAYMENT ITEMS.  In no case will payment be made for material removed from below 
+the maximum pay-line or outside the dredging prism as indicated.</TXT><BRK/>
+<BRK/></SPT>
+]</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+[<TXT>Not Used</TXT>][<SPT><TTL>CONTRACT COST BREAKDOWN</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor must furnish within 30 days after the date of Notice to Proceed, and prior to the submission of 
+its first partial payment estimate, a breakdown of its single job pay item or items which will be reviewed by 
+the Contracting Officer as to propriety of distribution of the total cost to the various accounts.  Any unbalanced 
+items as between early and late payment items or other discrepancies will be revised by the Contracting Officer 
+to agree with a reasonable cost of the work included in the various items.  This contract cost breakdown will 
+then be utilized as the basis for progress payments to the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+]</PRT>    <END/><BRK/></SEC>

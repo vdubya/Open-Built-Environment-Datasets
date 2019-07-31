@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 83 00.07 40 (February 2018)<BRK/>
+                                       Change 1 - 02/15<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NASA</PRA>              Superseding<BRK/>
+                                       UFGS-01 83 00.07 40 (February 2012)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4><HL4>References are in agreement with UMRL dated April 2019</HL4></HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 83 00.07 40</SCN><BRK/>
+<BRK/>
+<STL>RELIABILITY CENTERED ACCEPTANCE FOR FACILITY SHELLS</STL><BRK/>
+<DTE>02/18</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>Reliability Centered 
+Building and Equipment Acceptance for Facility Shell Systems (foundations, structure, 
+walls, openings, roofs, insulation, and vapor barrier systems, etc.)</SCP>.  The contents 
+universally apply to building envelope systems and may be used by other organizations, 
+if deemed beneficial.</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 83 13.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR SUPERSTRUCTURE 
+PERFORMANCE REQUIREMENTS for externally exposed structures such as communication 
+towers, launch facilities; and partially open shelters such as those for fueling 
+chemical storage, as well as underground special structures for explosives and 
+ordinance.</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 86 12.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR MECHANICAL 
+SYSTEMS for HVAC and plumbing systems.</NPR><BRK/>
+<BRK/>
+<NPR>Refer to Section <SRF>01 86 26.07 40</SRF> RELIABILITY CENTERED ACCEPTANCE FOR ELECTRICAL 
+SYSTEMS for facility electrical power and distribution systems.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.</NPR><BRK/>
+<BRK/>
+<NPR>Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.</NPR><BRK/>
+<BRK/>
+<NPR>Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.</NPR><BRK/>
+<BRK/>
+<NPR>References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</ORG><BRK/><BRK/><RID>RCBEA GUIDE</RID><RTL>(2004) NASA Reliability Centered Building and Equipment Acceptance Guide</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR> An "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Material, Equipment, and Fixture Lists</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Quality Control Plan</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Fabrication Drawings</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Layout Drawings</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Manufacturer's Catalog Data</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Specific Equipment Data</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Spare Parts List</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Warranty</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Samples</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Infrared Thermography Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Ultrasonic (Airborne) Test</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+ <ITM><SUB>Visual Inspection</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Certificates</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-08 Manufacturer's Instructions</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Manufacturer's Instructions</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-10 Operation and Maintenance Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Operations and Maintenance Manuals</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Acceptance Documentation</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Baseline Data Report</SUB>[; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB>]</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<TXT>Submit a Quality Control plan outlining the intended methods of receiving, testing, and installing equipment 
+and structural components.  The <RID>RCBEA GUIDE</RID> specifies minimum requirments for test equipment.  To ensure that 
+the results are accurate and consistent, use personnel who have veen trained and certified in the application 
+of appropriate acceptance testing PT&amp;I technologies for acceptance testing.  Submit the following as part 
+of the <SUB>quality control plan</SUB> for all required acceptance testing:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  List of test equipment used, including the manufacturer, model number, calibration date, certificate 
+of calibration, and serial number.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Certificates showing the qualifications and certifications of test personnel .</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WARRANTY</TTL><BRK/>
+<BRK/>
+<TXT>Submit a workmanship and performance <SUB>warranty</SUB> directly to the Government for the work performed for a period 
+at least [1][_____] year[s] from the date of Government acceptance of the work.  Perform corrective action that 
+becomes necessary because of defective materials and workmanship while the system is under warranty within [7][_____] 
+calendar days of notification, unless additional time is approved by the Contracting Officer.  Failure to perform 
+repairs within the specified period constitutes grounds for having the corrective action and repairs performed 
+by others and billing the cost to the Contractor.  Provide a contractor installation warranty that covers a period 
+of at least [1][_____] year.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification is not intended to limit the inspection and 
+acceptance process to the use of Predictive Testing &amp; Inspection (PT&amp;I) 
+techniques.  This guide is intended to supplement comprehensive and detailed 
+commissioning and quality control specifications.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>This guide specification establishes acceptance requirements to ensure building envelope systems meet installtion 
+requirements and contain no identifiable defects that waste energy or will shorten the useable design life of 
+the facility, including facility wall and opening systems (windows, doors, hatches), as well as facility roofing 
+systems.  These requirements utilize PT&amp;I technologies and are essential elements in the Government's Reliability 
+Centered Building and Equipment Acceptance (RCBEA) Program.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PRODUCT DATA</TTL><BRK/>
+<BRK/>
+<TXT>Before starting work, submit <SUB>material, equipment, and fixture lists</SUB> for equipment, structural components, materials, 
+and fixtures planned for use to complete the job.  Include the item's description, quantity, manufacturer's style 
+or catalog numbers, and specification and drawing reference numbers.  List construction equipment to be used.</TXT><BRK/>
+<BRK/>
+<TXT>Provide product <SUB>samples</SUB> for roof, wall, and insulation system components, including samples of roof membrane 
+materials, underlayment, flashing, insulation, roof and wall penetrations, fasteners, and finish color swatches, 
+for the Contracting Officer's approval before starting work or ordering materials.  Size samples to clearly illustrate 
+product features and characteristics.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Manufacturer's Product Data</TTL><BRK/>
+<BRK/>
+<TXT>Include the manufacturer's standard catalog data at least [5 weeks][_____] before the purchase or installation 
+of a particular component, highlighted to show material, size, options, and equipment performance data charts 
+and curves in sufficient detail to demonstrate compliance with contract requirements.  Include the manufacturer's 
+recommended installation instructions and procedures.[  If vibration isolation is specified for a unit, include 
+vibration isolator literature containing catalog cuts and certification that the isolation characteristics of 
+the isolators provided meet the manufacturer's recommendations.]  Submit product data for each specified component.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>fabrication drawings</SUB> for equipment and structural components.  Ensure that drawings contain details on 
+fabrication and assembly to be performed in the factory.</TXT><BRK/>
+<BRK/>
+<TXT>Submit <SUB>manufacturer's catalog data</SUB> for the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Roofs, walls, and insulation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Automated openings operation and closure</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Sound attenuation systems</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Acoustical performance</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Facility air quality evaluation</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Certification Data</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>certificates</SUB> for the following, showing conformance with test requirements and laboratory certifications.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Roofs, walls, and insulation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Acoustical performance</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Facility air quality evaluation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Openings (infiltration, energy transmission)</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Specific Equipment Data</TTL><BRK/>
+<BRK/>
+<TXT>Submit the following information for equipment and structural components:  location of installation,Identification 
+number, date of installation (required or actual acceptance date), and reference drawing number.  Unless explicitly 
+stated in the manufacturer's submitted literature, submit the following <SUB>specific equipment data</SUB>:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Roofs, walls, and insulation</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Type of roofing system and insulation system installed (type)</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Acoustical performance</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Finishes rating (type)</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Volume levels tested</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Facility air quality evaluation</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Completed facility, furnished and equipped</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Simulated occupancy levels</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Openings</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Results of checking doors, windows, and hatches for infiltration and energy transmission 
+levels</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Extra Materials</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>spare parts list</SUB> data for each item of material and equipment specified, after approval of detail drawings 
+and at least [_____] months before the date of beneficial occupancy.  List parts and supplies, providing current 
+unit prices and sources of supply, and list spare parts recommended for 12 months of operation.  List parts that 
+the manufacturer recommends replacing after [1] [and] [_____] years of service.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>EXAMINATION</TTL><BRK/>
+<BRK/>
+<TXT>Perform <SUB>visual inspection</SUB> on the equipment and structural components listed below.  Correct abnormalities or 
+defects as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Roofs, walls, and insulation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Automated openings operation and closure</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>INSTALLATION</TTL><BRK/>
+<BRK/>
+<TXT>Submit <SUB>layout drawings</SUB> for installed equipment and structural components, including assembly drawings, <SUB>manufacturer's 
+instructions</SUB>, installation details, and connection diagrams.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>FIELD QUALITY CONTROL AND ACCEPTANCE TESTING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The acceptance criteria, as defined in this specification, may also be 
+used to establish the required baselines for future maintenance.</NPR><BRK/>
+<BRK/>
+<NPR>At the Government's option, the Government may elect to have acceptance testing 
+performed by Goverment or designated third-party personnel intead of the Contractor.  
+This option can be exercised on a case-by-case basis.  Regardless of who performs 
+the acceptance testing, the Contractor's compliance with the requirements of 
+acceptance is mandatory.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Deliver completed facility, fixtures, furnishings, equipment and services that meet the contract requirements 
+and specifications.  Ensure that materials, furnishings, fixtures, and equipment are free of latent manufacturing 
+and installation defects.<TST>  Perform acceptance testing as defined in this specification and the <RID>RCBEA GUIDE</RID>, using 
+both traditional and PT&amp;I technologies.</TST>  The Government will observe and monitor the acceptance testing, 
+analysis, and documentation as part of the Government's Quality Assurance Program.  Satisfactory completion of 
+acceptance requirements is required to obtain Government approval and acceptance of the Contractor's work.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Predictive Testing and Inspection Tests</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Predictive Testing and Inspection (PT&amp;I) involves the use of acceptance 
+and inspection<BRK/>
+techniques that are nonintrusive and nondestructive in order to avoid introducing 
+problems.  It also involves the use of data collection devices, data analysis, 
+and computer databases to store and trend information.  Typical PT&amp;I technologies 
+used during equipment and structural component acceptance include: infrared 
+thermography, airborne ultrasonics, integrity testing, and verification of liquid 
+levels and relief devices.</NPR><BRK/>
+<BRK/>
+<NPR>The PT&amp;I tests prescribed in this section are MANDATORY for all assets and 
+systems identified as Critical, Configured, or Mission-Essential.  Do not remove 
+the requirement from this specification.  If the system is noncritical, nonconfigured, 
+and not mission-essential, use sound engineering discretion to assess the value 
+of adding these additional test and acceptance requirements.</NPR><BRK/>
+<BRK/>
+<NPR>Enhanced acceptance criteria may increase contractor cost.  It is not the intent 
+of these acceptance criteria to unnecessarily drive up the cost of equipment 
+installations and contractor work.  If the cost of the added inspections and 
+the cost of enhanced equipment designs outweigh their performance and life-cycle 
+value, then do not use overly restrictive acceptance criteria.  The acceptance 
+criteria should define the “minimum” limits essential for a high-quality installation.  
+See the RCBEA Guide for additional information regarding cost feasibility of 
+PT&amp;I.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Perform the following PT&amp;I tests in accordance with the requirements and criteria established in the <RID>RCBEA GUIDE</RID>
+.  Include test point locations in submitted reports.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Perform <SUB><TST>Infrared Thermography Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Roofs, walls, insulation, and openings</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(a) Perform a thermographic survey of the building envelope using infrared thermography as part 
+of the prebeneficial occupancy to check for voids in insulation or wetted insulation.  In addition, 
+check for air gaps in building joints, including seams, door frames, and window frames using 
+the appropriate procedures specified in the <RID>RCBEA GUIDE</RID>.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(b) The Government may elect to perform a thermographic survey on the installed structural components 
+after [90][_____] days of operation or [90][_____] days from the installation acceptance date, 
+but no later than one year from this date.  If deficiencies are identified within the warranty 
+period for the construction contract, correct defects at no additional cost to the Government.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Perform <TST>Facility Air Quality Evaluation</TST> [_____] for:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) [_____]</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) [_____]</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) [_____]</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Perform <SUB><TST>Ultrasonic (Airborne) Test</TST></SUB> for:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Roofs, walls, and insulation</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Openings, seals, and joints</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Baseline Data from Verification Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  PT&amp;I data allows for effective planning and scheduling of maintenance 
+or repairs so that consequences from failure can be minimized or eliminated.  
+For PT&amp;I data to be effective, initial baseline data, normally taken at 
+inception, is needed for comparisons and trending.  From an equipment acceptance 
+perspective, PT&amp;I tests have become one of the most effective methods for 
+testing new and in–service equipment for hidden defects.</NPR><BRK/>
+<BRK/>
+<NPR>Ensuring that facilities and equipment meet acceptance criteria and obtaining 
+and documenting critical baseline data is extremely important during the construction 
+phase.  As RCM decisions are made later in the life cycle, it becomes more difficult 
+to achieve the maximum possible benefit from Reliability Centered Maintenance 
+programs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After PT&amp;I tests have been completed, submit <SUB>baseline data report</SUB> to the Contracting Officer.  Summarize 
+performance data, set points, operating parameters, and PT&amp;I test results obtained for equipment and building 
+systems.  Provide reports with a cover letter/sheet clearly marked with the System name, Date, and the words 
+"[Preliminary] [Final] Test Report Data - Forward to the [Systems Engineer] [Condition Monitoring Office] [Predictive 
+Testing Group] [_____] for inclusion in the Maintenance Information Database."</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>OPERATIONS AND MAINTENANCE</TTL><BRK/>
+<BRK/>
+<TXT>Submit manufacturer's <SUB>operations and maintenance manuals</SUB> for the following equipment:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Roofs, walls, and insulation</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Tanks and storage tanks, pressurized</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Tanks and storage tanks, unpressurized</LST><BRK/>
+<BRK/>
+<TXT>Submit [six][_____] complete copies of operations and maintenance manuals in bound<MET> 216 by 279</MET><ENG> 8-1/2 inch by 11 
+inch</ENG> booklets listing step-by-step procedures required for system startup, operation, abnormal shutdown, emergency 
+shutdown, and normal shutdown.  Include the manufacturer's name, model number, parts list, routine maintenance 
+procedures, possible breakdowns and repairs, trouble-shooting guide, and briefly describe tiems of equipment, 
+indicating the basic operating features.  Include piping and equipment layouts and simplified wiring and control 
+diagrams that show the system as installed.  Where available, provide technical manuals in electronic format 
+with Standard Graphics Markup Language.  When publications are provided in electronic format , only two copies 
+of the document are required.  Submit operations and maintenance manuals [30][_____] calendar days before testing 
+equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ACCEPTANCE DOCUMENTATION</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of the project and acceptance testing, the Contracting Officer will provide <SUB>acceptance documentation</SUB>
+ to the Contractor.  Complete, <NED/>sign, and date this documentation and submit the documentation to the Contracting 
+Officer for processing and approval.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

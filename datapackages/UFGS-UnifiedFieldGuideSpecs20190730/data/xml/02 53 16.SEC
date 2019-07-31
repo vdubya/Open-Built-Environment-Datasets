@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 53 16 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 53 16 (October 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 53 16</SCN><BRK/>
+<BRK/>
+<STL>REMEDIATION OF CONTAMINATED SOILS BY THERMAL DESORPTION</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>onsite thermal desorption 
+of non-radioactive materials contaminated by hazardous or toxic organic wastes 
+and by petroleum, oil, or lubricants (POL)</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>UNIT PRICE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The unit price for thermal desorption should be based on in-situ volume.  
+For liquids and sludges the unit of measure should be mass.  Materials requiring 
+retreatment should be segregated from treated materials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The amount of material to be treated shall be verified by [in-place measurement] [mass].  The quantity of materials 
+requiring retreatment shall be reported and subtracted from the daily production when calculating treatment costs.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN WELDING SOCIETY (AWS)</ORG><BRK/><BRK/><RID>AWS B2.1/B2.1M</RID><RTL>(2014; Errata 2015) Specification for Welding Procedure and Performance Qualification</RTL><BRK/><BRK/><RID>AWS D1.1/D1.1M</RID><RTL>(2015; Errata 1 2015; Errata 2 2016) Structural Welding Code - Steel</RTL><BRK/><BRK/></REF><REF><ORG>ASME INTERNATIONAL (ASME)</ORG><BRK/><BRK/><RID>ASME B40.100</RID><RTL>(2013) Pressure Gauges and Gauge Attachments</RTL><BRK/><BRK/><RID>ASME BPVC SEC IX</RID><RTL>(2017; Errata 2018) BPVC Section IX-Welding, Brazing and Fusing Qualifications</RTL><BRK/><BRK/><RID>ASME PTC 19.3 TW</RID><RTL>(2016) Thermowells Performance Test Codes</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM E122</RID><RTL>(2017) Standard Practice for Calculating Sample Size to Estimate, With Specified Precision, the Average for a Characteristic of a Lot or Process</RTL><BRK/><BRK/><RID>ASTM E953/E953M</RID><RTL>(2016) Standard Practice for Fusibility of Refuse-Derived Fuel (RDF) Ash</RTL><BRK/><BRK/></REF><REF><ORG>INTERNATIONAL SOCIETY OF AUTOMATION (ISA)</ORG><BRK/><BRK/><RID>ISA MC96.1</RID><RTL>(1982) Temperature Measurement Thermocouples</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)</ORG><BRK/><BRK/><RID>NFPA 211</RID><RTL>(2019) Standard for Chimneys, Fireplaces, Vents, and Solid Fuel-Burning Appliances</RTL><BRK/><BRK/><RID>NFPA 30</RID><RTL>(2018) Flammable and Combustible Liquids Code</RTL><BRK/><BRK/><RID>NFPA 31</RID><RTL>(2016) Standard for the Installation of Oil-Burning Equipment</RTL><BRK/><BRK/><RID>NFPA 54</RID><RTL>(2018) National Fuel Gas Code</RTL><BRK/><BRK/><RID>NFPA 58</RID><RTL>(2017; ERTA 17-1) Liquefied Petroleum Gas Code</RTL><BRK/><BRK/><RID>NFPA 70</RID><RTL>(2017; ERTA 1-2 2017; TIA 17-1; TIA 17-2; TIA 17-3; TIA 17-4; TIA 17-5; TIA 17-6; TIA 17-7; TIA 17-8; TIA 17-9; TIA 17-10; TIA 17-11; TIA 17-12; TIA 17-13; TIA 17-14; TIA 17-15; TIA 17-16; TIA 17-17 ) National Electrical Code</RTL><BRK/><BRK/><RID>NFPA 82</RID><RTL>(2019) Standard on Incinerators and Waste and Linen Handling Systems and Equipment</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST)</ORG><BRK/><BRK/><RID>NIST SP 250</RID><RTL>(1991) Calibration Services Users Guide</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA 450/4-80/023R</RID><RTL>(1985) Guideline for Determination of Good Engineering Practice Stack Height (Technical Support Document for the Stack Height Regulations)</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>40 CFR 264</RID><RTL>Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and Disposal Facilities</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<BRK/>
+<TXT>The <SUB>thermal desorption system</SUB> shall be provided and operated by the Contractor to transfer organic compounds 
+from contaminated materials to a gaseous stream drawn through the system.  The system shall consist of a process 
+or series of processes designed to remove organic contaminants from the contaminated materials by heating the 
+soil or sludge matrix.  Removal/treatment of organic vapors shall be completed in one or more air pollution control 
+systems.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Design Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The first option is preferred.  It is more difficult to enforce schedule 
+constraints with the second option.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The capacity of the system shall be [consistent with the remedial action schedule] [a minimum of [_____]<MET> kg/hour</MET><ENG>
+ tons/hour</ENG>].  Modifications to the system shall be the Contractor's responsibility; however, no modifications 
+shall be performed without the Contracting Officer's approval.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Primary Desorption Chamber</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is applicable to rotary kiln technology only.  If batch 
+processes are used, remove this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The primary desorption chamber volatilizes the compounds of concern.  The primary chamber shall be [directly 
+fired with the primary chamber operated at a pressure lower than atmospheric.] [indirectly fired.] [An inert 
+carrier gas shall be recycled through the desorber and stack emissions treatment system.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Pollution Control System Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If site materials contain PCBs, consider eliminating the use of an afterburner 
+to alleviate permitting problems during construction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The air pollution control system shall contain [an afterburner.  The temperature of the afterburner shall be 
+greater than the temperature of the primary chamber] [a quench followed by an adsorption type treatment system] 
+[a condenser followed by an adsorption type treatment system] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Performance Requirements</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Criteria</TTL><BRK/>
+<BRK/>
+<TXT>Maximum contaminant concentrations allowed in thermally treated materials shall be as follows:</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="3">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="15.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ORGANIC CONTAMINANT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TREATMENT CRITERIA (mg/kg)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Trichloroethylene]<BRK/></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[10]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Materials that do not meet the treatment criteria shall be retreated until the treatment criteria are met.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Emission Criteria</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Current federal regulations are not directly applicable to thermal desorption.  
+The designer should perform an air pathway analysis per ETL 1110-1-174 and obtain 
+the State or air quality regional requirements.  Include mass or concentration 
+limits, as appropriate.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The system shall be designed to prevent exceeding ambient air quality standards as established by the State, 
+and to minimize health risks associated with thermal desorption system emissions, as shown in TABLE 1.</TXT><BRK/>
+<TXT><TAB WIDTH="87" HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="9">
+      <COL AUTOWIDTH="0" WIDTH="258.00"/>
+      <COL AUTOWIDTH="0" WIDTH="68.25"/>
+      <COL AUTOWIDTH="0" WIDTH="70.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 1 EXHAUST GAS CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">COMPONENT</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">FEDERAL</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">STATE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">Organic removal efficiency (minimum  percent)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">Total hydrocarbons</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">O<SBS>2</SBS> (minimum)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">CO</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">HCl</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">Metals</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="29.25">
+         <CEL>
+<DTA TYPE="STRING">Particulates</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Slagging Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The treatability study should determine the ash fusion temperature of 
+the feed materials in accordance with ASTM E953/E953M.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Slagging shall be minimized by operating at [_____]<MET> degrees C</MET><ENG> degrees F</ENG> less than the ash fusion temperature 
+of the feed materials, as determined by <RID>ASTM E953/E953M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>SITE SPECIFIC TREATABILITY STUDIES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate list of applicable treatability studies.  Treatability studies 
+performed on the site materials should be documented in this paragraph or furnished 
+as <ATT>an attachment</ATT> to this section of the specifications.  Summarize the results 
+in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[_____]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>SEQUENCING AND SCHEDULING</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Verify that objectives have been identified in PART 3.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Documentation of successful accomplishment of the objectives of each phase of operation is required prior to 
+approval to begin the next phase of operations.  Mobilization shall include transportation of the equipment to 
+the site, equipment erection and installation, but not operation.  Mobilization shall not commence until approval 
+of the <SUB>mobilization plan</SUB> is received from the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>INSTRUMENTATION AND CONTROLS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Continuous emission monitors shall be in accordance with the appropriate Performance Specifications and <RID>EPA 450/4-80/023R</RID>
+.  Systems shall be adequately protected from damage from onsite activity.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Control Room</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The designer should consult the military installation regarding the usage 
+of radio communications.  Closed circuit TV requirements should be deleted if 
+specified in Section <SRF>28 10 05</SRF> ELETRONIC SECURITY SYSTEMS (ESS).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A fully enclosed control room provided with system controls, instrument readouts, and data recording devices 
+shall be maintained.  The control room shall be heated and air conditioned, permitting year round occupancy, 
+and shall meet instrumentation and control equipment manufacturer's operating specifications.  If the control 
+room is located in the exclusion zone, provision shall be made for personnel using protective clothing and equipment.  
+If the control room is located in the support zone, a [hard wired] [or radio] intercommunication system with  
+two  communication channels between the control room and thermal desorption system operating area shall be provided 
+to allow control room operators to communicate with system operators.  Closed circuit television monitoring of 
+operations shall be provided in the control room.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Redundancies</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Fully redundant backup capability within each subsystem to safely terminate system operations at the control 
+room and at the thermal desorption system shall be provided.  Duplexing or redundancies within the instrumentation 
+and control systems shall be adequate to provide uninterrupted continuous monitoring of the emissions and to 
+demonstrate operation in accordance with the approved operating conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Displays and Data</TTL><BRK/>
+<BRK/>
+<TXT>Monitored parameters and excursion alarms shall be displayed locally and displayed and recorded in the control 
+room.  Process and emissions data shall be maintained in the control room and recorded on magnetic media in the 
+approved microcomputer compatible digital format.  Flow information shall include rate monitoring, integration 
+and totalizing.  Hard copies of recorded data and summaries of recorded data shall be maintained in the control 
+room.  The copies shall be available upon request.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stack Emissions Monitoring and Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Continuous monitoring with calibration/verification sampling shall be provided as shown in TABLE 2.  Process 
+parameters shall be recorded at intervals not exceeding one minute.  Calibration of sensors shall be with standards 
+traceable to NIST and in conformance with <RID>NIST SP 250</RID>.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="29">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="134.25"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="152.25"/>
+      <COL AUTOWIDTH="0" WIDTH="170.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 2 STACK EMISSIONS MONITORING AND SAMPLING SCHEDULE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Operating Period</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Parameter</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Frequency</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Oxygen</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[continuous] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Carbon Monoxide</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[continuous] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Carbon Dioxide</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[continuous] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Total Hydrocarbon (HC)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[continuous] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operation]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Principal Organic</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[in accordance with Proof of Performance Plan]  [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operation]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">[Products of Incomplete Combustion (PICs)]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[in accordance with Proof of Performance Plan]  [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operation]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Opacity</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[weekly] [daily] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operation]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Particulates</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[in accordance with Proof of Performance Plan]  [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[Proof of Performance]</DTA>
+         </CEL>
+         <CEL MERGEDOWN="2" STYLEID="s51">
+<DTA TYPE="STRING">Metals</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[in accordance with Proof of Performance Plan]  [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[interim operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[operations]</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">[_____] [not required]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Stack sampling port and equipment for collecting discrete and composite samples shall be provided with adequate 
+access for personnel and equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Interlocks and Alarms</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Visible Alarms</TTL><BRK/>
+<BRK/>
+<TXT>Visible alarms shall consist of lights on the main control panel, flashing symbols on the screen of the microprocessor 
+controller in the control room and, for each interlock that stops the contaminated material feed system, lights 
+at the equipment location.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Audible Alarms</TTL><BRK/>
+<BRK/>
+<TXT>Audible alarm activation shall be provided for each interlock that stops the feed to the thermal processing unit.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Remote Alarms</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  In cases in which remote alarms are not required, this paragraph should 
+be deleted.  In cases in which it will be desirable to have immediate notification 
+of off-site persons this paragraph should be included.  Persons to be called 
+and the order of calling should be specified.  The Contracting Officer or a 
+designated representative should always be included in the calling sequence.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Auto dialing to the indicated remote locations shall be provided for each interlock that stops the contaminated 
+material feed to the thermal processing unit.  The calling sequence is [_____], [_____] then [_____] in priority 
+order.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Electrical Work</TTL><BRK/>
+<BRK/>
+<TXT>All electrical work, wiring, and controls shall conform to the applicable requirements of <RID>NFPA 70</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CONTAMINATED MATERIAL FEED SYSTEM</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Support Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Address rocks, construction debris, trees, stumps, drums, barrels, etc. 
+and oversize materials.  Oversize materials are any materials too large to be 
+compatible with the thermal desorber.  Materials may be required to be shredded 
+and treated or separated from the feed material, decontaminated and disposed 
+on or offsite.  Maximum allowable sizes to be treated in the thermal desorber 
+should be specified.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Material handling and contaminated material feed systems provided shall be capable of [shredding], [conveying], 
+[pumping], [and] [screw feeding] of contaminated materials, separately or in combination, to the primary chamber.  
+Pre-treatment shall include crushing or grinding and screening as required to produce material no larger than 
+[_____]<MET> mm</MET><ENG> inch</ENG> in diameter and which is otherwise compatible with the thermal desorber.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Capacity</TTL><BRK/>
+<BRK/>
+<TXT>Capacity of the contaminated material feed system shall be consistent with the capacity of the thermal desorption 
+system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Metering</TTL><BRK/>
+<BRK/>
+<TXT>The contaminated material feed system shall be capable of weighing the contaminated materials (liquid and solid) 
+introduced into the thermal desorption system with an accuracy of plus or minus [2] [2.5] [5]  percent of actual 
+weight.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Rehydration</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Final moisture content may be specified here, if appropriate.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Treated material handling systems shall include provisions for rehydration, prior to storage, of material leaving 
+the thermal desorption system in order to reduce the fugitive emissions and to confine the materials to the proper 
+storage area.</TXT><BRK/>
+<TXT>Text</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>AIR SUPPLY AND POLLUTION CONTROL SYSTEMS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Air Supply</TTL><BRK/>
+<BRK/>
+<TXT>A forced draft (FD) blower/fan or fans shall be used to provide combustion air for the burners.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Induced Draft (ID) Fan</TTL><BRK/>
+<BRK/>
+<TXT>The induced draft (ID) blower/fan or fans shall be used to maintain negative pressure throughout the system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fugitive Emissions Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select the second option for indirectly fired units.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[Emissions from the combustion zone shall be controlled by keeping the combustion zone sealed and maintaining 
+a combustion zone pressure lower than atmospheric pressure.] [ Means that have been demonstrated to provide fugitive 
+emissions control shall  be implemented with the approval of the Contracting Officer.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Quench</TTL><BRK/>
+<BRK/>
+<TXT>Off-gases from the primary soil treatment zone shall be cooled to temperatures protective of downstream units 
+and equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stack Emissions Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Indicate design wind force the stack will have to withstand.  Structural 
+design should also include seismic resistance in accordance with UFC 3-310-04, 
+when appropriate.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The air pollution control system shall be capable of controlling gaseous, solid and aerosol type emissions to 
+meet the performance requirements.  Stack support shall be in accordance with <RID>NFPA 82</RID> and <RID>NFPA 211</RID>, as applicable.  
+Vertical and lateral supports for exterior chimneys shall withstand wind forces of [_____]<MET> km/hour</MET><ENG> mph</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Water and Liquid Waste</TTL><BRK/>
+<BRK/>
+<TXT>The air pollution control system shall be designed to minimize water consumption and liquid waste generation.  
+Liquids in the air pollution control system shall be recirculated to the maximum extent practicable prior to 
+wasting to the liquid waste system.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PROCESS RESIDUALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Verify that all process residual streams are covered.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Liquid Wastes</TTL><BRK/>
+<BRK/>
+<TXT>Residual liquid wastes from the air pollution control system and liquids collected from the [air pollution control 
+system] [stockpile] [_____] shall be sampled, treated and disposed of in accordance with regulatory and contract 
+requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Solids</TTL><BRK/>
+<BRK/>
+<TXT>Residual solid materials from the [air pollution control system] [liquid waste treatment system] [_____] shall 
+be sampled, treated, and disposed of in accordance with regulatory and contract requirements.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>AUXILIARY FUEL SYSTEM</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Feed Capability</TTL><BRK/>
+<BRK/>
+<TXT>The auxiliary fuel system shall have direct feed capability to the thermal destruction system.  Meters, pressure 
+gages and controls shall be provided to maintain proper operating conditions.  Design shall be in conformance 
+with the applicable requirements of <RID>NFPA 30</RID> and <RID>NFPA 31</RID>, <RID>NFPA 54</RID> or <RID>NFPA 58</RID>, as appropriate to the fuel type.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Secondary Containment</TTL><BRK/>
+<BRK/>
+<TXT>Auxiliary fuel storage tanks shall be provided with secondary containment as required by paragraph 2-3.4 Control 
+of Spillage from Aboveground Tanks of <RID>NFPA 30</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>OTHER SUBMITTAL REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>The following shall be submitted:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Flow diagram for process equipment associated with the thermal desorption system and data, including 
+but not limited to: contaminated material stream flows; direction of material flow, including range of 
+flow rate and range of composition, identified by lines and arrows denoting the direction and destination 
+of the flow; material, mass and energy balances for the entire thermal desorption system.  Piping and 
+instrumentation diagram indicating: process equipment; instrumentation; piping and valves; stacks, vents 
+and dampers; control equipment (including sensors, process controllers, control operators, valves, interlocks, 
+alarms, and contaminated material feed cut-off systems); labels and other necessary information to correlate 
+to the process flow diagram.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  System schedule including dates and durations for system mobilization, start-up, proof of performance, 
+interim operation, production burn, and demobilization prior to beginning site activities.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Specific procedures and requirements for onsite placement of the thermal desorption system and its 
+subsystems.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Plan identifying instruments requiring calibration and describing the required calibration procedure 
+and tolerances.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  List of the proposed operating conditions for process parameters to be continuously monitored and 
+recorded.  Detailed descriptions of the proof of performance schedule, operating conditions and parameters, 
+material sources, and required sampling and analyses shall be included.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Specific detailed procedures for continued operation of the system, based on the proof of performance 
+results; adjustments for variation in the contaminated material feed shall be included.  Schedule of 
+inspection and maintenance procedures and activities shall be included.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Demobilization plan detailing specific procedures to be used for decontamination of system components, 
+test methods for verification of decontamination, and the schedule for equipment decontamination and 
+removal from the site.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Information on function, design capacity, and expected operational capacity for the following equipment 
+in the thermal desorption system:  feed preparation equipment, feed/treated materials conveying equipment, 
+thermal treatment equipment (primary chamber, blowers, air pollution control equipment).  Equipment specifications 
+identifying manufacturer and model number, materials of construction, interior and exterior dimensions, 
+design limitations, and normal operating conditions.  Operating capacity and operating conditions for 
+subsystem equipment; pumps, valves and other in-line devices; sizes of conveying and/or feeding devices; 
+size and number of parallel components or lines.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Detailed manufacturer's data on the overall controls, sequence of control, description of components, 
+wiring diagrams, logic diagrams, control panel layouts, legends and standard symbols, sensors, process 
+controllers, control operators, valves, alarms, interlocks and contaminated material feed cut-off systems.  
+Data describing in detail the equipment used to monitor stack emissions, including the stack sampling 
+probe, filters, gas transport tubing, sampling pump, moisture removal system, analyzer's calibration 
+system, and data recorder.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  An analysis demonstrating that the amount of noise generated at a distance of<MET> 30 meters</MET><ENG> 100 feet</ENG> 
+for the following octave band frequencies:  31.5, 63, 125, 250, 500, 1000, 2000, 4000, and 8000 hertz 
+will not exceed the approved noise levels.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Backup and redundancy analysis containing a failure mode analysis and an emergency manual that indicates 
+responses to be taken under the following circumstances:  (1) sudden loss of integrity of refractory 
+lining, (2) puffing or sudden occurrence of fugitive emissions, (3) failure of temperature monitoring 
+control mechanism, (4) primary burner and/or air port clogging or failure, (5) electrical power failure 
+(primary or secondary), (6) scrubber water flow or scrubber water makeup flow out of range, (7) excessive 
+solids deposition in the air pollution control system, (8) loss of quench water, (9) increase in gas 
+temperature after quench zone and (10) demister operation failure.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  An operating record as described in this specification.  Inspection and maintenance checklists and 
+records of preventive maintenance and repairs.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Instructions for use of software packages necessary to evaluate the operating data from the control 
+system and daily operating data on magnetic media.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">n.  Reports of inspections or tests, including analysis and interpretation of test results.  Each report 
+shall be properly identified.  Test methods used shall be identified and test results shall be recorded.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">o.  Reports containing the results of startup and proof of performance.  The reports shall contain the 
+information necessary for making application for an operating permit.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Layout</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Thermal Desorption System</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Sequencing and Scheduling</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Mobilization Plan</SUB></ITM><BRK/>
+<ITM><SUB>Startup Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Proof of Performance</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Operating Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Demobilization Plan</SUB></ITM><BRK/>
+<ITM><SUB>Utilities</SUB></ITM><BRK/>
+<ITM><SUB>Equipment</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Instrumentation and Controls</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Ambient Air Emissions and Noise Control</SUB></ITM><BRK/>
+<ITM><SUB>Redundancies</SUB></ITM><BRK/>
+<ITM><SUB>Logs</SUB></ITM><BRK/>
+<ITM><SUB>Control System</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Logs</SUB></ITM><BRK/>
+<ITM><SUB>Startup</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The designer should determine State, regional, or local noise abatement 
+requirements.  Requirements may vary on 24-hour or weekly cycles.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL><SUB>Ambient Air Emissions and Noise Control</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The thermal desorption system shall conform to applicable state, regional, and local regulations regarding ambient 
+air emissions and noise pollution control.  A noise analysis predicting the amount of noise generated by the 
+system shall be furnished prior to mobilization.  Maximum  noise levels approved for site operations shall not 
+be exceeded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hazardous Materials</TTL><BRK/>
+<BRK/>
+<TXT>If any process residuals are found to contain hazardous materials, they shall be [transported and disposed of 
+in accordance with Section <SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS MATERIALS.] [treated in accordance 
+with Section <SRF>02 55 00</SRF> SOLIDIFICATION/STABILIZATION (S/S) OF CONTAMINATED MATERIAL and backfilled on site.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Proof of Performance</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Proof of performance shall be in accordance with the approved Proof of Performance Plan.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Installation</TTL><BRK/>
+<BRK/>
+<TXT>Installation shall be performed with minimal damage to the existing site environment.  Welding shall be performed 
+in accordance with <RID>AWS D1.1/D1.1M</RID> by welders certified to have passed qualification tests using procedures covered 
+in <RID>AWS B2.1/B2.1M</RID> or <RID>ASME BPVC SEC IX</RID>.  Require any welder to retake the test when, in the opinion of the Contracting 
+Officer, the work creates reasonable doubt as to the welder's proficiency.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Detail Drawings</TTL><BRK/>
+<BRK/>
+<TXT>Submit detail drawings showing dimensions of the equipment, layout of the thermal desorption system and subsystems, 
+including location of components and onsite improvements.  Drawings showing dimensions, layout, location of barriers, 
+capacities, and placement of the stockpiles.  Drawings shall be to the approved scale.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SITE CONDITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include site and soil characterization data and reference other sections 
+that contain the data.  To utilize SpecsIntact automation, insert Section Reference 
+tags on the section numbers referenced in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Generalized characteristics and location of the contaminated materials are as indicated on the drawings and described 
+in Sections [_____] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>EQUIPMENT, MATERIALS AND STORAGE</TTL><BRK/>
+<BRK/>
+<TXT>Equipment and storage facilities shall be provided for removing, handling and storing residues resulting from 
+thermal treatment, including treated material and solids captured by the pollution control system.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Capacity</TTL><BRK/>
+<BRK/>
+<TXT>Capacity for treated material and solids captured by the pollution control system removal, handling, and storage 
+systems shall be consistent with the capacity of the thermal desorption system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Segregation of Materials</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Thermal desorption is a separation process.  Combining the air pollution 
+control residuals with the treated materials may make the treated material fail 
+backfill requirements for metals leachability.  Regulations generally allow 
+combining prior to testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Separate storage for treated material and solids captured by the pollution control system handling systems shall 
+be adequate for segregating a minimum of [72] [_____] hours production to allow for results from sampling and 
+analyses prior to additional treatment or disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Instrumentation, Sensors, Recorders, and Sampling</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  40 CFR 761 Polychlorinated Biphenyls (PCBs) Manufacturing, Processing, 
+Distribution in Commerce, and Use Prohibitions applies when the contaminated 
+material to be treated contains polychlorinated biphenyls (PCBs) in excess of 
+50 mg/kg.  Emissions monitoring and rates from 40 CFR 264, Subpart O may apply 
+in the absence of state regulations.  Contact the appropriate Federal and state 
+regulatory agencies to determine the extent of monitoring required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  Instrumentation and equipment including sensors, local indicators, connecting devices, recorders, 
+analyzers and components necessary to monitor and control the safe and efficient operation of the system 
+shall be provided.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Thermometers shall conform to <RID>ASME PTC 19.3 TW</RID>, with wells and temperature range suitable for the 
+use encountered.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Draft Gauges shall conform to <RID>ASME B40.100</RID> with a diaphragm or bellows actuating system and a circular 
+scale.  The gauges shall have a zero adjustment screw.  Suitable shutoff cocks shall be provided.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Pressure Gauges shall conform to <RID>ASME B40.100</RID> and be of pressure detecting class, single Bourdon 
+tube style, and suitable for detecting air pressure.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Sensors shall conform to <RID>ISA MC96.1</RID>, Type [E] [J] [K] [T], and shall be provided in the combustion 
+chamber or as otherwise directed.  The thermocouple shall be suitable for continuous operation and control 
+at temperatures up to<MET> [1540] [_____] degrees C</MET><ENG> [2800] [_____] degrees F</ENG>, accurate to 0.75 percent, and 
+shall be long enough to be inserted<MET> 150 mm</MET><ENG> 6 inches</ENG> into the furnace.  The thermocouple shall be provided 
+with an adjustable flange and with a high-temperature metal alloy, closed-end, protecting tube suitable 
+for insertion into the furnace without support of the projecting end.  Compensating lead wire<MET> 1.52 mm</MET><ENG>
+ 16 gauge</ENG> in diameter and<MET> 30 m</MET><ENG> 100 feet</ENG> long with a weatherproof braid shall be supplied for connecting 
+the thermocouple to the instrument.  The installed unit shall indicate gas passage temperatures and shall 
+control burner operation.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Conveyors</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Make a determination of the maximum contaminated material feed rate which 
+could be sustained without releasing volatile organic compounds to the air in 
+violation of air quality regulations.  This determination should be made using 
+feed rates and contaminant concentrations typical of full scale production.  
+If the potential does not exist for the release of unacceptable amounts of volatile 
+organic chemicals, this paragraph may be deleted.  Calculations supporting this 
+determination should be included in the Design Analysis.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated material feed conveyors shall be covered and vented to the air pollution control system.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>LAYOUT</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate the drawings to allow the best access possible to the work 
+area.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Do not increase the size of the process area without approval of the Contracting Officer.  Costs associated with 
+any area increase are borne by the Contractor, including costs of construction, demolition and site restoration.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Equipment</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Use the area indicated for equipment such as an auxiliary generator; dewatering equipment; pre-treatment equipment 
+such as shredders, screens, etc.; air emission controls and monitoring equipment; contaminated material conveyance, 
+preparation and loading equipment; and fuel tanks.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiles</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Complete segregation of stockpiles is recommended for highly contaminated 
+materials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The area provided for stockpiling shall be used for segregated temporary storage of untreated contaminated materials, 
+treated materials, and solids captured by the pollution control system.  Contaminated materials, treated materials 
+and solids captured by the pollution control system shall not be mixed.  Facilities for treated materials and 
+solids captured by the pollution control system shall maintain segregation of treated materials and solids captured 
+by the pollution control system until each has been characterized for additional treatment and/or disposal.  
+Stockpiles shall be constructed to include:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  A chemical resistant impermeable geomembrane liner with a minimum thickness of<MET> 1.0 mm</MET><ENG> 40 mils</ENG>.  Subgrade 
+preparation; and installation, testing, inspection and protection of the liner shall be in accordance 
+with SECTION <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  An impermeable geomembrane cover with a minimum thickness of<MET> 0.25 mm</MET><ENG> 10 mils</ENG> to prevent precipitation 
+from entering the stockpile.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Berms surrounding the stockpile which are a minimum of <MET> 0.9 m</MET><ENG> 1 foot</ENG> in height.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Slope the liner to a low point to allow leachate to be collected.  Handle leachate collected from 
+the stockpile in accordance with paragraph LIQUID WASTES.  Leachate collected from the stockpile may 
+be used in the thermal desorption process provided the treated material meets the physical and chemical 
+post-treatment test criteria.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fuel System</TTL><BRK/>
+<BRK/>
+<TXT>Fuel system installation and testing shall comply with the applicable requirements of <RID>NFPA 30</RID> and <RID>NFPA 31</RID>, <RID>NFPA 54</RID>
+ or <RID>NFPA 58</RID>, as appropriate to the type of fuel.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>INSTALLATION/ERECTION/REMOVAL</TTL><BRK/>
+<BRK/>
+<TXT>The installation/erection of the thermal desorption system shall be performed to allow removal of the system 
+from the site and site restoration.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SAMPLING, MONITORING AND INSPECTIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Verify that the contract documents cover the sample preservation and 
+analytical method for contaminated and treated materials, stack emissions for 
+parameters required in paragraph Stack Emissions Monitoring and Sampling, and 
+solids captured by the pollution control system.  Reference should be made to 
+40 CFR 266 for the analysis for TCLP metals.</NPR><BRK/>
+<BRK/>
+<NPR>Sampling requirements are project specific.  Sampling frequency requirements 
+and composite sampling techniques are negotiated with the regulatory agency.</NPR><BRK/>
+<BRK/>
+<NPR>Typically, treated materials from each day are stockpiled separately.  Therefore, 
+testing is normally done on a daily basis with varying composite sampling requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated material feed, treated material and solids captured by the air pollution control system shall be 
+sampled and analyzed as allowed by the permits and as specified.  The sampling of treated soils and solids captured 
+by the air pollution control system shall be in accordance with <RID>ASTM E122</RID>.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Minimum Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Sampling and analyses shall be performed in accordance with the schedule as shown in TABLE 3.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="8">
+      <COL AUTOWIDTH="0" WIDTH="111.75"/>
+      <COL AUTOWIDTH="0" WIDTH="97.50"/>
+      <COL AUTOWIDTH="0" WIDTH="97.50"/>
+      <COL AUTOWIDTH="0" WIDTH="150.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="53.25">
+         <CEL MERGEACROSS="3" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 3 - MATERIAL SAMPLING FREQUENCY REQUIREMENTS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">COMPONENT</DTA>
+         </CEL>
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">MATERIAL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">CONTAMINATED</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TREATED</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">SOLIDS CAPTURED BY THE POLLUTION CONTROL SYSTEM</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">volatile organics</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.00">
+         <CEL>
+<DTA TYPE="STRING">semi-volatile organics</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">polychlorinated biphenyls (PCBs)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">TCLP metals</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[NA]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[daily]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.75">
+         <CEL>
+<DTA TYPE="STRING">metals</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[NA]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[daily]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stack Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Stack samples shall be taken in accordance with State regulation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Visual Inspections</TTL><BRK/>
+<BRK/>
+<TXT>The thermal desorber and associated equipment (pumps, valves, conveyors, pipes, etc.) shall be subjected to thorough 
+visual inspections for leaks, spills, fugitive emissions, and signs of tampering or mechanical failure as indicated 
+in TABLE 4.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 4 - VISUAL INSPECTION SCHEDULE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Phase of Operation</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Minimum Inspection Frequency</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Proof of Performance</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Once per 8-hour shift][Daily]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Interim operations</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Once per 8-hour shift][Daily]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">Operations</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[Daily][Weekly]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Interlocks, Automatic Cut-Offs and Alarms</TTL><BRK/>
+<BRK/>
+<TXT>Interlocks, automatic contaminated material feed cut-off and associated alarms shall be tested at least [weekly] 
+[_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>LOGS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Data from sampling, inspections and tests shall be recorded and the records placed in the operating log.  The 
+field log book shall describe calibration procedures conducted and results obtained.  Logs shall be maintained 
+throughout the duration of operations and shall be made available for inspection upon request by the Contracting 
+Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>STARTUP</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Startup shall include material handling systems demonstration, instrumentation calibration, control interlock 
+demonstration and 24 hour operation.  Startup operations shall demonstrate that the system is capable of processing 
+material at the proposed feed rate and that the air pollution control system is capable of attaining the required 
+throughput rates.  Perform startup activities using uncontaminated material.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Startup Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a startup plan.  The plan shall describe <SUB>control system</SUB> functions and specific procedures proposed to 
+demonstrate each function and for testing the system with uncontaminated materials; formats and procedures for 
+reporting the material handling demonstration and hot check results; proposed operating procedures for the proof 
+of performance with detailed descriptions of the sampling and analysis to be performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Systems Demonstration</TTL><BRK/>
+<BRK/>
+<TXT>Demonstrate the contaminated material preparation and feed systems and the treated material and solids captured 
+by the pollution control system handling systems.  The systems demonstration shall not commence until written 
+approval is received from the Contracting Officer.  The systems and the treated material and solids captured 
+by the pollution control system handling systems shall operate continuously at the proposed maximum feed rate 
+for 4 hours without a malfunction or shutdown related to the systems.  The systems demonstration shall be conducted 
+using uncontaminated material.  There shall be no fugitive emissions, or "dusting".</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Instrumentation Calibration</TTL><BRK/>
+<BRK/>
+<TXT>Instrumentation calibration shall ensure that compliance-related instrumentation functions will be performed 
+reliably and accurately.  Test instruments shall be calibrated by a recognized standards laboratory 30 days prior 
+to testing with standards traceable to <RID>NIST SP 250</RID>.  Instrumentation and control system calibrations will be 
+witnessed by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Control Interlock Demonstration</TTL><BRK/>
+<BRK/>
+<TXT>Following instrumentation calibration, it shall be demonstrated that control system interlocks and alarms are 
+programmed correctly and are fully functional.  Each alarm point shall be tested for proper response.  Alarms, 
+interlocks, and emergency responses (activation of combustion gas by-pass system or an emergency system shut 
+down) shall be demonstrated.  Operating conditions which trigger system alarms may be artificially induced in 
+the field, or the control set points may be altered to invoke the desired response alarm.  Appropriate control 
+system responses (including interlocks, alarms, by-pass activation and/or emergency shutdowns) to each of the 
+specified stimuli shall be demonstrated.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>24 Hour Operation</TTL><BRK/>
+<BRK/>
+<TXT>The system shall be placed in operation under conditions proposed in the Proof of Performance Plan for 24 hours 
+or the treatment of one batch (if a batch system) without a malfunction or shutdown related to the contaminated 
+material feed or the treated material and solids captured by the pollution control system handling systems with 
+all continuous emissions monitoring systems functional throughout the 24 hour operations.  Shakedown shall begin 
+after the 24 hour prove-out period and may be performed on contaminated materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reporting</TTL><BRK/>
+<BRK/>
+<TXT>An interim letter-report will be acceptable with the results formally reported in the startup report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PROOF OF PERFORMANCE PLAN</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when treating POL contaminated soils (non-hazardous 
+waste).</NPR><BRK/>
+<BRK/>
+<NPR>The system should not be approved for operation until acceptable removal and 
+other operating parameters are successfully achieved during the Proof of Performance.  
+Production operating conditions should be established from the Proof of Performance 
+results.</NPR><BRK/>
+<BRK/>
+<NPR>Approved production operating conditions should become contract requirements.</NPR><BRK/>
+<BRK/>
+<NPR>If acceptable removal and other operating parameters are not achieved, production 
+operations should not be approved.  Results of the Proof of Performance should 
+be analyzed and the causes of deficiencies evaluated.  The Contractor should 
+be required to make physical and operational changes to the thermal desorption 
+system to bring it into compliance with the required operating parameters and 
+removal efficiencies.</NPR><BRK/>
+<BRK/>
+<NPR>If the first attempt at performing a Proof of Performance fails, each subsequent 
+attempt should include a separate Proof of Performance report.  Second and third 
+proof of performances, if needed, should be performed at no extra cost to the 
+Government.</NPR><BRK/>
+<BRK/>
+<NPR>Upon completion of a successful Proof of Performance, the thermal desorption 
+system should be approved for production operations contingent on the specified 
+operating conditions established from the successful Proof of Performance test 
+results.</NPR><BRK/>
+<BRK/>
+<NPR>After failure of the third Proof of Performance attempt and/or expiration of 
+1 calendar year from the initiation of Proof of Performance operations, the 
+Contractor may be considered in default in accordance with the Contract Clauses.</NPR><BRK/>
+<BRK/>
+<NPR>A complete Proof of Performance, regardless of similarities between treatment 
+trains, should be conducted on each treatment train of multiple secondary treatment 
+trains or air pollution control trains that are used with a single thermal desorption 
+unit.  Each train should be tested simultaneously to the maximum practical extent.  
+For multiple treatment trains that will be operated under different operating 
+conditions or different contaminated material feed rates, each proposed set 
+of conditions should be demonstrated during the Proof of Performance.</NPR><BRK/>
+<BRK/>
+<NPR>The designer should ensure that regulators define permitting process and time 
+delays associated with the review and approval process.  Interim conditions 
+should be adamantly sought as the permit process could delay construction operations 
+greatly increase cost of project.</NPR><BRK/>
+<BRK/>
+<NPR>An interim operating period should commence within 7 calendar days after receipt 
+of the Proof of Performance test results and the issuance of interim operating 
+conditions.  The interim operating period should continue for the total number 
+of calendar days remaining in the period of time allowed for preparation and 
+submittal of the Proof of Performance report and the number of calendar days 
+allowed for review and approval.  Loss of potential interim operating time resulting 
+from delays in submittal of an acceptable Proof of Performance report should 
+be the responsibility of the Contractor.  The interim operating approval should 
+expire at the end of the period described above and operation should cease until 
+a final production operation approval is issued.  Operating conditions during 
+the interim operating period should be determined based upon performance data 
+obtained during Proof of Performance operations.  At a minimum, these conditions 
+should include:</NPR><BRK/>
+<BRK/>
+<NPR>a.  Total mass feed should be based on the feed rate demonstrated to meet treated 
+material quality standards during preproduction operations.</NPR><BRK/>
+<BRK/>
+<NPR>b.  Desorber operating conditions should demonstrate the ability to meet treatment 
+standards during preproduction operations.</NPR><BRK/>
+<BRK/>
+<NPR>c.  Air pollution control system operating conditions should be demonstrated 
+during the Proof of Performance to ensure compliance with all emissions standards.</NPR><BRK/>
+<BRK/>
+<NPR>d.  Sampling and analysis requirements of treated materials should be in accordance 
+with the Sampling and Analysis Plan.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit a Proof of Performance Plan.  Conduct proof of performance in accordance with the approved Proof of Performance 
+Plan.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Schedule</TTL><BRK/>
+<BRK/>
+<TXT>Written notification of the anticipated date of the full proof of performance shall be received at least 7 days 
+prior to the projected start date.  Proof of performance operations may begin upon receipt of written approval 
+of the Proof of Performance Plan and written notification that final shake down activities have been completed 
+and that all systems are ready to conduct a full proof of performance.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Source of Material</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Specify the locations and depths at which samples for the field demonstration 
+will be obtained.  Chemical testing should be performed to verify that the materials 
+to be used for the field demonstration contain the contaminants of concern at 
+high enough concentrations to test the process.  Additional testing may be warranted 
+to verify that the physical properties of the materials are appropriate for 
+backfilling.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated material used for the field demonstration shall be obtained from [_____].  Prior to performing the 
+field demonstration, contaminated material to be used for the field demonstration shall be tested to verify it 
+contains the following minimum levels of contamination:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Operating Conditions</TTL><BRK/>
+<BRK/>
+<TXT>All systems shall be operated at the conditions specified in the Proof of Performance Plan for the duration of 
+the proof of performance.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Proof of Performance Report</TTL><BRK/>
+<BRK/>
+<TXT>The proof of performance report shall include results of the proof of performance, including sample analysis 
+data, calculations, and conclusions within [7] [14] [_____] days of the completion of a proof of performance.  
+At a minimum, data collected during each proof of performance shall be sufficient to make the following determinations:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Quantitative Analysis of the Materials</TTL><BRK/>
+<BRK/>
+<TXT>A quantitative analysis of each contaminated feed, treated material, and pollution control system stream for 
+each individual run for each parameter stated in the Proof of Performance Plan.  From each feed stream, analysis 
+of composites made from grab samples taken at 15 minute intervals for each individual test run during the proof 
+of performance.  The quantitative analysis shall include analyses for any surrogate or spiking compounds.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Quantitative Analysis of the Stack Gases</TTL><BRK/>
+<BRK/>
+<TXT>Perform a quantitative analysis of the stack exhaust gases for the concentration and mass emissions of O2, [CO2,] 
+CO, [HCl,] [NOx,] [SO2,] [THC,] [metals] and particulates for the proof of performance.  Continuously measure 
+and record the stack gas velocity and the concentration of O2, [CO2,] CO, HCl, [NOx,] [SO2,] [and] [THC] in the 
+stack exhaust gases.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Material and Energy Balances</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If the contaminated material characterization data showed negligible 
+chloride content, delete the HCl requirement.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A computation of the mass emission rate of particulates, in accordance with <RID>40 CFR 264</RID>, Subpart O.  If the HCl 
+emission rate exceeds<MET> 1.8 kg</MET><ENG> 4 pounds</ENG> of HCl per hour, a computation of the HCl removal efficiency in accordance 
+with <RID>40 CFR 264</RID>, Subpart O shall be performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fugitive Emissions</TTL><BRK/>
+<BRK/>
+<TXT>Identification of sources of fugitive emissions and means of control of the emissions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Continuous Measurement and Recording</TTL><BRK/>
+<BRK/>
+<TXT>Continuous measurement and recording of operating parameters as required in the approved Proof of Performance 
+Plan.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Other monitoring, sampling, and/or analyses required by the approved Proof of Performance Plan.  Submit an <SUB>Operating 
+Plan</SUB> based on the Proof of Performance results.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL><SUB>UTILITIES</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The system utilities requirements should be identified in the Contractor's 
+design.  The following information may be used as a check:  the amount required 
+for a<MET> 12,000 - 18,000 kg</MET><ENG> 15 - 20 ton</ENG> per hour unit is<MET> 5 - 35 L per second</MET><ENG> 75 
+- 600 gpm</ENG> of water, 1200 - 2500 kw of electricity and<MET> 30 - 60 cubic meters per 
+minute</MET><ENG> 1000 - 2000 scfm</ENG> of natural gas.  The Contractor should verify the adequacy 
+of the existing utilities and be responsible for the required agreements with 
+the utility companies for usage and any required changes.</NPR><BRK/>
+<BRK/>
+<NPR>Points of connection are normally shown on the drawings.  Occasionally names, 
+addresses, and telephone numbers of the utility companies are shown on the drawings.  
+Delete the following paragraphs if the information is shown elsewhere.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Fuel and utilities shall be provided at locations indicated.  Verify availability and locations of utilities 
+and compensate the utility company for connection and usage.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Electricity</TTL><BRK/>
+<BRK/>
+<TXT>The power [utility] [company] is [_____], phone number [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Water</TTL><BRK/>
+<BRK/>
+<TXT>The water [utility] [company] is [_____], phone number [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Natural Gas</TTL><BRK/>
+<BRK/>
+<TXT>The natural gas [utility] [company] is [_____], phone number [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>DEMOBILIZATION PLAN</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Complete demobilization in accordance with the approved demobilization plan.  Begin demobilization after the 
+contaminated materials have been treated to the requirements of this section.  Demobilization includes disconnection 
+of utilities, decontamination, disassembly, and removal of thermal desorption system equipment, materials handling 
+equipment, structures, and concrete pads related to the thermal desorption system.  Demobilization is complete 
+when the thermal desorption equipment and related equipment have left the site and the equipment and stockpile 
+areas have been restored.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 56 14 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 56 14 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 56 14</SCN><BRK/>
+<BRK/>
+<STL>CLAY BARRIER LAYER</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>construction of 
+a clay barrier layer to isolate contaminated material from the environment</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>UNIT PRICES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when work is covered by a lump sum contract price.  
+Weight measurement may be used to supplement volume measurement surveys if significant 
+subgrade settlement (landfill cover applications) is anticipated.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measurement and payment for the clay barrier layer shall be based on the unit price schedule for each<MET> cubic m</MET><ENG>
+ cubic yard</ENG> of clay in place.  This unit price shall include the cost for development of the clay borrow source, 
+cost of clay, excavation, hauling, equipment, placement, testing, and other incidental work required to construct 
+the clay barrier layer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D1140</RID><RTL>(2017) Standard Test Methods for Determining the Amount of Material Finer than 75-µm (No. 200) Sieve in Soils by Washing</RTL><BRK/><BRK/><RID>ASTM D1556/D1556M</RID><RTL>(2015; E 2016) Standard Test Method for Density and Unit Weight of Soil in Place by Sand-Cone Method</RTL><BRK/><BRK/><RID>ASTM D1557</RID><RTL>(2012; E 2015) Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Modified Effort (56,000 ft-lbf/ft3) (2700 kN-m/m3)</RTL><BRK/><BRK/><RID>ASTM D1587/D1587M</RID><RTL>(2015) Thin-Walled Tube Sampling of Soils for Geotechnical Purposes</RTL><BRK/><BRK/><RID>ASTM D2167</RID><RTL>(2015) Density and Unit Weight of Soil in Place by the Rubber Balloon Method</RTL><BRK/><BRK/><RID>ASTM D2216</RID><RTL>(2010) Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass</RTL><BRK/><BRK/><RID>ASTM D2488</RID><RTL>(2017; E 2018) Standard Practice for Description and Identification of Soils (Visual-Manual Procedure)</RTL><BRK/><BRK/><RID>ASTM D3740</RID><RTL>(2012a) Minimum Requirements for Agencies Engaged in the Testing and/or Inspection of Soil and Rock as Used in Engineering Design and Construction</RTL><BRK/><BRK/><RID>ASTM D422</RID><RTL>(1963; R 2007; E 2014; E 2014) Particle-Size Analysis of Soils</RTL><BRK/><BRK/><RID>ASTM D4220/D4220M</RID><RTL>(2014) Preserving and Transporting Soil Samples</RTL><BRK/><BRK/><RID>ASTM D4318</RID><RTL>(2017; E 2018) Standard Test Methods for Liquid Limit, Plastic Limit, and Plasticity Index of Soils</RTL><BRK/><BRK/><RID>ASTM D5084</RID><RTL>(2016a) Standard Test Methods for Measurement of Hydraulic Conductivity of Saturated Porous Materials Using a Flexible Wall Permeameter</RTL><BRK/><BRK/><RID>ASTM D6938</RID><RTL>(2017a) Standard Test Method for In-Place Density and Water Content of Soil and Soil-Aggregate by Nuclear Methods (Shallow Depth)</RTL><BRK/><BRK/><RID>ASTM D698</RID><RTL>(2012; E 2014; E 2015) Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/cu. ft. (600 kN-m/cu. m.))</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTAL REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Submit Materials Handling Plan describing the following:  processing and placement of the clay; type, model number, 
+weight and critical dimensions of equipment to be used for soil processing, compaction, scarification, and smooth 
+rolling; method of protecting clay from changes in moisture content and freezing after placement.  The following 
+shall also be submitted:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Borrow Source Assessment Report at least [15] [_____] days prior to clay placement.  No clay shall 
+be placed until the Borrow Source Assessment Report is approved.  The report shall include the following: 
+location of each borrow source; plan view and estimated available quantity of clay; locations and logs 
+of subsurface explorations; laboratory test results; moisture-density curves showing the "Acceptable 
+Zone" of moisture contents and densities which achieve the required hydraulic conductivity for each principal 
+type of material or combination of materials.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  A minimum of<MET> 46 kg</MET><ENG> 100 pounds</ENG> of each principal type of material or combination of materials to the 
+Government's designated laboratory at least [30] [_____] days prior to placement.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Name and qualifications of the proposed commercial testing laboratory.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Protection</SUB></ITM><BRK/>
+<ITM><SUB>Equipment</SUB></ITM><BRK/>
+<ITM><SUB>Commercial Testing Laboratory</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Clay</SUB></ITM><BRK/>
+<ITM><SUB>Quality Assurance Samples</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Borrow Source Assessment</SUB></ITM><BRK/>
+<ITM><SUB>Assessment Tests</SUB></ITM><BRK/>
+<ITM><SUB>Moisture Content and Density Tests of Clay</SUB></ITM><BRK/>
+<ITM><SUB>Hydraulic Conductivity Tests of Clay</SUB></ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>CLAY</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The physical criteria listed in Table 1 are minimum requirements.  More 
+restrictive criteria may be appropriate depending on local soils.  For composite 
+geomembrane/clay covers and liners, the maximum particle size should be reduced 
+to<MET> 13 mm</MET><ENG> 0.5 inches</ENG> in the upper lift of clay layer to prevent puncturing of 
+the geomembrane.</NPR><BRK/>
+<BRK/>
+<NPR>Bentonite is often added to soils that do not contain enough clay to achieve 
+the desired hydraulic conductivity.  Refer to EPA/600/R-93/182 - Quality Assurance 
+and Quality Control for Waste Containment Facilities if bentonite will be used 
+as an additive to the available soils.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Clay shall be free of roots, debris, organic or frozen material, and shall have a maximum clod size of<MET> 50 mm</MET><ENG> 
+2 inches</ENG> at the time of compaction.  Clay material shall comply with the criteria listed in Table 1.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="8">
+      <COL AUTOWIDTH="0" WIDTH="219.75"/>
+      <COL AUTOWIDTH="0" WIDTH="117.00"/>
+      <COL AUTOWIDTH="0" WIDTH="120.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 1 REQUIRED PHYSICAL PROPERTIES OF CLAY</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Test Value</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING"><MET>Max. particle size (mm)</MET><BRK/><ENG>Max. particle size (inches)</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>25</MET><BRK/><ENG>1</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING"><MET>Min. percent passing 4.75 mm sieve</MET><BRK/><ENG>Min. percent passing No. 4 sieve </ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">80</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL>
+<DTA TYPE="STRING"><MET>Min. percent passing 0.075 mm sieve </MET><ENG>Min. percent passing No. 200 sieve</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">50</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1140</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Min. liquid limit</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">35</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4318</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Min. plasticity index</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">10</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4318</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Max. plasticity index</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">40</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4318</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>EQUIPMENT</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A soil stabilizer or road regrader is often specified for use on soils 
+that have clods or particles which are difficult to reduce to an acceptable 
+size.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Equipment used to place the clay barrier layer shall not brake suddenly, turn sharply, or be operated at speeds 
+exceeding<MET> 8 km</MET><ENG> 5.0 miles</ENG> per hour.<BRK/>
+<BRK/></TXT>
+<SPT><TTL>Compaction Equipment</TTL><BRK/>
+<BRK/>
+<TXT>Compaction equipment shall consist of tamping foot rollers which have a minimum weight of<MET> 18,140 kg</MET><ENG> 40,000 pounds</ENG>
+.  At least one tamping foot shall be provided for each<MET> 71,000 square mm</MET><ENG> 110 square inches</ENG> of drum surface.  
+The length of each tamping foot, from the outside surface of the drum, shall be equal to or greater than the 
+loose lift thickness.  During compaction operations, the spaces between the tamping feet shall be maintained 
+clear of materials which would impair the effectiveness of the tamping foot rollers.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Scarification Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Tamping foot rollers create a roughened surface on each lift of clay.  
+The designer must determine if scarification is required to further roughen 
+the surface of the clay layer prior to placement of additional lifts of clay.  
+If additional scarification is not required, omit this paragraph and other references 
+to scarification throughout this section.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Disks, rotor tillers, or other approved means shall be provided to scarify the surface of each lift of clay prior 
+to placement of the next lift.  The scarification equipment shall be capable of uniformly disturbing the upper<MET>
+ 25 mm</MET><ENG> 1 inch</ENG> of the clay surface to provide good bonding between lifts.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Steel Wheeled Rollers</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The upper surface of the clay layer must be smooth rolled if a geosynthetic 
+will be placed on top of the clay layer.  Remove this paragraph and all other 
+references to smooth rolling if a geosynthetic will not be placed on top of 
+the clay layer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A smooth, non-vibratory steel wheeled roller shall be used to produce a smooth compacted surface on the clay 
+barrier layer.  Steel wheeled rollers shall weigh a minimum of<MET> 9,070 kg</MET><ENG> 20,000 pounds</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hand Operated Tampers</TTL><BRK/>
+<BRK/>
+<TXT>Hand operated tampers shall consist of rammers or other impact type equipment.  Vibratory type equipment will 
+not be allowed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>BORROW SOURCE ASSESSMENT</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Shear strength testing is often required for landfill covers and liners 
+placed on steep slopes which contain geosynthetics.  Criteria for shear strength 
+testing is described in Section <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE or Section 
+<SRF>02 56 15</SRF> GEOSYNTHETIC CLAY LINER (GCL).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Borrow source <SUB>assessment tests</SUB> shall be performed on each principal type or combination of materials proposed 
+for use in the clay barrier layer to assure compliance with specified requirements and to develop compaction 
+requirements for placement.  A minimum of one set of borrow assessment tests shall be performed for each borrow 
+source proposed.  A set of borrow source assessment tests shall consist of classification testing, moisture-density 
+(compaction) testing, and hydraulic conductivity testing.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Classification Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Test pits should be used, if possible, because they provide a better 
+method of characterizing borrow sources than borings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[Test pits] [Borings] placed in a grid pattern shall be used to characterize each proposed borrow source.  The 
+[test pits] [borings] shall extend to the full depth of the proposed borrow source.  Visual classification as 
+described in <RID>ASTM D2488</RID> shall be performed over the full depth of each [test pit] [boring] by a [qualified] [registered] 
+geologist or geotechnical engineer.  Soils shall be grouped into "principal types" based on visual classification.  
+Classification testing shall be performed on representative samples of each principal type or combination of 
+materials.  At a minimum, one set of classification tests shall be performed per<MET> 5000 cubic m</MET><ENG> 6500 cubic yards</ENG>
+ of proposed borrow.  Classification testing shall consist of liquid and plastic limits in accordance with <RID>ASTM D4318</RID>
+ and particle size analysis in accordance with <RID>ASTM D422</RID>.  Moisture content testing of proposed borrow shall 
+be performed at a frequency of once per<MET> 2000 cubic m</MET><ENG> 2600 cubic yards</ENG> in accordance with <RID>ASTM D2216</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Compaction Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A minimum of two compaction efforts are recommended to adequately define 
+the relationship between moisture-density and hydraulic conductivity.  A reduced 
+compaction procedure may also be used.  The reduced compaction procedure is 
+the same as ASTM D698 except 15 drops of the hammer per lift are used instead 
+of 25.  The reduced compactive effort is expected to correspond to a reasonable 
+minimum level of compactive energy for a typical soil liner or cover.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A representative sample from each principal type or combination of borrow materials shall be tested to establish 
+compaction curves using [_____], <RID>ASTM D698</RID> and <RID>ASTM D1557</RID>.  A minimum of one set of compaction curves shall be 
+developed per<MET> 5,000 cubic m</MET><ENG> 6,500 cubic yards</ENG> of each proposed borrow material.  A minimum of [5] [_____] points 
+shall be used to develop each compaction curve.  The compaction curves for each principal type or combination 
+of borrow materials shall be plotted on a single graph of dry density versus moisture content.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hydraulic Conductivity Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  When performing hydraulic conductivity testing, the average effective 
+confining pressure should be representative of post construction conditions.  
+The minimum effective confining pressure should be equal to or greater than 
+21 kpa (3 psi) to avoid side wall leakage.</NPR><BRK/>
+<BRK/>
+<NPR>If the clay layer will be placed beneath hazardous waste, chemical compatibility 
+testing may be appropriate.  Chemical compatibility testing consists of performing 
+hydraulic conductivity tests on the clay liner material using a representative 
+leachate sample as the permeant.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A set of hydraulic conductivity tests shall be performed on representative samples of each principal type or 
+combination of borrow materials.  A minimum of one set of tests shall be performed per<MET> 5,000 cubic m</MET><ENG> 6,500 cubic 
+yards</ENG> of proposed borrow material.  A set of tests shall consist of one hydraulic conductivity test run on a 
+representative sample corresponding to each point from each compaction curve at or above <RID>ASTM D1557</RID> optimum moisture 
+content.  Hydraulic conductivity testing referenced in this section shall be conducted in accordance with <RID>ASTM D5084</RID>
+.  In addition, the following procedures shall be adhered to when performing the hydraulic conductivity testing:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Saturation of test specimens shall be verified by determination of the B coefficient.  The B coefficient 
+shall be at least 0.95.  The B coefficient is defined as the change in pore water pressure divided by 
+the change in confining pressure.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  During consolidation of the test specimens, outflow volumes versus time shall be recorded on a semi-log 
+graph to confirm primary consolidation has been completed prior to permeation of the specimens.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The permeant used for back pressure saturation and permeation shall be 0.01 molar calcium chloride 
+solution created from deaired, distilled water as specified in <RID>ASTM D5084</RID>.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The average effective confining pressure shall be [_____]<MET> kPa</MET><ENG> psi</ENG>.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Acceptable Zone Development</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Additional testing may be required to determine the "Acceptable Zone" 
+based on shear strength considerations.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>An "Acceptable Zone" of moisture contents and densities shall be developed and displayed with the compaction 
+curve graphs for each principal type of borrow material or combination of borrow materials.  The "Acceptable 
+Zone" shall consist of moisture-density values that meet the following requirements:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Maximum Allowable Hydraulic Conductivity = [1 x 10 to the -7 cm per second] [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The minimum allowable moisture content shall be no less than [optimum moisture content] [_____] based 
+on <RID>ASTM D1557</RID>.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The minimum allowable density shall be no less than [90] [_____] percent of maximum dry density based 
+on <RID>ASTM D698</RID>.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Chemical Contamination Testing</TTL><BRK/>
+<BRK/>
+<TXT>Borrow used for the clay barrier layer shall be free of contamination.  Each proposed borrow source shall be 
+sampled and analyzed for chemical contamination in accordance [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Commercial Testing Laboratory</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Tests for the clay barrier layer shall be performed by an approved testing laboratory furnished by the Contractor.  
+No testing will be permitted until the facilities have been inspected and approved.  The inspection will be performed 
+to determine if the laboratory has a quality system in place for personnel, equipment, reporting procedures, 
+record keeping, and equipment calibration that ensures the laboratory is capable of accurately performing the 
+specified testing.  The quality system shall be in accordance with <RID>ASTM D3740</RID> or as approved by the Government 
+Inspector.  The first inspection will be at the Government's expense.  Cost incurred for subsequent inspections 
+required because of deficiencies found during the first inspection will be charged to the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>INSTALLATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Clay Placement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Verify subgrade requirements are covered in another section of the specification 
+package.  The subgrade must provide adequate support for compaction of the clay 
+barrier layer.</NPR><BRK/>
+<BRK/>
+<NPR>For clay barrier layers placed above geosynthetics, require the placement and 
+compaction equipment work from the base of the slope up to prevent damage to 
+underlying geosynthetics.</NPR><BRK/>
+<BRK/>
+<NPR>Clay is generally placed parallel to the direction of maximum slope.  Clay placement 
+parallel to the slope becomes difficult on slopes steeper than 3 horizontal 
+on 1 vertical.  Horizontal lifts should be considered for clay placement on 
+slopes steeper than 3 horizontal on 1 vertical.</NPR><BRK/>
+<BRK/>
+<NPR>The U.S. Environmental Protection Agency document, EPA/600/R-93/182 Quality 
+Assurance and Quality Control for Waste Containment Facilities discourages the 
+use of grade stakes which penetrate the clay layer to control lift thickness.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Clay shall be placed to the lines and grades shown on the drawings.  The clay shall be placed in loose lifts 
+not to exceed<MET> 200 mm</MET><ENG> 8 inches</ENG> in thickness.  In areas where hand operated tampers must be used, the loose lift 
+thickness shall not exceed<MET> 100 mm</MET><ENG> 4 inches</ENG>.  [Grade stakes shall not be driven into the clay layer.]  [If grade 
+stakes are driven into the clay layer to control lift thickness, they shall be numbered and accounted for at 
+the end of each shift.  When removing grade stakes, no broken portion of the grade stakes shall be left in the 
+clay layer.  Holes left by grade stakes shall be backfilled and compacted.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Control</TTL><BRK/>
+<BRK/>
+<TXT>Clay shall be placed and compacted within the "Acceptable Zone" moisture content range in the approved Borrow 
+Source Assessment Report.  The moisture content shall be maintained uniform throughout each lift.  Water added 
+shall be thoroughly incorporated into the clay to ensure uniformity of moisture content prior to compaction.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Compaction</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Special compaction procedures are required if geosynthetic layers are 
+located immediately beneath the clay layer.  The minimum initial lift thickness 
+over geosynthetic layers is typically<MET> 300 mm</MET><ENG> 12 inches</ENG>.  This lift of soil is 
+typically placed with low ground pressure track mounted equipment with a track 
+pressure of<MET> 21 to 41 kPa</MET><ENG> 3 to 6 psi</ENG>.  No compaction requirements are generally 
+specified for this first lift of clay.</NPR><BRK/>
+<BRK/>
+<NPR>For clay barrier layers placed on soft subgrades, lighter equipment and the 
+relaxation or elimination of compaction criteria is often specified for the 
+first lift of clay.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Clay shall be compacted to meet the density requirements in the approved Borrow Source Assessment Report and 
+by at least [5] [_____] passes of the approved compaction equipment over all areas of each lift.  For self-propelled 
+compactors, one pass is defined as one pass of the entire vehicle.  For towed rollers, one pass of the drum constitutes 
+a pass.  Hand operated tampers shall be used in areas where standard compaction equipment cannot be operated.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Scarification</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For geomembrane/clay composites, the final lift of clay is generally 
+smooth rolled instead of being scarified to allow intimate contact between the 
+clay surface and the overlying geomembrane.  Smooth rolling also helps to prevent 
+desiccation during delays in construction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Scarification shall be performed on all areas of the upper surface of each clay lift prior to placement of the 
+next lift.  Scarification shall be accomplished with approved equipment.  The final lift of clay shall not be 
+scarified.  The final lift shall be smooth rolled with at least [3] [_____] passes of the approved smooth steel 
+wheeled roller to provide a smooth surface with no ridges or depressions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Repair of Voids</TTL><BRK/>
+<BRK/>
+<TXT>Voids created in the clay barrier layer during construction (including, but not limited to, penetrations for 
+test samples, grade stakes, and other penetrations necessary for construction) shall be repaired by removing 
+sand or other non-clay material, placing clay backfill in lifts no thicker than<MET> 76 mm</MET><ENG> 3 inches</ENG> and tamping each 
+lift with a steel rod.  Each lift shall be tamped a minimum of 25 times altering the location of the rod within 
+the void for each blow.  Other ruts and depressions in the surface of the lifts shall be scarified, filled, and 
+then compacted to grade.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CONSTRUCTION TOLERANCES</TTL><BRK/>
+<BRK/>
+<TXT>The top surface of the clay barrier layer shall be no greater than<MET> [76] [_____] mm</MET><ENG> [3] [_____] inches</ENG> above the 
+lines and grades shown on the drawings.  No minus tolerance will be permitted.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONSTRUCTION TESTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Clay Material Tests</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The definition of unclassified materials must be determined on a site 
+specific basis.  Unclassified materials are typically defined using Atterberg 
+limits, grain size distribution, or compaction testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>During construction of the clay barrier layer, representative samples shall be taken for testing at the frequencies 
+listed in Table 2 [from the borrow source] [from onsite stockpiles] [after a loose lift of clay has been placed] 
+[_____].  Test results shall meet the requirements listed in Table 1.  Unclassified material shall be defined 
+as follows:  [_____].  Where test results indicate an unclassified material type, additional testing shall be 
+performed as described in paragraph BORROW SOURCE ASSESSMENT.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="6">
+      <COL AUTOWIDTH="0" WIDTH="192.75"/>
+      <COL AUTOWIDTH="0" WIDTH="135.00"/>
+      <COL AUTOWIDTH="0" WIDTH="129.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 2<BRK/>CLAY MATERIAL PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="29.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Frequency</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL>
+<DTA TYPE="STRING">Particle size analysis (Note 1)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>800 cubic meters</MET><BRK/><ENG>1,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL>
+<DTA TYPE="STRING">Atterberg limits (Note 1)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>800 cubic meters</MET><BRK/><ENG>1,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4318</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL>
+<DTA TYPE="STRING">Compaction (Note 2)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>5,000 cubic meters</MET><BRK/><ENG>6,500 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D698</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="69.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">Note 1:  At least one test shall be performed each day that soil is placed.<BRK/>Note 2:  Compaction test results shall be compared to previous results on the same material type to verify the compaction characteristics have remained the same.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>Moisture Content and Density Tests of Clay</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>Note:  Test results using ASTM D6938 may show a significant amount of scatter 
+in some situations.  ASTM D4643 (microwave method) can be used as an alternative 
+to ASTM D6938 for quick determinations of moisture content.</NPR><BRK/>
+<BRK/>
+<NPR>Density and hydraulic conductivity testing requirements are often waived for 
+the first lift of clay placed on a soft subgrade or above a geosynthetic layer 
+which could be damaged by compaction equipment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Perform moisture content and density tests, for clay in-place, in a grid pattern staggered for successive lifts, 
+so that sampling points are not at the same location in each lift.  Perform moisture content and density tests 
+in accordance with Table 3.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="6">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="153.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="162.75"/>
+      <COL AUTOWIDTH="0" WIDTH="141.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 3<BRK/>MOISTURE CONTENT AND DENSITY TESTS OF IN-PLACE CLAY</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Frequency Per Lift</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Rapid Moisture Content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>800 square meters</MET><ENG><BRK/>8,500 square feet</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D6938</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Standard Moisture Content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1 for every 10 rapid tests</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D2216</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Rapid Density</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>800 square meters</MET><ENG>8,500 square feet</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D6938</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Standard Density</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1 for every 20 rapid tests</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D1556/D1556M</RID> or <RID>ASTM D2167</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<SPT><TTL>Rapid Tests</TTL><BRK/>
+<BRK/>
+<TXT>Each day that clay is compacted, a minimum of one set of moisture content and density tests shall be performed 
+using standard procedures.  Rapid tests shall be checked at the frequencies shown in Table 3.  Standard tests 
+shall be performed at locations which are as close as possible to the location of the rapid tests being checked.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nuclear Density and Moisture Content Tests</TTL><BRK/>
+<BRK/>
+<TXT>Nuclear density readings shall be taken in the direct transmission mode.  When <RID>ASTM D6938</RID> is used, the calibration 
+curves shall be checked and adjusted using only the sand cone method as described in <RID>ASTM D1556/D1556M</RID>.  <RID>ASTM D6938</RID>
+ results in a wet unit weight of soil and when using this method <RID>ASTM D6938</RID> shall be used to determine the moisture 
+content of the soil.  The calibration curves furnished with the moisture gauges shall also be checked along with 
+density calibration checks as described in <RID>ASTM D6938</RID>; the calibration checks of both the density and moisture 
+gauges shall be made at the beginning of a job on each different type of material encountered and at intervals 
+as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Test Results</TTL><BRK/>
+<BRK/>
+<TXT>The field moisture content and density test results shall be plotted on the "Acceptable Zone" plot that corresponds 
+to the appropriate material type being tested.  If test results are not within the "Acceptable Zone" for moisture 
+content or density, [3] [_____] additional tests shall be performed near the location of the failed parameter.  
+If all retests pass, no additional action shall be taken.  If any of the retests fail, the lift of soil shall 
+be repaired out to the limits defined by passing tests for that parameter.  The area shall then be retested as 
+directed.  Repairs to the clay layer shall be documented including location and volume of soil affected, corrective 
+action taken, and results of retests.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Hydraulic Conductivity Tests of Clay</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Laboratory hydraulic conductivity tests constitute a major inconvenience 
+because the tests usually take several days to perform.  For this reason, the 
+use of laboratory hydraulic conductivity tests should be minimized or eliminated 
+if possible.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Undisturbed samples shall be taken from the in-place clay for hydraulic conductivity testing at a frequency of 
+once per<MET> 3,720 square m</MET><ENG> 40,000 square feet</ENG> for each lift of clay placed.  Samples shall be cut from the lift 
+in accordance with <RID>ASTM D1587/D1587M</RID> and transported in the vertical position in accordance with <RID>ASTM D4220/D4220M</RID>
+, Group C.  Each undisturbed sample shall be tested for hydraulic conductivity in accordance with <RID>ASTM D5084</RID>, 
+[moisture content in accordance with <RID>ASTM D2216</RID>], [particle size analysis in accordance with <RID>ASTM D422</RID>], and 
+[liquid and plastic limits in accordance with <RID>ASTM D4318</RID>].  Hydraulic conductivity testing shall be conducted 
+in accordance with the requirements in paragraph Hydraulic Conductivity Testing.  If any test result is greater 
+than the "Maximum Allowable Hydraulic Conductivity", modifications shall be proposed and approved for future 
+placement of clay of that type.  If the hydraulic conductivity of any test is more than one-half of one order 
+of magnitude greater than the "Maximum Allowable Hydraulic Conductivity",[3] [_____] additional tests shall be 
+performed near the location of the original failed test.  If all retests pass, no additional action shall be 
+taken.  If any of the retests fail, the area shall be repaired out to the limits defined by passing hydraulic 
+conductivity tests.  The area shall then be retested as directed.  Repairs to the clay layer shall be documented 
+including location and volume of soil affected, corrective action taken, and results of retests.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Quality Assurance Samples</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Remove or modify this paragraph if the quality assurance laboratory will 
+not perform hydraulic conductivity testing.  On some projects, the Contractor 
+is also tasked to periodically provide samples of borrow soil to the quality 
+assurance laboratory for classification testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Quality assurance samples shall be taken at locations as directed.  Samples shall be taken at a frequency of 
+once per [_____]<MET> square m</MET><ENG> square feet</ENG> for each lift of clay placed.  Samples shall be cut from the lift in accordance 
+with <RID>ASTM D1587/D1587M</RID> and shipped in the vertical position in accordance with <RID>ASTM D4220/D4220M</RID>, Group C.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>PROTECTION</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Moisture Content</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Smooth rolling or other measures may be necessary to limit moisture loss 
+and/or promote run-off of surface water.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After placement, moisture content shall be maintained or adjusted to meet the acceptable zone criteria.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Erosion</TTL><BRK/>
+<BRK/>
+<TXT>Erosion that occurs in the clay layer shall be repaired and grades re-established.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Freezing and Desiccation</TTL><BRK/>
+<BRK/>
+<TXT>Freezing and desiccation of the clay layer shall be prevented.  If freezing or desiccation occurs, the affected 
+soil shall be removed or reconditioned as directed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Retests</TTL><BRK/>
+<BRK/>
+<TXT>Areas that have been repaired shall be retested as directed.  Repairs to the clay layer shall be documented including 
+location and volume of soil affected, corrective action taken, and results of retests.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT>   <END/><BRK/></SEC>

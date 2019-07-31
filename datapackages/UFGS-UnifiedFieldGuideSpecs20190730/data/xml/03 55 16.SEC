@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                   UFGS-03 55 16 (April 2008)<BRK/>
+                                                --------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                      Superseding<BRK/>
+                                                UFGS-03 51 16 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 55 16</SCN><BRK/>
+<BRK/>
+<STL>GYPSUM CONCRETE FLOOR PLANKS</STL><BRK/>
+<DTE>04/08</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>gypsum plank systems 
+for fire rated floor decks</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUMMARY</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Gypsum plank deck systems may be used for service floors, located between 
+main floors of hospitals or other buildings of similar construction, to access 
+mechanical or electrical equipment.  This type of decking will be specified 
+ONLY as a Contractor's option to other types of decking since it is a proprietary 
+product.  Optional systems will be specified in other Sections and may be cast-in-place 
+gypsum, light weight concrete, expanded metal, or other competitive material 
+suitable to the project.</NPR><BRK/>
+<BRK/>
+<NPR>Gypsum plank decking is suitable for moderate temperature and humidity conditions, 
+as recommended by the manufacturer.  This type of decking is intended only for 
+walking and for light construction live loads.  The maximum allowable superimposed 
+load on the plank is<MET> 2.4 kPa</MET><ENG> 50 psf</ENG>.  Serviced equipment will be supported by 
+structural framing members.  Gypsum plank decking is not to be used for material 
+storage.  Ceiling suspended under plank decks will be hung from the steel frame 
+or subpurlins, not from the plank itself.</NPR><BRK/>
+<BRK/>
+<NPR>Designer should require materials, products and innovative construction methods 
+and techniques which are environmentally sensitive, take advantage of recycling 
+and conserve natural resources.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The gypsum plank deck system specified in this Section is a Contractor's option to other systems specified in 
+Sections [_____].  Provide gypsum plank deck systems which are the products of one manufacturer.  Perform the 
+work specified through experienced, qualified installers.  Design of the decking system shall be for the dead 
+load conditions and spans indicated; and a maximum allowable superimposed load on the plank of<MET> 2.4 kPa</MET><ENG> 50 psf</ENG>
+, to include live load and loads imposed by openings; work of other trades; and all loading and restraining conditions 
+from fabrication, handling, and erection.  Support equipment and ceiling by structural framing not from gypsum 
+planks.  Deflection shall not exceed L/240 of span.  Provide floor decks that are 2 hour fire rating in accordance 
+with <RID>ASTM E119</RID> fire test conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+ <BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+ <BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN WELDING SOCIETY (AWS)</ORG><BRK/><BRK/><RID>AWS D1.1/D1.1M</RID><RTL>(2015; Errata 1 2015; Errata 2 2016) Structural Welding Code - Steel</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM A1064/A1064M</RID><RTL>(2017) Standard Specification for Carbon-Steel Wire and Welded Wire Reinforcement, Plain and Deformed, for Concrete</RTL><BRK/><BRK/><RID>ASTM A36/A36M</RID><RTL>(2014) Standard Specification for Carbon Structural Steel</RTL><BRK/><BRK/><RID>ASTM A499</RID><RTL>(2015) Standard Specification for Steel Bars and Shapes, Carbon Rolled from "T" Rails</RTL><BRK/><BRK/><RID>ASTM A568/A568M</RID><RTL>(2017a) Standard Specification for Steel, Sheet, Carbon, Structural, and High-Strength, Low-Alloy, Hot-Rolled and Cold-Rolled, General Requirements for</RTL><BRK/><BRK/><RID>ASTM A653/A653M</RID><RTL>(2018) Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process</RTL><BRK/><BRK/><RID>ASTM C1396/C1396M</RID><RTL>(2017) Standard Specification for Gypsum Board</RTL><BRK/><BRK/><RID>ASTM C317/C317M</RID><RTL>(2000; R 2010) Gypsum Concrete</RTL><BRK/><BRK/><RID>ASTM E119</RID><RTL>(2018c; E 2018) Standard Test Methods for Fire Tests of Building Construction and Materials</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Installation</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Structural Steel Tee Subpurlins</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Fire Rated Decks</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DELIVERY, STORAGE, AND HANDLING</TTL><BRK/>
+<BRK/>
+<TXT>Deliver materials in original packages, containers, or bundles with the brand name and name of the manufacturer 
+shown on accompanying bills of lading.  Store materials in a manner that prevents damage before use.  When stored 
+under tarpaulins, provide adequate ventilation to prevent condensation.  Handle and stack gypsum plank avoiding 
+damage to face, ends and edges; and store off the ground and keep dry until used.  Store gypsum concrete off 
+the ground and keep dry until used.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>DECK UNITS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Gypsum Deck Plank</TTL><BRK/>
+<BRK/>
+<TXT>Provide gypsum deck plank<MET> [50] [65] mm</MET><ENG> [2] [2-5/8] inch</ENG> nominal thickness by<MET> 610 mm</MET><ENG> 24 inches</ENG> by required length, 
+enough to span two main purlin spans where possible, with offset edges encased in water resistant paper in accordance 
+with <RID>ASTM C1396/C1396M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Gypsum Deck Panels</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Gypsum deck panels are required for all interstitial decks.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><RID>ASTM C1396/C1396M</RID>, Type X, <MET>15 by 610 mm</MET><ENG> 5/8 by 24 inches</ENG> by required length.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Gypsum Concrete</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM C317/C317M</RID>, Class A, <MET>3.5 MPa</MET><ENG> 500 psi</ENG> compressive strength.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cross-Tees</TTL><BRK/>
+<BRK/>
+<TXT>When required, provide Cross-Tees cold formed, fabricated from sheet steel conforming to <RID>ASTM A653/A653M</RID> or <RID>ASTM A568/A568M</RID>
+, size<MET> 32 by 13 by 0.584 mm</MET><ENG> 1-1/4 by 1/2 by 0.023 inch</ENG> thick by<MET> 610 mm</MET><ENG> 24 inch</ENG> long.  Galvanize or factory coat 
+tees with manufacturer's standard primer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Miscellaneous Materials</TTL><BRK/>
+<BRK/>
+<TXT>Adhesives, mastics, cements, tapes and primers shall be as recommended by the gypsum plank manufacturer and be 
+compatible with the material to which they are to be bonded.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>STRUCTURAL STEEL TEE SUBPURLINS</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select structural support required by deck type, design loads, spans, 
+and fire rating.  Delete other subparagraphs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Flanges shall provide<MET> 15 mm</MET><ENG> 5/8 inch</ENG> minimum bearing for gypsum deck panels.  Galvanize or factory coat tees 
+with manufacturer's standard primer.  Submit load tables for subpurlins; fire tests results; manufacturer's literature 
+on each item specified and current printed installation instructions.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Open Web Truss</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM A1064/A1064M</RID> cold formed steel wire.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hot-rolled Bulb</TTL><BRK/>
+<BRK/>
+<TXT>Rail shaped hot-rolled steel conforming to <RID>ASTM A36/A36M</RID> or <RID>ASTM A499</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Folded Sheet Metal Tees</TTL><BRK/>
+<BRK/>
+<TXT>Sheet metal conforming to <RID>ASTM A568/A568M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>INSTALLATION</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Perform installation in accordance with the approved drawings.  Make field-cut openings for utilities penetrations 
+in accordance with the manufacturer's recommendations.  Perform welding in accordance with <RID>AWS D1.1/D1.1M</RID>.  Submit 
+detail drawings showing decking installation, including framing at all openings for support of the units.  Accompany 
+the detail drawings by setting details and design calculations showing that the decking installation meets material 
+and design requirements.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Subpurlins</TTL><BRK/>
+<BRK/>
+<TXT>Align subpurlins to the required spacing, bearing evenly on structural framing members.  End bearings shall be 
+a minimum of<MET> 25 mm</MET><ENG> 1 inch</ENG>.  Subpurlin ends shall have at least<MET> 3 mm</MET><ENG> 1/8 inch</ENG> clearance to allow for expansion.  
+Provide<MET> 19 mm</MET><ENG> 3/4 inch</ENG> fillet welds on both sides of subpurlins at each support.  Touch up welds with same type 
+of rust-inhibitive paint used for primer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Fire Rated Decks</SUB></TTL><BRK/>
+<BRK/>
+<TXT>For fire rated decks gypsum deck, place panels on bottom flanges of subpurlins.  Place gypsum deck planks over 
+gypsum deck panels in accordance with manufacturer's directions for fire rated system.  Place planks with offset 
+edges "up" to form a "T" receptacle for gypsum concrete.  Submit certification, based on fire test results, substantiating 
+that the decking furnished complies with fire rating requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Gypsum Concrete</TTL><BRK/>
+<BRK/>
+<TXT>Thoroughly mix gypsum concrete using a minimum amount of water to form a thick, pourable mixture.  Fill edge 
+joints to slight excess with single pour at subpurlins.  Grout end joints on single span system steel framing.  
+After initial set, strike off excess grout to form smooth, flush joint.  Patch any surface damage to gypsum plank 
+with grout and smooth.  Remove and replace planks damaged beyond repair.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CLEANING AND PROTECTION</TTL><BRK/>
+<BRK/>
+<TXT>Protect the installed decking units from damage by weather and construction operations.  Keep the complete decking 
+clean and free of damaged or defaced units, and left ready to receive painting.  Surfaces to be painted shall 
+be dry and free of grease and oil.  Place a paint sealer on the top surface; traffic areas shall receive a second 
+coat of floor paint.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

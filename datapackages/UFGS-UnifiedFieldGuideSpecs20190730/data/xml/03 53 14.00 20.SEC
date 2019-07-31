@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-03 53 14.00 20 (February 2010)<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-03 53 14.00 20 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 53 14.00 20</SCN><BRK/>
+<BRK/>
+<STL>LIGHT REFLECTIVE NONFERROUS METALLIC AGGREGATE FLOOR SYSTEM</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>light reflective, 
+non-oxidizing, dry shake surface hardener for concrete hangar floor finish</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+ <BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+ <BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN CONCRETE INSTITUTE (ACI)</ORG><BRK/><BRK/><RID>ACI 305R</RID><RTL>(2010) Guide to Hot Weather Concreting</RTL><BRK/><BRK/><RID>ACI 308.1</RID><RTL>(2011) Specification for Curing Concrete</RTL><BRK/><BRK/><RID>ACI 308R</RID><RTL>(2016) Guide to Curing Concrete</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM C1315</RID><RTL>(2011) Standard Specification for Liquid Membrane-Forming Compounds Having Special Properties for Curing and Sealing Concrete</RTL><BRK/><BRK/><RID>ASTM C309</RID><RTL>(2011) Standard Specification for Liquid Membrane-Forming Compounds for Curing Concrete</RTL><BRK/><BRK/><RID>ASTM C779/C779M</RID><RTL>(2012) Abrasion Resistance of Horizontal Concrete Surfaces</RTL><BRK/><BRK/><RID>ASTM C944/C944M</RID><RTL>(2012) Standard Test Method for Abrasion Resistance of Concrete or Mortar Surfaces by the Rotating-Cutter Method</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project. <BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Non-oxidizing metallic aggregate</SUB> surface hardener; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Sample installation</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Material sample</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM>Statement of <SUB>alternates</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Sample Installation</SUB></TTL><BRK/>
+<BRK/>
+<TXT>A minimum of <ENG>100 square feet</ENG> of the [hangar] [_____] floor slab shall be finished in a location as directed by 
+the Contracting Officer.  Color, texture and installation procedures are of prime importance.  After approval 
+by the Contracting Officer, the Contractor shall maintain the same controls and procedures throughout the installation 
+process.  Before acceptance, all work will be compared to the sample area.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Material Sample</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Samples of materials, color, and finish type shall be submitted to the Contracting Officer for approval.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Alternates</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submittals for an alternate product shall contain the following from an independent laboratory.  Unit weight, 
+abrasion resistance test in accordance with <RID>ASTM C944/C944M</RID> and <RID>ASTM C779/C779M</RID>.  Any product submitted, whose 
+warranty contains a disclaimer limiting liability to the purchase price of the material, will be disqualified.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DELIVERY AND STORAGE</TTL><BRK/>
+<BRK/>
+<TXT>Product shall be delivered in sealed moisture resistant packages.  Protect packages from damage.  Store in an 
+enclosed area.  Contractor shall replace damaged packages with new packages.  Manufacturer's information regarding 
+date of manufacture, shelf life and date of purchase shall be provided no later than the date delivered on site.  
+Products shall be identifiable by lot numbers.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WARRANTY</TTL><BRK/>
+<BRK/>
+<TXT>The manufacturer shall provide a standard warranty stating that the material is free of defects and that when 
+used by competent persons in accordance with current published recommendations, the product will perform as specified 
+herein.  The manufacturer's standard warranty shall not contain any disclaimers, limiting their responsibility 
+to the purchase price of the material.  The manufacturer shall state in the warranty that they shall be willing 
+to contribute to replacing defective materials, as determined by accepted test methods.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall hold a meeting to review the detailed requirements for the floor, including the concrete 
+mix design, placing techniques, finishing techniques including surface levelness, floor hardener application 
+procedures, curing and the equipment required for these procedures.</TXT><BRK/>
+<BRK/>
+<TXT>The pre-slab meeting agenda shall be prepared by the Contractor and submitted to the attendees at least one week 
+in advance of the meeting.</TXT><BRK/>
+<BRK/>
+<TXT>All parties involved in the floor system installation shall be required to attend. The Architect-Engineer's representative 
+and the manufacturer's technical representative shall be present at the conference.  The Contractor shall notify 
+both at least 10 days prior to the scheduled date of the conference.</TXT><BRK/>
+<BRK/>
+<TXT>Minutes of the meeting shall be recorded, typed and printed by the Contractor and distributed by him to all parties 
+concerned within five days of the meeting.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Coordination must be provided with the person editing Section 
+<SRF>03 30 00</SRF>, CAST-IN-PLACE CONCRETE to ensure requirements of ACI 117, ACI 212.3R, 
+ACI 301/301M, ACI 302.1R, ACI 304R, ACI 318 and ACI 318M are included.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<SPT><TTL>CONCRETE</TTL><BRK/>
+<BRK/>
+<TXT>Concrete materials shall be as specified in Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE, in addition to items required 
+by this section and the following:</TXT><BRK/>
+<BRK/>
+<TXT>The concrete mix, including admixtures and plasticizers, shall be in strict compliance with the aggregate surface 
+hardener manufacturer's recommendations and shall be approved by the Contracting Officer and the manufacturer's 
+technical representative prior to the placement of concrete.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>NON-FERROUS, <SUB>NON-OXIDIZING METALLIC AGGREGATE</SUB>, DRY-SHAKE SURFACE HARDENER</TTL><BRK/>
+<BRK/>
+<TXT>The surface hardener system shall consist of specially processed, non-ferrous, malleable, non-oxidizing, metallic 
+aggregates, specially graded cementitious binder, plasticizer, and water-reducing admixtures, formulated and 
+processed under the stringent quality control of the manufacturer.  "Lumiplate" as manufactured by ChemRex, a 
+subsidiary of Master Builder Technologies and "Diamond Plate" as manufactured by The Euclid Chemical Company 
+comply with these specifications.  The hardener shall be proportioned and sealed in standard moisture-resistant 
+bags.  The manufacturer shall guarantee their aggregate to be free of rust, corrosive materials, oil, petroleum, 
+or other water-base materials, when delivered.  The manufacturer shall replace any material found to contain 
+any such materials, or any other material which is deemed unsatisfactory.  The manufacturer shall provide a full-time 
+technical representative, qualified in designing and adjusting concrete mixes, to assist in the application of 
+the aggregate surface hardener system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SURFACE EVAPORATION RETARDANT</TTL><BRK/>
+<BRK/>
+<TXT>A mono molecular surface evaporation retardant film, as recommended by <RID>ACI 305R</RID> and <RID>ACI 308R</RID>, shall be provided 
+for use under drying conditions, due to high concrete and/or ambient temperatures, low humidity, high winds, 
+and so forth.  This includes work in heated interiors during cold weather, to aid in the maintaining of concrete 
+moisture during the early placement stages of plastic concrete.  Retarder shall be certified by the manufacturer 
+to be compatible with the surface hardener and shall be provided in accordance with the manufacturer's recommendations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CURING AND SEALING</TTL><BRK/>
+<BRK/>
+<TXT>Curing and sealing materials and procedures shall be as recommended by the manufacturer of the aggregate surface 
+hardener system and shall comply with <RID>ASTM C309</RID> or <RID>ASTM C1315</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>CONCRETE PLACEMENT</TTL><BRK/>
+<BRK/>
+<TXT>For concrete placement, refer to Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE in addition to items required by this 
+section and the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Maximum slump shall be<MET> 127 mm</MET><ENG> 5 inches</ENG>, when peak ambient temperatures are anticipated to be in excess 
+of<MET> 18.33 degrees Celsius</MET><ENG> 65 degrees Fahrenheit</ENG>, and shall be no greater than<MET> 96.2 mm</MET><ENG> 4 inches</ENG>, when such 
+temperatures are below<MET> 29.4 degrees Celsius</MET><ENG> 85 degrees Fahrenheit</ENG>.  Water reducing admixtures can be 
+used to aid in workability without affecting dry shake hardener.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Maximum total air content shall not exceed 3 percent.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Calcium chloride or set accelerating admixtures, containing calcium chloride, shall not be used.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Water-reducing admixture shall be used.  Provider must certify that the water reducer will not contribute 
+to or cause increased air content.</LST><BRK/>
+<BRK/>
+<TXT>Place base slab between screed points to minimize handling.  Move concrete into place with square-tapped shovels; 
+do not use rakes.  Vibrators, when used, shall be inserted and withdrawn vertically.  Concrete shall be struck 
+to the specified level.  Concrete shall be further leveled and consolidated with wood bull float or wood darby.  
+This shall be completed before free moisture rises to the surface (bleeding).   Floating shall begin adjacent 
+to columns, forms, and walls</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Application of Surface Hardener</TTL><BRK/>
+<BRK/>
+<TXT>Apply first shake to floated concrete adjacent to forms, entry ways, columns and walls, where moisture will be 
+lost first.  Apply two-thirds of the specified total shake immediately following the floating of total area.   
+Material shall be applied at a minimum rate of<MET> 9.76 kg/square meter</MET><ENG> 2 pounds per square foot</ENG> of slab.  Bleed 
+water shall not be present during or following the application of this shake.  Distribute Evenly.  DO NOT THROW 
+THE SHAKE.   Wood bull floats can be used as soon as the shake has absorbed moisture (indicated by the darkening 
+of the surface).  Float just sufficiently to bring moisture from base slab through the shake.  Finishing machines 
+with float blades shall be used to "open" the surface, prior to the application of the remaining one-third of 
+the total specified shake, and shall be used to incorporate this second shake.  Surface shall be further compacted 
+by a second mechanical floating, if time and setting characteristics of the concrete will allow, without removing 
+of the cement surface paste from the metallic aggregate system.  AT NO TIME SHALL WATER BE ADDED TO THE SURFACE.   
+As surface further stiffens, indicated by loss of sheen, it shall be hand or mechanically troweled with blades 
+relatively flat.  Trowel blades should be run as slowly as possible, to achieve the desired finish.  Excessive 
+trowel blade speed will "burn" or darken the floor surface resulting in a possible loss of the desired even surface 
+color.  All marks and pinholes shall be removed in the raised trowel operation.  DO NOT OVER FINISH.  Do not 
+burnish trowel.  Type or texture of surface shall conform to job mock-up.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Service</TTL><BRK/>
+<BRK/>
+<TXT>During the initial periods of installation, manufacturer of surface hardener shall provide, at no cost, the service 
+of a trained, full-time employee of the manufacturer, to aid in securing the proper use of all prescribed floor 
+finish products.  A minimum of 21 days notice shall be given by the Contractor, to the manufacturer, to arrange 
+a "pre-job conference, related to application procedures, and a minimum of 7 days notice shall be given, prior 
+to installation of the product.  At discretion of the Contracting Officer, the manufacturer shall videotape pre-job 
+conference and random placement of surface hardener.  Video tape shall be supplied by the Contractor.  Original 
+video tape shall be delivered to the Contracting Officer, upon completion of the finish operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Curing and Protection (Water Based Wax Emulsion)</TTL><BRK/>
+<BRK/>
+<TXT>Refer to <RID>ACI 308.1</RID>.  Floors, finished with the non-rusting, metallic-aggregate surface hardener, shall be cured 
+as recommended by the manufacturer of the surface hardener.  When high efficiency membrane curing compound is 
+recommended, apply the membrane curing compound immediately after the floor surface has hardened sufficiently, 
+so surface will not be marred by the application.  Compound shall be applied uniformly, over the entire surface, 
+to meet the required moisture retention of  <RID>ASTM C1315</RID>, at a maximum rate of<MET> 6.136 square meters per liter</MET><ENG>250 
+square feet per gallon</ENG>.  When dry, the coating shall be protected from droppings of plaster, paint, dirt, and 
+other debris, by a covering of scuff-proof building paper.  Adequate provision shall be made for maintaining 
+the concrete temperature at<MET> 10 degrees Celsius</MET><ENG> 50 degrees Fahrenheit</ENG>, or above during the curing period.  Floor 
+shall remain covered and be kept free of traffic and loads for at least 10 days after completion.  At the direction 
+of the Contracting Officer, the curing compound shall be removed between 2 and 4 weeks after placement.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Cleaning and Surface Preparation</TTL><BRK/>
+<BRK/>
+<TXT>After the aggregate surface hardener system has cured for 28 days, the Contractor shall clean and buff the floor 
+surfaces in accordance with the <NED/>manufacturer's recommendations.  The cleaning and surface preparation shall be 
+performed to remove projections that permit soil and foreign bodies to embed into the floor and to permit easier 
+cleaning of a less porous, more densified concrete surface.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

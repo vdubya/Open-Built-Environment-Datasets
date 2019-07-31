@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 45 00.00 40 (November 2017)<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NASA</PRA>              Superseding<BRK/>
+                                       UFGS-01 45 00.00 40 (November 2014)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 45 00.00 40</SCN><BRK/>
+<BRK/>
+<STL>QUALITY CONTROL</STL><BRK/>
+<DTE>11/17</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>inspections, test 
+reports, and contractor obligations for establishing effective quality assurance 
+procedures for NASA</SCP>.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.</NPR><BRK/>
+<BRK/>
+<NPR>Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SUMMARY</TTL><BRK/>
+<BRK/>
+<TXT>The requirements of this section apply to and are a component part of each section of the specifications.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ADMINISTRATIVE REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Government [24] [_____] hours before work will begin at the site.</TXT><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer when work is suspended for [_____] calendar days or longer.  Do not resume work 
+without notifying the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least [_____] hours before backfilling or encasing any underground utility.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR> An "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Quality Assurance (QA) Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Quality Control Data</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Quality Control Coordinating Actions</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Quality Control Training</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Inspection Records</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Letters of Authority or Delegation</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Field Tests</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Factory Tests</SUB>; <SUB>G<TAI OPT="ARMY">[, [____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Quality Representative Qualifications</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Special Certifications</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Monthly Performance Report</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Quality Representative Qualifications</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraph if the Contractor elects to retain an independent 
+Quality Representative.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Submit to the Contracting Officer for approval.  Quality Representative may be assigned to more than one contract 
+provided that the assigned contracts are located at the same site.</TXT><BRK/>
+<BRK/>
+<TXT>When approval or certification of special processes, operating personnel, and special equipment or procedures 
+is required by the specifications, obtain necessary approvals or <SUB>special certifications</SUB> prior to starting the 
+work.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Quality Control Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Provide a quality control program that includes:  selection of construction materials and sources; suppliers; 
+subcontractors; on-site and off-site fabrication of Contractor-furnished assemblies; on-site and off-site assembly; 
+erection; work procedures; workmanship; inspection; and testing.</TXT><BRK/>
+<BRK/>
+<TXT>Provide document systems ensuring that quality provisions of the contract schedule, specifications, and drawings 
+have been performed.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Management and Organization</TTL><BRK/>
+<BRK/>
+<TXT>Designate a Quality Program Manager within the on-site organization whose sole responsibility is the day-to-day 
+on-site management and direction of the Quality Program.</TXT><BRK/>
+<BRK/>
+<TXT>Ensure that the Quality Program Manager reports to the Contractor's management and has the necessary authority 
+to discharge contractual responsibilities.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Identification and Data Retrieval</TTL><BRK/>
+<BRK/>
+<TXT>Provide an identification and data retrieval system identifying all records, drawings, submittals, and equipment 
+by referencing the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Contract Number</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Contract Specification Number</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Contract Drawing Number</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Submittal Document Number</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Contract Change Number</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Contractor's Drawing Number System</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Procurement</TTL><BRK/>
+<BRK/>
+<TXT>Assume responsibility for controlling procurement sources and those of the subcontractors to ensure that each 
+purchase meets quality requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Receiving Inspection System</TTL><BRK/>
+<BRK/>
+<TXT>Maintain a site receiving inspection system that ensures that procured materials and equipment are inspected 
+and tested.</TXT><BRK/>
+<BRK/>
+<TXT>Ensure that receiving inspection records accompany each procurement delivery to the construction site.  Maintain 
+records of site receiving inspections.</TXT><BRK/>
+<BRK/>
+<TXT>Show defects, discrepancies, dispositions, and waivers.  Include evidence of Government source inspection within 
+the records.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nonconforming Articles and Material Control</TTL><BRK/>
+<BRK/>
+<TXT>Control nonconformances discovered by the Contractor, subcontractors, suppliers, or Government quality representatives 
+to prevent the use of affected products and to correct deficient operations.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Provide a "nonconformance" report for each instance comprising:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) A unique and traceable number.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Identification of the nonconforming article or material.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) A description of the nonconformance and the applicable requirement.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) Cause or reason for the nonconformance.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Remedial actions taken or recommended.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6) Disposition of the nonconforming article or material.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Identify and mark each nonconforming article for removal from the work area.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Monitor and correct deficient operations.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fabrication, Process, and Work Control</TTL><BRK/>
+<BRK/>
+<TXT>Ensure compliance of requirements in contract specifications and drawings with procedures and controls.</TXT><BRK/>
+<BRK/>
+<TXT>Establish in-process inspections, to ensure compliance with quality requirements.</TXT><BRK/>
+<BRK/>
+[<TXT>Special processes may include plating, anodizing, nondestructive testing, welding, and soldering.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Quality Control Records</TTL><BRK/>
+<BRK/>
+<TXT>Maintain Quality Control records at a central on-site location.</TXT><BRK/>
+<BRK/>
+<TXT>Maintenance of quality control records does not provide relief from submitting samples, test data, detail drawings, 
+material certificates, or other information required by each section in the specification.</TXT><BRK/>
+<BRK/>
+<TXT>Ensure that each record is identified and traceable to specific requirements in the specifications and drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Drawings and Change Control</TTL><BRK/>
+<BRK/>
+<TXT>Maintain a drawing control system to provide revised drawings and ensure removal of obsolete drawings from work 
+areas.  Control changes involving interface with other work areas, or affecting materials controlled by others.  
+Integrate this system with the document requirements of the contract.</TXT><BRK/>
+<BRK/>
+<TXT>Clearly identify drawings needing changes and along with associated drawings that require revision.  Maintain 
+the updated drawings.  Use for fabrication and inspection drawings that have been approved, or approved as noted, 
+by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Quality Inspections</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Government Inspections</TTL><BRK/>
+<BRK/>
+<TXT>Work performed under this contract is subject to inspection by the Contracting Officer.  Changes to the specifications 
+or drawings will not be allowed without written authorization of the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>When the Contracting Officer determines that inspected work needs to be corrected, allow the Contracting Officer 
+[24] [_____] [hours] [_____] to complete reinspection of the corrected work.</TXT><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer in writing before backfilling or encasing any [underground] utility so that work 
+may be inspected.  Failure to notify the Contracting Officer before backfill or encasement occurs will require 
+the work to be uncovered at no additional cost to the Government.</TXT><BRK/>
+<BRK/>
+<TXT>The Contractor's Quality Program is subject to evaluation, review, and verification as determined by the Contracting 
+Officer.  Contractor will be notified in writing of any noncompliance and will be given [_____] calendar days 
+to correct identified deficiencies.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor's Quality Inspections</TTL><BRK/>
+<BRK/>
+<TXT>Implement an inspection system that documents and indicates quality control through records of inspections, tests, 
+and procedures.</TXT><BRK/>
+<BRK/>
+<TXT>Include or identify the following within the Quality Assurance System:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The representative responsible for on-site communication and operation of the inspection program.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Purchasing control system documenting project procurement to drawings, specifications, and approved 
+submittals.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  A receiving inspection system documenting inspections for each procurement.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Documentation for handling and disposing of nonconforming components and materials.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Inspection records for each specific section of the specification and drawings.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Identification of tests to be performed, test procedures, records, and independent organizations 
+used.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Documentation that shows certification or recertification of procedures.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Management of Government-furnished equipment, components, and materials.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Calibration of gages, tools, measuring instruments, and independent laboratories used.</LST><BRK/>
+<BRK/>
+<TXT>Establish a system of scheduled or random audits to ensure task completion.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Field Services</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Responsibility for Inspection and Testing</TTL><BRK/>
+<BRK/>
+<TXT>Assume responsibility for all inspections and tests and for the accompanying documentation.  Use independent 
+inspection and testing laboratories or services as approved by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Assume responsibility for tests of construction materials performed by an approved independent testing laboratory.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Inspection and Test Records</TTL><BRK/>
+<BRK/>
+<TXT>Provide on-site records of each inspection and test performed throughout the life of the contract, including 
+factual evidence that the required inspections or tests have been performed, which include the type and number 
+of inspections or tests involved, identification of operators and inspectors, result of inspections or tests, 
+nature of defects, causes for rejection, proposed remedial action, and corrective actions taken.</TXT><BRK/>
+<BRK/>
+<TXT>Ensure that all inspection records, test procedures, test results, and associated forms are verified by and provided 
+to the Contracting Officer.  Submit final test data with a cover letter/sheet clearly marked with the system 
+name, date, and the words "Final Test Data[ - Forward to the Systems Engineer/Condition Monitoring Office/Predictive 
+Testing Group for inclusion in the Maintenance Database"].</TXT><BRK/>
+<BRK/>
+<TXT>Notify the Government at least [_____] days before scheduled inspections and tests.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>DELIVERY, STORAGE, AND HANDLING</TTL><BRK/>
+<BRK/>
+<TXT>Provide controls, procedures and documentation with each shipment, that meet requirements of each section of 
+the specifications.</TXT><BRK/>
+<BRK/>
+<TXT>With each shipment, include documentation required by the contract along with specifications necessary to identify, 
+store, preserve, operate, and maintain the items shipped.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Quality Assurance (QA) Plan</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a QA Plan that addresses the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Description of the authority, responsibilities, and coordinating procedures of on-site/off-site quality 
+assurance personnel, including those QA personnel not under direct control of the Contractor.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  List of personnel designated to accomplish the work required by the contract.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  An appendix with a copy of each form, report format, or similar record to be used in the Quality 
+Assurance Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The organization that handles construction contract activities.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  The operational plan for establishing and reviewing work controls, fabrication controls, certifications, 
+and documentation of quality control operations, inspections, and test records, including those for subcontractors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  The methods used during the procurement cycle (order to delivery) for those materials or equipment 
+that require source inspections, shop fabrications, or similar operations located separately from the 
+work site.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Description of on-site personnel training.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Certifications of personnel, procedures, processes, and equipment.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Nondestructive testing (NDT) requirements.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Identification of independent certifying and testing laboratories.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Records</TTL><BRK/>
+<BRK/>
+<TXT>Include all <SUB>quality control data</SUB>; <SUB>factory tests</SUB> or manufacturer's certifications; <SUB>quality control coordinating 
+actions</SUB>; records of <SUB>quality control training</SUB> and certifications; and routine hydrostatic, electrical continuity, 
+grounding, welding, line cleaning, <SUB>field tests</SUB>, and similar tests.  Ensure that quality records are available 
+for examination by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Furnish legible copies of the test and <SUB>inspection records</SUB> to the Contracting Officer.  Ensure that records cover 
+work placement traceable to the contract schedule, specifications and drawings, and that records are verifiable.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Narrative Description</TTL><BRK/>
+<BRK/>
+<TXT>Submit for approval, the narrative description of an inspection system that provides for compliance with the 
+quality requirements and technical criteria of the contract within [7] [_____] calendar days after notice to 
+proceed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Monthly Performance Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a monthly summary of the quality operations.  Identify inspections made, tests performed, nonconformances 
+found, corrective actions taken, status of plans/procedures being developed, and status of open items/problems 
+in work.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Letters of Authority or Delegation</TTL><BRK/>
+<BRK/>
+<TXT>Submit to the Contracting Officer <SUB>letters of authority or delegation</SUB> outlining the authority and responsibilities 
+of quality control personnel along with a copy of the letter of delegation that defines delegated duties and 
+responsibilities.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Off-Site Inspection and Control</TTL><BRK/>
+<BRK/>
+<TXT>In-process inspection records and control away from the job site may be used as evidence of quality of materials/work 
+and may reduce further inspection or testing after delivery to the job site.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT></SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<NED/><TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+    <END/><BRK/></SEC>

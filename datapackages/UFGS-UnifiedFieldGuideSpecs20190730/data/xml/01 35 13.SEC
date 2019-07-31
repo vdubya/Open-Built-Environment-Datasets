@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC /NASA                 UFGS-01 35 13 (November 2011)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                  Superseding<BRK/>
+                                             UFGS-01 35 13 (July 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 35 13</SCN><BRK/>
+<BRK/>
+<STL>SPECIAL PROJECT PROCEDURES</STL><BRK/>
+<DTE>11/11</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>special procedures 
+for airfields, heliports, harbors and repetitive military housing facilities</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>U.S. FEDERAL AVIATION ADMINISTRATION (FAA)</ORG><BRK/><BRK/><RID>FAA AC 150/5300-13</RID><RTL>(2012; Rev A; Change 1 2014; Errata 2016; Errata 2 2017; Errata 3 2018) Airport Design</RTL><BRK/><BRK/><RID>FAA AC 70/7460-1</RID><RTL>(2015; Rev L) Obstruction Marking and Lighting</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DEFINITIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Landing Areas</TTL><BRK/>
+<BRK/>
+<TXT>"Landing Areas" means:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The primary surfaces, comprising the surface of the runway, runway shoulders, and lateral safety 
+zones.  The length of each primary surface is the same as the runway length.  The width of each primary 
+surface is<MET> 609.6 meters</MET><ENG> 2000 feet</ENG> (<MET> 304.8 meters</MET><ENG> 1000 feet</ENG> on each side of the runway centerline).  [Exceptions:  
+Some airfields are based on a primary width of<MET> 457.2 meters</MET><ENG> 1500 feet</ENG> (<MET>228.6 meters</MET><ENG> 750 feet</ENG> on each 
+side of the runway centerline).  In such instances, substitute the proper width in the applicable statements.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The "clear zone" beyond the ends of each runway is the extension of the primary surface for a distance 
+of<MET> 304.8 meters</MET><ENG> 1000 feet</ENG> beyond each end of each runway.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  All taxiways, plus the lateral clearance zones along each side for the length of the taxiways (the 
+outer edge of each lateral clearance zone is laterally<MET> 76.2 meters</MET><ENG> 250 feet</ENG> from the far or opposite 
+edge of the taxiway (example:  a<MET> 22.86 meter</MET><ENG> 75 foot wide</ENG>taxiway must have a combined width and lateral 
+clearance zone of<MET> 129.54 meters</MET><ENG> 425 feet</ENG>.)</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  All aircraft parking aprons, plus the area<MET> 38.1 meters</MET><ENG> 125 feet</ENG> in width extending beyond each edge 
+all around the aprons.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Safety Precaution Areas</TTL><BRK/>
+<BRK/>
+<TXT>“Safety Precaution Areas” means those portions of approach-departure clearance zones and transitional zones where 
+placement of objects incident to contract performance might result in vertical projections at or above the approach-departure 
+clearance, or the transitional surface.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The “approach-departure clearance surface” is an extension of the primary surface and the clear zone 
+at each end of each runway, for a distance of<MET> 15240 meters</MET><ENG> 50,000 feet</ENG>, first along an inclined (glide 
+angle) and then along a horizontal plane, both flaring symmetrically about the runway centerline extended.</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  The inclined plane (glide angle) begins in the clear zone<MET> 61 meters</MET><ENG> 200 feet</ENG> past the end 
+of the runway (and primary surface) at the same elevation as the end of the runway.  It continues 
+upward at a slope of 50:1 (<MET> 0.305 meters</MET><ENG> 1 foot</ENG> vertically for each<MET> 15.24 meters</MET><ENG> 50 feet</ENG> horizontally) 
+to an elevation of<MET> 152.4 meters</MET> <ENG>500 feet</ENG> above the established airfield elevation.  At that 
+point the plane becomes horizontal, continuing at that same uniform elevation to a point<MET> 15240 
+meters</MET><ENG> 50,000 feet</ENG> longitudinally from the beginning of the inclined plane (glide angle) and 
+ending there.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  The width of the surface at the beginning of the inclined plane (glide angle) is the same 
+as the width of the clear zone.  It then flares uniformly, reaching the maximum width of<MET> 4876.8 
+meters</MET><ENG> 16,000 feet</ENG>at the end.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The “approach-departure clearance zone” is the ground area under the approach-departure clearance 
+surface.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The “transitional surface” is a sideways extension of all primary surfaces, clear zones, and approach-departure 
+clearance surfaces along inclined planes.</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  The inclined plane in each case begins at the edge of the surface.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  The slope of the incline plane is 7:1 (<MET> .305 meters</MET><ENG> 1 foot</ENG> vertically for each<MET> 2.13 meters</MET><ENG>
+ 7 feet</ENG> horizontally).  It continues to the point of intersection with the:</ITM><BRK/>
+<BRK/>
+<ITM>(a)  Inner horizontal surface (which is the horizontal plane<MET> 45.72 meters</MET><ENG> 150 feet</ENG> above the 
+established airfield elevation); or</ITM><BRK/>
+<BRK/>
+<ITM>(b)  Outer horizontal surface (which is the horizontal plane<MET> 152.4 meters</MET><ENG> 500 feet</ENG> above the 
+established airfield elevation), whichever is applicable.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The “transitional zone” is the ground area under the transitional surface.  (It adjoins the primary 
+surface, clear zone, and approach-departure clearance zone.)</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+[<ITM><SUB>Heavy Equipment and Vehicle List</SUB></ITM>]<BRK/>
+<BRK/>
+[<ITM><SUB>Existing Conditions Survey</SUB></ITM>]<BRK/>
+<BRK/>
+<ITM><SUB>Construction Operations Plan</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Safety Plan</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Schedule of Work</SUB></ITM><BRK/>
+<BRK/>
+[<ITM><SUB>Watercraft list</SUB></ITM>]<BRK/>
+<BRK/>
+[<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Model Unit</SUB></ITM>]<BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>AIRFIELD OBSTRUCTION LIGHTS</TTL><BRK/>
+<BRK/>
+<TXT>Airfield obstruction lights must conform to <RID>FAA AC 70/7460-1</RID> and have red or white lenses.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT>[<TTL>HAZARDS TO [AIRFIELD][HELIPORT] OPERATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include these paragraphs in projects where work will occur on or near 
+aircraft runways, taxiways, or similar aircraft operational facilities.  Use 
+the term ["landing strip"]["landing pad"] when dealing with heliports.  Use 
+the term "landing area(s)" when dealing with airplanes.  Use the term "Operations 
+Officer," except as directed otherwise.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In addition to "DFARS 252.236-7005, Airfield Safety Precautions," the following paragraphs apply.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Work in Proximity to [Landing Areas][Landing Strips][Landing Pad(s)]</TTL><BRK/>
+<BRK/>
+<TXT>Place nothing upon the landing area or applicable portions of safety precaution areas without authority of the 
+Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Use of [landing areas][landing strips][landing pads] for purposes other than aircraft operation,is prohibited 
+without permission of the Contracting Officer, and the [landing area][landing strip][landing pad] is closed by 
+order of the Contracting Officer and marked as indicated herein.</TXT><BRK/>
+<BRK/>
+<TXT>Accomplish all construction work on [the runways, taxiways, and parking aprons and in the end zones of the runways 
+and<MET> 23 m</MET><ENG> 75 feet</ENG> to each side of the runways and taxiways][the landing strip,<MET> 23 m</MET><ENG> 75 feet</ENG> to each side thereof, 
+and on the taxiways and parking aprons][the landing pad(s)] with extreme care regarding the operation of aircraft.  
+Cooperate closely, and coordinate with [the Operations Officer and] the Contracting Officer.  Park equipment 
+in an area designated by the Contracting Officer.  Parking of equipment, vehicles, or any type of storage  overnight 
+or for any extended period of time in the proximity of the [landing areas or taxiways][landing strip][landing 
+pad] is strictly prohibited.  Leave no material in areas where extreme care is to be taken regarding the operation 
+of aircraft.</TXT><BRK/>
+<BRK/>
+<TXT>During periods of active performance of work on the airfield by the Contractor, govern all operations of mobile 
+equipment per the safety provisions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Schedule of Work</SUB>/Aircraft Operating Schedules</TTL><BRK/>
+<BRK/>
+<TXT>Schedule work to conform to aircraft operating schedules.  The Government will exert every effort to schedule 
+aircraft operations so as to permit the maximum amount of time for the Contractor's activities; however, in the 
+event of emergency, intense operational demands, adverse wind conditions, and other such unforeseen difficulties, 
+the Contractor must cease operations at the specified locations in the aircraft operational area for the safety 
+of the Contractor and military personnel and Government property.  Submit a schedule of the work to the Contracting 
+Officer [for transmittal to the Operations Officer] describing the work to be accomplished; the location of the 
+work, noting distances from the ends of [landing areas, taxiways][landing strips][landing pads] and buildings 
+and other structures as necessary; and dates and hours during which the work is to be accomplished.  Keep the 
+approved schedule of work current, and notify the Contracting Officer of any changes prior to beginning each 
+day's work.</TXT><BRK/>
+<BRK/>
+<TXT>Prior to commencement of work, submit the following to the Contracting Officer [for transmittal to the Operations 
+Officer]:</TXT><BRK/>
+<BRK/>
+<LST><SUB>Existing Conditions Survey</SUB></LST><BRK/>
+<LST><SUB>Construction Operations Plan</SUB></LST><BRK/>
+<LST><SUB>Safety Plan</SUB></LST><BRK/>
+<LST><SUB>Heavy Equipment and Vehicle List</SUB></LST><BRK/>
+<BRK/>
+<TXT>Where flying is controlled, additional permission must be obtained from the control tower operator to enter a 
+landing area unless such area is marked as hazardous to aircraft.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Daytime Markings</TTL><BRK/>
+<BRK/>
+<TXT>During daylight, mark stationary and mobile equipment with international orange and white checkered flags, mark 
+the material, and work with yellow flags.</TXT><BRK/>
+<BRK/>
+<TXT>Vehicles operating in the landing area, must be identified by means of a flag on a staff attached to and flying 
+above the vehicle.  Flag size must be not less than<MET> 1 meter</MET><ENG> 3 feet</ENG> square and consist of a checkered pattern 
+of international orange and white squares not less than<MET> 300 millimeter</MET><ENG> 1 foot</ENG> on each side.  Flags varying in 
+any dimension by not more than 10 percent of the specified dimensions are considered to comply with the stated 
+requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nighttime Markings</TTL><BRK/>
+<BRK/>
+<TXT>During nighttime, which begins 2 hours before sundown and ends 2 hours after sunrise, mark stationary and mobile 
+equipment and material, and work with [red lanterns][battery-operated, low-intensity, red flasher lights].  Where 
+the [Operations Officer][Contracting Officer] determines that the [red lanterns][red flasher lights] may confuse 
+pilots approaching for landings, the [Operations Officer][Contracting Officer] may direct that the [red lanterns][red 
+flasher lights] be left off or that the color of the [globes][lights] be changed.</TXT><BRK/>
+<BRK/>
+<TXT>Light construction and installation must comply with FAA AC 70/7460-1.  Lights must be operational during periods 
+of reduced visibility, darkness, and as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>No separate payments will be made for lighting and protection necessitated by the safety provisions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT>[<TTL>Excavation</TTL><BRK/>
+<BRK/>
+<TXT>Open only those trenches for which material is on hand and ready for placing therein.  As soon as possible after 
+the material has been placed and work approved, backfill and compact the trenches as specified.</TXT><BRK/>
+<BRK/>
+<TXT>Maintain [landing areas][landings strips][landing pads] at all times free from hazards, holes, material piles, 
+or projecting shoulders that might damage tires or landing gear.  Paved surfaces must be kept clean at all times 
+and free from small stones or other objects which could cause damage to propellers, craft, and personnel.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT>[<TTL>Contractor Safety Precautions</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor is advised that aircraft operations will produce extremely high noise levels and will induce vibrations 
+in pavements, structures, and equipment in the vicinity, and may result in high velocity flying debris in the 
+area.  The Contractor is responsible for providing all necessary protective eye and ear gear and other safety 
+devices for his personnel, for insuring protection of his equipment, and for scheduling the work to eliminate 
+hazards to his personnel and equipment and to prevent damage to work performed by him.</TXT><BRK/>
+<BRK/>
+<TXT>Boundary areas for hazardous work locations and restrictions are defined in <RID>FAA AC 150/5300-13</RID>.  Construction 
+activity within the limits of the boundary areas without approval of the Contracting Officer is prohibited.</TXT><BRK/>
+<BRK/>
+<TXT>Provide a minimum of 2 aviation red or high intensity white obstruction lights on temporary structures (including 
+cranes) over<MET> 30 meter</MET><ENG> 100 feet</ENG> above ground level.</TXT><BRK/>
+<BRK/>
+]</SPT><TAI OPT="AIR FORCE"><SPT>[<TTL>Base Civil Engineering (BCE) Work Clearance Request</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include for Air Force projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><TST>Obtain an approved BCE Work Clearance Request, AF Form 103, prior to the start of excavation, digging work, or 
+work that disrupts aircraft or vehicular traffic flow, base utility services, fire and intrusion alarm system, 
+or routine activities of the Activity.</TST></TXT><BRK/>
+<BRK/>
+]</SPT></TAI><SPT><TTL>Radio Contact</TTL><BRK/>
+<BRK/>
+<TXT>Provide necessary battery powered portable radios, including one radio for the tower.  During work within the 
+landing area, have an operator (who speaks fluent English) available for radio contact with the tower at all 
+times.  Radio frequency must be approved by the tower.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT>[<TTL>HARBOR WATERWAYS</TTL><BRK/>
+<BRK/>
+<TXT>In addition to "DFARS 252.236-7002, Obstruction of Navigable Waterways," obtain from the [Operations Officer 
+at the Naval Base, Pearl Harbor via the][_____] Contracting Officer, permission to use [Pearl Harbor][_____] 
+waterways and the regulations and directives governing such usage.  Submit a <SUB>watercraft list</SUB> with a description 
+of crafts, including sizes, types, numbers and boat crew for approval.</TXT><BRK/>
+<BRK/>
+<SPT>[<TTL>Hazards to Navigation</TTL><BRK/>
+<BRK/>
+<TXT>Maintain complete control of the movement of floating equipment and material.  Loose floating equipment and material 
+are not permitted.  Keep in readiness at all times a powered craft capable of moving, securing and disposing 
+of floating equipment which may get loose and become a hazard to navigation.</TXT><BRK/>
+<BRK/>
+]</SPT><SPT>[<TTL>Submarine Cables or Underwater Utilities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include whenever dredging and submarine cables or underwater utilities 
+involved.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Physically locate submarine cables or underwater utilities as indicated prior to performance of work.</TXT><BRK/>
+<BRK/>
+]</SPT><TAI OPT="NAVFAC PAC,NAVY"><SPT>[<TTL>RIMPAC Operational Exercises</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use when Pearl Harbor waterways involved.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Due to the RIMPAC exercises conducted every even numbered years, the Contractor must anticipate delays and disruption 
+in construction activities for a period of 60 consecutive calendar days during the contract.  Disruption may 
+range from complete shutdown of construction activity for a prolonged period of time or periodic short term shutdown 
+of less than a full day, but in no event will all such shutdowns in the aggregate exceed 60 calendar days per 
+calendar year.  This affected period is anticipated between 1 April and 31 July of every even numbered year.  
+Bidders must take into consideration such delays when preparing their bids.</TXT><BRK/>
+<BRK/>
+]</SPT></TAI><TAI OPT="NAVFAC PAC,NAVY"><SPT>[<TTL>December 7, 1941 Commemorative Ceremonies</TTL><BRK/>
+<BRK/>
+<TXT>To minimize disturbances during Pearl Harbor's December 7, 1941 Commemorative Ceremonies, the Contractor must 
+shut down all construction activities on the day that ceremonies are held.</TXT><BRK/>
+<BRK/>
+]</SPT></TAI>]</SPT><SPT>[<TTL>MODEL UNIT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraphs on projects with repetitious unit construction.  
+Require the Contractor to complete a model unit to various levels, and have 
+the materials and workmanship approved prior to proceeding with the remainder 
+of the project.  Examples of such projects are BEQ's, BOQ's, and family housing 
+units, both renovations and new construction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to placement of material orders for components of the [BEQ living suites][BOQ living suites][family housing 
+units][_____] and the installation of those components throughout the project, the Contractor must complete the 
+construction of the components of the model unit, and gain the approval of the Contracting Officer for the materials 
+and workmanship therein.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit the following paragraph to describe the extents of the model unit(s), 
+and delineate whether each is a housing unit building, or a multiple resident 
+living unit within a multi-unit building.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose housing unit and the last bracketed option in the paragraph for 
+family housing projects. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Model Unit Description</TTL><BRK/>
+<BRK/>
+<TXT>Provide a model unit made up of enough [living suites consisting of two bedrooms and an interconnecting bathroom][single 
+family housing units][_____] to show all of the different levels of completion required below.  [The model unit 
+must have enough [suites][housing units] to show all level of completion simultaneously[, except for foundation 
+and floor slab levels which are approved by the Contracting Officer and covered by following levels].]  The model 
+unit must be [living suites][family housing units][_____] constructed at the location agreed upon with the Contracting 
+Officer and [a part of the permanent structure as indicated] [a temporary structure constructed to full scale 
+at the location indicated, and demolished at the completion of the contract].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Model Unit Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Adhere to the following requirements for model construction:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Provide materials in model unit identical to those actually approved in submittals.  The QC Manager 
+and Organization must be in place to approve and process submittals in accordance with Section 
+<SRF>01 33 00</SRF> SUBMITTAL PROCEDURES.  Do not procure, fabricate, or install materials prior to approval by 
+the Contracting Officer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Contracting Officer retains the right to disapprove and reject materials or items which are not 
+in compliance with the project drawings and specifications.</LST> <BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  After approval of initial product submittals, provide full size samples of these components in the 
+required color, and in sufficient quantity to completely outfit the model unit.  Provide full size samples 
+as dictated by the construction schedule for installation of those components in the model unit.  Do 
+not order or approve production of any materials beyond those required for the model unit, until the 
+full size samples have been installed in the model unit and approved by the Contracting Officer</LST>.<BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Proceed immediately with construction of the model unit after the Contracting Officer acknowledges 
+the required product submittals are approved.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Provide all temporary utilities and climate control necessary to construct, inspect, approve, and 
+maintain the model unit.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Provide and maintain the following throughout the construction period of the entire project:  Temporary 
+parking at the model unit; signage from the temporary parking to the model unit; the visual approach 
+to the unit including trash removal, lawn [and landscaping ]maintenance.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Locate the model unit in an easily accessible location for public tours.  The Government retains 
+the right to use the model unit for supervised tours and public relations activities following each level 
+of completion.  Tours will take place during normal working hours.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[h.  Prior to completion and approval of the model unit, and with written permission to start from the 
+Contracting Officer, the Contractor may perform general sitework and run major utility lines for the 
+rest of the project.]</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the next item when construction time is limited.  Confirm with 
+Contracting Officer and Activity User that they can consistently inspect and 
+approve the model unit's different levels of completion before adding this option.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">[i.  As each model unit's level of completion is approved by the Contracting Officer, construction of 
+that level's components throughout the remainder of the project may proceed.</LST>]<BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Model Unit</SUB> Levels of Completion</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose one of the three model unit completion paragraphs below and confirm 
+the selection with the Using Activity and Contracting Officer. The first bracketed 
+option requiring the model unit to be complete before starting the construction 
+of the facilities should only be used when delivery time of the facility is 
+not critical.  This option will delay the construction of the facility(s) until 
+the model unit is constructed and approved. The second bracketed option using 
+two levels of completion is most effective on BEQ construction but can be used 
+on housing.  The third bracketed option using multiple levels of completion 
+should be used when time is a critical issue, especially on housing.  This option 
+sets incremental approval of multiple levels allowing contractor to proceed 
+quickly into the construction of the facility(s). In the third option verify 
+with the Contracting Officer the number of approval stages needed.  In this 
+option, levels may be combined if confirmed with Contracting Officer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[The completed model unit must be exhibited for approval. Upon completion, the model unit must be available to 
+the Government for a period of fifteen (15) working days for inspection after notification is received by Contracting 
+Officer.]</TXT><BRK/>
+<BRK/>
+<TXT>[Exhibit and secure approval of model unit at the following levels of completion:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Level 1 (Pre-Finished Level) - Model unit construction within a completed building exterior must 
+exhibit plumbing, ductwork, electrical locations, exposed framing, and windows.  Leave walls and floors 
+unfinished but ready for application of final finish.  Upon completion of this level, model unit must 
+be available to the Government for a period of five (5) working days for inspection.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Level 2 (Finished Level) - Model unit construction must exhibit all materials, completely finished 
+as specified, including fixtures, wall and floor finishes, cabinets, and shelving.  Upon completion, 
+the model unit must be available to the government for a period of fifteen (15) working days for inspection.]</LST><BRK/>
+<BRK/>
+<TXT>[Model unit must be exhibited and approved at the following [7] [_____] levels of completion:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">Level 1, model must be available for government inspection for 28 calendar days.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">Levels 2 through 7, model unit must be available for government inspection for 10 calendar days per level.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Level 1 (Foundation &amp; Floor Slab Level) - Clearly demonstrate treatment of earth excavation, 
+testing of underslab mechanical piping,  earth compaction, assembly and support of concrete reinforcing, 
+technique of concrete movement and placement, framing of foundation steps, placement of insulation, final 
+exposed concrete finished surface treatment, location outlines of all walls, all slab penetrations, and 
+structural support points.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Level 2 (Framing Level) - Clearly exhibit all load bearing and non-load bearing framing, sheathing, 
+anchorage for exterior shell materials, and pre-trim frame-out.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Level 3 (Exterior Shell Level) - Exhibit all exterior finishes, windows and doors with temporary 
+hardware, caulking, sealant, sheathing paper, wall ties, locations of mechanical equipment, roofing, 
+louvers, vents and trim.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Level 4 (Plumbing, Mechanical and Electrical rough-in Level) - Exhibit electrical conduit and box 
+location for switches, outlets fixtures, cable and data collection, ductwork, built-in plumbing fixtures, 
+plumbing piping, and water pressure test of all plumbing pipe.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Level 5 (Interior Finishes-rough Level) - Exhibit non-veneer plaster, unspackled and uncaulked wall 
+and ceiling finishes, insulation, interior doors, final locations of all outlets and fixtures.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Level 6 (Interior Finishes &amp; Fixtures-final Level) - Exhibit final interior finishes, veneer 
+plaster, painting, caulking, built-in shelving, cabinetwork, cabinet supported sinks, final door hardware, 
+mechanical louvers, final electrical equipment connections, electrical fixtures, freestanding bathroom 
+fixtures, properly functioning appliances, and operation of mechanical and electrical systems.</LST><BRK/>
+<BRK/>
+<LST>[g.  Level 7 (Site Finishes Level) - Exhibit final driveway, walks, exterior stairs, final concrete and 
+asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and 
+shrub planting, landscaping beds, playground fall areas and playground <NED/>equipment.  Contracting Officer 
+retains the right to inspect all preparation and installation of pavings. Provide adequate notice to 
+the Contracting Officer prior to commencing paving work.]]</LST><BRK/>
+<BRK/></SPT>
+]</SPT></PRT>    <END/><BRK/></SEC>

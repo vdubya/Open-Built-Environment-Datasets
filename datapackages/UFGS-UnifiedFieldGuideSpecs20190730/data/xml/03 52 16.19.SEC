@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA               UFGS-03 52 16.19 (August 2011)<BRK/>
+                                            ------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                 Superseding<BRK/>
+                                            UFGS-03 52 16.19 (August 2008)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 52 16.19</SCN><BRK/>
+<BRK/>
+<STL>LIGHTWEIGHT INSULATING CONCRETE OVERLAY</STL><BRK/>
+<DTE>08/11</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>insulating concrete 
+roof deck systems with embedded insulation board only</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following information should be included on the project drawings:</NPR><BRK/>
+<BRK/>
+<NPR>1.  High points and valleys on roof plan</NPR><BRK/>
+<BRK/>
+<NPR>2.  Specific slope requirements</NPR><BRK/>
+<BRK/>
+<NPR>3.  Roof drain details</NPR><BRK/>
+<BRK/>
+<NPR>4.  Reinforcement locations and details.</NPR><BRK/>
+<BRK/>
+<NPR>5.  Location of roof projections.</NPR><BRK/>
+<BRK/>
+<NPR>6.  Moisture venting details and locations for insulating concrete over cast-in-place 
+or precast structural concrete substrates.</NPR><BRK/>
+<BRK/>
+<NPR>7.  Location of corrugated steel form decking sections with slots for moisture 
+venting.</NPR><BRK/>
+<BRK/>
+<NPR>8.  Insulation board thickness.</NPR><BRK/>
+<BRK/>
+<NPR>9.  Vented flashing details and a mechanical fastening base sheet for built-up 
+roof.</NPR><BRK/>
+<BRK/>
+<NPR>10.  Seismic design details.  Include diaphragm shear values, steel form deck 
+design, and welding patterns if Section <SRF>05 30 00</SRF> STEEL DECKS is not in contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insulating concrete could be applied over structural or precast concrete, 
+or corrugated steel form decking.  Provide design details to meet minimum roof 
+slope of 1/24.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+ <BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+ <BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (ASHRAE)</ORG><BRK/><BRK/><RID>ASHRAE FUN IP</RID><RTL>(2017) Fundamentals Handbook, I-P Edition</RTL><BRK/><BRK/><RID>ASHRAE FUN SI</RID><RTL>(2017) Fundamentals Handbook, SI Edition</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM A1064/A1064M</RID><RTL>(2017) Standard Specification for Carbon-Steel Wire and Welded Wire Reinforcement, Plain and Deformed, for Concrete</RTL><BRK/><BRK/><RID>ASTM C150/C150M</RID><RTL>(2018) Standard Specification for Portland Cement</RTL><BRK/><BRK/><RID>ASTM C332</RID><RTL>(2017) Standard Specification for Lightweight Aggregates for Insulating Concrete</RTL><BRK/><BRK/><RID>ASTM C495/C495M</RID><RTL>(2012) Standard Test Method for Compressive Strength of Lightweight Insulating Concrete</RTL><BRK/><BRK/><RID>ASTM C578</RID><RTL>(2018) Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation</RTL><BRK/><BRK/><RID>ASTM C612</RID><RTL>(2014) Mineral Fiber Block and Board Thermal Insulation</RTL><BRK/><BRK/><RID>ASTM C796/C796M</RID><RTL>(2012) Standard Test Method for Foaming Agents for Use in Producing Cellular Concrete Using Preformed Foam</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>QUALIFICATIONS OF APPLICATOR</TTL><BRK/>
+<BRK/>
+<TXT>Perform work by or under the supervision of personnel specializing in insulating concrete application and having 
+not less than 2 years experience.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project. <BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Performance Requirements</SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Submit, indicating compressive strength, oven dry density, and coefficient of heat transmission.</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Performance Requirements</SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Submit certified test reports on laboratory testing of insulating concrete samples taken at 
+time of placement.</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Fabricator's Compatibility Certificates</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-08 Manufacturer's Instructions</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Application</SUB></ITM><BRK/>
+<BRK/>
+ </SPT><SPT><TTL>DELIVERY AND STORAGE</TTL><BRK/>
+<BRK/>
+<TXT>Deliver all materials to the building site in original unopened, undamaged packages or containers, or approved 
+bulk handling equipment, with manufacturer's brand name and contents clearly identified.  Protect materials against 
+dampness.  Store materials under cover and off the ground, in well-ventilated areas, not exposed to extreme changes 
+of temperature and humidity.  Prevent deterioration or intrusion of foreign substances.  Keep materials dry until 
+ready for use.  Protect metal components from rusting.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ENVIRONMENTAL CONDITIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Normal Conditions</TTL><BRK/>
+<BRK/>
+<TXT>When ambient air temperatures of<MET> 3 degrees C</MET><ENG> 40 degrees F</ENG> or above are predicted for the initial 24 to 72 hours 
+after placement of insulating concrete, the use of hot water and other cold weather protection measures are not 
+required.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cold Weather Conditions</TTL><BRK/>
+<BRK/>
+<TXT>When ambient air temperature at time of placing insulating concrete is between<MET> 3 and 0 degrees C</MET><ENG> 40 and 32 degrees 
+F</ENG>, use hot water in temperature range of<MET> 32 and 39 degrees C</MET><ENG> 90 to 120 degrees F</ENG> at the point of placement.  
+When ambient air temperatures of<MET> 0 degrees C</MET><ENG> 32 degrees F</ENG> or below are predicted for the initial 24 to 72 hours 
+after placement of insulating concrete, provide additional protection measures as recommended by the aggregate 
+manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SAFETY AND HEALTH REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Comply with manufacturer's protective measures in the safe installation of the insulation board.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Fabricator's Compatibility Certificates</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a written statement from the insulating concrete fabricator certifying that materials for this project 
+are chemically and physically compatible.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PORTLAND CEMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Uses of Types I, II, and III portland cement are as follows:</NPR><BRK/>
+<BRK/>
+<NPR>Type I  - For use when the special properties specified for other types are 
+not required</NPR><BRK/>
+<BRK/>
+<NPR>Type II - For general use, more especially when moderate resistance or moderate 
+heat of hydration is desired</NPR><BRK/>
+<BRK/>
+<NPR>Type III - For use when high early strength is desired.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><RID>ASTM C150/C150M</RID>, Type [I] [II] [III].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>AGGREGATE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Lightweight perlite and vermiculite aggregate or cellular concrete, without 
+embedded insulation, should be specified in Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.  
+Insulation board applied over lightweight perlite and vermiculite aggregate 
+or cellular concrete should be specified Section <SRF>07 22 00</SRF> ROOF AND DECK INSULATION.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><RID>ASTM C332</RID>, Group I.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>AIR-ENTRAINMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Air-entraining agent is not required with cellular concrete.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prepackage or add the air-entrainment agent at the mixer.  Provide amount and type of air-entrainment in accordance 
+with the aggregate manufacturer's recommendations.  Do not use calcium chloride.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>FOAMING AGENTS</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM C796/C796M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WATER</TTL><BRK/>
+<BRK/>
+<TXT>Water shall be clean and free from injurious amounts of acids, alkali, organic matter, or other deleterious substances.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EXPANSION JOINT FILLER MATERIAL</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM C612</RID>, Class 1, semi-rigid, modified for maximum density of<MET> 96 kg per cubic meter</MET><ENG> 6.0 pounds per cubic foot</ENG>
+.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WELDED WIRE FABRIC</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insulating concrete requires reinforcement where slope substrate exceeds 
+1/3, and for achieving specific fire rated systems for metal deck systems, not 
+over structural concrete.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Galvanized steel welded wire fabric shall conform to <RID>ASTM A1064/A1064M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>INSULATION BOARD</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Design and specify insulating concrete with embedded insulation board 
+to obtain contract U value requirements. Insulation board applied over insulating 
+concrete is specified in Section <SRF>07 22 00</SRF> ROOF AND DECK INSULATION.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Polystyrene insulation board conforming to <RID>ASTM C578</RID> RCPS Type [I], [II], [III], [IV], or [V],<MET> 600 by 1200 mm</MET><ENG>
+ 24 by 48 inches</ENG>, and of thickness [indicated] [necessary to provide a "C" value not greater than [_____]].  
+Boards shall be factory fabricated and slotted or perforated for keying the insulation board into the insulating 
+concrete.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>PERFORMANCE REQUIREMENTS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide insulating concrete design mix to shall meet the following performance requirements.  Test as specified.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Minimum Compressive Strength</TTL><BRK/>
+<BRK/>
+<TXT><TST><MET>[9] [_____] MPa</MET><ENG>[125] [_____] pounds per square inch</ENG> in 28 days as tested with <RID>ASTM C495/C495M</RID>.</TST></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Minimum Oven Dry Density</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Oven dry density should not be less than<MET> 350 kg per cubic meter</MET><ENG> 22 pcf</ENG>
+.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT><MET> [350] [_____] kg per cubic meter</MET><ENG> [22] [_____] pounds per cubic foot</ENG> as determined by <RID>ASTM C495/C495M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Coefficient of Heat Transmission</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Meet contract U value requirements.  Specify insulation board applied 
+over insulating concrete in Section <SRF>07 22 00</SRF> ROOF AND DECK INSULATION.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>U value of<MET> [0.28] [_____] watt/sq. ft/degree C</MET><ENG> [0.05] [_____] Btu/hr/sq. ft/degree F</ENG>, as determined in accordance 
+with<MET> <RID>ASHRAE FUN SI</RID></MET><ENG> <RID>ASHRAE FUN IP</RID></ENG>.  The U value shall incorporate the total roof deck and roofing system design 
+and represent the average U value for the total roof area.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SURFACE PREPARATION</TTL><BRK/>
+<BRK/>
+<TXT>Clean surfaces to receive insulating concrete of dirt, debris, and other foreign materials that would affect 
+bonding.  Deck shall be free of standing water, snow, and ice.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>STEEL ROOF DECKING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select the applicable paragraph(s) from the following:</NPR><BRK/>
+<BRK/>
+<NPR>NOTE:  Insert the appropriate Section number and title in the blank below using 
+format per UFC 1-300-02, "Unified Facilities Guide Specifications (UFGS) Format 
+Standard".</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>As specified in Section [<SRF>05 30 00</SRF> STEEL DECKS].</TXT><BRK/>
+<BRK/>
+<TXT>[[CAST-IN-PLACE] [PRECAST] STRUCTURAL CONCRETE DECK</TXT><BRK/>
+<BRK/>
+<TXT>As specified in [_____].]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REINFORCING MESH OR WELDED WIRE FABRIC</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insulating concrete requires reinforcement where slope on substrate exceeds 
+1 to 3, and for achieving specific fire rated systems for metal deck systems, 
+not over structural concrete.  Reinforcement size and spacing should be indicated 
+on drawings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Install reinforcing mesh or welded wire fabric with a minimum end lap of<MET> 150 mm</MET><ENG> 6 inches</ENG> and no side lap.  Cut 
+mesh or fabric to fit at all [walls,] [curbs,] [roof drains,] and [openings].  [Mesh not required over structural 
+concrete decks.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>APPLICATION</SUB> OF INSULATING CONCRETE AND INSULATION BOARD</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use Section <SRF>07 51 13</SRF> BUILT-UP ASPHALT ROOFING or Section <SRF>07 53 23</SRF> ETHYLENE 
+PROPYLENE-DIENE-MONOMER ROOFING as guidance in developing details and specifications 
+for venting, roof expansion joints, and application of roofing materials.  In 
+addition to providing expansion joints in the structure, provide expansion joints 
+in roofing membrane at all expansion joints in the insulating concrete roof 
+deck except those located at the perimeter of the roof deck and where the roof 
+deck abuts vertical surfaces.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit application procedures for concrete requirements.  When the roof 
+deck is designed for resistance to seismic or other lateral forces, the aggregate 
+manufacturer should be consulted for specific criteria.  Expansion joints other 
+than those located at expansion joints in the structure shall not be provided 
+when the roof deck is designed as a diaphragm to resist horizontal forces.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Apply insulating concrete, insulation board and related materials in accordance with respective specifications 
+and manufacturer's instructions, except as modified herein.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Mixing</TTL><BRK/>
+<BRK/>
+<TXT>Mix insulating concrete materials mechanically to produce a uniform distribution.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Conveying</TTL><BRK/>
+<BRK/>
+<TXT>Convey insulating concrete from the mixer to place of final deposit by methods that prevent segregation or loss 
+of materials.  Convey the concrete without material separation or loss of air content.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Expansion Joints</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Provide specifications for expansion joints in this or other sections.  
+Normally expansion joints are specified in Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.  
+When one of these sections is included in the project specification, coordinate 
+the requirements for expansion joints and construction joints with this section.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Locations and dimensions of expansion joints: Expansion joints in the 
+lightweight insulating concrete should be<MET> 32 mm</MET><ENG> 1-1/2 inch</ENG> wide or<MET> 25 mm</MET><ENG> 1 inch</ENG>
+ wide as required.  Expansion joints greater than<MET> 32 mm</MET><ENG> 1-1/2 inch</ENG> wide should 
+be located at expansion joints in the structure.  Expansion joints not less 
+than one inch wide should be located at the perimeter of the roof deck, where 
+the roof deck abuts vertical surfaces and at the following locations:</NPR><BRK/>
+<BRK/>
+<NPR>1.  On cast-in-place structural concrete substrates, expansion joints in the 
+light weight insulating concrete should be located at expansion joints in the 
+building.</NPR><BRK/>
+<BRK/>
+<NPR>2.  On precast concrete and steel form decking substrates, expansion joints 
+in the light weight insulating concrete should be placed as they correspond 
+with the structure and where the direction of the metal deck changes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide expansion joints through the depth of the light-weight insulating concrete at the perimeters of the roof 
+deck, where the roof deck abuts vertical surfaces and where indicated.  [Perimeter expansion joints are not required 
+with cellular concrete.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Slurry Coat and Insulation Board</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insulation board applied over insulating concrete should be installed 
+in accordance with Section <SRF>07 22 00</SRF> ROOF AND DECK INSULATION.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Bond the insulation board to the structural deck with a slurry coat of the same insulating concrete mix ratio 
+as used for fill over the insulation board.  Screed the slurry of concrete to an even surface, to a minimum of<MET>
+ 3 mm</MET><ENG> 1/8 inch</ENG> over the top of the structural deck.  [Fill corrugations of steel decking with insulating concrete 
+and screed even with the slurry coat.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Insulating Concrete Fill</TTL><BRK/>
+<BRK/>
+<TXT>Place the insulating concrete on the insulation board and screed to an even surface in a continuous operation 
+until placement of a section is completed.  Provide slopes as indicated for high points, valleys and positive 
+drainage [to roof drains] and to eliminate ponding.  At no place shall the minimum and maximum thickness of the 
+insulating concrete be less than<MET> 50 mm or greater than 200 mm</MET><ENG> 2 inches or greater than 8 inches</ENG>respectively over 
+the top of insulation board.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Compacting</TTL><BRK/>
+<BRK/>
+<TXT>Rodding, tamping, or vibrating are not permitted.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Curing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The insulating concrete should be covered with subsequent roofing materials 
+soon after being allowed to cure for a minimum of 10 days.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Minimize traffic on the surface during the curing period.  Under normal conditions, roofing may begin in 3 days.  
+When the insulating concrete is placed during extremely dry conditions, sprinkle additional water on the concrete 
+for hydration of the cement and to minimize shrinkage cracking.  After a freezing or heavy rainfall or minor 
+scaling of less than<MET> 6 mm</MET><ENG> 1/4 inch</ENG> depth, broom the surface immediately prior to installation of roofing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Patching</TTL><BRK/>
+<BRK/>
+<TXT>Remove portions of the insulating concrete deck with excessive scaling of more than<MET> 6 mm</MET><ENG> 1/4 inch</ENG> depth to sound 
+concrete.  Patch the surface with portland cement concrete slurry.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>FIELD TESTS</TTL><BRK/>
+<BRK/>
+<TXT>During progress of work, take insulating concrete specimens for laboratory testing as specified herein.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Test Specimens</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A minimum of one test should be required for each<MET> 40 to 60 cubic meters</MET><ENG>
+ 50 to 75 cubic yards</ENG> of insulating concrete.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Take test cylinder specimens for <TST>compressive strength</TST> in the presence of the Contracting Officer.  Notify the 
+Contracting Officer one day prior to the date of taking specimens.  Make a minimum of [four] [_____] test specimens 
+for each day's concreting, with at least one test required for each<MET> [57] [_____] cubic meters</MET><ENG> [75] [_____] cubic 
+yards</ENG> of insulating concrete.  Label specimens to indicate the location at which they were taken.  Store specimens 
+in an undisturbed place which will not be exposed to rain and extreme changes of temperature and humidity until 
+ready for testing.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT>    <END/><BRK/></SEC>

@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 54 21 (February 2010)<BRK/>
+                                             Change 1 - 08/17<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 54 21 (October 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 54 21</SCN><BRK/>
+<BRK/>
+<STL>BIOREMEDIATION OF SOILS USING WINDROW COMPOSTING</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>reduction of the 
+concentrations of organic contaminants in soils by bioremediation using windrow 
+composting</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Special requirements for handling RCRA wastes are not included in this 
+guide specification.  However, composting may be appropriate for treatment of 
+some RCRA hazardous wastes.</NPR><BRK/>
+<BRK/>
+<NPR>This guide specification was developed based on the use of composting to treat 
+explosives-contaminated soil.  The same process is believed to be applicable 
+for treatment of some other types of organic contaminants in soil (see paragraph 
+Treatment Criteria and Criteria for Reuse of Composted Soil, below).  Bioremediation 
+processes, such as composting, are usually considered innovative technologies, 
+and may satisfy CERCLA/SARA considerations of innovation in remediation.</NPR><BRK/>
+<BRK/>
+<NPR>An edited version of this Section may be used to solicit a request for proposal 
+(RFP).  Use of an RFP approach may prevent the contract from being awarded to 
+a Contractor that is not technically qualified.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>MEASUREMENT AND PAYMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  These paragraphs should be edited based on whether the contract will 
+use lump sum, or unit prices.  If there is a separate Measurement and Payment 
+Section, edited versions of these paragraphs should be inserted in that section.</NPR><BRK/>
+<BRK/>
+<NPR>If the quantities of contaminated soils are well defined, payment may be based 
+upon a lump sum structure.  However, it is usually more cost-effective to use 
+a unit price structure when there is a significant degree of uncertainty in 
+the amount of contaminated material.  When specifying a unit price structure 
+for treatment, separate items should be provided in the Contract Price Schedule 
+to cover any other work required.  Other work items include, but are not limited 
+to: preparation of submittals, mobilization and demobilization, site preparation, 
+construction of the treatment pad and run on/runoff controls, contact water 
+treatment and disposal, sampling and testing, implementing health and safety 
+requirements, and utilities.  Inclusion of separate items in the Contract Price 
+Schedule for the above work tasks should result in a lower unit price for treatment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Bench-Scale Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Lump sum pricing is recommended for this item; however, bidders should 
+be required to provide a unit cost amount for testing for chemical data.  This 
+will provide a basis for payment for additional analytical costs, if it is determined 
+that more testing will be required.  The following reference should be used 
+to prepare the Bench-Scale Test Plan:  EPA 540/R-93-519a, Guidance for Conducting 
+Treatability Studies Under CERCLA, Biodegradation Remedy Selection, 1993.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for bench-scale testing will be a lump sum price for proper completion of specified tests.  The price 
+must include the cost of labor, materials, equipment usage, utilities, and fuel for: [preparation of the Bench-Scale 
+Test Plan] [collecting samples,] [sample shipment,] [pre-processing,] [process monitoring (including testing 
+for chemical data),] [disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of 
+the Bench-Scale Test Report,] [and] [_____].  Costs for procurement and handling of amendments used in the compost 
+must be included in the unit price for treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Demonstration</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Prior to planning the field demonstration, bench-scale testing should 
+be performed to arrive at a suitable recipe of amendments, and to determine 
+if the contaminants of concern are amenable to composting in the site-specific 
+soil matrix.  The field demonstration may either be conducted prior to the construction 
+of the full-scale facilities, or conducted using the full-scale facilities and 
+equipment.  Payment for the field demonstration should be covered by a separate 
+lump sum item, or on a unit price that is separate from the unit price for full-scale 
+treatment.  Because more intensive monitoring is usually required during the 
+field demonstration, the unit price for the field demonstration will usually 
+be higher than the unit price for full-scale treatment.  Testing for chemical 
+data is not included as a component of the price in this paragraph.  The contract 
+price schedule should include separate, unit price items for testing for chemical 
+data.</NPR><BRK/>
+<BRK/>
+<NPR>If the results of the field demonstration indicate that an extended treatment 
+period (or other special measures) will be required to meet cleanup goals, it 
+may become necessary to modify the bid item that covers treatment pricing for 
+full-scale operations.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for the field demonstration will be [by the contract unit price schedule for each cubic [<MET>meter</MET><ENG> yard</ENG>] 
+[_____] treated during the field demonstration] [a lump sum price for proper completion of approved tests].  
+The price must include the cost of labor, materials, equipment usage, utilities, and fuel for:  [excavation,] 
+[hauling,] [stockpiling,] [pre-processing,] [operation, maintenance and process monitoring (not including testing 
+for chemical data),] [disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of 
+Field Demonstration Report,] [and] [_____].  Costs for procurement and handling of amendments used in the compost 
+must be included in the unit price for treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contaminated Soils Treatment Unit Price</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Except for equipment usage costs (e.g, rental), other equipment costs 
+are not included as a component of the unit price for treatment in this paragraph; 
+testing for chemical data is also not included in the unit price.  The contract 
+price schedule should include separate, unit price items for testing for chemical 
+data.</NPR><BRK/>
+<BRK/>
+<NPR>If unit price payment will be based on weight, dry weight should be specified 
+and requirements should be included for moisture content testing so that dry 
+weight can be determined.  However, surveys are usually required before and 
+after excavation of contaminated material, so that excavation and backfilling 
+can be paid for on the basis of in-place volume.  Thus, in some cases, it may 
+be advantageous to pay for processing and treatment of soils using in-place 
+volume as the pricing unit.  Payment may also be based on ex-situ volume, after 
+the oversize materials have been separated from the soil.  Because of the bulking 
+which usually occurs during excavation of soil, ex-situ volume will usually 
+be about 30 percent greater than the in-situ volume.  If there is a substantial 
+volume of oversize material, or if a substantial volume of excavated material 
+will not require treatment, it may be advantageous to use ex-situ volume as 
+the basis for payment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for composting treatment of contaminated material must be by the contract unit price schedule for each 
+cubic [<MET>meter</MET><ENG> yard</ENG>] [_____] based on [ex-situ volume, after separation of oversize material] [_____].  This unit 
+price must include the cost of labor, materials, equipment usage, utilities, and fuel for:  [excavation,] [hauling,] 
+[stockpiling,] [pre-processing,] [operation, maintenance and process monitoring (not including testing for chemical 
+data),] [disposal of treated material,] [ancillary waste treatment and disposal,] [preparation of operations 
+reports,] [and] [_____].  Costs for procurement and handling of amendments used in the compost must be included 
+in the unit price for treatment.  After each batch has been treated, the quantity of material that does not meet 
+treatment criteria must be reported and subtracted from the quantity of material comprising the batch, when determining 
+payment for treatment.  Payment will not be made for material that does not meet treatment criteria.  If additional 
+tests, or additional processing and testing, are necessary to show that material meets treatment criteria, the 
+additional costs must be borne by the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oversize Materials from Contaminated Areas</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if payment for treatment and disposal 
+of oversize materials will be included as part of the price item for treatment 
+of contaminated soil.  Payment for disposal of oversize materials may be by 
+weight or volume, depending on the nature of the materials.  Oversize materials 
+may include brush, trees, roots, rubble, and construction debris.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Payment for [disposal] [and treatment] of oversize material separated from contaminated soil will be by the contract 
+unit price schedule for each [<MET>kilogram</MET><ENG> pound</ENG>] [_____].  Soil, free water and other extraneous materials must 
+be separated from oversize materials prior to measuring quantities.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<BRK/>
+<NPR>The solicitation package should provide prospective Contractors with a means 
+to acquire any references that are not included with the contract documents, 
+and are not publicly available.  The BIOCYCLE reference shown below is only 
+a few pages and should be included with the solicitation package to provide 
+information on self-heating tests, and compost stability testing.  It is also 
+recommended that copies of USAEC CETHA-TS-CR-93043, and USAEC SFIM-AEC-ET-CR-96184 
+be made available to prospective Contractors to provide descriptions of the 
+intended treatment process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>BIOCYCLE, JOURNAL OF COMPOSTING AND RECYCLING (BIOCYCLE)</ORG><BRK/><BRK/><RID>BIOCYCLE</RID><RTL>(Nov 1995; 5th Ed 2009) A Standardized Test for Evaluation of Compost Self-Heating; Briton, W.F.Jr, et. al.</RTL><BRK/><BRK/></REF><REF><ORG>PLANT AND LIFE SCIENCES PUBLISHING (PALS)</ORG><BRK/><BRK/><RID>NRAES 54</RID><RTL>(1992) On-Farm Composting Handbook</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY (DA)</ORG><BRK/><BRK/><RID>DA PAM 385-64</RID><RTL>(2011) Ammunition and Explosives Safety Standards</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY ENVIRONMENTAL COMMAND (USAEC)</ORG><BRK/><BRK/><RID>USAEC CETHA-TS-CR-93043</RID><RTL>(1993) Windrow Composting Demonstration for Explosives-Contaminated Soils at the Umatilla Depot Activity (NTIS PB95-200119)</RTL><BRK/><BRK/><RID>USAEC SFIM-AEC-ET-CR-96184</RID><RTL>(1996) Cost Report: Windrow Composting to Treat Explosives-Contaminated Soils at Umatilla Army Depot Activity (UMDA) (NTIS AD-A318001)</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>29 CFR 1910</RID><RTL>Occupational Safety and Health Standards</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>PROCESS DESCRIPTION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Requirements for a specific method of treatment are provided below.  
+If the use of a process other than windrow composting will be allowed, this 
+paragraph should be revised to indicate that a process, other than described 
+in this Section, may be proposed by the Contractor; that the Contractor's approved 
+submittals must demonstrate equivalent capabilities; and that such approval 
+will not relieve the Contractor of responsibility for meeting specified requirements 
+for safety, reliability, and performance.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Treatment process must provide a safe, reliable method to treat contaminated material conforming to the following 
+paragraphs and based on the composting process described in <RID>USAEC CETHA-TS-CR-93043</RID> and <RID>USAEC SFIM-AEC-ET-CR-96184</RID>
+.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DESIGN REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Composting Treatment Pad</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Siting of the treatment facility should be in accordance with regulatory 
+requirements.  The prevailing wind direction and the potential for odor generation 
+should also be taken into consideration.  The design of the treatment pad and 
+weather cover should include provisions for control of storm water and contact 
+water, and should take into account the expected wheel loads of material handling 
+equipment.  Concrete pads are typically more expensive, though less permeable 
+than asphalt pads.  Asphalt pads have been used for hazardous waste composting 
+projects.  It may also be necessary to construct asphalt pads for the following 
+areas:  soils pre-processing area; and the amendment and soil blending area.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Pavement of the treatment pad must be in accordance with Sections [<SRF>32 12 16</SRF> HOT-MIX ASPHALT (HMA) FOR ROADS.] 
+[<SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.]  The treatment pad must be designed to withstand operation of material handling 
+equipment, and to prevent infiltration of contact water.  The slope of the surface of the treatment pad must 
+be not less than [2 percent] [_____].  Water collection channels must be incorporated into the paved treatment 
+pad, and the pad must drain, by gravity, to collection sumps.  The water collection system and sump must be in 
+accordance with paragraph Contact Water Management System and Design Storm, below.  Sloping, placement of collection 
+channels, and sump must be sufficient to prevent ponding in the treatment pad area.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Pad Sizing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The dimensions of the treatment pad should be based on the amount of 
+time required to reach cleanup goals for each batch of compost (including laboratory 
+turn-around time for compliance testing), the amount of time allotted for treatment 
+of the contaminated soil (within the contract schedule), the "per-batch amount" 
+of material that will be composted, the bulk density of the compost and soil, 
+windrow dimensions and spacing, and the type of material handling equipment 
+that will be used.  A batch is defined as that amount of material, including 
+soil and amendments, for which treatment is initiated at the same time during 
+full-scale operations.  After cleanup goals have been met for contaminants of 
+concern, it may be necessary to continue to cure the compost (see paragraph 
+Curing and Storage, in PART 3).  The compost may be moved to a separate area 
+for curing.  On a previous composting project for explosives, each batch required 
+about 4 weeks on the treatment pad (about 2 weeks treatment time, plus about 
+2 weeks to receive laboratory data from confirmation samples).  Curing was not 
+required on this project.</NPR><BRK/>
+<BRK/>
+<NPR>Formulas for the areas of typical windrow cross sections are provided in NRAES-54.  
+The bulk density of compost will vary depending on what amendments are used 
+and the proportions of soil and amendments (see paragraph Amendments, in PART 
+2).  See paragraph Windrow Construction, in PART 3 for information on windrow 
+dimensions.  Use of long, narrow treatment pads may allow windrow mixing equipment 
+to process a greater volume of material using a minimal number of turn-arounds.  
+Thus long, narrow treatment pads may result in a more efficient operation than 
+a wider treatment pad.  It may be economically advantageous for the Contractor 
+to divide the treatment pad into separate areas, so that mixing equipment does 
+not set idle:  on a portion of the pad, daily mixing of windrows may continue 
+until definitive field analysis indicates that the compost is ready for compliance 
+testing; on the other portion of the pad, the windrows may be allowed to set 
+static while waiting for laboratory data from compliance testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Locate the treatment pad within the area indicated.  Size the treatment pad to avoid constricting other parts 
+of the composting operations that must be conducted within the designated area available for composting operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Work Area Surfaces</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It may be necessary to require paving in areas designated for handling 
+contaminated material, and operation of heavy equipment (e.g., front-end loaders).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Locate the soils pre-processing area, and the area designated for blending soil and amendments within the area 
+indicated; and construct and pave in accordance with paragraph COMPOSTING TREATMENT PAD.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Contact Water Management System and Design Storm</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If in accordance with regulatory requirements, excess contact water may 
+be discharged to NPDES storm water discharge outfalls, POTW sewers, facility 
+sewer to onsite treatment systems, or treated and disposed of offsite.  The 
+source of data for the design storm should be referenced.  Sources for hypothetical 
+storm information in the United States are referenced in Appendix A of Hydrological 
+Analysis of Ungaged Watersheds Using HEC-1, Training Document No. 15, USACE 
+Hydrologic Engineering Center, April 1982; another source is Technical Paper 
+No. 40, Rainfall Frequency Atlas of the United States, for Durations from 30 
+Minutes to 24 Hours and Return Periods from 1 to 100 Years, US Dept. of Commerce, 
+May 1961.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water is defined as water that has come into contact with contaminated materials, or other contaminated 
+surfaces.  Sources of contact water may include, but are not limited to:  water from decontamination of equipment, 
+personnel, and PPE; and runoff water from storage, preprocessing and treatment areas.  The design storm must 
+be the [24] [_____] hour duration storm with a return interval of [25] [_____] years, based on data from [_____].  
+The collection, conveyance, storage, treatment and disposal system must remove all contact water from the design 
+storm in not more than [24] [_____] hours.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Perimeter Berms</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use of barriers constructed from interlocking concrete blocks may, for 
+some applications, be an acceptable substitute for berms.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Berms must be constructed around the perimeter of the following work areas:  [treatment,] [stockpiling,] [storage 
+areas,] [and] [_____].  The perimeter berms must be sized to prevent flood water run-on from the [25] [_____] 
+year flood, and to contain runoff from the design storm.  A minimum of<MET> [0.3] [_____] meter</MET><ENG> [1] [_____] foot</ENG> must 
+be maintained from the top of the berm to the surface inside of the work area, and from the top of the berm to 
+the surface outside of the work area.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Storage Volume</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Typically, storage and testing of contact water is required prior to 
+discharge.  Thus contact water storage facilities should be sized to contain 
+the peak detention volume for the design storm.  In order to minimize treatment 
+and disposal costs, it is often desirable to reuse the contact water to irrigate 
+windrows.  If this approach is applied, the storage volume must be sufficient 
+to retain the volume of water in storage prior to the design storm, and the 
+volume of water generated by the design storm.</NPR><BRK/>
+<BRK/>
+<NPR>Sources of contact water include:  water from decontamination of equipment, 
+personnel, and PPE; and runoff water from storage, preprocessing and treatment 
+areas.  If the storage, preprocessing, and treatment areas are properly covered, 
+then the amount of contact water resulting from precipitation events should 
+be limited.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water storage facilities must be sized to contain [30] [_____] percent above that required for the design 
+storm, and [the maximum volume that will be held in storage for reuse] [_____].  The design storm is defined 
+above.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reuse, Treatment, and Disposal</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Although it is possible for contact water to accumulate compounds (e.g., 
+acids, bases, or salts) at levels which may inhibit microbial activity, contact 
+water may, typically, be applied to contaminated soil or compost with little 
+or no treatment.  Water which has accumulated excessive levels of acids, bases 
+or salts may require treatment and/or offsite disposal.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water must be reused to the maximum extent in order to minimize the need for new makeup water and to 
+limit the treatment, discharge and offsite disposal of wastewater.  Prior to reuse, contact water must be tested 
+in accordance with paragraph Contact Water Testing, in PART 3 and must meet the requirements of paragraph Water 
+Supply, in PART 2.  Prior to disposal, contact water that cannot be applied to contaminated soil or compost must 
+be collected and tested in accordance with paragraph Treatment Criteria for Contact Water, below.  Process sludge 
+(resulting from the removal of suspended material in the contact water) must be treated to meet the requirements 
+of paragraph [Treatment Criteria for Other Waste, below] [Treatment Criteria for Composted Soil, below] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Irrigation Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Water may be added at many different points in the process:  to the raw 
+materials prior to blending; during blending of amendments, before soil has 
+been added; during the initial blending of compost; and during turning of the 
+compost windrows.  Mixing equipment may be equipped with spray nozzles for applying 
+water.  Timely irrigation of compost is critical during thermophilic stages 
+of composting, when the highest rates of evaporation occur.  In arid climates, 
+water usage rates will obviously be higher than in non-arid climates.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Irrigation equipment must be capable of providing at least<MET> [2.9] [_____] liters of water/cubic meter</MET><ENG> [1.0] [_____] 
+gallons of water/cubic yard</ENG> of compost per day, and meeting the requirements of paragraph Moisture Control, in 
+PART 3.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Weather Cover</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Although "breathable", water resistant cover material is available, direct 
+contact between the covering material and the compost should be avoided.  Clam-shell 
+buildings, metal buildings, pole barns, large tents, or other prefabricated 
+structures may serve as weather covers.  The section containing requirements 
+for the weather cover (e.g., Section <SRF>13 34 19</SRF> PREENGINEERED METAL BUILDINGS), 
+should include the design snow load, maximum wind speed, soil bearing capacity, 
+seismic parameters in accordance wirh UFC 3-310-04, maximum and minimum ambient 
+air temperatures.  The interior of the weather cover should be suitable for 
+a high water-vapor environment.  Metal surfaces may be subject to corrosive 
+conditions.  If the composting will be conducted inside of an enclosed structure, 
+adequate ventilation must be provided.  A rate of 3 to 6 air changes per hour 
+has been recommended for composting facilities.  Carbon dioxide is generated 
+and oxygen may become depleted during composting.  Ammonia gas is commonly generated 
+as well.  It is also possible for methane to be generated, if anaerobic conditions 
+are allowed to develop.  To ensure that proper and consistent ventilation requirements 
+are specified, this section should be coordinated with other sections; e.g., 
+Section <SRF>23 00 00</SRF> AIR SUPPLY, DISTRIBUTION, VENTILATION, AND EXHAUST SYSTEM, 
+edited accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Weather covers, or appropriate structures, must be used to prevent precipitation from coming into contact with 
+windrows, and must be designed in accordance with Section [<SRF>13 34 19</SRF> PREENGINEERED METAL BUILDINGS] [_____].  
+Covers must allow for free exchange of gasses between the atmosphere and the compost.  Weather covers must be 
+sized to allow unimpaired maneuvering of [front-end loaders,] [windrow mixing equipment,] [and] [_____]; openings 
+in weather covers must be sized to allow for entry and exit of [front-end loaders,] [windrow mixing equipment,] 
+[and] [_____].  Ventilation of the composting facility must be in accordance with Section <SRF>23 00 00</SRF> AIR SUPPLY, 
+DISTRIBUTION, VENTILATION, AND EXHAUST SYSTEMS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiles</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The requirements outlined in this paragraph are the typical, minimum 
+criteria the Contractor should use to prepare the stockpile design.  However, 
+in very arid climates, covers may not be necessary.  If composting operations 
+will continue during subfreezing conditions, it may be necessary to ensure that 
+the Contractor has included provisions to prevent a portion of the contaminated 
+soil stockpile from freezing.  This paragraph should be edited based on site-specific 
+factors and regulatory requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Stockpiles must be constructed for storing [contaminated material,] [oversize material,] [treated material that 
+has not been fully cured,] [treated material that has been fully cured,] [and] [_____].  Stockpiles must be constructed 
+to include:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  An impermeable HDPE geomembrane liner with a minimum thickness of<MET> 1.0 mm</MET><ENG> 40 mils</ENG>.  Subgrade preparation; 
+and installation, testing, inspection, and protection of the liner must be in accordance with Section 
+<SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  An impermeable geomembrane cover with a minimum thickness of<MET> [0.25] [_____] mm</MET><ENG> [10] [_____] mils</ENG> 
+to prevent precipitation from entering the stockpile.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Berms surrounding stockpiles in accordance with paragraph Perimeter Berms, above.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Amendment Storage Facilities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Some types of amendments should be kept covered to prevent contact with 
+precipitation.  However, in very arid climates covers may not be necessary.  
+Usually, synthetic membranes are used as covers.  To ensure that stored material 
+can be removed from stockpiles and blended with other compost ingredients in 
+subfreezing conditions, it may be necessary to store a portion of some materials 
+at above<MET> 0 degrees C</MET><ENG> 32 degrees F</ENG>.</NPR><BRK/>
+<BRK/>
+<NPR>To prevent undesired infiltration, some types of amendments (e.g., manure) should 
+be stored in containers, or on a paved surface (e.g., asphalt pad) with containment 
+walls.  However, if the amendment is delivered directly to a blending vessel, 
+use of storage facilities may not be necessary.  See paragraph Amendment Storage, 
+PART 3 regarding controls for insects and rodents.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following amendments must be covered to prevent contact with precipitation: [_____].  Covers will not be 
+required for [woodchips] [_____].  Frames, or other materials, must be used to prevent contact between covers, 
+and the following amendments:  [manure,] [and] [_____].  The storage area must be designed to withstand operation 
+of material handling equipment, and to minimize infiltration of contact water.  The slope of the surface of the 
+storage area must be not less than [2 percent] [_____].  Water collection channels must be incorporated into 
+the surface of the storage area, and the storage area must drain, by gravity, to collection sumps.  The water 
+collection system and sump must be in accordance with paragraph Contact Water Management System and Design Storm, 
+above.  Sloping, placement of collection channels, and sump must be sufficient to prevent ponding in the storage 
+area.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Paved Storage Area</TTL><BRK/>
+<BRK/>
+<TXT>The following amendments must be stored on a paved surface with perimeter berms:  [manure,] [potato waste,] [and] 
+[_____].  Pavement of the paved storage area must be in accordance with Sections [<SRF>32 12 16</SRF> HOT-MIX ASPHALT (HMA)FOR 
+ROADS.] [<SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE.]  Berms surrounding the paved storage area must be in accordance with 
+paragraph Perimeter Berms, above.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Unpaved Storage Area</TTL><BRK/>
+<BRK/>
+<TXT>The following amendments may either be stored on a paved surface with containment walls, or stockpiled in accordance 
+with paragraph Stockpiles, above:  [manure,] [potato waste,] [and] [_____].  Geomembrane liners will not be required 
+for storage of the following amendments:  [sawdust,] [alfalfa,] [wood chips,] and [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Accuracy of Measurement Equipment</TTL><BRK/>
+<BRK/>
+<TXT>Measuring devices must be accurate to at least [25] [_____] percent of the unit used as the basis for measurement 
+and payment.  A check of calibration of measuring equipment must be performed prior to initial use, and once 
+every [7] [_____] calendar days.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PERFORMANCE REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Sampling and analyses must be performed in accordance with [_____].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Criteria and Criteria for Reuse of Composted Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Some types of nonvolatile and semi-volatile organic contaminants are 
+believed to be amenable to composting, including some explosives, polynuclear 
+aromatic hydrocarbons (PAHs, as found in creosote), and some pesticides and 
+herbicides (see Engineering Bulletin, Composting, EPA 540/S-96/502; also, see 
+The Science of Composting, by Epstein, 1997).  Since temperatures may exceed<MET>
+ 65 degrees C</MET><ENG> 150 degrees F</ENG> during composting, the volatility of contaminants 
+of concern should be taken into consideration (see paragraph Temperature in 
+PART 3).</NPR><BRK/>
+<BRK/>
+<NPR>Depending on regulatory requirements, both total concentration and leachability 
+concentrations for some compounds may be required.  Total concentrations can 
+be used to estimate worst case leachate concentrations.  If the contaminated 
+material is classified as characteristic waste, leachability testing will usually 
+be required, and the appropriate leachability test (e.g., EPA Synthetic Precipitation 
+Leachate Procedure (SPLP) or EPA Toxicity Characteristic Leachate Procedure 
+(TCLP)) must be selected.  If the treated material will not be disposed of in 
+a landfill, SPLP testing may be appropriate.</NPR><BRK/>
+<BRK/>
+<NPR>Although there are EPA Land Application regulations for metals and pathogens 
+(40 CFR 503 - Standards for Use or Disposal of Sewage Sludge), these regulations 
+are not normally applicable to hazardous waste composting (see paragraph Criteria 
+for Reuse of Composted Soil, below).  Treatment criteria, and criteria for reuse 
+should be in accordance with Federal, state and local regulations.  Prior approval 
+by regulatory representatives should be acquired for treatment criteria values.</NPR><BRK/>
+<BRK/>
+<NPR>For those parent compounds for which partial breakdown products (intermediates) 
+have been defined and analytical standards are readily available, it may be 
+necessary to include testing for key intermediates.  A compound should not be 
+targeted for analysis unless there is a defensible basis for including the compound.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Treatment Criteria for Composted Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Paragraph Confirmation of Attainment of Treatment Criteria, in PART 3 
+should be coordinated with this paragraph, and reviewed for guidance on adding 
+a separate set of "ceiling values" for each contaminant of concern to this paragraph.  
+The treatment criteria shown below are only examples.  This paragraph should 
+be edited to include site-specific criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treated material must meet the criteria shown in Table 1.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="14">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="307.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="149.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="38.25">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 1 - TREATMENT CRITERIA FOR ORGANICS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ORGANIC CONTAMINANT</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TOTAL CONCENTRATION IN COMPOST</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,4,6,-trinitrotoluene (TNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Octahydro-1,3,5,7-tetranitro-1,3,5,7, -tetrazocine (HMX)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">N,2,4,6-tetranitro-N-methylanaline (tetryl)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">4-amino-2,6-dinitrotoluene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,3,5-trinitrobenzene (TNB)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,3-dinitrobenzene (DNB)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,4-dinitrotoluene (2,4-DNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,6-dinitrotoluene (2,6-DNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Total Polynuclear Aromatic Hydrocarbons (PAHs)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Total cPAHs (carcinogenic PAHs)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Criteria for Reuse of Composted Soil</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The land application or beneficial use of the compost will be largely 
+controlled by existing land disposal restrictions (40 CFR 268), specifically 
+toxicity characteristics for RCRA metals, volatiles, and semi-volatiles and 
+any triggered universal treatment standards (40 CFR 268.48).  While the metals 
+loading rates found in 40 CFR 503 - Standards for the Use or Disposal of Sewage 
+Sludge (i.e. 40 CFR 503.13 - Pollutant limits) may be useful in evaluating beneficial 
+use alternatives, the designer is cautioned that the scope of this standard 
+is for domestic sewage sludge.  Composted materials may not meet this definition, 
+and therefore would not be excluded from hazardous waste management regulations.  
+The application of ceiling values listed in 40 CFR 503.13 to finished compost 
+not excluded from hazardous waste regulations, is not allowed under regulation 
+(40 CFR 503.6).</NPR><BRK/>
+<BRK/>
+<NPR>Although reductions in concentrations of heavy metals may occur due to dilution 
+(through addition of amendments), composting is usually not considered a treatment 
+process for inorganics.  However, depending on regulatory requirements and intended 
+end use, it may be necessary to require testing for some inorganic parameters, 
+for pathogens, and to include requirements to ensure that the compost has been 
+properly cured (see paragraph Curing and Storage, in PART 3).  Toxicological 
+testing of treated and untreated material was previously performed as part of 
+a treatability study (see Characterization of Explosives Processing Waste Decomposition 
+Due to Composting AEC TIC #4078, prepared for USATHAMA by Oak Ridge National 
+Laboratory, Nov. 1991); however, toxicity testing is usually not required during 
+full-scale operations.  The treatment criteria shown below are only examples.  
+This paragraph should be edited to include site-specific criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to final disposition, the compost must meet the following criteria to determine if it has been properly 
+cured:  1)  Minimum and maximum pH [5.0] [_____] and [7.6] [_____], respectively.  2)  The increase in temperature 
+observed during the Dewar self-heating test must be not more than [15] [_____] degrees C above the ambient temperature; 
+and the ambient temperature must not be greater than 25 degrees C.  3)  The soluble salt concentration (conductivity) 
+of the finished compost must be less than [20] [_____] mmhos per centimeter.  4)  Dewar self-heating testing, 
+and conductivity testing must be performed in accordance with paragraph Non-Standard Sampling and Analysis, in 
+PART 3.  5)  The treated material must meet the criteria shown in Table 2.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="8">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 2 - TREATMENT CRITERIA FOR INORGANICS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">MAXIMUM TOTAL INORGANIC CONTAMINANT</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CONCENTRATION IN COMPOST</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Copper</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">Barium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+</SPT><SPT><TTL>Treatment Criteria for Contact Water</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Treatment and disposal options for contact water include:  onsite treatment 
+and discharge; offsite treatment and disposal; and storage and reuse as irrigation 
+water.  It is possible for petroleum, oils and lubricants (POLs) and other fluids 
+from material handling equipment to be spilled onto compost during process operations.  
+Thus, testing for POLs should be considered.  The treatment criteria shown below 
+are only examples.  This paragraph should be edited to include site-specific 
+criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contact water must meet the criteria shown in Table 3 at the time of [discharge] [offsite disposal] [_____].</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="26">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="343.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="113.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 3 - WATER DISPOSAL/DISCHARGE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">MAXIMUM CONCENTRATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,4,6,-trinitrotoluene (TNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Octahydro-1,3,5,7-tetranitro-1,3,5,7, -tetrazocine (HMX)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">N,2,4,6-tetranitro-N-methylanaline (tetryl)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2-amino-4,6-dinitrotoluene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">4-amino-2,6-dinitrotoluene</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,3,5-trinitrobenzene (TNB)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1,3-dinitrobenzene (DNB)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,4-dinitrotoluene (2,4-DNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">2,6-dinitrotoluene (2,6-DNT)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/kg</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Chromium</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Copper</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Arsenic</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Lead</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TPH</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Nitrate</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Total phosphates</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Ammonia</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Total Kjeldahl nitrogen</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Total suspended solids</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">5 Day BOD</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] mg/L</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">minimum  pH</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">maximum  PH</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>Treatment Criteria for Other Waste</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Other waste may include:  excess amendments, sludge resulting from treatment 
+of contact water, oversize material, and manufactured material.  Treatment may 
+not be required for some wastes.  Treatment criteria should be provided if treatment 
+will be conducted onsite.  One treatment scenario for each type of waste should 
+be clearly defined.  If treatment criteria already provided in the preceding 
+paragraphs do not adequately cover "Other Wastes", it may be necessary to provide 
+additional criteria, specific to "Other Wastes".</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following materials must be treated prior to disposal:  [excess manure and vegetable wastes, sludge resulting 
+from treatment of contact water, and oversize material that has been separated from contaminated soil] [_____].  
+Treatment must be in accordance with regulatory requirements.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>COMPOSTING WORK PLAN</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Correspondence from regulatory agencies, and other relevant information, 
+should be attached to the specifications to indicate the level of effort necessary 
+for the Contractor to obtain finalized permits, permit equivalents, certifications 
+and to meet substantive regulatory requirements.</NPR><BRK/>
+<BRK/>
+<NPR>Sampling and analysis requirements for parameters i.e., non-chemical data should 
+be included in the Composting Work Plan.  To avoid duplications in submittal 
+requirements, submittals in this Section should be coordinated with other sections 
+of the contract (e.g., <SRF>01 45 00.00 10</SRF> QUALITY CONTROL, and <SRF>01 32 01.00 10</SRF> PROJECT 
+SCHEDULE).  If a request-for-proposal contract is being prepared, this paragraph 
+and the Submittals paragraph should be edited and used to form the basis for 
+Contractor proposals.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit a Composting Work Plan not more than [200] [_____] calendar days after notice to proceed.  A period of 
+not less than [30] [_____] calendar days must be allowed for in the schedule for Government review.  Include 
+copies of the permits, permit equivalents and certifications with the Composting Work Plan.  The composting work 
+plan must include, but must not be limited to, the following:</TXT>[<BRK/>
+<BRK/>
+<TXT><ATT>Correspondence</ATT> from regulatory agencies, and other relevant information, is attached to the specifications to 
+indicate the level of effort necessary to obtain finalized permits, permit equivalents, certifications and to 
+meet substantive regulatory requirements.</TXT>]<BRK/>
+<BRK/>
+<SPT><TTL>Schedule</TTL><BRK/>
+<BRK/>
+<TXT>The schedule must specify dates and durations for: excavation, hauling, stockpiling, start and completion of 
+mobilization, treatment pad construction, separation of oversize materials, field demonstration, full-scale treatment 
+of contaminated materials, storage of treated material, disposal of treated material and other wastes, and demobilization.  
+The following details must also be provided: intended hours of operation, routine maintenance downtime, other 
+scheduled downtime, anticipated time to reach cleanup goals for each batch of soil and amendments, anticipated 
+laboratory turn-around time to receive data from compliance samples.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Project Organization and Personnel</TTL><BRK/>
+<BRK/>
+<TXT>An organization chart, including subContractors, must be provided; the chart must include the names, responsibilities, 
+education, and resume of the key project personnel.  Key personnel must include, but must not be limited to: 
+project managers, quality control personnel, supervisory operators and technicians, and engineering staff.  Responsibilities 
+of each individual in the organization must be clearly defined in terms of project activities including, but 
+not limited to:  project management and coordination; scheduling; quality control and quality assurance; sampling; 
+measurement; field and laboratory analysis; data management; operation and maintenance; and health and safety 
+management.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Selection of Amendments</TTL><BRK/>
+<BRK/>
+<TXT>Description of, and preferred sources for each proposed amendment; including at least one alternative source 
+for each category of amendment.  Locations of each source, and distances from the site must be included.  Amendment 
+categories must include:  manure, vegetable waste, alfalfa hay, and wood materials.  For amendments that are 
+only available on a seasonal basis, a plan for substituting alternative types of amendments must be provided.  
+The proposed amount of each amendment that will be added to each cubic<MET> m</MET><ENG> yard</ENG> of contaminated soil must be included.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Emissions, Dust and Odor Control</TTL><BRK/>
+<BRK/>
+<TXT>For each stage of operations, the plan must include, but must not be limited to:  the sources of emissions, dust 
+and odors during each stage of operations, and proposed control measures.  The stages of operation must include, 
+but must not be limited to: construction of paved surfaced, soil preprocessing; treatment, transport, and disposal 
+of oversize material; blending of soil and amendments; during the composting process, including during mixing; 
+transport of compost; storage of compost; disposal of compost.  The plan must specifically address odor control 
+during the following activities: amendment delivery and storage; blending of soil and amendments; during the 
+composting process, including during mixing; transport of compost; storage of compost; and disposal of compost.  
+If air monitoring will be required, the following must also be included:  type and locations of monitoring devices; 
+and for each stage of operations, frequency of sampling, number of samples from each location, the total number 
+of samples, and the parameters to be monitored.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Operations and Process Monitoring</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the proposed operation must be provided.  The description must include:  plans for 
+pre-processing of contaminated soils; plans for stockpiling materials; plans and schedule for pick-up, transport, 
+delivery and storage of each amendment during operations; plans for mixing amendments, soil and constructing 
+windrows; initial volumes of soil and amendments to be treated in each batch; methods for measuring quantities 
+of soil, amendments, and compost; treatment pad area required for each batch; water management plans; parameters 
+that will be monitored during composting, curing and storage; frequency of monitoring, mixing, and irrigation 
+during each stage of operations; locations of each windrow sampling station shown from plan view; sampling locations 
+shown on a diagram depicting a cross-section of a windrow; the number of sampling stations per each batch of 
+compost; windrow moisture and temperature monitoring locations must also be shown; and plans for storage of treated 
+materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protocol for Compliance Testing</TTL><BRK/>
+<BRK/>
+<TXT>A detailed, chronological description of the sequence of procedures and tests that will be used to determine 
+whether the compost has met treatment criteria.  The locations of each windrow sampling station shown from plan 
+view; the number of sampling stations per each batch of compost; sampling locations shown on a diagram depicting 
+a cross-section of a windrow; the number of samples that will be collected and tested for each type of test performed 
+as a part of compliance testing; and laboratory turn-around-time.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protocol for Determining if Compost Meets Criteria for Disposal and/or Reuse</TTL><BRK/>
+<BRK/>
+<TXT>A detailed, chronological description of the sequence of procedures and tests that will be used to determine 
+whether the compost has met criteria for disposal and/or reuse; including: the location of each sampling station 
+shown from plan view; the number of sampling stations per each batch of compost; sampling locations shown on 
+a diagram depicting a cross-section of a compost pile; and the number of samples that will be collected and tested 
+for each type of test performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Non-Composting Treatment Processes</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the procedures for treatment of solid and liquid wastes that will be treated by a process 
+other than composting; including:  treatment criteria for oversize material and other wastes; testing parameters; 
+sampling locations; number of samples; monitoring frequency; and laboratory turn-around-time.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Equipment and Servicing</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the proposed treatment equipment must be provided.  For each proposed piece of equipment, 
+the description must include, but must not be limited to:  function, design capacity, equipment specifications 
+identifying manufacturer and model number, material of construction, recommended operating conditions, and the 
+number of units that will be present onsite during each stage of operations.  Equipment described must include, 
+but must not be limited to:  mixing devices; windrow turning equipment; pumps, valves and other in-line devices; 
+irrigation equipment; moisture and temperature control instrumentation; and sampling and testing devices for 
+process monitoring.  For equipment that will be in contact with explosives-contaminated material, a copy of the 
+explosives hazard analysis report for each piece of equipment must be provided; this includes equipment used 
+to homogenize and/or grind samples.  Explosives hazard analysis reports must be in accordance with <RID>DA PAM 385-64</RID>
+.  Plans for servicing equipment must also be provided, and must explain how material handling and windrow mixing 
+will be accomplished during servicing of equipment, and during unanticipated breakdown of machinery.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Process Material Tracking Schedule</TTL><BRK/>
+<BRK/>
+<TXT>The proposed schedule must be used to record the quantities of the contaminated materials treated.  The dates 
+and duration of the following activities must also be provided for each batch of contaminated material: initiation 
+of composting; completion of composting; reprocessing of any treated materials that failed to meet treatment 
+criteria; storage of treated material; disposal of treated material.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Disposal and Reuse of Wastes</TTL><BRK/>
+<BRK/>
+<TXT>A detailed description of the plans for disposal of solid and liquid wastes.  For each type of waste that will 
+be generated, the following must be provided:  origin and description of waste; estimated total quantity of waste; 
+method of transport to disposal location; disposal location; and schedule showing the anticipated quantities 
+and dates for generation, transport, and disposal of the wastes.   Waste types must include, but must not be 
+limited to: finished compost, other treated material, oversize materials, contact water, and other solid and 
+liquid wastes generated during the project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Mobilization and Demobilization</TTL><BRK/>
+<BRK/>
+<TXT>A mobilization and demobilization plan to include, but not limited to:  transport of personnel, material, and 
+equipment; decontamination and disposal of materials and equipment brought to the site; decontamination and disposal 
+of the treatment pad and other paved surfaces.  The demobilization plan must include a Post-Treatment Cleanup 
+and Sampling Plan for areas where there was contact with contaminated materials.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>OTHER SUBMITTALS REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Submit the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The amendment test plan not more than [21] [_____] calendar days after notice to proceed.  A period 
+of not less than [30] [_____] calendar days must be allowed for in the schedule for Government review.  
+This plan must address, but must not be limited to:  the source of each amendment; testing parameters; 
+and the number of samples.  Proposed procedures for shipping amendments to the laboratory must also be 
+provided, including:  type of containers; and the maximum time periods between shipping, laboratory receipt, 
+and initiation of testing.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The bench-scale test plan not more than [90] [_____] calendar days after notice to proceed.  A period 
+of not less than [30] [_____] calendar days must be allowed for in the schedule for Government review.  
+This plan must address, but must not be limited to:  location of test facility; amendment selection rationale; 
+the source of each amendment; test parameters, number of samples, and sampling locations that will be 
+used determine the source of soil; the proposed proportions of amendments and soil in each recipe; the 
+number of replicate tests for each selected recipe; procedure for mixing soil and amendments; types of 
+containers that will be used; frequency of mixing; testing and monitoring parameters; number of samples; 
+monitoring frequency; length of monitoring period; and laboratory turn-around-time.  Proposed procedures 
+for shipping amendments to the laboratory must also be provided, including:  type of containers; and 
+the maximum time periods between shipping, test facility receipt, and initiation of testing.  Test methods, 
+and other sampling and analysis requirements for the bench-scale test must be [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  A field demonstration plan not more than [150] [_____] calendar days after notice to proceed.  A 
+period of not less than [30] [_____] calendar days must be allowed for in the schedule for Government 
+review.  This plan must address, but must not be limited to: target levels of contaminants in soil that 
+will be treated; test parameters, number of samples, and sampling locations that will be used to determine 
+the source of contaminated soil; sources of amendments; the proposed amount of each amendment that will 
+be added to each cubic<MET> m</MET><ENG> yard</ENG> of contaminated soil; irrigation water source; plan for physical and chemical 
+monitoring; laboratory turn-around-time; plan for maintaining proper temperatures, and moisture contents; 
+irrigation and mixing equipment specifications; and waste disposal plan.  Test methods, and other sampling 
+and analysis requirements for the field demonstration test must be [_____].  For equipment that will 
+be in contact with explosives-contaminated material, a copy of the explosives hazard analysis report 
+for each piece of equipment must be provided.  Explosives hazard analysis reports must be in accordance 
+with <RID>DA PAM 385-64</RID>.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The field demonstration report not more than [120] [_____] calendar days after completion of the 
+field demonstration.  The report must document relevant data including, but not limited to:  characterization 
+test results for each amendment; the source of each amendment; the proportions of amendments and soil 
+in each recipe tested; chronological table showing all materials added to each windrow, amount added, 
+date of addition, and each mixing, precipitation, irrigation and sampling event.  The report must also 
+include: physical and chemical monitoring data from before, during and after treatment; degradation rates; 
+final disposition of wastes and treated material; conclusions; recommendations; and proposed recipe of 
+soil and amendments for full-scale operations.  In addition, the day-to-day log of operations and adjustments 
+must be included in an appendix.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  An odor control plan not more than [48] [_____] hours after being notified by the Contracting Officer.  
+A period of not less than [14] [_____] calendar days must be allowed for in the schedule for Government 
+review.  The submittal must include:  a written description of what measures were taken to control odors, 
+at which locations, and when the measures were implemented; and a plan for future odor control measures.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Copies of records for treated or processed materials which have been disposed of not more than [45] 
+[_____] calendar days after disposal of each batch of materials.  The following must be included for 
+each batch of treated material:  disposal location; date of transport to disposal location; volume or 
+weight of material; and chemical data reports.  Cross-references to the submittal specified in Section 
+<SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS MATERIALS, which includes the manifests, must be provided 
+for materials disposed of offsite.  For non-manifested materials disposed of offsite, the following information 
+must also be provided:  address, phone number, and point of contact for each receiving offsite disposal 
+facility.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  The amendment test report not more than [60] [_____] calendar days after completion of amendment 
+testing.  Report must include:  characterization test results for each amendment; the source of each 
+amendment; the date that each amendment was shipped, received and tested by the laboratory; procedure 
+used to ship each amendment (including type of containers and temperature); if amendments were stored 
+for any period of time, the temperature of storage; testing methods used; and proposed recipes of soil 
+and amendments for bench-scale testing.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  The bench-scale test report not more than [90] [_____] calendar days after completion of the bench-scale 
+test.  Report must include: characterization test results for each amendment; the source of each amendment; 
+the proportions of amendments and soil in each recipe tested; the date that each amendment was shipped 
+and received by the laboratory; procedure used to ship each amendment (including type of containers and 
+temperature); if amendments were stored for any period of time, the temperature of storage; the date 
+that the bench scale test was initiated; physical and chemical monitoring data; and proposed recipes 
+of soil and amendments for the field demonstration.  Graphs of temperature versus time must be provided 
+for each self-heating test performed.  Both ambient temperatures and compost temperatures must be provided.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Reports must be furnished weekly for the first [10] [_____] weeks, and every [2] [_____] weeks, thereafter.  
+The report must be kept at the facility during the [field demonstration] [and] [full-scale operation].  
+The following information must be recorded and maintained until closure of the facility:  description 
+(including sources) of contaminated soil and amendments on site; the dates of receipt, storage, treatment, 
+and disposal of contaminated soil and amendments; the location of all amendments, contaminated soil, 
+and compost on site; and the quantity at each location.  The location and quantity of each type of material 
+must be recorded on a map or diagram of the site.  This information must include cross-references to 
+specific manifest document numbers, if the waste was accompanied by a manifest.  Summary reports and 
+details of all incidents that require implementing contingency plans, or corrective action measures must 
+also be provided.  The reports must also include:  date and time of each monitoring or testing event; 
+results from each monitoring or testing event; monitoring procedure, or test method used; individual 
+performing the monitoring or testing, and other individuals present; and remarks.  Cross-references to 
+submittals specified in other sections may be provided to prevent duplicate information in separate submittals.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Safety data sheets (SDSs), certificates of analysis, and product performance data not more than [45] 
+[_____] calendar days after notice to proceed.  SDSs must be in accordance with <RID>29 CFR 1910</RID> Section 1200 
+(g).</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PREVIOUSLY CONDUCTED TREATABILITY STUDIES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be deleted if no previous treatability studies 
+have been conducted.</NPR><BRK/>
+<BRK/>
+<NPR>The methods employed in the previous treatability studies may not be the same 
+as those proposed by the Contractor.  Documentation of the previous treatability 
+studies should include the same information shown in the following sub-paragraphs:  
+Bench-Scale Test Report and Field Demonstration Report, in PART 3.  Treatability 
+study reports should be prepared to provide prospective Contractors with sufficient 
+information to prepare a responsive bid, or proposal, for the contract.  Treatability 
+studies are a necessary part of each composting project.  Bench-scale tests 
+and field demonstrations should be performed to determine which recipes of soil 
+and amendments are most likely to fulfill the treatment criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The treatability study report, appended to the technical specifications (<ATT>Appendix [_____]</ATT>), is for information 
+purposes only.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Composting Work Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Amendment Test</SUB></ITM><BRK/>
+<ITM><SUB>Bench-Scale Test</SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Odor Control</SUB></ITM><BRK/>
+<ITM><SUB>Treatment Completion Records</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Amendment Test</SUB></ITM><BRK/>
+<ITM><SUB>Bench-Scale Test Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Field Demonstration Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Operations Report</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Synthetic or Manufactured Additives</SUB></ITM><BRK/>
+<ITM><SUB>Composting Work Plan</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALIFICATIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The majority of composting projects completed to date have involved treatment 
+of soil contaminated primarily with TNT.  For sites with unusual, or difficult 
+to treat, contaminants of concern (e.g., exceptionally high levels of HMX or 
+RDX), the designer should consider including a requirement that the Contractor 
+have completed a field demonstration or full-scale project where explosives-contaminated 
+soil was successfully treated.  However, including such a requirement may limit 
+the number of qualified bidders, and drive up the price of the contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  Have successfully completed at least [1] [_____] windrow composting project that required processing 
+of a volume of compost comparable to the estimated volume of compost that will be generated during this 
+project.  Also have successfully completed at least [1] [_____] full-scale project, that required handling 
+and transport of soil contaminated with a [RCRA hazardous constituent, or CERCLA hazardous substance] 
+[_____].  For each project, the following must be provided:  site name, location, the names of the Contractor's 
+key personnel; key points of contact and phone numbers (including government representatives, and other 
+parties involved in the project); dates of mobilization/demobilization; contaminants of concern; and 
+the volume of contaminated soil handled or treated.  The following must also be provided, if applicable:  
+dates for initiating and completing treatment; amount of time required to treat each batch of contaminated 
+soil; volume of amendments added per unit volume of contaminated soil; final volume of finished compost; 
+concentrations of contaminants of concern in soil (before treatment), day zero (in compost), during treatment, 
+and after treatment.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Permits and Certifications.  Obtain the permits, permit equivalents and certifications; and meet 
+the substantive regulatory requirements necessary for the installation, operation and closure of the 
+project.  For any of the above-listed items requiring a longer time frame, copies of applications, and 
+scheduled dates for receiving final approval, must be included.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Drawings.  Project drawings must include, but must not be limited to:  layout of the facility; dimensions 
+of amendment storage areas, preprocessing areas, and treatment pad; dimensions and volumes of contaminated 
+soils stockpiles, treated materials stockpiles, and waste stockpiles; locations, dimensions, and volume 
+of collection sumps and any ancillary water storage facilities; dimensions, volumes and cross sections 
+of windrows; plan view and cross sections of perimeter berms and collection sumps; ancillary water storage 
+facilities; size of contact water conveyance devices and structures; piping and instrumentation diagrams; 
+and process flow diagrams.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROJECT/SITE CONDITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The pertinent site characterization data should be placed in the appendices 
+of the technical specifications or on the drawings, and referenced here.  If 
+the site contains a significant amount of debris, the available information 
+about its extent and characterization should also be provided.  Indicate the 
+detail to which site characterization has been performed and indicate where 
+data gaps exist.  The information should also include construction limits, property 
+survey, utilities, chemical data, geotechnical data, sampling locations, and 
+boring logs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The physical conditions indicated on the [drawings] [and] [specifications] are the result of site investigations.  
+The nature and extent of contamination are [summarized in Table 4] [shown in an appendix to the specifications] 
+[_____].  Perform an independent interpretation of the site characterization data.  Notify the Contracting Officer 
+in not more than [48 hours] [_____] if discrepancies between the data provided and actual field conditions are 
+discovered.</TXT><BRK/>
+<TAB HEADERROWS="3">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="5" ROWCOUNT="10">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="129.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="60.00"/>
+      <COL AUTOWIDTH="0" WIDTH="59.25"/>
+      <COL AUTOWIDTH="0" WIDTH="68.25"/>
+      <COL AUTOWIDTH="0" WIDTH="151.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="20.25">
+         <CEL MERGEACROSS="4" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 4 - NATURE AND EXTENT OF CONTAMINATION</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="12.75">
+         <CEL MERGEACROSS="4" STYLEID="s51">
+<DTA TYPE="STRING">CONTAMINATED  MATERIALS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">CONTAMINATED ZONE (1)</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">AREA 2</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">AVERAGE DEPTH (3)</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">VOLUME (4)</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">CONTAMINANTS OF CONCERN</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Zone 1</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Zone 2</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Zone 3</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">(1)  Contaminated zones are defined in [Drawings] [Appendix [_____]]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.00">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">(2)  Area in [square<MET> meters</MET><ENG> feet</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="18.00">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">(3)  Depth in [<MET>meters</MET><ENG> feet</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.75">
+         <CEL MERGEACROSS="4" STYLEID="s50">
+<DTA TYPE="STRING">(4)  Volume in [cubic<MET> meters</MET><ENG> yards</ENG>] [_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>STANDARD PRODUCTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It may be necessary to perform an explosive hazard analysis on equipment 
+used to process explosives-contaminated material (see DA PAM 385-64).  Equipment 
+used on previous composting projects may already have been subject to an explosives 
+hazard analysis (see Hazard Review of KW Windrow Composter, March 1992, in Appendix 
+E of USAEC CETHA-TS-CR-93043).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Materials and equipment must be the standard products of a manufacturer regularly engaged in the manufacture 
+of such products and must essentially duplicate items that have been in satisfactory use for at least 2 years 
+prior to bid opening.  Equipment must be supported by a service organization that is, in the opinion of the Contracting 
+Officer, capable of providing service, materials and equipment in an expedient manner.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WATER SUPPLY</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  One important concern for irrigation water is to ensure that salts do 
+not accumulate to levels that inhibit biological activity.  Conductivity is 
+an indicator of salt content.  Conductivity may be reported in micro-siemen 
+per cm, or micro-mho per cm.  Total dissolved solids (TDS) testing may be substituted 
+for conductivity.</NPR><BRK/>
+<BRK/>
+<NPR>Possible water sources include:  a nearby pond, or other surface water body; 
+a hydrant, or other connection to a water distribution line; used decontamination 
+water; and runoff from precipitation; see paragraph Storage Volume.  For most 
+composting operations, spontaneous combustion is an unlikely occurrence.  However, 
+if large quantities of very dry materials (e.g., leaves) will be used as amendments, 
+it may be necessary to include provisions for fire detection and/or fire protection 
+(see paragraph Moisture Control).  If there are susceptible structures nearby, 
+it may be necessary to ensure that the local water distribution system is adequate 
+to prevent a fire from spreading.  It may also be necessary to coordinate this 
+Section with Section <SRF>28 31 00.00 10</SRF> FIRE DETECTION AND ALARM SYSTEM, DIRECT 
+CURRENT LOOP or <SRF>28 31 64.00</SRF> 10 FIRE DETECTION AND ALARM SYSTEM, ADDRESSABLE.  
+This Section does not include provisions for fire protection.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Water for irrigation must not contain oils, acids, salts, alkalis, organic matter, solids or other substances 
+at concentrations that could be detrimental to the successful treatment of the contaminated materials.  The acceptable 
+ranges, or levels, of the following parameters in the irrigation water must not exceed the criteria established 
+in Table 5.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="6">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="1" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 5 - IRRIGATION WATER CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PARAMETER</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">REUSE CRITERIA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">maximum conductivity</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] micro-mho per cm</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">minimum pH</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] standard units</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">maximum pH</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____] standard units</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>AMENDMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Factors driving selection of amendments should include:  seasonal availability, 
+proximity of sources to the site, costs, amenability to storage and handling, 
+moisture content, odor potential, texture and porosity, carbon-to-nitrogen (C:N) 
+ratio, previous experience with using an amendment, and variability in the quality 
+of an amendment.  Amendment mixtures that have been successfully used for previous 
+projects, involving treatment of hazardous-waste-contaminated soil, should be 
+given primary consideration.</NPR><BRK/>
+<BRK/>
+<NPR>Theoretically, the C:N ratio of the compost recipe should be between 20:1-40:1.  
+The C and N contents of candidate amendments can be estimated using literature 
+values (see Appendix A of the On-Farm Composting Handbook).  Laboratory testing, 
+for moisture and ash content, may also be used to determine carbon content.  
+By subtracting the ash content from the dry weight, the organic matter content 
+can be determined.  The carbon content is usually determined by dividing the 
+organic matter content by 1.8.  Other amendment selection considerations are 
+provided in paragraph Amendment Testing and Bench-Scale Testing, in PART 3.</NPR><BRK/>
+<BRK/>
+<NPR>If the bulk density of the amendment recipe (not including soil) is greater 
+than<MET> 640 kg per cubic meter</MET><ENG> 40 lbs per cubic foot</ENG>, the recipe may not be sufficiently 
+porous.  Wood chips may be used to increase the porosity of a compost recipe; 
+however, depending on plans for end-use, large-diameter materials may have to 
+be separated from the finished material (see paragraphs SOIL PRE-PROCESSING, 
+Curing and Storage, and Disposal in PART 3).  It becomes more difficult to maintain 
+aerobic conditions in the windrow as the porosity decreases, and as the moisture 
+content increases (see paragraph Moisture Control in PART 3).  Use of amendments 
+with a extremely high moisture content (e.g., liquid manure) should be avoided.  
+The moisture content of the soil and amendments will control the initial moisture 
+content of the compost.  If the initial moisture content is too high, the windrow 
+may not heat up properly, and the process may fail.</NPR><BRK/>
+<BRK/>
+<NPR>The following amendment mixture has been successfully used for full-scale treatment 
+of explosives-contaminated soil:  30 percent soil, 17.5 percent sawdust, 17.5 
+percent hay, 21 percent cow manure, 10.5 percent chopped potato waste, 3.5 percent 
+chicken manure (as reported in USAEC CETHA-TS-CR-93043).  Based on previous, 
+successful composting projects for explosives-contaminated soil, the following 
+recipe of soil and amendments is recommended:</NPR><BRK/>
+<BRK/>
+<NPR>a.  30 percent Contaminated Soil.  It may be necessary to reduce the soil percentage 
+if clayey soils are being treated.</NPR><BRK/>
+<BRK/>
+<NPR>b.  15 - 20 percent Saw Dust/Wood Chips.  It may be advantageous to substitute 
+all or a portion of the sawdust with wood chips.  Wood chips provide for greater 
+porosity in the compost.  Use of cedar chips, or other aromatic wood chips, 
+should be avoided.</NPR><BRK/>
+<BRK/>
+<NPR>c.  15 - 17 percent Alfalfa Hay.  The quality of the hay may be marginal.  Moldy 
+alfalfa hay has been found to perform satisfactorily, and it is usually less 
+expensive than feed quality hay.</NPR><BRK/>
+<BRK/>
+<NPR>d.  10 - 20 percent Potato Waste.  Chopped potatoes are better than whole potatoes.  
+It may be possible to use other starch sources in lieu of potatoes.</NPR><BRK/>
+<BRK/>
+<NPR>e.  15 - 25 percent Manure.  Must be fresh (not dried).   Although chicken manure 
+has a higher nitrogen content, satisfactory results have been obtained using 
+only cow or steer manure.  Manure from ruminant animals (e.g., cows) is thought 
+to be the best source of microbial inoculum.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Representative samples from the first shipment of [manure, and potato waste (or other vegetable waste)] [_____] 
+must be tested for:  conductivity, and moisture content.  The concentration of glass, plastic, and other foreign 
+materials in each shipment of amendment must not exceed [5] [_____] percent, by dry weight.  Asbestos containing 
+materials must not be used as amendments.  The initial soluble salt content (conductivity) of the compost (including 
+soil and amendments) must not exceed [20] [_____] mmhos per centimeter.  The initial moisture content of the 
+compost (including soil and amendments) must not exceed [60] [_____] percent of the moisture content at field 
+capacity (or water holding capacity).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>SYNTHETIC OR MANUFACTURED ADDITIVES</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  It is usually unnecessary to include synthetic or manufactured additives 
+(e.g., surfactants or microbial inoculum) in compost recipes.  This paragraph 
+should be deleted if synthetic or manufactured additives will not be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A certificate of analysis must accompany each shipping unit of synthetic or manufactured additive supplied by 
+the vendor.  Ship additives in properly labeled containers with instructions for handling and storage.  Strictly 
+adhere to the instructions.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>AMENDMENT TESTING AND BENCH-SCALE TESTING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If a proven recipe will be used, testing of amendments may not be necessary 
+(see paragraph Amendments).  However, if a type of amendment has been proposed 
+for which there is no previous experience, the following tests may be warranted:  
+bulk density, moisture content, field capacity (or water holding capacity), 
+free carbonate, organic matter content (or volatile solids), ash content, pH, 
+conductivity, and total Kjeldahl nitrogen.  These paragraphs, and the corresponding 
+submittal descriptions, should be deleted if amendment testing and bench-scale 
+testing were performed prior to awarding this contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL><SUB>Amendment Test</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prior to the bench-scale test, collect and test samples of amendments for:  [moisture content, pH, and conductivity] 
+[_____].  For each type of amendment, [2 composite samples] [_____]  must be tested.  The following amendments 
+must be included in testing:  [manure, and potato waste (or other vegetable waste)] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Bench-Scale Test</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The testing described below is closely related to the Dewar self-heating 
+test that is used to determine the maturity of compost.  However, the testing 
+described below requires more intensive monitoring, a larger volume of material, 
+and more time than a standard Dewar self-heating test.</NPR><BRK/>
+<BRK/>
+<NPR>Self-heating tests are typically performed using insulated containers (e.g., 
+Dewar flasks), and may be used to assess whether recipes of soil and amendments 
+are suitable for composting; a recipe may be suitable if it heats up, and remains 
+at a sufficiently high temperature for a extended period of time.  Self-heating 
+tests may also be used to determine if an organic contaminant that has not previously 
+been treated via composting, is amenable to composting.</NPR><BRK/>
+<BRK/>
+<NPR>It is possible to use containers with a volume of less than<MET> 4 L</MET><ENG> 1 gallon</ENG> for 
+self-heating tests; however, a minimum volume of<MET> 4 L</MET><ENG> 1 gallon</ENG> is recommended 
+for the following reasons:  to more accurately simulate conditions of a compost 
+windrow (height of about<MET> 1.5 m</MET><ENG> 5 feet</ENG>); and to reduce the chances of using soil 
+samples that are not representative of site conditions.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After completion of amendment testing, review the test results, and submit the proposed recipes of soil and amendments 
+to be included in the bench-scale testing.  Perform at least [three, replicate] [_____] self-heating tests simultaneously 
+for each selected recipe.  Prior to testing, homogenize and divide each recipe into replicate volumes.  The volume 
+of material (including soil and amendments) included in each container for the self-heating tests must be not 
+less than [<MET>[4] [_____] L</MET><ENG> [1] [_____] gal</ENG>] [_____].  Self-heating tests must be performed for a period of not 
+less than [28 days] [_____], during which temperature monitoring must be performed [daily] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Bench-Scale Test Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>After completion of bench-scale testing, review the test results, and propose the recipes of soil and amendments 
+to be included in the field demonstration.  Include the proposal for the field demonstration in the Field Demonstration 
+submittal.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MOBILIZATION</TTL><BRK/>
+<BRK/>
+<TXT>Do not mobilize to the site until written approval is received from the Contracting Officer.  Delays caused by 
+the Contractor's failure to acquire permits, meet other regulatory requirements, or fulfill other contract requirements 
+must result in no additional costs.  Equipment which may have previously come into contact with contaminated 
+material must be decontaminated before being brought to the site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EMISSIONS AND DUST CONTROL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  See EP 1110-1-21, Air Pathway Analysis for the Design of Hazardous, Toxic 
+and Radioactive Waste (HTRW) Remedial Action Projects, to determine the need 
+for perimeter air monitoring and air emission control requirements.  If necessary, 
+perimeter air action levels, and meteorological monitoring and air emission 
+control requirements, should be included in this Section.  If perimeter air 
+monitoring, and emission control requirements are not necessary, this paragraph 
+should be deleted.</NPR><BRK/>
+<BRK/>
+<NPR>It may be necessary to implement control measures during the following activities:  
+the field demonstration, excavation, hauling, stockpiling, separation of oversize 
+materials, blending amendments, blending amendments and soil, construction of 
+windrows, mixing windrows, transport of compost, disposal of finished compost, 
+and reuse of finished compost (e.g., land application).  There may be an increased 
+potential for human exposure to ammonia gas and mold spores (e.g., Aspergillus 
+fumagatus) during composting.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following measures must be implemented to control emissions, and dust:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>FIELD DEMONSTRATION</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The field demonstration requirements are a function of the uncertainty 
+of the materials to be treated.  For well defined wastes that are known to be 
+amenable to composting, optimization testing (performed using full-scale equipment 
+and facilities) may be adequate.  If the amenability of the contaminated material 
+to composting has not been established, the field demonstration should be preceded 
+by bench-scale testing.  If the process has yet to be demonstrated on a large 
+scale for the specific soil type and contaminants of concern, it may be advantageous 
+to perform the field demonstration prior to construction of full-scale facilities.</NPR><BRK/>
+<BRK/>
+<NPR>The recipe of soil and amendments used in the field demonstration will be based 
+on the results of the bench-scale test.  To prevent scale-up problems between 
+the field demonstration and full-scale operations, the batch size used for the 
+field demonstration should be at least<MET> 23 cubic meters</MET><ENG> 30 cubic yards</ENG>, and not 
+less than 5 percent of the proposed batch size for full-scale operations.  A 
+batch is defined as that amount of material, including soil and amendments, 
+for which treatment is initiated at the same time during full-scale operations.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prior to full scale composting operations, perform a field demonstration.  If the materials treated during the 
+field demonstration do not meet the treatment criteria, process an equal quantity of the same type of material 
+that failed, using properly modified operating conditions, until satisfactory results are obtained.  Keep any 
+treated materials that failed the field demonstration segregated and return to the contaminated materials stockpile 
+area for processing during full-scale remediation.  The volume of each windrow, including soil and amendments, 
+included in the field demonstration must be not less than<MET> [23] [_____] cubic meters</MET><ENG> [30] [_____] cubic yards</ENG>.  
+Separate windrows, spaced to prevent intermingling of contaminated material, must be provided for each recipe 
+and/or condition being tested.  Recipes and/or Conditions to be tested must include:  [_____].  Conduct the field 
+demonstration using the same windrow dimensions, and similar irrigation and mixing methods as proposed for the 
+full scale operations.  Do not initiate the field demonstration until written approval has been received from 
+the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Sampling Locations</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Chemical testing should be performed to verify that the materials to 
+be used for the field demonstration contain the contaminants of concern at high 
+enough concentrations to adequately test the process.  Additional testing may 
+be warranted to verify that the physical properties of the materials are representative 
+of site conditions.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Contaminated material used for the field demonstration must be obtained from the following locations:  [_____].  
+Prior to performing the field demonstration, [3 composite samples] [_____] of the material to be used for the 
+field demonstration must be tested in accordance with the Field Demonstration Plan to determine if it contains 
+the following minimum levels of contamination:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Monitoring</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Because a more intensive level of monitoring is usually required during 
+the field demonstration than during full-scale operations, a separate set of 
+Operation, Maintenance and Process Monitoring requirements may need to be prepared.  
+The following differences in monitoring requirements are typical for the field 
+demonstration versus full-scale operations:  sampling stations may be spaced 
+more densely; temperature, moisture content, and field capacity testing may 
+be performed more frequently; and sampling and analysis for contaminants of 
+concern may be performed on a more frequent, and more regular basis.  The field 
+demonstration may also provide an opportunity to develop a site-specific correlation 
+between field, and laboratory analysis methods.  A sufficient amount of time 
+should be scheduled for the field demonstration to allow each contaminant of 
+concern to reach asymptotic levels.  Also, the amount of sampling and analysis 
+for contaminants of concern should be sufficient to assess the degree of variability 
+in the final concentrations; so that it can be determined if cleanup goals will 
+be reached.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>During the field demonstration, sampling and analysis must be performed as indicated under paragraph OPERATION, 
+MAINTENANCE AND PROCESS MONITORING, below; in addition to these requirements, the following processing monitoring 
+requirements must be implemented:  [_____].  The field demonstration must not exceed [60] [_____] days from the 
+initial blending of soil and amendments until completion of composting.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Field Demonstration Report</SUB></TTL><BRK/>
+<BRK/>
+<TXT>After completion of field demonstration, review the data from the field demonstration.  Proposed changes in Operations, 
+Maintenance and Process Monitoring must be included in the Field Demonstration Report submitted to the Contracting 
+Officer for review.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SOIL PRE-PROCESSING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Soil pre-processing may include stockpiling, screening, and blending 
+of contaminated materials.  The maximum recommended particle diameter for compost 
+mixing equipment can range from<MET> 25 to 100 mm</MET><ENG> 1 to 4 inches</ENG>.  However, the end 
+use for the compost may dictate that the maximum particle diameter not exceed<MET>
+ 13 mm</MET><ENG> 0.5 inch</ENG> (see paragraph Curing, Storage and Disposal); and that the concentration 
+of glass, plastic, and other foreign materials in soil not exceed 5 percent, 
+by dry weight.  Although it may be possible to include relatively large particles 
+in compost, an additional screening step may also be necessary to remove the 
+large particles prior to disposal.  This paragraph should be coordinated with 
+paragraph Amendments.  If explosives-contaminated soil will be treated, it may 
+be necessary to require that an explosives hazard analysis be performed on the 
+material handling equipment (see DA PAM 385-64; and Hazard Review of KW Windrow 
+Composter, March 1992, in Appendix E of USAEC CETHA-TS-CR-93043).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The maximum particle size in soil must be [compatible with approved material handling equipment] [_____].  Oversize 
+materials must be separated from contaminated soil prior to mixing soil with amendments.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>OPERATION, MAINTENANCE AND PROCESS MONITORING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Operation and monitoring requirements should be based on:  applicable 
+literature references; knowledge gained from treatability studies and the field 
+demonstration; and historical data from projects with similar soils, amendments, 
+and contaminants.  Diligent process monitoring (e.g., monitoring temperature 
+and controlling moisture content) is fundamental to successful composting.  
+Because there will always be exceptions, where the default values provided in 
+these paragraphs do not suit a specific project, the following paragraphs should 
+be edited appropriately.  These paragraphs should be coordinated with Division 
+1 Sections of the contract; operations, maintenance, and process monitoring 
+requirements are covered in a Division 01 Section of some contracts.</NPR><BRK/>
+<BRK/>
+<NPR>Some requirements for sampling and analysis are included below.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Full-scale composting operations must not be initiated until the Composting Work Plan has been approved, and 
+written approval has been received from the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Amendment Storage</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Manure and vegetable wastes are the primary sources of objectionable 
+odor during composting.  After blending manure and vegetable wastes with amendments, 
+objectionable odors will usually dissipate after about 7 to 14 days.  It may 
+be allowable to relax the maximum holding time for manure and vegetable wastes, 
+if the site is remotely located and odor control is not an issue.</NPR><BRK/>
+<BRK/>
+<NPR>Depending on amendment selection and other site-specific factors, controls may 
+be necessary to prevent insects and rodents from infesting the amendment storage 
+area.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>To minimize odor generation, manure and vegetable wastes must be delivered to the site not more than [24 hours] 
+[_____] prior to blending of soil and amendments.  Any excess manure and vegetable wastes, not blended with soil, 
+must either be removed from the site not more than [24 hours] [_____] after blending was initiated; or must be 
+blended with other excess amendments and composted onsite.  Excess manure and vegetable wastes must be disposed 
+of in accordance with regulatory requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Windrow Construction</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Initial homogenization may be accomplished by layering the raw materials 
+into the shape of a windrow, and then mixing with windrow turning equipment.  
+However, it may be possible to achieve a more thorough mix of the soil and amendments 
+if they are blended in a separate vessel prior to forming windrows.  The percentage 
+of soil in the compost mixture should be based on previous composting projects, 
+or preferably bench-scale testing and a field demonstration.</NPR><BRK/>
+<BRK/>
+<NPR>Typical dimensions for compost piles created by self propelled windrow turners 
+are: <MET> 1.2 to 2.7 m</MET><ENG> 4 to 9 feet</ENG> high, and<MET> 3 to 6 m</MET><ENG> 10 to 20 feet</ENG> wide.  However, 
+sufficient temperatures may not be reached unless the initial height of the 
+windrows is at least<MET> 1.5 m</MET><ENG> 5 feet</ENG>.  The height of the windrows will decrease 
+during treatment.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The following measures must be taken to prevent freezing of contaminated soil that is scheduled to be composted 
+during sub-freezing conditions:  [_____].  The initial height of compost windrows must be not less than<MET> [1.5] 
+[_____] m</MET><ENG> [5] [_____] feet</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Mixing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If irrigation and turning are performed separately, mixing should be 
+performed soon after irrigation to provide for more uniform distribution of 
+moisture.</NPR><BRK/>
+<BRK/>
+<NPR>The frequency of mixing should be related to temperature monitoring.  When temperatures 
+exceed<MET> 65 degrees C</MET><ENG> 150 degrees F</ENG>, mixing may be implemented to cool the pile.  
+If excessively high temperatures cannot be controlled through turning, then 
+the size of the compost windrows may have to be reduced.  Low temperatures may 
+indicate that oxygen levels in pore spaces within the pile are insufficient, 
+and that the pile should be mixed.  However, excessive mixing may impede the 
+pile from reaching optimal temperatures.  Isolated hot or cool spots may indicate 
+the location of incompletely mixed pockets.  After optimal temperatures have 
+been maintained for about 10 days, it may be possible to reduce the frequency 
+of mixing without adversely affecting the process.  However, frequent and thorough 
+mixing should result in more homogenous compost, and should reduce the variability 
+of chemical data.  On a previous project, daily windrow mixing was discontinued 
+after definitive field analysis indicated that cleanup goals had been met.  
+Thus, after about 12 days of mixing, the windrows were allowed to set static 
+until after data from compliance samples was received.  Even if mixing is discontinued, 
+temperature and moisture content monitoring should continue.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Unless otherwise indicated, the compost pile must be thoroughly mixed each day.  Mixing must be performed at 
+least once per day, for at least [10] [_____] days.  Additional mixing may be required in response to process 
+monitoring; for example, to control temperature, odor and to provide additional aeration.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The potential for spontaneous combustion will increase as the moisture 
+content falls below optimum levels.  The water content at saturation will vary 
+depending on what raw materials were used in the compost.  Determination of 
+water content as a percent of field capacity (or water holding capacity) provides 
+a more "universal" indicator of the degree of saturation.  Field capacity is 
+determined by saturating a sample, allowing the free water to drain, and then 
+determining the moisture content; field capacity is the mass of water in the 
+sample divided by the dry weight.  The recommended moisture content for composting 
+is between 40 and 65 percent of the moisture content at field capacity.  The 
+procedure shown in USAEC CETHA-TS-CR-93043 has been used to determine the field 
+capacity of compost for previous projects.  Because the field capacity will 
+change as the compost matures, periodic testing for field capacity should be 
+required.  Finally, a crude indicator of proper moisture content has been described 
+as follows:  the compost should feel moist, but not so moist that free water 
+is released when squeezed by the hand.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Moisture Content and Field Capacity Testing</TTL><BRK/>
+<BRK/>
+<TXT>Immediately after initiating treatment of each batch of compost, a minimum of one representative, composite sample 
+per each<MET> [69] [_____] cubic meters</MET><ENG> [90] [_____] cubic yards</ENG> of compost must be tested to determine percent moisture 
+(by weight), the moisture content at field capacity.  Field capacity testing must be performed every Monday for 
+the first [4] [_____] weeks and [every two weeks] [_____], thereafter.  Testing for moisture content must be 
+performed every Monday, Wednesday, and Friday the first [4 weeks] [_____] and [every Monday and Friday] [_____] 
+thereafter.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Irrigation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Factors influencing irrigation water requirements include the initial 
+moisture content of the soil and amendments, and the climate.  A tank truck 
+or a water storage tank may be necessary if a local water source (e.g., surface 
+water body) is not available; see paragraph Storage Volume.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>When testing indicates that the moisture content is below [40] [_____] percent of the moisture content at field 
+capacity, the moisture-deficient portions of each windrow must be irrigated.  The water application rate must 
+be measured.  The application rate, duration of the irrigation period, and volume of water applied must be recorded.  
+Sufficient irrigation must be provided to bring the moisture content to within the acceptable limits in not more 
+than [48] [_____] hours.  Irrigation and mixing must be synchronized so that water is distributed uniformly throughout 
+the windrows.  Irrigation must be immediately ceased if ponded water is observed near any windrow; the time, 
+date, and location of the ponded water must be recorded in the <SUB>Operations Report</SUB>, and the ponded water must be 
+removed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contact Water Testing</TTL><BRK/>
+<BRK/>
+<TXT>Contact water, to be reused as irrigation water, must be tested for pH and conductivity on the [first,] [second,] 
+[_____] and [fourth] [_____] week after initiating treatment of each batch of compost.  If there is more than<MET>
+ [13] [_____] mm</MET><ENG> [1/2] [_____] inches</ENG> of precipitation in a 24 hour period, the pH and conductivity of the contact 
+water must be tested after water from the precipitation event has collected in the contact water storage facility.  
+Each time testing is performed, either one representative sample must be withdrawn from the contact water holding 
+vessel, or the water in the holding vessel must be directly tested by immersing the instrument probe in the contact 
+water.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Temperature</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Temperature is indicator of microbial activity, and one of the most important 
+parameters for monitoring the composting process.  The temperature of windrows 
+should be monitored immediately before and after mixing.  The temperature range 
+for the thermophilic stage of composting is usually considered to be between 
+43 and<MET> 65 degrees C</MET><ENG> 110 and 150 degrees F</ENG>, preferably between<MET> 54 and 60 degrees 
+C</MET><ENG> 130 and 140 degrees F</ENG>.  When temperatures continue to increase past<MET> 71 degrees 
+C</MET><ENG> 160 degrees F</ENG>, microbes become dormant or die.  See paragraph Mixing regarding 
+control of excessively high temperatures.  The temperature of a compost pile 
+will gradually stratify after mixing.  The highest temperatures may be observed 
+in the outer layer of the pile.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Temperature Probe Calibration</TTL><BRK/>
+<BRK/>
+<TXT>Temperature probes must have a range from<MET> [0] [_____] to at least [100] [_____] degrees C</MET><ENG> [32] [_____] to at 
+least [212] [_____] degrees F</ENG>.  Probes must be calibrated by taking readings in an ice bath, and in boiling water.  
+Each temperature probe must be uniquely marked for identification, and calibrated prior to use.  Readings from 
+each probe must be recorded with each calibration event, before and after calibration, and the identifier on 
+the temperature probe must also be recorded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Temperature Monitoring</TTL><BRK/>
+<BRK/>
+<TXT>The temperature of the windrows must be tested each day immediately before and after mixing.  The temperature 
+must be monitored at a minimum of [2] [_____] locations, per<MET> [23] [_____] cubic meter</MET><ENG> [30] [_____] cubic yard</ENG>
+ section of compost.  The temperature, time, and monitoring location must be recorded during each monitoring 
+event.  The depth and location of each temperature reading must be recorded.  Ambient air temperatures in the 
+treatment area, and the time of monitoring must be recorded daily.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Compost pH</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The pH should usually be maintained between 5.5 and 9, preferably between 
+6.5 and 5.5 standard units.  Excessive volatilization of ammonia may result 
+if the pH exceeds 5.5.  However, it is usually unnecessary to adjust the pH 
+during composting; and use of pH adjusting agents (e.g., lime) may be detrimental 
+to the process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>At a minimum, the pH of the compost must be tested each Monday and Friday on the [first, second, and third] [_____] 
+week after initiating treatment of each batch of compost, and [each Monday] [_____] thereafter until treatment 
+criteria has been met for contaminants of concern.  Testing the pH of compost must be performed in accordance 
+with paragraph Non-Standard Test Requirements for Composting.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Odor Control</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Odor is an important indicator of the condition of a compost pile.  Strong 
+putrid odors usually indicate that anaerobic conditions are present, and that 
+mixing (aeration) may be necessary for the pile from which odors are arising.  
+Strong odors may also indicate that the pile, or a portion of the pile is too 
+wet.  Excessive ammonia odors may indicate that the C:N ratio of the compost 
+recipe is too low, and/or that the pH is too high.  Odors will usually be generated 
+during the following activities:  amendment delivery and storage; blending of 
+soil and amendments; and during the composting process, including during mixing.  
+See paragraph Amendment Storage for more information.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Monitor and record the presence or absence of odors in the treatment facility [each day] [_____], for not less 
+than [5] [_____] days of each week.  If objectionable odors are detected, record the following in the Operations 
+Report:  locations where the odors are the strongest; description of the odors; the times and dates when the 
+odors were detected; and the name of individual who observed, described and recorded the odor.  If, in the opinion 
+of the Contracting Officer, there is a persistent problem with objectionable odors that has not been properly 
+addressed, the Contractor will be notified to implement measures to reduce odor levels.  Odor control measures 
+must be implemented not more than [24] [_____] hours after notification from the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oxygen</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The concentration of oxygen in the air spaces within the compost pile 
+should typically be greater than 5 percent by volume (the concentration of oxygen 
+in air is approximately 21 percent by volume).  Oxygen levels will continually 
+decrease after each mixing event as aerobic microorganisms consume oxygen.  
+If used, oxygen monitoring should be performed at regular intervals, after each 
+mixing event.  Usually, temperature monitoring is adequate to control the composting 
+process, and oxygen monitoring is unnecessary.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Regularly scheduled monitoring of interstitial oxygen levels will not be required.  However, oxygen monitoring 
+may be used as a diagnostic, or trouble-shooting tool.  If oxygen monitoring is performed, the monitoring location, 
+the time of the last mixing event, and the time of each oxygen monitoring event must be recorded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Non-Standard Sampling and Analysis</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph only contains methods for relatively uncommon tests, and 
+tests that are unique to composting.  Field capacity may also be determined 
+via ASTM D6836 Standard Test Methods for Determination of the Soil Water Chararcteristic 
+Curve for Desorption Using a Hanging Column, Pressure Extractor, Chilled Mirror 
+Hygrometer, and/or Centrifuge.</NPR><BRK/>
+<BRK/>
+<NPR>As alternatives to the Dewar self-heating test, respiration tests may be used 
+to determine the maturity of compost.  The text, The Science of Composting, 
+by Epstein, 1997, provides compost stability index values for respiration testing 
+(both for oxygen uptake, and carbon dioxide evolution).  ASTM D5975 also uses 
+oxygen consumption to assess compost maturity.  Depending on the planned end 
+use for the compost, some tests shown in this paragraph may not be necessary 
+and should be deleted.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Testing compost for field capacity (or water holding capacity) must be performed in accordance with section 3.8.1 
+(Moisture Monitoring) of <RID>USAEC CETHA-TS-CR-93043</RID>.  Testing compost for pH and conductivity (soluble salts) must 
+be performed in accordance with <RID>NRAES 54</RID>, Chapter 3 (Raw Materials), the Saturated Paste Method.  [The Dewar 
+self-heating test for compost maturity must be performed in accordance with <RID>BIOCYCLE</RID>] [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sampling and Analysis for Contaminants of Concern</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Under some conditions, it may be more cost-effective to use definitive 
+field analysis (e.g., immunoassay or colorimetric methods), than to require 
+laboratory analysis for all contaminants of concern.  However, it may also be 
+necessary to develop a site-specific correlation between data from field, and 
+laboratory analysis.  Pigmented materials present in extracts from compost samples 
+may cause interferences in colorimetric, definitive field analysis.  For more 
+information see EPA 540 R-97/501, Field Sampling and Selective On-Site Analytical 
+Methods for Explosives in Soil.  Laboratory analysis should be required on a 
+minimum percentage of samples to verify data from definitive field analysis.</NPR><BRK/>
+<BRK/>
+<NPR>Collecting samples from the edges and outer surface of the pile should be avoided, 
+since these locations may not be representative of the bulk of the pile.  The 
+strategy for sampling and analysis should be consistent with the regulatory 
+requirements for the data.  States may impose more restrictive sampling requirements 
+than those under Federal regulations.  Compliance testing requirements are usually 
+project specific, and based on negotiations with regulatory officials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Sampling and analysis must be in accordance with [_____].  Results from each sampling event must be furnished 
+to the Contracting Officer not more than [24] [_____] hours after data is recorded by the Contractor, or released 
+by the laboratory.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Sampling Frequency and Locations for Pre-Compliance Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This is an example of a pre-compliance testing protocol used during a 
+previous composting project, and should be applicable to projects where definitive 
+field analysis will be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>At a minimum, sampling must be conducted two times during treatment of each batch:  (1)  immediately after initial 
+blending of soil and amendments; and (2)  at the estimated time at which the cleanup levels will have been met 
+(based on the results of the field demonstration).  To determine locations of sampling stations, the windrows 
+must be divided into sections.  Each section must be a maximum<MET> [23] [_____] cubic meters</MET><ENG> [30] [_____] cubic yards</ENG>
+.  Each section must include one sampling station.  Sampling stations must be represented by vertical planes 
+that transverse the width of the windrow.  Samples must be collected from a minimum of [4] [_____], separate 
+locations within each sampling station.  Samples from each sampling station must be [composited prior to testing] 
+[_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pre-Compliance Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Definitive field analysis methods have been used for pre-compliance testing 
+during previous composting projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Testing for the following analytes must be performed during pre-compliance testing:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Confirmation of Attainment of Treatment Criteria</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Various methods of statistical analysis may be used to determine if treatment 
+criteria has been attained.  For example, after treatment of each batch is completed, 
+the Contractor may be required to show that the mean of the data for each batch 
+is below a specified value, and/or that the upper 95th percentile of the data 
+for each batch is below a specified value.  Although the following EPA reference 
+describes procedures for determining whether a specified percentile of material 
+is less than a cleanup standard (EPA 230/02-89-042, Methods of Evaluation and 
+Attainment of Cleanup Standards), it may not be practical to implement this 
+type of requirement.  One alternative is to establish "ceiling" values for each 
+contaminant of concern.  Thus, in addition to requiring that the mean of the 
+data for each batch be below a specified value, there may be a requirement that 
+"single-sample" values must not exceed a pre-determined ceiling value.  Use 
+of ceiling values may eliminate the need for statistical analysis of data by 
+construction QA representatives.  There should be a statistical basis for ceiling 
+values, and the basis for establishing ceiling values should be proposed early-on 
+in design (e.g., in the design analysis report).  Establishing ceiling values 
+for contaminants of concern should be project specific, and based on negotiations 
+with regulatory officials.  The contract should be written so that the Contractor 
+has a clear and consistent basis for determining the amount of sampling and 
+analysis that will be required.  See the following reference for more information 
+on sampling and analysis:  EM 200-1-3, Requirements for the Preparation of Sampling 
+and Analysis Plans.</NPR><BRK/>
+<BRK/>
+<NPR>Treatment criteria should be specified on a "per-batch basis" so that the Contractor 
+will be free to proceed with treating subsequent batches after the data from 
+each batch has been received.  This paragraph should be coordinated with paragraph, 
+Treatment Criteria for Composted Soil.  This is only an example of compliance 
+testing requirements, based on a contract from a previous composting project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After pre-compliance testing indicates that a batch of compost has met treatment criteria, and written approval 
+has been received from the Contracting Officer, compliance sampling must be performed.  To determine sampling 
+locations, the windrows must be divided into sections.  Each section must be a maximum<MET> [23] [_____] cubic meters</MET><ENG>
+ [30] [_____] cubic yards</ENG>.  Two discrete samples, collected from randomly selected locations within each section, 
+must be tested.  If the samples collected for analysis contain rock or gravel, this material must be separated 
+from the rest of the sample.  The rock and gravel must be crushed to the appropriate size, recombined with the 
+rest of the sample (using a sample splitter to assure sample homogeneity), and the entire sample must be homogenized.  
+Conduct testing using the method specified in [_____].  The mean of the data for each batch of compost must be 
+less than the level shown for each contaminant, in paragraph Treatment Criteria for Composted Soil.  Submit <SUB>Treatment 
+Completion Records</SUB> as specified.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Post-Treatment Procedure</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If treatment criteria for contaminants of concern have been met, but 
+criteria for re-use (see paragraph Treatment Criteria and Criteria for Reuse 
+of Composted Soil, in PART 1) have not been met, the compost should either remain 
+on the treatment pad, or be moved to a curing/storage area.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After compliance test data indicates that treatment criteria have been met, and written approval from the Contracting 
+Officer has been received, the treated material may be removed from the treatment pad, at the Contractor's option.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Procedure for Non-Attainment of Treatment Criteria</TTL><BRK/>
+<BRK/>
+<TXT>If the treatment criteria is not achieved, implement corrective action at no additional cost.  The corrective 
+action may include:  additional sampling to provide more data points for statistical analysis; or continued treatment.  
+If there are portions of compost for which substantial reduction of contaminants of concern was not observed 
+after the end of the estimated treatment period, prepare a report detailing all activities associated with those 
+portions of the compost.  The report must include:  probable causes as to why significant reductions were not 
+observed; measures that will be implemented to prevent the same problems from recurring; and a proposed plan 
+for continued treatment of those portions of the compost where treatment criteria were not met.  Obtain written 
+approval from the Contracting Officer prior to implementing measures that deviate from the Composting Work Plan.  
+Continue monitoring (at no additional cost, and in accordance with paragraphs OPERATION, MAINTENANCE AND PROCESS 
+MONITORING, above), until the treatment criteria is attained.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Curing and Storage</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The dimensions of the curing and storage area should be based on the 
+amount of time required for curing, the amount of time that cured compost will 
+remain in storage, and the dimensions of curing and storage piles.  The volume 
+of treated material will usually be less than the initial volume of the compost 
+(see paragraph Disposal, below).  The compost is usually allowed to cure until 
+after the following has been observed:  the high temperature (43 to 65 degrees 
+C) stage of the process has been completed; the temperature has fallen back 
+to about 38 degrees C or less; and the windrows no longer heat-up after turning.  
+The On-Farm Composting Handbook recommends curing for at least one month.  Immature, 
+or improperly cured compost may be detrimental to plants.  Properly cured compost 
+should have no objectionable odor.  Although it is usually unnecessary to turn 
+compost during curing, the compost should remain aerobic.  Thus, the size of 
+the piles should be limited.  During curing and storage, the potential for spontaneous 
+combustion and development of anaerobic conditions (or souring) increases as 
+the dimensions of the compost piles increase.  On a previous composting project, 
+a cellulose tackifying agent was used to prevent the wind from dispersing treated 
+compost.  Only readily biodegradable tackifying agents should be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The slope of the surface of the areas for curing and storage must be not less than [2 percent] [_____].  The 
+surfaces of areas for curing and storage must be well drained, and kept free of standing water at all times.  
+If anaerobic conditions develop during curing or storage, the compost must be remixed, spread on a covered, dry 
+surface, and allowed to aerate for at least 24 hours before reforming the piles.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Post-Treatment Screening</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If wood chips or other large diameter particles must be separated from 
+the finished compost prior to disposal, it may be desirable to reuse this material 
+in subsequent batches of compost.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Wood chips or other materials whose size exceeds the maximum acceptable size for the intended end use must be 
+separated from the finished compost prior to disposal.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DISPOSAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Depending upon the characteristics and quantities, the potential disposal 
+scenarios for wastes may include:  onsite treatment and backfilling; partial 
+onsite backfill and partial offsite disposal; and offsite disposal.  Asphalt 
+surfaces may be removed and sent offsite for recycling.  One disposal scenario 
+for each type of waste should be clearly defined.</NPR><BRK/>
+<BRK/>
+<NPR>After treatment, a volume decrease of approximately 50 percent may be observed 
+for compost that originally contained 30 percent soil and 70 percent amendments.  
+If the compost will be applied as a soil amendment, the following indices should 
+meet quality guideline standards:  pH, the Dewar self-heating test, conductivity, 
+maximum particle size, foreign material content, and the levels of heavy metals.  
+In addition, the plan for final disposition of the compost should take into 
+account the conductivity, maximum particle size, foreign material content, and 
+the levels of heavy metals in the untreated soil to assess if the final product 
+will be suited for the desired end use.  See the On-Farm Composting Handbook 
+for more on quality guidelines for different end uses of compost; also, see 
+paragraph Treatment Criteria and Criteria for Reuse of Composted Soil, in PART 
+1.  According to the On-Farm Composting Handbook, if the end use for compost 
+will be as a soil amendment, the compost application rate should not exceed<MET> 
+4 cubic meters per 110 square meters</MET> <ENG>4 cubic yards per 1000 square feet</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Compost that has met treatment criteria [and criteria for reuse] must be disposed of in accordance with regulatory 
+requirements.  The following materials must be treated, if necessary, and disposed of on-site:  [oversize materials] 
+[sludge resulting from treatment of contact water] [excess amendments] [and] [_____].  The following materials 
+must be treated, if necessary, and disposed of off-site:  [spent personal protective equipment] [spent granular 
+activate carbon] [and] [_____].  Offsite disposal of hazardous material must be in accordance with Section 
+<SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL OF HAZARDOUS MATERIALS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DEMOBILIZATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A separate table should be prepared if criteria for soils below the treatment 
+pad, or other areas of the treatment facility, differs from criteria in Tables 
+1 and 2.  This paragraph should be edited appropriately if it is desired to 
+retain portions of the composting treatment facilities after project completion.  
+This paragraph should also be coordinated with Division 01 Sections of the contract.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Demobilization must restore the site to its initial state, prior to the construction and operation of the composting 
+treatment facilities.  Demobilization must not commence until written approval is received from the Contracting 
+Officer.  Demobilization must include, but must not be limited to:  [removal of structures and materials used 
+to house or cover the compost piles,] [disconnecting of utility service lines,] [decontamination and removal 
+of equipment and materials,] [disposal of decontamination wastes,] [disposal of any residual wastewater,] [removal 
+of unused amendments and other materials,] [removal of material overlying liners,] [removal of liners,] [regrading 
+and removal of berms,] [demolition and disposal of the treatment pad, other foundation slabs, and paved surfaces,] 
+[_____].  [Post-treatment testing of soils below work area surfaces must be performed (after the liners or pavement 
+have been removed), to verify that the area is not contaminated.  These soils must meet the following criteria:  
+[treatment criteria in accordance with paragraph Treatment Criteria for Composted Soil.] [_____]].</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

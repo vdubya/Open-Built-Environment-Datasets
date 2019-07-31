@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-01 45 35 (February 2015)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-01 45 35 (August 2008)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 45 35</SCN><BRK/>
+<BRK/>
+<STL>SPECIAL INSPECTIONS</STL><BRK/>
+<DTE>02/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>special inspections 
+when required by UFC 3-301-01.  This specification will apply only to buildings</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification will be applicable to both new buildings and 
+existing building rehabilitations designed according to UFC 3-301-01 STRUCTURAL ENGINEERING.<BRK/>
+<BRK/>
+In addition to the Special Inspection and testing specified requirements, a 
+registered design professional must perform "structural observations" during 
+construction when required by UFC 3-301-01. All observed deficiencies will be 
+immediately reported to the Contracting Officer. The registered design professional 
+performing these observations will be a representative of the Designer of Record 
+(DOR) for the building being constructed.<BRK/>
+<BRK/>
+Structural observations are required for the following project conditions per 
+IBC Chapter 17:<BRK/>
+<BRK/>
+1) Seismic Design Category D, E or F; and assigned<BRK/>
+   to Risk Cat III, IV or V.<BRK/>
+2) Seismic Design Category D, E or F; and with a<BRK/>
+   height greater than<MET> 22860 mm</MET><ENG> 75 ft</ENG>.<BRK/>
+3) Seismic Design Category E, assigned to Risk <BRK/>
+   Category I or II and the building is greater <BRK/>
+   than two stories above grade plane.<BRK/>
+4) Nominal design wind speed in excess of<MET> 49 m/sec</MET><ENG><BRK/>
+   110 mph</ENG>; and assigned to Risk Cat III, IV or V.<BRK/>
+5) Nominal deisgn wind speed in excess of<MET> 49 m/sec</MET><ENG><BRK/>
+   110 mph</ENG>; and with a height greater than<MET> 23 m</MET><ENG> 75 ft</ENG>.<BRK/>
+<BRK/>
+Coordinate with the Contracting Officer how Structural Observations will be 
+covered for Design-Bid-Build projects as this service will not be covered by 
+the Contractor.<BRK/>
+<BRK/>
+Special Inspections are minimum Quality Assurance requirements that are in addition 
+to the Quality Control requirements that are defined in Sections 
+<SRF>01 45 00.00 10</SRF> QUALITY CONTROL and <SRF>01 45 00.00 20</SRF> QUALITY CONTROL.<BRK/>
+<BRK/>
+The requirements for Special Inspections, the special inspector, and related 
+testing will be used where required by UFC 3-301-01 and UFC 4-023-03.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE)</ORG><BRK/><BRK/><RID>ASCE 7</RID><RTL>(2017) Minimum Design Loads for Buildings and Other Structures</RTL><BRK/><BRK/></REF><REF><ORG>INTERNATIONAL CODE COUNCIL (ICC)</ORG><BRK/><BRK/><RID>ICC IBC</RID><RTL>(2018) International Building Code</RTL><BRK/><BRK/></REF><REF><ORG>U.S. DEPARTMENT OF DEFENSE (DOD)</ORG><BRK/><BRK/><RID>UFC 3-310-04</RID><RTL>(2013; with Change 1, 2016) Seismic Design of Buildings</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>GENERAL REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Perform Special Inspections in accordance with the Statement of Special Inspections, Schedule of Special Inspections 
+and Chapter 17 of <RID>ICC IBC</RID>.  The Statement of Special Inspections and Schedule of Special Inspections are included 
+as an attachment to this specification.  Special Inspections are to be performed by an independent third party 
+and are intended to ensure that the work of the prime contractor is in accordance with the Contract Documents 
+and applicable building codes.  Special inspections do not take the place of the three phases of control inspections 
+performed by the Contractor's QC Manager or any testing and inspections required by other sections of the specifications.</TXT>[<BRK/>
+<BRK/>
+<TXT>Structural observations will be performed by the Government.  The contractor must provide notification to the 
+Contracting Officer 14 days prior to the following points of construction:</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Define the points in construction that structural observations need to occur.<BRK/></NPR>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.   [_____]</LST><BRK/>
+<LST INDENT="-0.33">b.   [_____]</LST><BRK/>
+<LST INDENT="-0.33">c.   [_____]</LST>]<BRK/>
+<BRK/></SPT>
+<SPT><TTL>DEFINITIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Continuous Special Inspections</TTL><BRK/>
+<BRK/>
+<TXT>Continuous Special Inspections is the constant monitoring of specific tasks by a special inspector. These inspections 
+must be carried out continuously over the duration of the particular tasks.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Periodic Special Inspections</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Consider revising the definition of periodic if there is a specific time 
+interval that is required between periodic inspections. For a specific time 
+interval on a specific Special Inspections, indicate the time interval in the 
+Schedule of Special Inspections for that task.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Periodic Special Inspections is Special Inspections by the special inspector who is intermittently present where 
+the work to be inspected has been or is being performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Perform</TTL><BRK/>
+<BRK/>
+<TXT>Perform these Special Inspections tasks for each welded joint or member.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Observe</TTL><BRK/>
+<BRK/>
+<TXT>Observe these Special Inspections items on a random daily basis.  Operations need not be delayed pending these 
+inspections.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Special Inspector (SI)</TTL><BRK/>
+<BRK/>
+<TXT>A qualified person retained by the contractor and approved by the Contracting Officer as having the competence 
+necessary to inspect a particular type of construction requiring Special Inspections.  The SI must be an independent 
+third party hired directly by the Prime Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector (ASI)</TTL><BRK/>
+<BRK/>
+<TXT>A qualified person who assists the SI in performing Special Inspections but must perform inspection under the 
+direct supervision of the SI and cannot perform inspections without the SI on site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Third Party</TTL><BRK/>
+<BRK/>
+<TXT>A third party inspector must not be company employee of the Contractor or any Sub-Contractor performing the work 
+to be inspected.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Special Inspector of Record (SIOR)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Special Inspector of Record is required for the following project 
+conditions per UFC 3-301-01:<BRK/>
+<BRK/>
+1) Seismic Design Category D, E or F; and assigned<BRK/>
+   to Risk Cat III, IV or V.<BRK/>
+2) Seismic Design Category D, E or F; and with a <BRK/>
+   height greater than<MET> 22860 mm</MET><ENG> 75 ft</ENG>.<BRK/>
+3) Seismic Design Category E, assigned to Risk <BRK/>
+   Category I or II and the building is greater than<BRK/>
+   two stories above grade plane.<BRK/>
+4) Nominal design wind speed in excess of<MET> 49 m/sec</MET><ENG> <BRK/>
+   110 mph</ENG>; and assigned to Risk Cat III, IV or V.<BRK/>
+5) Nominal deisgn wind speed in excess of<MET> 49 m/sec</MET><ENG> <BRK/>
+   110 mph</ENG>; and with a height greater than<MET> 23 m</MET><ENG> 75 ft</ENG>.<BRK/>
+<BRK/>
+In additional to these conditions, the DOR is encouraged to consider using an 
+SIOR on large magnitude or critical projects where this additional level of 
+quality control is affordable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A licensed engineer in responsible charge of supervision all special inspectors for the project and approved 
+by the Contracting officer.  The SIOR must be an independent third party hired directly by the Prime Contractor.</TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Contracting Officer</TTL><BRK/>
+<BRK/>
+<TXT>The Government official having overall authority for administrative contracting actions. Certain contracting 
+actions may be delegated to the Contracting Officer's Representative (COR).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor's Quality Control (QC) Manager</TTL><BRK/>
+<BRK/>
+<TXT>An individual retained by the prime contractor and qualified in accordance with the Section [<SRF>01 45 00.00 20</SRF> QUALITY 
+CONTROL] [DESIGN-BUILD Section 01 45 00.05 20 DESIGN AND CONSTRUCTION QUALITY CONTROL] having the overall responsibility 
+for the contractor's QC organization.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Designer of Record (DOR)</TTL><BRK/>
+<BRK/>
+<TXT>A registered design professional [employed by the Government] [contracted by the Government as an A/E] responsible 
+for the overall design and review of submittal documents prepared by others.  The DOR is registered or licensed 
+to practice their respective design profession as defined by the statutory requirements of the professional registration 
+laws in state in which the design professional works.  The DOR is also referred to as the Engineer of Record 
+(EOR) in design code documents.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Statement of Special Inspections (SSI)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Statement of Special Inspections will be developed by the DOR and 
+must cover the following items:<BRK/>
+1) List of the Architectural Designated Seismic <BRK/>
+   Systems.<BRK/>
+  a. These components are in or attached to a Risk <BRK/>
+     Category IV or V structure and are needed for <BRK/>
+     continued operation of the facility or their <BRK/>
+     failure could impair the continued operation of<BRK/>
+     the facility.<BRK/>
+2) List of the Mechanical Designated Seismic <BRK/>
+   Systems.<BRK/>
+  a. For Seismic Design Category C or Risk Category<BRK/>
+     V list the following:<BRK/>
+    i. Heating, ventilation and air-conditioning <BRK/>
+       (HVAC) ductwork containing hazardous <BRK/>
+       materials and anchorage of such ductwork.<BRK/>
+    ii. Piping systems and mechanical units <BRK/>
+        containing flammable, combustible or highly<BRK/>
+        toxic materials.<BRK/>
+  b. For Seismic Design Category D, E or F or Risk<BRK/>
+     Category V list mechanical system that meet one<BRK/>
+     of the following:<BRK/>
+    i. Life safety component required to function <BRK/>
+       after an earthquake<BRK/>
+    ii. Component that contains hazardous content<BRK/>
+    iii. All components in an essential facility <BRK/>
+         needed for continued operation after an <BRK/>
+         earthquake<BRK/>
+3) List of the Electrical Designated Seismic <BRK/>
+   Systems.<BRK/>
+  a. For Seismic Design Category C or Risk Category<BRK/>
+     V list the following:<BRK/>
+    i. Anchorage of electrical equipment used for<BRK/>
+       emergency or standby power systems.<BRK/>
+  b. For Seismic Design Category D, E or F list <BRK/>
+     electrical system that meet one of the <BRK/>
+     following:<BRK/>
+    i. Life safety component required to function<BRK/>
+       after an earthquake<BRK/>
+    ii. Component that contains hazardous content<BRK/>
+    iii. All components in an essential facility <BRK/>
+         needed for continued operation after an <BRK/>
+         earthquake<BRK/>
+4) Define the periodic walk-down inspections <BRK/>
+   required by UFC 3-301-01.<BRK/>
+5) List of elements that are part of the progressive<BRK/>
+   collapse resistance system.<BRK/>
+  a. Provide a description of the following as they<BRK/>
+     apply:<BRK/>
+    i. Elements of the tie force system consisting<BRK/>
+       of internal longitudinal and transverse, <BRK/>
+       vertical, and peripheral ties.<BRK/>
+    ii. Elements of the alternate path system.<BRK/>
+    iii. Elements having enhanced local resistance.<BRK/>
+<BRK/>
+The Statement of Special Inspections and the Schedule of Special Inspections 
+will be included as an attachment to this specification.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A document developed by the DOR identifying the material, systems, components and work required to have Special 
+Inspections.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Schedule of Special Inspections</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A template for the Schedule of Special Inspections can be found on the 
+Whole Building Design Guide website at <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables">http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL>
+.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A schedule which lists each of the required Special Inspections, the extent to which each Special Inspections 
+is to be performed, and the required frequency for each in accordance with <RID>ICC IBC</RID> Chapter 17.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Designated Seismic System</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph when Designated Seismic Systems are required in 
+accordance with UFC 3-310-04.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Those nonstructural components that require design in accordance with <RID>ASCE 7</RID> Chapter 13 and for which the component 
+importance factor, Ip, is greater than 1.0.  This designation applies to systems that are required to be operational 
+following the Design Earthquake for RC I - IV structures and following the MCER for RC V structures.  All systems 
+in RC V facilities designated as MC-1 in accordance with <RID>UFC 3-310-04</RID> are considered part of the Designated Seismic 
+Systems.  [Designated Seismic Systems will be identified by Owner and will have an Importance Factor Ip = 1.5].</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.][information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>SIOR Letter of Acceptance</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM>Special Inspections <SUB>Project Manual</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM>Special Inspections Agency's <SUB>Written Practices</SUB></ITM><BRK/>
+<ITM><SUB>NDT Procedures and Equipment Calibration Records</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM>Special Inspections <SUB>Daily Reports</SUB></ITM><BRK/>
+<ITM>Special Inspections <SUB>Biweekly Reports</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Fabrication Plant</SUB></ITM><BRK/>
+<ITM><SUB>Steel Truss Plant</SUB></ITM><BRK/>
+<ITM><SUB>Wood Truss Plant</SUB></ITM><BRK/>
+<ITM><SUB>AC472 Accreditation</SUB></ITM><BRK/>
+<ITM><SUB>Steel Joist Institute Membership</SUB></ITM><BRK/>
+<ITM>Precast Concrete Institute (PCI) <SUB>Certified Plant</SUB></ITM><BRK/>
+<ITM><SUB>Certificate of Compliance</SUB></ITM><BRK/>
+<ITM><SUB>Special Inspector of Record</SUB> Qualifications; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Special Inspector</SUB> Qualifications; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Qualification Records</SUB> for NDT technicians</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this submittal for large complex projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Interim Final Report</SUB> of Special Inspections</ITM><BRK/>
+<ITM><SUB>Comprehensive Final Report</SUB> of Special Inspections; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SPECIAL INSPECTOR QUALIFICATIONS</TTL><BRK/>
+<BRK/>
+<TXT>Submit qualifications for each <SUB>special inspector</SUB> [and the special inspector of record].</TXT><BRK/>
+<LST><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="12">
+      <COL AUTOWIDTH="0" WIDTH="52.50"/>
+      <COL AUTOWIDTH="0" WIDTH="379.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="1">
+<DTA TYPE="STRING">Certifying Associations</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">AABC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Associated Air Balance Council</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">ACI</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">American Concrete Institute</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">AWCI</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Association of the Wall and Ceiling Industry</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">AWS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">American Welding Society</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">FM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Factory Mutual</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">ICC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">International Code Council</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">NDT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Nondestructive Testing</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">NICET</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">National Institute for Certification in Engineering Technologies</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PCI</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Precast/Prestressed Concrete Institute</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">PTI</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Post-Tensioning Institute</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">UL</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Underwriters Laboratories</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></LST><BRK/>
+<BRK/>
+<SPT><TTL>Steel Construction and High Strength Bolting</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Structural Steel and Bolting Special Inspector certificate with one year of related experience, 
+or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Welding Structural Steel</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For highly complex steel projects use only AWS Certified Welding Inspectors.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Structural Welding Special Inspector certificate with one year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  AWS Certified Welding Inspector</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>AWS Certified Associate Welding Inspector</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Nondestructive Testing of Welds</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>NDT Level III Certificate</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>NDT Level II Certificate plus one year of related experience</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Cold Formed Steel Framing</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c and d”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Structural Steel and Bolting Special Inspector certificate with one year of  related experience, 
+or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  ICC Commercial Building Inspector with one year of experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  ICC Residential Building Inspector with one year of experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Concrete Construction</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c and d”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Reinforced Concrete Special Inspector Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  ACI Concrete Construction Special Inspector, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  NICET Concrete Technician Level III Certificate in Construction Materials Testing, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ACI Concrete Construction Special Inspector in Training, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Engineer-In-Training with one year of related experience</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Prestressed Concrete Construction</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Pre-stressed Special Inspector Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  PCI Quality Control Technician/ Inspector Level II Certificate with one year of related experience, 
+or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  PCI Quality Control Technician/ Inspector Level I Certificate with one year of related experience, 
+or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Engineer-In-Training with one year of related experience</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Post-tensioned Concrete Construction</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  PTI Level 2 Unbonded PT Inspector Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  PTI Level 1 Unbonded PT Inspector Certificate with one year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Engineer-In-Training with one year of related experience</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Masonry Construction</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Structural Masonry Special Inspector Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Wood</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “b”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Commercial Building Inspector Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  ICC Residential Building Inspector with on year of experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Verification of Site Soil Condition, Fill Placement and Load-Bearing Requirements</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “d and e”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Soils Special Inspector Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  NICET Soils Technician Level II Certificate in Construction Material Testing, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  NICET Geotechnical Engineering Technician Level II Construction or Generalist Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Geologist-In-Training with one year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  NICET Soils Technician Level I Certificate in Construction Material Testing with one year of related 
+experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  NICET Geotechnical Engineering Technician Level I Construction or Generalist Certificate with one 
+year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Engineer-In-Training with one year of related experience</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Deep Foundations</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c and d”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  NICET Soils Technician Level II Certificate in Construction Material Testing, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  NICET Geotechnical Engineering Technician Level II Construction or Generalist Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Geologist-In-Training with one year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects with Seismic Design Category D, E or F or nominal design 
+wind speed in excess of<MET> 49 m/s</MET><ENG> 110 mph</ENG>, consider eliminating “c”.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  NICET Soils Technician Level I Certificate in Construction Material Testing with one year of related 
+experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  NICET Geotechnical Engineering Technician Level I Construction or Generalist Certificate with one 
+year of related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Engineer-In-Training with one year of related experience</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Sprayed Fire Resistant Material</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Spray-applied Fireproofing Special Inspector Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  ICC Fire Inspector I Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Mastic and Intumescent Fire Resistant Coatings</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  ICC Spray-applied Fireproofing Special Inspector Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  ICC Fire Inspector I Certificate with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Exterior Insulation and Finish System (EIFS)</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  AWCI EIFS Inspector Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Exterior Design Institute Certificate, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Fire-Resistant Penetrations and Joints</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Passed the UL Firestop Exam with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Passed the FM Firestop Exam with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Smoke Control</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Special Inspector</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  AABC Technician Certification with one year of  related experience, or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Registered Professional Engineer with related experience</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Associate Special Inspector</TTL><BRK/>
+<BRK/>
+<TXT>Engineer-In-Training with one year of related experience.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>[<SPT><TTL><SUB>Special Inspector of Record</SUB> (SIOR)</TTL><BRK/>
+<BRK/>
+<TXT>Registered Professional Engineer</TXT><BRK/>
+<BRK/></SPT>
+]</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>FABRICATOR SPECIAL INSPECTIONS</TTL><BRK/>
+<BRK/>
+<TXT>Special Inspections of fabricator's work performed in the fabricator's shop is required to be inspected in accordance 
+with the Statement of Special Inspections and the Schedule of Special Inspections unless the fabricator is certified 
+by the approved agency to perform such work without Special Inspections.  Submit the following certification 
+[certifications] to the Contracting Officer for information to allow work performed in the fabricator's shop 
+to not be subjected to Special Inspections.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following certifications meet the requirements for fabricator approval 
+in accordance with paragraph 1704.2.5.2 of IBC.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST>American Institute of Steel Construction (AISC) Certified <SUB>Fabrication Plant</SUB>, Category STD.</LST><BRK/>
+][<LST>Truss Plate Institute (TPI) <SUB>steel truss plant</SUB> quality assurance program certification.</LST><BRK/>
+][<LST>Truss Plate Institute (TPI) <SUB>wood truss plant</SUB> quality assurance program certification.</LST>]<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  AC472 Accreditation is the accreditation criteria for inspection programs 
+for manufacturers of metal building systems.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST>International Accreditation Service, <SUB>AC472 Accreditation</SUB></LST><BRK/>
+][<LST><SUB>Steel Joist Institute Membership</SUB></LST><BRK/>
+][<LST>Precast Concrete Institute (PCI) <SUB>Certified Plant</SUB>, Group C</LST>]<BRK/>
+<BRK/>
+<TXT>At the completion of fabrication, submit a <SUB>certificate of compliance</SUB>, to be included with the comprehensive final 
+report of Special Inspections, stating that the materials supplied and work performed by the fabricator are in 
+accordance the construction documents.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>RESPONSIBILITIES</TTL><BRK/>
+<BRK/>
+[<SPT><TTL>Special Inspector of Record</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph when the SIOR is required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  Supervise all Special Inspectors required by the contract documents and the IBC.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Submit a <SUB>SIOR Letter of Acceptance</SUB> to the Contracting Officer attesting to acceptance of the duties 
+of SIOR, signed and sealed by the SIOR.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Verify the qualifications of all of the Special Inspectors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Verify the qualifications of fabricators.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the following bracketed requirements when the structural design 
+is required to follow AISC 341 for seismic design of steel structures.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">e.  Submit Special Inspections agency's <SUB>written practices</SUB> for the monitoring and control of the agency's 
+operations to include the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  The agency's procedures for the selection and administration of inspection personnel, describing 
+the training, experience and examination requirements for qualifications and certification of 
+inspection personnel.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  The agency's inspection procedures, including general inspection, material controls, and 
+visual welding inspection.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Submit <SUB>qualification records</SUB> for nondestructive testing (NDT) technicians designated for the project.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Submit <SUB>NDT procedures and equipment calibration records</SUB> for NDT to be performed and equipment to 
+be used for the project.</LST>]<BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Prepare a Special Inspections <SUB>Project Manual</SUB>, which will cover the following:</LST><BRK/>
+<BRK/>
+<ITM>(1)  Roles and responsibilities of the following individuals during Special Inspections: SIOR, 
+SI, General Contractor, Subcontractors, QC Manager, and DOR.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  Organizational chart and/or communication plan, indicating lines of communication.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3)  Contractor's internal plan for scheduling inspections.  Address items such as timeliness 
+of inspection requests, who to contact for inspection requests, and availability of alternate 
+inspectors.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4)  Indicate the government reporting procedures.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5)  Propose forms or templates to be used by SI and SIOR to document inspections.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6)  Indicate procedures for tracking nonconforming work and verification that corrective work 
+is complete.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(7)  Indicate how the SIOR and/or SI will participate in weekly QC meetings.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(8)  Indicate how Special Inspections of shop fabricated items will be handled when the fabricator's 
+shop is not certified per paragraph FABRICATOR SPECIAL INSPECTIONS.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(9)  Include a section in the manual that covers each specific item requiring Special Inspections 
+that is indicated on the Schedule of Special Inspections.  Provide names and qualifications 
+of each special inspector who will be performing the Special Inspections for each specific item.  
+Provide detail on how the Special Inspections are to be carried out for each item so that the 
+expectations are clear for the General Contractor and the Subcontractor performing the work.</ITM><BRK/>
+<BRK/>
+<LST>Make a copy of the Special Inspections Project Manual available on the job site during construction. 
+Submit a copy of the Special Inspections <SUB>Project Manual</SUB> for approval. </LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Attend coordination and mutual understanding meeting where the information in the Special Inspections 
+Project Manual will be reviewed to verify that all parties have a clear understanding of the Special 
+Inspections provisions and the individual duties and responsibilities of each party.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Maintain a 3- ring binder for the Special Inspector's daily and <SUB>biweekly reports</SUB> and the Special 
+Inspections Project Manual.  This file must be located in a conspicuous place in the project trailer/office 
+to allow review by the Contracting Officer and the DOR. </LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Submit a copy of the Special Inspector's <SUB>daily reports</SUB> to the QC Manager.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  Discrepancies that are observed during Special Inspections must be reported to the QC Manager for 
+correction.  If discrepancies are not corrected before the special inspector leaves the site the observed 
+discrepancies must be documented in the daily report.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Submit a biweekly Special Inspections report until all work requiring Special Inspections is complete. 
+A report is required for each biweekly period in which Special Inspections activity occurs, and must 
+include the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  A brief summary of the work performed during the reporting time frame.</ITM><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the bracketed portion of the following line when there are designated 
+seismic systems for mechanical and electrical.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM INDENT="-0.33">(2)  Changes and/or discrepancies with the drawings, specifications [and mechanical or electrical 
+component certification,] that were observed during the reporting period.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3)  Discrepancies which were resolved or corrected.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4)  A list of nonconforming items requiring resolution.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5)  All applicable test results including nondestructive testing reports.</ITM><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph on large complex projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+[<LST INDENT="-0.33">n.  At the completion of each Definable Feature of Work (DFOW) requiring Special Inspections, submit 
+an <SUB>interim final report</SUB> of Special Inspections that documents the Special Inspections completed for that 
+DFOW and corrections of all discrepancies noted in the daily reports.  The interim final report of Special 
+Inspections must be signed, dated and bear the seal of the SIOR.</LST>]<BRK/>
+<BRK/>
+<LST INDENT="-0.33">o.  At the completion of the project submit a <SUB>comprehensive final report</SUB> of Special Inspections that 
+documents the Special Inspections completed for the project and corrections of all discrepancies noted 
+in the daily reports.  The comprehensive final report of Special Inspections must be signed, dated and 
+bear the seal of the SIOR.</LST><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Quality Control Manager</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the bracketed items when there is no SIOR.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">a.  Supervise all Special Inspectors required by the contract documents and the IBC.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Verify the qualifications of all of the Special Inspectors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Verify the qualifications of fabricators.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Maintain a 3- ring binder for the Special Inspector's daily and <SUB>biweekly reports</SUB>. This file must 
+be located in a conspicuous place in the project trailer/office to allow review by the Contracting Officer 
+and the DOR.</LST><BRK/>
+<BRK/>
+]<LST INDENT="-0.33">[a.][e.]  Maintain a rework items list that includes discrepancies noted on the Special Inspectors daily 
+report.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Special Inspectors</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Inspect all elements of the project for which the special inspector is qualified to inspect and are 
+identified in the Schedule of Special Inspections.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Attend preparatory phase meetings related to the Definable Feature of Work (DFOW) for which the special 
+inspector is qualified to inspect.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include subparagraphs “c” through “j” when the SIOR is NOT required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include subparagraphs “c” through “e” requirements when the structural 
+design is required to follow AISC 341 for seismic design of steel structures.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">c.  Submit Special Inspections agency's <SUB>written practices</SUB> for the monitoring and control of the agency's 
+operations to include the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  The agency's procedures for the selection and administration of inspection personnel, describing 
+the training, experience and examination requirements for qualifications and certification of 
+inspection personnel.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  The agency's inspection procedures, including general inspection, material controls, and 
+visual welding inspection.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Submit <SUB>qualification records</SUB> for nondestructive testing (NDT) technicians designated for the project.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Submit <SUB>NDT procedures and equipment calibration records</SUB> for NDT to be performed and equipment to 
+be used for the project.</LST>]<BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Submit a copy of the <SUB>daily reports</SUB> to the QC Manager.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Discrepancies that are observed during Special Inspections must be reported to the QC Manager for 
+correction.  If discrepancies are not corrected before the special inspector leaves the site the observed 
+discrepancies must be documented in the daily report.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Submit a biweekly Special Inspection Report until all inspections are complete. A report is required 
+for each biweekly period in which Special Inspections activity occurs, and must include the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  A brief summary of the work performed during the reporting time frame.</ITM><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the bracketed portion when there are designated seismic systems 
+for mechanical and electrical.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM INDENT="-0.33">(2)  Changes and/or discrepancies with the drawings, specifications [and mechanical or electrical 
+component certification,] that were observed during the reporting period.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3)  Discrepancies which were resolved or corrected.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4)  A list of nonconforming items requiring resolution.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">5)  All applicable test result including nondestructive testing reports.</ITM><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph for large complex projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">i.  At the completion of each DFOW requiring Special Inspections, submit an <SUB>interim final report</SUB> of Special 
+Inspections that documents the Special Inspections completed for that DFOW.  Identify the inspector responsible 
+for each item inspected and corrections of all discrepancies noted in the daily reports.  The interim 
+final report of Special Inspections must be signed, dated and indicate the certification of the special 
+inspector qualifying them to conduct the inspection. </LST>]<BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  At the completion of the project submit a <SUB>comprehensive final report</SUB> of Special Inspections that 
+documents the Special Inspections completed for the project and corrections of all discrepancies noted 
+in the daily reports.  The comprehensive final report of Special Inspections must be signed, dated and 
+indicate the certification of the special inspector qualifying them to conduct the inspection.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the following requirement when the SIOR is required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">k.  Submit <SUB>daily reports</SUB> to the SIOR.</LST><BRK/>
+<BRK/>
+]</SPT></SPT><SPT><TTL>DEFECTIVE WORK</TTL><BRK/>
+<BRK/>
+<TXT>Check work as it progresses, but failure to detect any defective work or materials must in no way prevent later 
+rejection if defective work or materials are discovered, nor obligate the Contracting Officer to accept such 
+work.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA               UFGS-01 31 23.13 20 (May 2017)<BRK/>
+                                            Change 2 - 05/18<BRK/>
+                                            ------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA><BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 31 23.13 20</SCN><BRK/>
+<BRK/>
+<STL>ELECTRONIC CONSTRUCTION AND FACILITY SUPPORT CONTRACT MANAGEMENT SYSTEM</STL><BRK/>
+<DTE>05/17</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>the Navy use of 
+NAVFAC's web-based Electronic Construction and Facility Support Contract Management 
+System (eCMS)</SCP>.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.</NPR><BRK/>
+<BRK/>
+<NPR>Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification includes tailoring options for Design-Build 
+(DB) projects.  Selection or de-selection of a tailoring option will include 
+or exclude that option in the section, but editing the resulting section to 
+fit the project is still required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use of eCMS (and this Section) is mandatory on NAVFAC projects greater 
+than $150,000.  Use of eCMS is optional on projects less than $150,000.  Contact 
+the administering FEAD/ROICC office to determine if eCMS is necessary for projects 
+less than $150,000.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>CONTRACT ADMINISTRATION</TTL><BRK/>
+<BRK/>
+<TXT>Utilize the Naval Facilities Engineering Command's (NAVFAC's) Electronic Construction and Facility Support Contract 
+Management System (eCMS) for the transfer, sharing and management of electronic technical submittals and documents.  
+The web-based eCMS is the designated means of transferring technical documents between the Contractor and the 
+Government.  Paper media or e-mail submission, including originals or copies, of the documents identified in 
+Table 1 are not permitted, except where eCMS is unavailable, non-functional or specifically requested in addition 
+to electronic submission.  Contact the Contracting Officer's Representative (COR) regarding availability of eCMS 
+training and reference materials.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>USER PRIVILEGES</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor will be provided access to eCMS.  All technical submittals and documents must be transmitted to 
+the Government via the COR.  Project roles and system roles will be established to control each user's menu, 
+application, and software privileges, including the ability to create, edit, or delete objects.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Design-Build projects, replace 01 33 00 SUBMITTAL PROCEDURES with 
+01 33 00.05 20 CONSTRUCTION SUBMITTAL PROCEDURES and 01 33 10.05 20 DESIGN SUBMITTAL 
+PROCEDURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>List of Contractor's Personnel</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SYSTEM REQUIREMENTS AND CONNECTIVITY</TTL><BRK/>
+<BRK/>
+<SPT><TTL>General</TTL><BRK/>
+<BRK/>
+<TXT>The eCMS requires a web-browser (platform-neutral) and Internet connection.  Obtain from an approved vendor an 
+External Certification Authority (ECA), Primary Key Infrastructure (PKI) certificate, or other similar digital 
+identification to support two-factor authentication and access to eCMS.  Provide and maintain computer hardware 
+and software for the eCMS access throughout the duration of the contract for all Contractor-designated users.  
+Provide connectivity, speed, bandwidth, and access to the Internet to ensure adequate functionality.  Neither 
+upgrading of the Contractor's computer system nor delays associated from the usage of the eCMS will be justification 
+or grounds for a time extension or cost adjustment to the Contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor Personnel List</TTL><BRK/>
+<TAI OPT="DESIGN-BUILD"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for Design-Build.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Within 20 calendar days of contract award, provide to the Contracting Officer a <SUB>list of Contractor's personnel</SUB>
+ who will have the responsibility for the transfer, sharing and management of electronic <TAI OPT="DESIGN-BUILD">design, </TAI>technical submittals 
+and documents and will require access to the eCMS.  Project personnel roles to be filled in the eCMS include 
+the Contractor's Project Manager, <TAI OPT="DESIGN-BUILD">Designer of Record, </TAI>Superintendent, Quality Control (QC) Manager, and Site 
+Safety and Health Officer (SSHO).  Personnel must be capable of electronic document management.  Notify the COR 
+immediately of any personnel changes to the project.  The Contracting Officer reserves the right to perform a 
+security check on all potential users.  Provide the following information:</TXT><BRK/>
+<BRK/>
+<LST>First Name</LST><BRK/>
+<LST>Last Name</LST><BRK/>
+<LST>E-mail Address</LST><BRK/>
+<LST>Office Address</LST><BRK/>
+<LST>Project Role (e.g. Project Manager, QC Manager, Superintendent)</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Field Administration</TTL><BRK/>
+<BRK/>
+<TXT>Within 30 days of Contract Award, provide a tablet computer with a Common Access Card (CAC) reader at the job 
+site for Government use only.  The tablet computer must have a web-browser, built-in camera, and cellular data 
+connectivity.  Provide tablet computer with a rugged case suitable for use in a construction environment.  The 
+tablet computer must be fully charged and made available at all times for Government use to facilitate the input 
+of construction data at the job site.  After completion of the work, reset the tablet computer to factory default 
+settings.  The tablet computer remains the property of the Contractor and must be removed from the site.  There 
+are restrictions on use of WIFI on military bases.  Cellular data connectivity and availability, and use of WIFI 
+requires coordination with and approval by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SECURITY CLASSIFICATION</TTL><BRK/>
+<BRK/>
+<TXT>In accordance with Department of Navy guidance, all military construction contract data are unclassified, unless 
+specified otherwise by a properly designated Original Classification Authority (OCA) and in accordance with an 
+established Security Classification Guide (SCG).  Refer to the project's OCA when questions arise about the proper 
+classification of information.</TXT><BRK/>
+<BRK/>
+<TXT>The eCMS and tablet computer must only be used for the transaction of unclassified information associated with 
+construction projects.  In conformance with the Freedom of Information Act (FOIA), Department of Defense Manual 
+5200.01-V4: DoD Information Security Program: Controlled Unclassified Information (CUI), and DoD requirements, 
+any unclassified project documentation uploaded into the eCMS must be designated either "U - UNCLASSIFIED" (U) 
+or "FOUO - UNCLASSIFIED-FOR OFFICIAL USE ONLY" (FOUO).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ECMS UTILIZATION</TTL><BRK/>
+<BRK/>
+<TXT>Establish, maintain, and update data and documentation in the eCMS throughout the duration of the contract.</TXT><BRK/>
+<BRK/>
+<TXT>Personally Identifiable Information (PII) transmittal is not permitted in the eCMS.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Information Security Classification/Identification</TTL><BRK/>
+<BRK/>
+<TXT>The eCMS must be used for the transmittal of the following documents.  This requirement supersedes conflicting 
+requirements in other sections, however, submittal review times in Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES remain 
+applicable.  Table 1 - Project Documentation Types provides the appropriate U and FOUO designations for various 
+types of project documents.  Construction documents requiring FOUO status must be marked accordingly.  Apply 
+the appropriate markings before any document is uploaded into eCMS.  Markings are not required on U documents.</TXT><BRK/>
+<BRK/>
+<TXT>Table 1 also identifies which eCMS application is to be used in the transmittal of data (these are subject to 
+change based on the latest software configuration).  If a designated application is not functional within 4 hours 
+of initial attempt, defer to the Submittal application and submit the required data as an uploaded portable document 
+(e.g. PDF), word processor, spreadsheet, drawing, or other appropriate format.  Hard copy or e-mail submission 
+of these items is acceptable only if eCMS is documented to be not available or not functional.  After uploading 
+documents to the Submittal application, transmit the submittals and attachments to the COR via the Transmittal 
+application.  For Submittals, select the following:</TXT><BRK/>
+<BRK/>
+<LST>Preparation by = Contractor personnel assigned to prepare the submittal</LST><BRK/>
+<LST>Approval by = Contracting Officer Representative (COR)</LST><BRK/>
+<LST>Returned by = Design Lead/Manager</LST><BRK/>
+<LST>Forwarded to = Contractor project manager</LST><BRK/>
+<BRK/>
+<TXT>Table 1 - Project Documentation Types</TXT><BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="42">
+      <COL AUTOWIDTH="0" WIDTH="117.75"/>
+      <COL AUTOWIDTH="0" WIDTH="36.75"/>
+      <COL AUTOWIDTH="0" WIDTH="210.75"/>
+      <COL AUTOWIDTH="0" WIDTH="102.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING"><HL4><HL3>SUBJECT/NAME</HL3></HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4><HL3>CLASS</HL3></HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4><HL3>REMARKS</HL3></HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4><HL3>ECMS APPLICATION</HL3></HL4></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="87.75">
+         <CEL>
+<DTA TYPE="STRING">As-Built Drawings</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Locations of sensitive areas must be labeled as either "Controlled Area" or "Restricted Area" and may be shown on unclassified documents with the approval from Site Security Manager</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="113.25">
+         <CEL>
+<DTA TYPE="STRING">Building Information Modeling (BIM)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">1. Locations of sensitive areas must be labeled as either "Controlled Area" or "Restricted Area" and may be shown on unclassified documents with the approval from Site Security Manager<BRK/>2. Design reviews will be performed in existing "Dr Checks"</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="31.50">
+         <CEL>
+<DTA TYPE="STRING">Construction Permits</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Refer to rules of the issuing activity, state or jurisdiction</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="81.75">
+         <CEL>
+<DTA TYPE="STRING">Construction Schedules (Activities and Milestones)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">After the schedule submittal is approved by the COR, import the schedule file into the scheduling application, and select "Approve" to establish a new schedule baseline</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals, Transmittals and Scheduling App</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="81.75">
+         <CEL>
+<DTA TYPE="STRING">Construction Schedules (Cost-Loaded)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">After the schedule submittal is approved by the COR, import the schedule file into the scheduling application, and select "Approve" to establish a new schedule baseline</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals, Transmittals and Scheduling App</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL>
+<DTA TYPE="STRING">Construction Schedules (3-Week Lookahead)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Import the schedule file into the scheduling application, and select "Approve" to establish a new schedule baseline</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Scheduling App</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.75">
+         <CEL>
+<DTA TYPE="STRING">DD 1354 Transfer of Real Property</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.75">
+         <CEL>
+<DTA TYPE="STRING">Daily Production Reports</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Provide weather conditions, crew size, man-hours, equipment, and materials information</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Daily Report</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.75">
+         <CEL>
+<DTA TYPE="STRING">Daily Quality Control (QC) Reports</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Provide QC Phase, Definable Features of Work<BRK/>Identify visitors<BRK/></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Daily Report</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="117.00">
+         <CEL>
+<DTA TYPE="STRING">Designs and Specifications</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">1. Locations of sensitive areas must be labeled as either "Controlled Area" or "Restricted Area" and may be shown on unclassified documents with the approval from Site Security Manager<BRK/>2. Design reviews will be performed in existing "Dr Checks"</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="69.75">
+         <CEL>
+<DTA TYPE="STRING">Environmental Notice of Violation (NOV), Corrective Action Plan</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Refer to rules of the issuing activity, state or jurisdiction</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.75">
+         <CEL>
+<DTA TYPE="STRING">Environmental Protection Plan (EPP)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL>
+<DTA TYPE="STRING">Invoice (Supporting Documentation)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Applies to supporting documentation only.  Invoices are submitted in Wide-Area Workflow (WAWF)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="55.50">
+         <CEL>
+<DTA TYPE="STRING">Jobsite Documentation, Bulletin Board, Labor Laws, 
+SDS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL>
+<DTA TYPE="STRING">Meeting Minutes</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Meeting Minutes</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="117.00">
+         <CEL>
+<DTA TYPE="STRING">Operations &amp; Maintenance Support Information (OMSI/eOMSI), Facility Data Worksheet</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">1. Locations of sensitive areas must be labeled as either "Controlled Area" or "Restricted Area" and may be shown on unclassified documents with the approval from Site Security Manager<BRK/>2. Design reviews will be performed in existing "Dr Checks"</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.75">
+         <CEL>
+<DTA TYPE="STRING">Photographs</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Subject to base/installation restrictions</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="46.50">
+         <CEL>
+<DTA TYPE="STRING">QCM Initial Phase Checklists</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Checklists (Site Management)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="46.50">
+         <CEL>
+<DTA TYPE="STRING">QCM Preparatory Phase Checklists</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Checklists (Site Management)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">Quality Control Plans</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">QC Certifications</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">QC Punch List</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Punch Lists (Testing Logs)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="46.50">
+         <CEL>
+<DTA TYPE="STRING">Red-Zone Checklist</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Checklists (Site Management)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">Rework Items List</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Punch Lists (Testing Logs)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="39.75">
+         <CEL>
+<DTA TYPE="STRING">Request for Information (RFI) Post-Award<BRK/></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">RFIs</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="28.50">
+         <CEL>
+<DTA TYPE="STRING">Safety Plan</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Daily Report</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="46.50">
+         <CEL>
+<DTA TYPE="STRING">Safety - Activity Hazard Analyses (AHA)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Daily Report</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">Safety - Mishap Reports</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Daily Report</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="82.50">
+         <CEL>
+<DTA TYPE="STRING">SCIF/SAPF Accreditation Support Documents</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Note: Some Construction Security plans may be classified as Secret.  Classified information must not be uploaded into eCMS.  Refer to the Site Security Manager, as applicable.</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="82.50">
+         <CEL>
+<DTA TYPE="STRING">Shop Drawings</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Locations of sensitive areas must be labeled as either "Controlled Area" or "Restricted Area" and may be shown on unclassified documents with the approval from Site Security Manager</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="71.25">
+         <CEL>
+<DTA TYPE="STRING">Storm Water Pollution Prevention (Notice of Intent - Notice of Termination)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Refer to rules of the issuing activity, state or jurisdiction</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Submittals and Submittal Log</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Testing Plans, Logs, and Reports</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Training/Reference Materials</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>U</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Training Records (Personnel)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">Utility Outage/Tie-In Request/Approval</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Warranties/BOD Letter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Submittals and Transmittals</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">Quality Assurance Reports</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Checklists (Government initiated)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Non-Compliance Notices</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">Non-Compliance Notices (Government initiated)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="38.25">
+         <CEL>
+<DTA TYPE="STRING">Other Government- prepared documents</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL/>
+         <CEL>
+<DTA TYPE="STRING">GOV ONLY</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="50.25">
+         <CEL>
+<DTA TYPE="STRING">All O
+
+there Documents</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>FOUO</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Refer to FOIA guidelines and contact the FOIA official to determine whether exemptions exist</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">As applicable</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+<SPT><TTL>Markings on FOUO documents</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Only FOUO documents being electronically uploaded into the eCMS (.docx, .xlsx, .pptx, .pdf, .jpg, 
+.zip, and others as appropriate), and associated paper documents described in the paragraph CONTRACT 
+ADMINISTRATION require FOUO markings as indicated in the subparagraphs below.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  FOUO documents that are originally created within the eCMS application using the web-based forms 
+(RFIs, Daily Reports, and others as appropriate) will be automatically watermarked by the eCMS software, 
+and these do not require additional markings.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  FOUO documents must be marked "UNCLASSIFIED//FOR OFFICIAL USE ONLY" at the bottom of the outside 
+of the front cover (if there is one), the title page, the first page, and the outside of the back cover 
+(if there is one).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  FOUO documents must be marked on the internal pages of the document as "UNCLASSIFIED//FOR OFFICIAL 
+USE ONLY"' at top and bottom.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Where Installations require digital photographs to be designated FOUO, place the markings on the 
+face of the photograph.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  For visual documentation, other than photographs and audio documentation, mark with either visual 
+or audio statements as appropriate at both the beginning and end of the file.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<TXT>Requested Government response dates on Transmittals and Submittals must be in accordance with the terms and conditions 
+of the Contract.  Requesting response dates earlier than the required review and response time, without concurrence 
+by the Government COR, may be cause for rejection.</TXT><BRK/>
+<BRK/>
+<TXT>Incomplete submittals will be rejected without further review and must be resubmitted.  Required Government response 
+dates for resubmittals must reflect the date of resubmittal, not the original submittal date.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><NED/><BRK/>
+<BRK/>
+<TXT>Not Used.</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not Used.</TXT><BRK/>
+<BRK/></PRT>
+    <END/><BRK/></SEC>

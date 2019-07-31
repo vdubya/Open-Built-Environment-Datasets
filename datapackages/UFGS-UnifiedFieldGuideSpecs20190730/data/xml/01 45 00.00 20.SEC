@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 45 00.00 20 (November 2011)<BRK/>
+                                       Change 2 - 08/17<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-01 45 02 (February 2010)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 45 00.00 20</SCN><BRK/>
+<BRK/>
+<STL>QUALITY CONTROL</STL><BRK/>
+<DTE>11/11</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the <SCP>preparation and use of Design-Bid-Build 
+(DBB) Quality Control</SCP>.  This guide specification will normally be used for Category 
+One and Category Two projects.  It may be also used for smaller, complex projects 
+at the discretion of the Government.  This section requires specific editing 
+of the QC requirements.  This section, as edited, must be reviewed and approved 
+by the Administering ROICC Office prior to the 100 percent design submission.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.</NPR><BRK/>
+<BRK/>
+<NPR>Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  When this specification is used, it will be in conjunction with Section 
+<SRF>01 32 17.00 20</SRF> COST-LOADED NETWORK ANALYSIS SCHEDULES (NAS).</NPR><BRK/>
+<BRK/>
+<NPR>Additional QC requirements may be included in additional sections of the project.  
+Some of the sections that include QC requirements are:  Section <SRF>09 97 13.15</SRF> 
+LOW VOC POLYSULFIDE INTERIOR COATING OF WELDED STEEL PETROLEUM FUEL TANKS, Section 
+<SRF>09 97 13.17</SRF> THREE COAT EPOXY INTERIOR COATING OF WELDED STEEL PETROLEUM FUEL 
+TANKS, Section <SRF>09 97 13.16</SRF> INTERIOR COATING OF WELDED STEEL WATER TANKS, and 
+Section <SRF>09 97 13.27</SRF> EXTERIOR COATING OF STEEL STRUCTURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Two options for the QC Manager duties have<BRK/>
+been incorporated into this guide specification.<BRK/>
+The first option allows the QC Manager to perform<BRK/>
+production related duties and the second option does<BRK/>
+not. Both options can include the use of QC<BRK/>
+Specialists responsible for performing QC for<BRK/>
+specific areas of work and for a specified<BRK/>
+frequency. Specify QC Specialists for those areas<BRK/>
+of work that are of sufficient complexity or size to<BRK/>
+justify the expense.</NPR><BRK/>
+<BRK/>
+<NPR>Determine whether a full time QC Manager is<BRK/>
+justified or designate the QC Manager as the Project Superintendent, i.e. to 
+act in a dual role.  If the QC Manager and Project Superintendent positions 
+are being filled as a dual role, that person must not be utilized as or the 
+Commissioning Authority. Consider:</NPR><BRK/>
+<BRK/>
+<NPR>a.  Design and complexity of project.</NPR><BRK/>
+<BRK/>
+<NPR>b.  Location of project.</NPR><BRK/>
+<BRK/>
+<NPR>c.  Cost and type of Contract.</NPR><BRK/>
+<BRK/>
+<NPR>d.  Characteristics of area construction labor<BRK/>
+market.</NPR><BRK/>
+<BRK/>
+<NPR>e.  Amount and type of off-site fabrication.</NPR><BRK/>
+<BRK/>
+<NPR>f.  Duration of project.</NPR><BRK/>
+<BRK/>
+<NPR>When requiring the use of a Registered Professional<BRK/>
+Engineer/Architect or a graduate Engineer/Architect<BRK/>
+for the QC Manager or QC Specialist(s), keep in mind<BRK/>
+the additional cost. The over-specifying of<BRK/>
+expertise for QC personnel should be avoided.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This section has a corresponding graphic called "quality_control_reports.pdf."</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: TO DOWNLOAD UFGS GRAPHICS:<BRK/>
+<BRK/>
+Go to <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL></NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Facility maintenance training has been relocated to Section 
+<SRF>01 78 24.00 20</SRF> FACILITY ELECTRONIC OPERATION AND MAINTENANCE SUPPORT INFORMATION 
+(eOMSI).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.</NPR><BRK/>
+<BRK/>
+<NPR>Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.</NPR><BRK/>
+<BRK/>
+<NPR>References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to in the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (ASHRAE)</ORG><BRK/><BRK/><RID>ASHRAE 52.2</RID><RTL>(2012) Method of Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D6245</RID><RTL>(2012) Using Indoor Carbon Dioxide Concentrations to Evaluate Indoor Air Quality and Ventilation</RTL><BRK/><BRK/><RID>ASTM D6345</RID><RTL>(2010) Standard Guide for Selection of Methods for Active, Integrative Sampling of Volatile Organic Compounds in Air</RTL><BRK/><BRK/></REF><REF><ORG>SHEET METAL AND AIR CONDITIONING CONTRACTORS' NATIONAL ASSOCIATION (SMACNA)</ORG><BRK/><BRK/><RID>ANSI/SMACNA 008</RID><RTL>(2007) IAQ Guidelines for Occupied Buildings Under Construction, 2nd Edition</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EM 385-1-1</RID><RTL>(2014) Safety and Health Requirements Manual</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Construction Quality Control (QC) Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate the submittal requirement dates with the submittal dates in 
+sections entitled Network Analysis Schedules.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM>Submit a Construction QC Plan prior to start of construction.</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Indoor Air Quality (IAQ) Management Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Basis of Design and Design Intent</SUB></ITM><BRK/>
+<BRK/>
+[<LST><SUB>SD-05 Design Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Design Review</SUB></ITM>]<BRK/>
+<BRK/>
+<ITM><SUB>Contract Document Review</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>CA Resume</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>INFORMATION FOR THE CONTRACTING OFFICER</TTL><BRK/>
+<BRK/>
+<TXT>Prior to commencing work on construction, the Contractor can obtain a single copy set of the current report forms 
+from the Contracting Officer.  The report forms will consist of the Contractor Production Report, Contractor 
+Production Report (Continuation Sheet), Contractor Quality Control (CQC) Report, CQC Report (Continuation Sheet), 
+Preparatory Phase Checklist, Initial Phase Checklist, Rework Items List, and Testing Plan and Log.</TXT><BRK/>
+<BRK/>
+<TXT>Deliver the following to the Contracting Officer during Construction:</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the requirement for QC Specialist reports when QC Specialists 
+are not specified.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  CQC Report:  [Submit the report electronically] [Mail or hand-carry the original (wet signatures) 
+[and one copy ][and [_____] copies]] by 10:00 AM the next working day after each day that work is performed 
+and for every seven consecutive calendar days of no-work.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Contractor Production Report:  [Submit the report electronically by 10:00 AM the next working day 
+after each day that work is performed and for every seven consecutive calendar days of no-work.][Mail 
+or hand-carry the original (wet signatures) [and one copy][and [_____] copies] by 10:00 AM the next working 
+day after each day that work is performed and for every seven consecutive calendar days of no-work, attached 
+to the CQC Report.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Preparatory Phase Checklist:  [Submit the report electronically in the same manner as the CQC Report 
+for each Preparatory Phase held.][Original attached to the original CQC Report and one copy attached 
+to each QC Report copy.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Initial Phase Checklist:  [Submit the report electronically in the same manner as the CQC Report 
+for each Initial Phase held.][Original attached to the original CQC Report and one copy attached to each 
+QC Report copy.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">[e.  QC Specialist Reports:  [Submit the report electronically by 10:00 AM the next working day after 
+each day that work is performed.][Mail or hand-carry the original (wet signatures) [and one copy][and 
+[_____] copies] by 10:00 AM the next working day after each day that work is performed.]]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Field Test Reports:  [Within two working days after the test is performed, submit the report as an 
+electronic attachment to the CQC Report.][Mail or hand-carry the original within two working days after 
+the test is performed, attached to the original CQC Report and one copy attached to each QC Report copy.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Monthly Summary Report of Tests:  [Submit the report as an electronic attachment to the CQC Report 
+at the end of each month.][Mail or hand-carry the original attached to the last QC Report of the month.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Testing Plan and Log:  [Submit the report as an electronic attachment to the CQC Report, at the end 
+of each month.  Provide a copy of the final Testing Plan and Log to the OMSI preparer for inclusion into 
+the OMSI documentation.][Mail or hand-carry the original attached to the last CQC Report of each month 
+and one copy attached to each CQC Report copy.  Provide a copy of the final Testing Plan and Log to the 
+OMSI preparer for inclusion into the OMSI documentation.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Rework Items List:  [Submit lists containing new entries daily, in the same manner as the CQC Report.][Mail 
+or hand-carry the original attached to the last CQC Report of each month and one copy attached to each 
+CQC Report copy.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  CQC Meeting Minutes:  [Within two working days after the meeting is held, submit the report as an 
+electronic attachment to the CQC Report.][Mail or hand-carry the original within two working days after 
+the meeting is held, attached to the original CQC Report and one copy attached to each CQC Report copy.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  QC Certifications:  As required by the paragraph entitled "QC Certifications."</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">l.  Special Inspection Report:  Submit the Special Inspection reports, in the same manner as the CQC 
+Report.</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>QC PROGRAM REQUIREMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for all projects except NAVFAC Pacific.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Establish and maintain a QC program as described in this section.  This QC program is a key element in meeting 
+the objectives of NAVFAC Commissioning. The QC program consists of a QC Organization, QC Plan, QC Plan Meeting(s), 
+a Coordination and Mutual Understanding Meeting, QC meetings, three phases of control, submittal review and approval, 
+testing, completion inspections, QC certifications,[ independent Special Inspections in accordance with Section 
+<SRF>01 45 35</SRF> SPECIAL INSPECTIONS,] and documentation necessary to provide materials, equipment, workmanship, fabrication, 
+construction and operations which comply with the requirements of this Contract.  The QC program must cover on-site 
+and off-site work and be keyed to the work sequence.  No construction work or testing may be performed unless 
+the QC Manager is on the work site.  The QC Manager must report to an officer of the firm and not be subordinate 
+to the Project Superintendent or the Project Manager.  The QC Manager, Project Superintendent and Project Manager 
+must work together effectively.  Although the QC Manager is the primary individual responsible for quality control, 
+all individuals will be held responsible for the quality of work on the job.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this on NAVFAC PAC projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Establish and maintain a QC program as described in this section. This QC program is a key element in meeting 
+the objectives of NAVFAC Commissioning.  The QC program consists of a QC Organization, QC Plan, QC Plan Meeting(s), 
+a Coordination and Mutual Understanding Meeting, QC meetings, three phases of control, submittal review and approval, 
+testing, [independent Special Inspections in accordance with Section <SRF>01 45 35</SRF> SPECIAL INSPECTIONS, ]completion 
+inspections, and QC certifications and documentation necessary to provide materials, equipment, workmanship, 
+fabrication, construction and operations which comply with the requirements of this Contract.  The QC program 
+must cover on-site and off-site work and must be keyed to the work sequence.  No construction work or testing 
+may be performed unless the QC Manager is on the work site.  The QC Manager must report to the Project Superintendent.  
+The QC Manager, Project Superintendent and Project Manager must work together effectively.  Although the QC Manager 
+is the primary individual responsible for quality control, all individuals will be held responsible for the quality 
+of work on the job.</TXT><BRK/>
+<BRK/>
+]<SPT><TTL>Commissioning</TTL><BRK/>
+<BRK/>
+<TXT>Commissioning (Cx) is a systematic process of ensuring that all building systems meet the requirements and perform 
+interactively according to the Contract.  The QC Program is a key to this process by coordinating, verifying 
+and documenting measures to achieve the following objectives:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Verify and document that the applicable equipment and systems are installed in accordance with the 
+design intent as expressed through the Contract and according to the manufacturer's recommendations and 
+industry accepted minimum standards.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Verify and document that equipment and systems receive complete operational checkout by the installing 
+contractors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Verify and document proper performance of equipment and systems.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Verify that Operation and Maintenance (O&amp;M) documentation is complete.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Verify the Training Plan and training materials are accurate and provide correct instruction and 
+documentation on the critical elements of the products, materials, and systems in the constructed facility.  
+Verify that all identified Government operating personnel are trained.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Verify and document that all contract requirements for LEED fundamental commissioning are met.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Acceptance of the Construction Quality Control (QC) Plan</TTL><BRK/>
+<BRK/>
+<TXT>Acceptance of the QC Plan is required prior to the start of construction.  The Contracting Officer reserves the 
+right to require changes in the QC Plan and operations as necessary, including removal of personnel, to ensure 
+the specified quality of work.  The Contracting Officer reserves the right to interview any member of the QC 
+organization at any time in order to verify the submitted qualifications.  All QC organization personnel are 
+subject to acceptance by the Contracting Officer.  The Contracting Officer may require the removal of any individual 
+for non-compliance with quality requirements specified in the Contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Preliminary Construction Work Authorized Prior to Acceptance</TTL><BRK/>
+<BRK/>
+<TXT>The only construction work that is authorized to proceed prior to the acceptance of the QC Plan is mobilization 
+of storage and office trailers, temporary utilities, and surveying.</TXT><BRK/>
+<BRK/></SPT>
+ <SPT><TTL>Notification of Changes</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer, in writing, of any proposed changes in the QC Plan or changes to the QC organization 
+personnel, a minimum of 10 work days prior to a proposed change.  Proposed changes are subject to acceptance 
+by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Special Inspections</TTL><BRK/>
+<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Special Inspections are required for all projects except the following 
+per IBC:<BRK/>
+<BRK/>
+1.  Construction of a minor nature as determined by the designer of record.  
+Where renovation construction does not alter existing gravity or lateral load 
+resisting system,  would constitute construction that is minor in nature. <BRK/>
+<BRK/>
+2.  Utility and miscellaneous Group U occupancies that are accessories to a 
+residential occupancy.<BRK/>
+<BRK/>
+3.  Portions of structures designed and constructed in accordance with the cold-formed 
+steel light-frame construction provisions of Section 2211 of IBC or the conventional 
+light-frame construction provisions of Section 2308 of IBC.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/>
+<TXT>Perform all required Special Inspections per Section <SRF>01 45 35</SRF> SPECIAL INSPECTIONS, the statement of Special Inspections 
+and the Schedule of Special Inspections.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>QC ORGANIZATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Qualifications of members of the QC organization must be approved by 
+the Administering ROICC Office.  The Project Manager must submit to the ROICC 
+a copy of the General Description of the work with the proposed qualifications 
+of members of the QC organization when requesting approval.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>QC Manager</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Duties</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Consult with Construction Office to determine if QC Manager may serve 
+as SSHO based on complexity of project.  Select the second bracketed item allowing 
+Project Superintendent duties for routine projects.  Select the third bracketed 
+item allowing no other duties for large or complex projects.<BRK/>
+<BRK/>
+Remove the bracketed phrases referring to QC Specialists when none are specified.<BRK/>
+<BRK/>
+Use the last bracketed sentence when a Special Inspector of Record is not required 
+for the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a QC Manager at the work site to implement and manage the QC program[, and to serve as the Site Safety 
+and Health Officer (SSHO) as detailed in Section <SRF>01 35 26</SRF> GOVERNMENTAL SAFETY REQUIREMENTS].  [In addition to 
+implementing and managing the QC program, the QC Manager may perform the duties of Project Superintendent.  ][The 
+only duties and responsibilities of the QC Manager are to manage and implement the QC program on this Contract.  
+]The QC Manager is required to attend the partnering meetings, QC Plan Meetings, Coordination and Mutual Understanding 
+Meeting, conduct the QC meetings, perform the three phases of control [except for those phases of control designated 
+to be performed by QC Specialists], perform submittal review and approval, ensure testing is performed and provide 
+QC certifications and documentation required in this Contract.  The QC Manager is responsible for managing and 
+coordinating the three phases of control and documentation performed by [the QC Specialists,] testing laboratory 
+personnel and any other inspection and testing personnel required by this Contract.  The QC Manager is the manager 
+of all QC activities.  The QC manager is responsible for notifying the [Special Inspector][Special Inspector 
+of Record] of activities which require their review.  [The QC manager is responsible for coordinating the Special 
+Inspection activities, see paragraph QUALITY CONTROL MANAGER, in Section <SRF>01 45 35</SRF> SPECIAL INSPECTIONS.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select and edit the first set of bracketed sentences for routine projects.  
+Select and edit the second group of bracketed sentences for large or complex 
+projects.  For qualifications in excess of options listed, consult the Administering 
+ROICC Office.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>An individual with a minimum of [5][10] years combined experience in the following positions: Project Superintendent, 
+QC Manager, Project Manager, Project Engineer or Construction Manager on similar size and type construction contracts 
+which included the major trades that are part of this Contract.  The individual must have at least two years 
+experience as a QC Manager.  The individual must be familiar with the requirements of <RID>EM 385-1-1</RID>, and have experience 
+in the areas of hazard identification, safety compliance, and sustainability.</TXT>]<BRK/>
+<BRK/>
+[<TXT>A graduate of a four year accredited college or university program in one of the following disciplines:  Engineering, 
+Architecture, Construction Management, Engineering Technology, Building Construction, or Building Science, with 
+a minimum of 10 years experience as a Project Superintendent, QC Manager, Project Manager, Project Engineer or 
+Construction Manager on similar size and type construction contracts which included the major trades that are 
+part of this Contract.  The individual must have at least two years experience as a QC Manager.  The individual 
+must be familiar with the requirements of <RID>EM 385-1-1</RID>, and have experience in the areas of hazard identification, 
+safety compliance, and sustainability.</TXT>]<BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Commissioning Authority</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Duties</TTL><BRK/>
+<BRK/>
+<TXT>Provide a Commissioning Authority (CA) as key person for the Cx and documentation thereof, who is subordinate 
+to the QC Manager.  The CA directs and coordinates Cx activities and submits Cx reports to the Contracting Officer 
+to meet the submittal and reporting requirements of Commissioning and develops the commissioning plan.  The CA 
+coordinates the actions of the QC Specialists, Testing Laboratory personnel, eOMSI Preparer, and other inspection 
+and testing personnel required by this Contract for building Cx.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Determine availability of CAs with specified level of experience.  The 
+CA may be Government personnel or with a third-party firm, but may not have 
+contributed to or been responsible for the project design, construction management, 
+or supervision.  A third-party CA who completes all Cx activities in addition 
+to the reviews is preferred.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The CA must be certified as a commissioning professional by the Associated Air Balance Council (AABC) Commissioning 
+Group (ACG), the Association of Energy Engineers (AEE), the American Society of Heating, Refrigeration, and Air 
+Conditioning Engineers (ASHRAE), the Commissioning Process Management Professional (CPMP), the Building Commissioning 
+Association (BCA), the National Environmental Balancing Bureau (NEBB), or the University of Wisconsin - Madison 
+(UWM).  <SUB>CA resume</SUB> is required, providing education, experience and management capabilities on at least two similar 
+size and type contracts.  The CA may not have been involved with the project design, construction management, 
+or supervision [, and must be with a third-party firm that is not on the design team].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Construction Quality Management Training</TTL><BRK/>
+<BRK/>
+<TXT>In addition to the above experience and education requirements, the QC Manager must have completed the course 
+entitled "Construction Quality Management (CQM) for Contractors."  If the QC Manager does not have a current 
+certification, they must obtain the CQM for Contractors course certification within 90 days of award.  This course 
+is periodically offered by the Naval Facilities Engineering Command and the Army Corps of Engineers.  Contact 
+the Contracting Officer for information on the next scheduled class.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Alternate QC Manager Duties and Qualifications</TTL><BRK/>
+<BRK/>
+<TXT>Designate an alternate for the QC Manager at the work site to serve in the event of the designated QC Manager's 
+absence.  The period of absence may not exceed two weeks at one time, and not more than 30 workdays during a 
+calendar year.  The qualification requirements for the Alternate QC Manager must be the same as for the QC Manager.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Assistant QC Manager Duties and Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This option will rarely be used.  Consider specifying an Assistant QC 
+Manager only if this is a labor intensive project, a very complex project, a 
+project with multiple work sites, or a project where shifts are worked.  Select 
+the first option in most cases.  Select and edit the second option when the 
+project involves shift work.  Select the qualifications from the QC Manager 
+options.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the words "Assistant QC Manager" throughout this section when 
+this paragraph is not used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Provide an assistant to the QC Manager at the work site to perform the three phases of control, perform submittal 
+review, ensure testing is performed, and prepare QC certifications and documentation required by this Contract.  
+The qualification requirements for the Assistant QC Manager must be [FILL IN BASED ON NATURE AND COMPLEXITY OF 
+JOB].  The individual must be familiar with the requirements of <RID>EM 385-1-1</RID>, and have experience in the areas 
+of hazard identification and safety compliance.</TXT>]<BRK/>
+<BRK/>
+[<TXT>Provide an assistant to the QC Manager at the work site to perform the three phases of control, perform submittal 
+review, ensure testing is performed, and prepare QC certifications and documentation required by this Contract.  
+The Assistant QC Manager must be on the work site during supplemental work shifts [beyond the regular shift] 
+and perform the duties of the QC Manager during such supplemental shift work.  The qualification requirements 
+for the Assistant QC Manager must be [FILL IN BASED ON NATURE AND COMPLEXITY OF JOB].  The individual must be 
+familiar with the requirements of <RID>EM 385-1-1</RID>, and have experience in the areas of hazard identification and safety 
+compliance.</TXT>]<BRK/>
+<BRK/></SPT>
+][<SPT><TTL>QC Specialists Duties and Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Only specify QC Specialists for those areas of work of sufficient complexity 
+or size where a specialist is required to supplement the QC Manager.  The requirement 
+for a QC Specialist must be included in Part 3 of the technical section of the 
+specification were a QC Specialist is needed.  The use of Registered Professional 
+Engineers or Architects for QC Specialists may be allowed in special cases, 
+but only after consultation with and approval by the Administering FEAD/ROICC 
+Office. Indicate the specific time and frequency when the QC Specialist must 
+be on the site.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the words "QC Specialists" throughout this section when this paragraph 
+is not used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a separate QC Specialist at the work site for each of the areas of responsibilities, specified in Part 
+3, Execution, of the technical sections, who must assist and report to the QC Manager and who [may perform production 
+related duties but must be allowed sufficient time to perform][must have no duties other than] their assigned 
+quality control duties.  QC Specialists are required to attend the [Coordination and Mutual Understanding Meeting, 
+]QC meetings and be physically present at the construction site to perform the three phases of control and prepare 
+documentation for each definable feature of work in their area of responsibility[ at the frequency specified 
+below].</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following are examples of QC Specialists duties and qualifications:</NPR><BRK/>
+<BRK/>
+<BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="4">
+      <COL AUTOWIDTH="0" WIDTH="150.00"/>
+      <COL AUTOWIDTH="0" WIDTH="150.00"/>
+      <COL AUTOWIDTH="0" WIDTH="150.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL>
+<DTA TYPE="STRING"><HL4>Qualification/Experience in Area of Responsibility</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>Area of Responsibility</HL4></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL4>Frequency</HL4></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="84.00">
+         <CEL>
+<DTA TYPE="STRING">Roofing Manufacturer's Technical Representative/five years minimum</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Installation and testing of roofing systems, Section <SRF>07 53 23</SRF> ETHYLENE-PROPYLENE-DIENE-MONOMER ROOFING</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Full time</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="96.00">
+         <CEL>
+<DTA TYPE="STRING">Mechanical Inspector, International Code Council (ICC) Certified/five years minimum</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Installation and testing of boilers, Section <SRF>23 52 49.00 20</SRF> STEAM BOILERS AND EQUIPMENT (500,000 - 18,000,000 BTU/HR)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Minimum three times a week during installation and full time during testing</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="59.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Special Inspector [Special Inspector of Record]</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is required if project involves structural or fire protection.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Special Inspector of Record is required for the following project conditions:<BRK/>
+<BRK/>
+1)  Seismic Design Category D, E or F; and assigned to Risk Cat III, IV or V.<BRK/>
+2)  Seismic Design Category D, E or F; and with a height greater than <MET>22860 
+mm</MET> <ENG>75 feet</ENG>.<BRK/>
+3)  Seismic Design Category E, assigned to Risk Category I or II and the building 
+is greater than two stories above grade plane.<BRK/>
+4)  Nominal design wind speed in excess of <MET>49 m/sec</MET> <ENG>110 mph</ENG>; and assigned to 
+Risk Cat III, IV or V.<BRK/>
+5)  Nominal design wind speed in excess of <MET>49 m/sec</MET> <ENG>110 mph</ENG>; and with a height 
+greater than <MET>22860 mm</MET><ENG>75 ft</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Special Inspector (SI) [Special Inspector of Record (SIOR)] must be an independent third party hired directly 
+by the Prime Contractor.  The SI [SIOR] must not be a company employee of the Contractor or any Sub-Contractor 
+performing the work to be inspected.  The qualifications of the SI [SIOR] are defined in Section <SRF>01 45 35</SRF> SPECIAL 
+INSPECTION.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Registered Fire Protection Engineer</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects administered by NAVFAC PAC Division or by the NAVFAC NW, 
+include the services of a U.S. Registered Fire Protection Engineer for review 
+and approval of all fire protection submittals.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The U.S. Registered Fire Protection Engineer (FPE) must be an independent third party hired directly by the Prime 
+Contractor as an integral part of the Prime Contractor's Quality Control Organization.  This FPE must have no 
+business relationships (owner, partner, operating officer, distributor, salesman, or technical representative) 
+with any subcontractors involved with this project, or with any fire protection equipment device manufacturers, 
+suppliers or installers for any such equipment provided as part of this project.  This FPE is responsible for 
+review, approval, and coordination of all fire protection system material submittals, calculations, shop drawings, 
+etc.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Submittal Reviewer[s] Duties and Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit as appropriate.  Select this paragraph along with one of the three 
+options available when submittal reviewers are desired to assist the QC Manager.  
+Consult with the Administering FEAD/ROICC Office on which option to use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide [a] Submittal Reviewer[s], other than the QC Manager or CA, qualified in the discipline[s] being reviewed, 
+to review and certify that the submittals meet the requirements of this Contract prior to certification or approval 
+by the QC Manager.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select this bracketed phrase for routine projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Each submittal must be reviewed by an individual with 10 years of construction experience.</TXT>]<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select this bracketed phrase for large or complex projects.  </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Each submittal must be reviewed by a registered architect or professional engineer.</TXT>]<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select and edit this bracketed group of phrases and table for projects 
+where [a] submittal reviewer(s) of specific discipline for certain specification 
+sections or submittals are needed.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following are examples of Submittal Reviewer qualification, duties 
+and experience.<BRK/>
+<BRK/>
+<BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="121.50"/>
+      <COL AUTOWIDTH="0" WIDTH="91.50"/>
+      <COL AUTOWIDTH="0" WIDTH="108.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="15.00">
+         <CEL MERGEDOWN="1">
+<DTA TYPE="STRING"><HL4>Qualification / Experience in Submittal Discipline</HL4></DTA>
+         </CEL>
+         <CEL MERGEACROSS="1">
+<DTA TYPE="STRING"><HL4>Submittals to be reviewed:</HL4></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL INDEX="2" STYLEID="s50">
+<DTA TYPE="STRING"><HL1>Spec Section No</HL1></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><HL1>Submittal</HL1></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">Registered Mechanical Engineer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Division 22 &amp; 23</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">All</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="61.50">
+         <CEL>
+<DTA TYPE="STRING">Registered Structural Fabrication Engineer, (P.E.)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Section <SRF>05 12 00</SRF> STRUCTURAL STEEL</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Drawings Erection Plan<BRK/></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="114.00">
+         <CEL>
+<DTA TYPE="STRING">Certified Industrial Hygienist (CIH)/ Comprehensive practice with five years experience in asbestos</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Section <SRF>02 82 00</SRF> ASBESTOS REMEDIATION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Asbestos Hazard Abatement Plan</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[Each of the following submittals must be reviewed by [an] individual[s] meeting the qualifications/experience 
+specified below:<BRK/>
+<BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="3">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="156.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="117.75"/>
+      <COL AUTOWIDTH="0" WIDTH="182.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL MERGEDOWN="1" STYLEID="s50">
+<DTA TYPE="STRING"><HL4>Qualification / Experience in Submittal Discipline</HL4></DTA>
+         </CEL>
+         <CEL MERGEACROSS="1" STYLEID="s50">
+<DTA TYPE="STRING"><HL4>Submittals to be reviewed:</HL4></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL INDEX="2" STYLEID="s51">
+<DTA TYPE="STRING"><HL1>Section No</HL1></DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING"><HL1>Submittal</HL1></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="37.50">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+  <BRK/>
+]<BRK/></TXT>
+<BRK/></SPT>
+][<SPT><TTL>QC Administrative Assistant</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for a project requiring a large volume of submittals.  
+Projects including Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING must use this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide an Administrative Assistant at the work site until the work has been accepted.  The primary duty is to 
+assist the QC Manager in processing and maintaining files for submittals, preparing and publishing reports and 
+meeting minutes.  After primary duties are accomplished, other duties may be assigned provided the duties do 
+not interfere with primary duties.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Underwater QC Team</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph to be used only when the inspection of underwater work 
+is required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide Underwater QC (UWQC) Team at the work site to perform underwater surveillance and inspection for the 
+Contractor.  The UWQC Team divers must have current commercial diver's license, with a minimum of five (5) years 
+experience with underwater inspection.  The personnel make up of the UWQC team must comply with <RID>EM 385-1-1</RID>, OSHA 
+and local requirements for Contract diving operations.  Comply with all the applicable safety requirements of <RID>
+EM 385-1-1</RID>, OSHA and local requirements for Contract diving operations.  The UWQC lead diver must be thoroughly 
+familiar with the design plans and specifications to sufficiently understand the engineering aspects of the underwater 
+construction and to be able to recognize and document potential problem areas such as improperly constructed 
+or defective areas.  Provide all necessary equipment to conduct surveillance and inspection services, including 
+diver's equipment, dive boat, communication equipment, and photographic/video equipment.  Diver(s) must be equipped 
+to maintain two-way communication with QC personnel during diving operations.  Prepare and submit a report including 
+photographs and/or videos with the QC report after each dive.  Frequency of underwater surveillance and inspection 
+will be [_____] during installation and including final inspection.  The UWQC Team must be an independent third 
+party hired directly by the Prime Contractor, and must have no involvement with the design, preparation of Contract, 
+or installation of work.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>QUALITY CONTROL (QC) PLAN<BRK/></TTL>
+<BRK/>
+<SPT><TTL><SUB>Construction Quality Control (QC) Plan</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Provide, for acceptance by the Contracting Officer, a Construction QC Plan submitted in a three-ring binder that 
+includes a table of contents, with major sections identified with tabs, with pages numbered sequentially, and 
+that documents the proposed methods and responsibilities for accomplishing quality control commissioning activities 
+during the construction of the project:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  QC ORGANIZATION:  A chart showing the QC organizational structure.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  NAMES AND QUALIFICATIONS:  Names and qualifications, in resume format, for each person in the QC 
+organization.  Include the CQM for Contractors course certifications for the QC Manager and Alternate 
+QC Manager as required by the paragraphs entitled "Construction Quality Management Training" and "Alternate 
+QC Manager Duties and Qualifications".</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  DUTIES, RESPONSIBILITY AND AUTHORITY OF QC PERSONNEL:  Duties, responsibilities, and authorities 
+of each person in the QC organization.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  OUTSIDE ORGANIZATIONS:  A listing of outside organizations, such as architectural and consulting 
+engineering firms, that will be employed by the Contractor and a description of the services these firms 
+will provide.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  APPOINTMENT LETTERS:  Letters signed by an officer of the firm appointing the QC Manager and Alternate 
+QC Manager and stating that they are responsible for implementing and managing the QC program as described 
+in this Contract.  Include in this letter the responsibility of the QC Manager and Alternate QC Manager 
+to implement and manage the three phases of control, and their authority to stop work which is not in 
+compliance with the Contract.  Letters of direction are to be issued by the QC Manager to [the Assistant 
+QC Manager and ]all other QC Specialists outlining their duties, authorities, and responsibilities.  
+Include copies of the letters in the QC Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  SUBMITTAL PROCEDURES AND INITIAL SUBMITTAL REGISTER:  Procedures for reviewing, approving, and managing 
+submittals. Provide the name(s) of the person(s) in the QC organization authorized to review and certify 
+submittals prior to approval.  Provide the initial submittal of the Submittal Register as specified in 
+Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  TESTING LABORATORY INFORMATION:  Testing laboratory information required by the paragraphs entitled 
+"Accreditation Requirements", as applicable.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  TESTING PLAN AND LOG:  A Testing Plan and Log that includes the tests required, referenced by the 
+specification paragraph number requiring the test, the frequency, and the person responsible for each 
+test.  Use Government forms to log and track tests.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  PROCEDURES TO COMPLETE REWORK ITEMS:  Procedures to identify, record, track, and complete rework 
+items.  Use Government forms to record and track rework items.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  DOCUMENTATION PROCEDURES:  Use Government form.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  LIST OF DEFINABLE FEATURES:  A Definable Feature of Work (DFOW) is a task that is separate and distinct 
+from other tasks and has control requirements and work crews unique to that task.  A DFOW is identified 
+by different trades or disciplines and is an item or activity on the construction schedule.  Include 
+in the list of DFOWs, but not be limited to, all critical path activities on the NAS.  Include all activities 
+for which this specification requires QC Specialists or specialty inspection personnel.  Provide separate 
+DFOWs in the Network Analysis Schedule for each design development stage and submittal package.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  PROCEDURES FOR PERFORMING THE THREE PHASES OF CONTROL:  Identify procedures used to ensure the three 
+phases of control to manage the quality on this project.  For each DFOW, a Preparatory and Initial phase 
+checklist will be filled out during the Preparatory and Initial phase meetings.  Conduct the Preparatory 
+and Initial Phases and meetings with a view towards obtaining quality construction by planning ahead 
+and identifying potential problems for each DFOW.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Contact the Administering FEAD/ROICC Office to determine if the following 
+four paragraphs are applicable to the project and edit accordingly.  Generally 
+a personnel matrix is only required for extremely large projects like hospitals.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">m.  PERSONNEL MATRIX:  [Not Applicable][A personnel matrix showing for each section of the specification 
+who will review and approve submittals, who will perform and document the three phases of control, and 
+who will perform and document the testing.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">n.  PROCEDURES FOR COMPLETION INSPECTION:  [Not Applicable][Procedures for identifying and documenting 
+the completion inspection process.  Include in these procedures the responsible party for punch out inspection, 
+pre-final inspection, and final acceptance inspection.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">o.  TRAINING PROCEDURES AND TRAINING LOG:  [Not Applicable][Procedures for coordinating and documenting 
+the training of personnel required by the Contract.]</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">p.  ORGANIZATION AND PERSONNEL CERTIFICATIONS LOG:  Procedures for coordinating, tracking and documenting 
+all certifications on subcontractors, testing laboratories, suppliers, personnel, etc.  QC Manager will 
+ensure that certifications are current, appropriate for the work being performed, and will not lapse 
+during any period of the contract that the work is being performed.</LST><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>COORDINATION AND MUTUAL UNDERSTANDING MEETING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Remove the first and second bracketed phrases when Assistant QC Manager 
+or QC Specialist options are not specified.  Remove the third and fourth bracketed 
+phrases when the A/E is not required to attend.  Consult with the Administrating <BRK/>
+ROICC Office on whether to use the last group of bracketed words.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After submission of the QC Plan, and prior to Government approval and  the start of construction, the QC Manager 
+will meet with the Contracting Officer to present the QC program required by this Contract.  When a new QC Manager 
+is appointed, the coordination and mutual understanding meeting must be repeated.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Purpose</TTL><BRK/>
+<BRK/>
+<TXT>The purpose of this meeting is to develop a mutual understanding of the QC details, including documentation, 
+administration for on-site and off-site work, design intent, Cx, environmental requirements and procedures, coordination 
+of activities to be performed,[ Special Inspections,] and the coordination of the Contractor's management, production, 
+and QC personnel.  At the meeting, the Contractor will be required to explain in detail how three phases of control 
+will be implemented for each DFOW, as well as how each DFOW will be affected by each management plan or requirement 
+as listed below:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Waste Management Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  IAQ Management Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Procedures for noise and acoustics management.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Environmental Protection Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Environmental regulatory requirements.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Cx Plan.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">g.  Special Inspections.</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Coordination of Activities</TTL><BRK/>
+<BRK/>
+<TXT>Coordinate activities included in various sections to assure efficient and orderly installation of each component.  
+Coordinate operations included under different sections that are dependent on each other for proper installation 
+and operation.  Schedule construction operations with consideration for indoor air quality as specified in the 
+IAQ Management Plan.  Coordinate prefunctional tests and startup testing with Cx.[  Coordinate special inspections.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Attendees</TTL><BRK/>
+<BRK/>
+<TXT>As a minimum, the Contractor's personnel required to attend include an officer of the firm, the Project Manager, 
+Project Superintendent, QC Manager, Alternate QC Manager,[ Assistant QC Manager,][ QC Specialists,][ Special 
+Inspector,][Special Inspector of Record,] CA, Environmental Manager, and subcontractor representatives.  Each 
+subcontractor who will be assigned QC responsibilities must have a principal of the firm at the meeting.  Minutes 
+of the meeting will be prepared by the QC Manager and signed by the Contractor[, the A/E] and the Contracting 
+Officer.  Provide a copy of the signed minutes to all attendees[ and include in the QC Plan].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>QC MEETINGS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit as appropriate.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>After the start of construction, conduct [weekly] QC meetings [once every two weeks] by the QC Manager at the 
+work site with the Project Superintendent. [the QC Specialists, ][the Special Inspector, ][the Special Inspector 
+of Record, ]the CA, and the foremen who are performing the work of the DFOWs.  The QC Manager is to prepare the 
+minutes of the meeting and provide a copy to the Contracting Officer within two working days after the meeting.  
+The Contracting Officer may attend these meetings.  As a minimum, accomplish the following at each meeting:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Review the minutes of the previous meeting.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Review the schedule and the status of work and rework.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Review the status of submittals.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Review the work to be accomplished in the next two weeks and documentation required.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Resolve QC and production problems (RFI, etc.).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Address items that may require revising the QC Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Review Accident Prevention Plan (APP).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Review environmental requirements and procedures.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Review Waste Management Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Review IAQ Management Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Review Environmental Management Plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  Review the status of training completion.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Review Cx Plan and progress.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DESIGN REVIEW AND DOCUMENTATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Basis of Design and Design Intent</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A Basis of Design and a Design Intent document must be available from 
+the designer to allow the following review.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The CA must review the basis of design received from the Contracting Officer and the design intent.  The Basis 
+of Design is not part of the contract documents, but will be provided by the Contracting Officer upon request.  
+Document the Basis of Design review in the Design Review report required below.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL><SUB>Design Review</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The CA must review design documents to verify that each commissioned system meets the design intent relative 
+to functionality, energy performance, water performance, maintainability, sustainability, system cost, indoor 
+environmental quality, and local environmental impacts.  Fully document design review in written report.</TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL><SUB>Contract Document Review</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The CA must review the Contract documents to verify that Cx is adequately specified, and that each commissioned 
+system is likely to meet the design intent relative to functionality, energy performance, water performance, 
+maintainability, sustainability, system cost, indoor environmental quality, and local environmental impacts.  
+Fully document contract document review in written report.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>THREE PHASES OF CONTROL</TTL><BRK/>
+<BRK/>
+<TXT>Adequately cover both on-site and off-site work with the Three Phases of Control and include the following for 
+each DFOW.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Preparatory Phase</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least two work days in advance of each preparatory phase meeting.  The meeting 
+will be conducted by the QC Manager and attended by [the QC Specialists, ]the Project Superintendent, the CA,[ 
+the Special Inspector,][ the Special Inspector of Record,] and the foreman responsible for the DFOW.  When the 
+DFOW will be accomplished by a subcontractor, that subcontractor's foreman must attend the preparatory phase 
+meeting.  Document the results of the preparatory phase actions in the [daily Contractor Quality Control Report 
+and in the ]Preparatory Phase Checklist.  Perform the following prior to beginning work on each DFOW:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Review each paragraph of the applicable specification sections.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Review the Contract drawings.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Verify that field measurements are as indicated on construction and/or shop drawings before confirming 
+product orders, in order to minimize waste due to excessive materials.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Verify that appropriate shop drawings and submittals for materials and equipment have been submitted 
+and approved.  Verify receipt of approved factory test results, when required.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Review the testing plan and ensure that provisions have been made to provide the required QC testing.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">f.  Review special inspections required by Section <SRF>01 45 35</SRF> SPECIAL INSPECTION, the statement of special 
+inspections and the schedule of special inspections.</LST><BRK/>
+<BRK/>
+]<LST INDENT="-0.33">g.  Examine the work area to ensure that the required preliminary work has been completed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Coordinate the schedule of product delivery to designated prepared areas in order to minimize site 
+storage time and potential damage to stored materials.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Arrange for the return of shipping/packaging materials, such as wood pallets, where economically 
+feasible.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  Examine the required materials, equipment and sample work to ensure that they are on hand and conform 
+to the approved shop drawings and submitted data and are properly stored.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  Discuss specific controls used and construction methods, construction tolerances, workmanship standards, 
+and the approach that will be used to provide quality construction by planning ahead and identifying 
+potential problems for each DFOW.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  Review the APP and appropriate Activity Hazard Analysis (AHA) to ensure that applicable safety requirements 
+are met, and that required Safety Data Sheets (SDS) are submitted.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Review the Cx Plan and ensure all preliminary work items have been completed and documented.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Initial Phase</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least two work days in advance of each initial phase.  When construction crews 
+are ready to start work on a DFOW, conduct the initial phase with [the QC Specialists, ]the Project Superintendent, 
+[ the Special Inspector,][ the Special Inspector of Record,]and the foreman responsible for that DFOW.  Observe 
+the initial segment of the DFOW to ensure that the work complies with Contract requirements.  Document the results 
+of the initial phase in the [daily CQC Report and in the ]Initial Phase Checklist.  Repeat the initial phase 
+for each new crew to work on-site, or when acceptable levels of specified quality are not being met.  Perform 
+the following for each DFOW:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Establish level of workmanship and verify that it meets the minimum acceptable workmanship standards.  
+Compare with required sample panels as appropriate.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Resolve any workmanship issues.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Ensure that testing is performed by the approved laboratory.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Check work procedures for compliance with the APP and the appropriate AHA to ensure that applicable 
+safety requirements are met.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Review project specific work plans (i.e. Cx, HAZMAT Abatement, Stormwater Management) to ensure all 
+preparatory work items have been completed and documented.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">f.  Coordinate scheduled work with special inspections required by Section <SRF>01 45 35</SRF> SPECIAL INSPECTIONS, 
+the statement of special inspections and the schedule of special inspections.</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Follow-Up Phase</TTL><BRK/>
+<BRK/>
+<TXT>Perform the following for on-going work daily, or more frequently as necessary, until the completion of each 
+DFOW and document in the daily CQC Report:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Ensure the work is in compliance with Contract requirements.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Maintain the quality of workmanship required.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Ensure that testing is performed by the approved laboratory.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Ensure that rework items are being corrected.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Assure manufacturers representatives have performed necessary inspections if required and perform 
+safety inspections.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Review the Cx Plan and ensure all work items, testing, and documentation has been completed.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">g.  Coordinate scheduled work with special inspections required by Section <SRF>01 45 35</SRF> SPECIAL INSPECTIONS, 
+the statement of special inspections and the schedule of special inspections.</LST><BRK/>
+<BRK/>
+]</SPT><SPT><TTL>Additional Preparatory and Initial Phases</TTL><BRK/>
+<BRK/>
+<TXT>Conduct additional preparatory and initial phases on the same DFOW if the quality of on-going work is unacceptable, 
+if there are changes in the applicable QC organization, if there are changes in the on-site production supervision 
+or work crew, if work on a DFOW is resumed after substantial period of inactivity, or if other problems develop.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Notification of Three Phases of Control for Off-Site Work</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least two weeks prior to the start of the preparatory and initial phases.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTAL REVIEW AND APPROVAL</TTL><BRK/>
+<BRK/>
+<TXT>Procedures for submission, review and approval of submittals are described in Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>TESTING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A check must be made to ensure that all required field and factory tests 
+are listed in each technical section.  Use of accredited laboratories overseas, 
+when available, will be implemented at the discretion of the Contracting Officer.  
+Edit the following paragraphs accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Except as stated otherwise in the specification sections, perform sampling and testing required under this Contract.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Accreditation Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Construction materials testing laboratories must be accredited by a laboratory accreditation authority and will 
+be required to submit a copy of the Certificate of Accreditation and Scope of Accreditation.  The laboratory's 
+scope of accreditation must include the appropriate ASTM standards (E 329, C 1077, D 3666, D 3740, A 880, E 543) 
+listed in the technical sections of the specifications.  Laboratories engaged in Hazardous Materials Testing 
+must meet the requirements of OSHA and EPA.  The policy applies to the specific laboratory performing the actual 
+testing, not just the Corporate Office.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Laboratory Accreditation Authorities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Request for listing additional laboratory accreditation programs must 
+be submitted to NAVFACENGCOM EOC/OCR.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Laboratory Accreditation Authorities include the National Voluntary Laboratory Accreditation Program (NVLAP) 
+administered by the National Institute of Standards and Technology at <URL>https://www.nist.gov/nvlap</URL>, the American 
+Association of State Highway and Transportation Officials (AASHTO) Accredication Program at <URL>http://www.aashtoresource.org/aap/overview</URL>
+, International Accreditation Services, Inc. (IAS) at <URL HREF="http://www.iasonline.org">http://www.iasonline.org</URL>, U.S. Army Corps of Engineers 
+Materials Testing Center (MTC) at <URL HREF="http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/476661/materials-testing-center.aspx">http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/<BRK/>
+9254/Article/476661/materials-testing-center.aspx</URL>, the American Association for Laboratory Accreditation (A2LA) 
+program at <URL HREF="http://www.a2la.org">http://www.a2la.org/</URL>, the Washington Association of Building Officials (WABO) at <URL HREF="http://www.wabo.org">http://www.wabo.org/</URL>
+  (Approval authority for WABO is limited to projects within Washington State), and the Washington Area Council 
+of Engineering Laboratories (WACEL) at <URL HREF="https://www.wacel.org/lab-accreditation-and-inspection-agency-audit-programs/laboratory-accreditation-program">https://www.wacel.org/lab-accreditation-and-insp ection-agency-audit-<BRK/>
+programs/laboratory-accreditation-program/</URL>(Approval authority by WACEL is limited to projects within Facilities 
+Engineering Command (FEC) Washington geographical area).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Capability Check</TTL><BRK/>
+<BRK/>
+<TXT>The Contracting Officer retains the right to check laboratory equipment in the proposed laboratory and the laboratory 
+technician's testing procedures, techniques, and other items pertinent to testing, for compliance with the standards 
+set forth in this Contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Test Results</TTL><BRK/>
+<BRK/>
+<TXT>Cite applicable Contract requirements, tests or analytical procedures used.  Provide actual results and include 
+a statement that the item tested or analyzed conforms or fails to conform to specified requirements.  If the 
+item fails to conform, notify the Contracting Officer immediately.  Conspicuously stamp the cover sheet for each 
+report in large red letters "CONFORMS" or "DOES NOT CONFORM" to the specification requirements, whichever is 
+applicable.  Test results must be signed by a testing laboratory representative authorized to sign certified 
+test reports.  Furnish the signed reports, certifications, and other documentation to the Contracting Officer 
+via the QC Manager.  Furnish a summary report of field tests at the end of each month, in accordance with paragraph 
+INFORMATION FOR THE CONTRACTING OFFICER.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Test Reports and Monthly Summary Report of Tests</TTL><BRK/>
+<BRK/>
+<TXT>Furnish the signed reports, certifications, and a summary report of field tests at the end of each month to the 
+Contracting Officer.  Attach a copy of the summary report to the last daily Contractor Quality Control Report 
+of each month.  Provide a copy of the signed test reports and certifications to the OMSI preparer for inclusion 
+into the OMSI documentation.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>QC CERTIFICATIONS<BRK/></TTL>
+<BRK/>
+<SPT><TTL>CQC Report Certification</TTL><BRK/>
+<BRK/>
+<TXT>Contain the following statement within the CQC Report:  "On behalf of the Contractor, I certify that this report 
+is complete and correct and equipment and material used and work performed during this reporting period is in 
+compliance with the contract drawings and specifications to the best of my knowledge, except as noted in this 
+report."</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Invoice Certification</TTL><BRK/>
+<BRK/>
+<TXT>Furnish a certificate to the Contracting Officer with each payment request, signed by the QC Manager, attesting 
+that as-built drawings are current, coordinated and attesting that the work for which payment is requested, including 
+stored material, is in compliance with Contract requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Completion Certification</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of work under this Contract, the QC Manager must furnish a certificate to the Contracting Officer 
+attesting that "the work has been completed, inspected, tested and is in compliance with the Contract." Provide 
+a copy of this final QC Certification for completion to the OMSI preparer for inclusion into the OMSI documentation.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>COMPLETION INSPECTIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Punch-Out Inspection</TTL><BRK/>
+<BRK/>
+<TXT>Near the completion of all work or any increment thereof, established by a completion time stated in the Contract 
+Clause entitled "Commencement, Prosecution, and Completion of Work," or stated elsewhere in the specifications, 
+the QC Manager and the CA must conduct an inspection of the work and develop a "punch list" of items which do 
+not conform to the approved drawings, specifications and Contract.  Include in the punch list any remaining items 
+on the "Rework Items List", which were not corrected prior to the Punch-Out Inspection.  Include within the punch 
+list the estimated date by which the deficiencies will be corrected.  Provide a copy of the punch list to the 
+Contracting Officer.  The QC Manager, or staff, must make follow-on inspections to ascertain that all deficiencies 
+have been corrected.  Once this is accomplished, notify the Government that the facility is ready for the Government 
+"Pre-Final Inspection".</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pre-Final Inspection</TTL><BRK/>
+<BRK/>
+<TXT>The Government and QCM will perform this inspection to verify that the facility is complete and ready to be occupied.  
+A Government "Pre-Final Punch List" will be documented by the CQM as a result of this inspection.  The QC Manager 
+will ensure that all items on this list are corrected prior to notifying the Government that a "Final" inspection 
+with the Client can be scheduled.  Any items noted on the "Pre-Final" inspection must be corrected in a timely 
+manner and be accomplished before the contract completion date for the work,or any particular increment thereof, 
+if the project is divided into increments by separate completion dates.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Final Acceptance Inspection</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer at least 14 calendar days prior to the date a final acceptance inspection can 
+be held. State within the notice that all items previously identified on the pre-final punch list will be corrected 
+and acceptable, along with any other unfinished Contract work, by the date of the final acceptance inspection.  
+The Contractor must be represented by the QC Manager, the Project Superintendent, the CA, and others deemed necessary.  
+Attendees for the Government will include the Contracting Officer, other FEAD/ROICC personnel, and personnel 
+representing the Client.  Failure of the Contractor to have all contract work acceptably complete for this inspection 
+will be cause for the Contracting Officer to bill the Contractor for the Government's additional inspection cost 
+in accordance with the Contract Clause entitled "Inspection of Construction."</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DOCUMENTATION</TTL><BRK/>
+<BRK/>
+<TXT>Maintain current and complete records of on-site and off-site QC program operations and activities.<BRK/></TXT>
+<BRK/>
+<SPT><TTL>Construction Documentation</TTL><BRK/>
+<BRK/>
+<TXT>Reports are required for each day that work is performed and must [be attached to ]the Contractor Quality Control 
+Report prepared for the same day.  Maintain current and complete records of on-site and off-site QC program operations 
+and activities.  The forms identified under the paragraph "INFORMATION FOR THE CONTRACTING OFFICER" will be used.  
+Reports are required for each day work is performed.  Account for each calendar day throughout the life of the 
+Contract.  Every space on the forms must be filled in.  Use N/A if nothing can be reported in one of the spaces.  
+The Project Superintendent and the QC Manager must prepare and sign the Contractor Production and CQC Reports, 
+respectively.  The reporting of work must be identified by terminology consistent with the construction schedule.  
+In the "remarks" sections of the reports, enter pertinent information including directions received, problems 
+encountered during construction, work progress and delays, conflicts or errors in the drawings or specifications, 
+field changes, safety hazards encountered, instructions given and corrective actions taken, delays encountered 
+and a record of visitors to the work site, quality control problem areas, deviations from the QC Plan, construction 
+deficiencies encountered, meetings held.  For each entry in the report(s), identify the Schedule Activity No. 
+that is associated with the entered remark.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Quality Control Validation</TTL><BRK/>
+<BRK/>
+<TXT>Establish and maintain the following in a series of three ring binders.  Binders must be divided and tabbed as 
+shown below.  These binders must be readily available to the Contracting Officer during all business hours.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  All completed Preparatory and Initial Phase Checklists, arranged by specification section.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  All milestone inspections, arranged by Activity Number.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  An up-to-date copy of the Testing Plan and Log with supporting field test reports, arranged by specification 
+section.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Copies of all contract modifications, arranged in numerical order.  Also include documentation that 
+modified work was accomplished.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  An up-to-date copy of the Rework Items List.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Maintain up-to-date copies of all punch lists issued by the QC staff to the Contractor and Sub-Contractors 
+and all punch lists issued by the Government.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Commissioning documentation including Cx checklists, schedules, tests, and reports.</LST><BRK/>
+<BRK/>
+[<LST INDENT="-0.33">h.  Special inspection reports.</LST><BRK/>
+<BRK/>
+]</SPT>[<SPT><TTL>Reports from the QC Specialist(s)</TTL><BRK/>
+<BRK/>
+<TXT>Reports are required for each day that work is performed in their area of responsibility.  QC Specialist reports 
+must include the same documentation requirements as the CQC Report for their area of responsibility.  QC Specialist 
+reports are to be prepared, signed and dated by the QC Specialists and must be attached to the CQC Report prepared 
+for the same day.</TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Testing Plan and Log</TTL><BRK/>
+<BRK/>
+<TXT>As tests are performed, [the CA] [and] [the QC Manager] will record on the "Testing Plan and Log" the date the 
+test was performed and the date the test results were forwarded to the Contracting Officer.  Attach a copy of 
+the updated "Testing Plan and Log" to the last daily CQC Report of each month, per the paragraph "INFORMATION 
+FOR THE CONTRACTING OFFICER".  Provide a copy of the final "Testing Plan and Log" to the OMSI preparer for inclusion 
+into the OMSI documentation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Rework Items List</TTL><BRK/>
+<BRK/>
+<TXT>The QC Manager must maintain a list of work that does not comply with the Contract, identifying what items need 
+to be reworked, the date the item was originally discovered, the date the item will be corrected by, and the 
+date the item was corrected.  There is no requirement to report a rework item that is corrected the same day 
+it is discovered.  [Attach a copy of the "Rework Items List" to the last daily CQC Report of each month.  ]The 
+Contractor is responsible for including those items identified by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>As-Built Drawings</TTL><BRK/>
+<BRK/>
+<TXT>The QC Manager is required to ensure the as-built drawings, required by Section <SRF>01 78 00</SRF> CLOSEOUT SUBMITTALS 
+are kept current on a daily basis and marked to show deviations which have been made from the Contract drawings.  
+Ensure each deviation has been identified with the appropriate modifying documentation (e.g. PC No., Modification 
+No., Request for Information No., etc.).  The QC Manager [or QC Specialist assigned to an area of responsibility 
+]must initial each revision.  Upon completion of work, the QC Manager will furnish a certificate attesting to 
+the accuracy of the as-built drawings prior to submission to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>NOTIFICATION ON NON-COMPLIANCE</TTL><BRK/>
+<BRK/>
+<TXT>The Contracting Officer will notify the Contractor of any detected non-compliance with the Contract.  Take immediate 
+corrective action after receipt of such notice.  Such notice, when delivered to the Contractor at the work site, 
+is deemed sufficient for the purpose of notification.  If the Contractor fails or refuses to comply promptly, 
+the Contracting Officer may issue an order stopping all or part of the work until satisfactory corrective action 
+has been taken.  No part of the time lost due to such stop orders will be made the subject of claim for extension 
+of time for excess costs or damages by the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONSTRUCTION <SUB>INDOOR AIR QUALITY (IAQ) MANAGEMENT PLAN</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Preventing indoor air quality problems resulting from the construction 
+process sustains the comfort and health of construction workers and building 
+occupants.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit an IAQ Management Plan within 15 days after [Contract award][notice to proceed] and not less than 10 days 
+before the preconstruction meeting.  Revise and resubmit Plan as required by the Contracting Officer.  Make copies 
+of the final plan available to all workers on site.  Include provisions in the Plan to meet the requirements 
+specified below and to ensure safe, healthy air for construction workers and building occupants.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Requirements During Construction</TTL><BRK/>
+<BRK/>
+<TXT>Provide for evaluation of indoor Carbon Dioxide concentrations in accordance with <RID>ASTM D6245</RID>.  Provide for evaluation 
+of volatile organic compounds (VOCs) in indoor air in accordance with <RID>ASTM D6345</RID>.  Use filters with a Minimum 
+Efficiency Reporting Value (MERV) of 8 in permanently installed air handlers during construction.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Control Measures</TTL><BRK/>
+<BRK/>
+<TXT>Meet or exceed the requirements of <RID>ANSI/SMACNA 008</RID>, Chapter 3, to help minimize contamination of the building 
+from construction activities.  The five requirements of this manual which must be adhered to are described below:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  HVAC protection:  Isolate return side of HVAC system from surrounding environment to prevent construction 
+dust and debris from entering the duct work and spaces.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Source control:  Use low emitting paints and other finishes, sealants, adhesives, and other materials 
+as specified.  When available, cleaning products must have a low VOC content and be non-toxic to minimize 
+building contamination.  Utilize cleaning techniques that minimize dust generation.  Cycle equipment 
+off when not needed.  Prohibit idling motor vehicles where emissions could be drawn into building.  Designate 
+receiving/storage areas for incoming material that minimize IAQ impacts.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Pathway interruption:  When pollutants are generated use strategies such as 100 percent outside air 
+ventilation or erection of physical barriers between work and non-work areas to prevent contamination.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Housekeeping:  Clean frequently to remove construction dust and debris.  Promptly clean up spills.  
+Remove accumulated water and keep work areas dry to discourage the growth of mold and bacteria.  Take 
+extra measures when hazardous materials are involved.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Scheduling:  Control the sequence of construction to minimize the absorption of VOCs by other building 
+materials.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Contamination</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Remove accumulated water and keep work dry.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Use dehumidification to remove moist, humid air from a work area</LST>.<BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Do not use combustion heaters or generators inside the building.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Protect porous materials from exposure to moisture.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Remove and replace items which remain damp for more than a few hours.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Requirements after Construction</TTL><BRK/>
+<BRK/>
+<TXT>After construction ends and prior to occupancy, conduct a building flush-out or test the indoor air contaminant 
+levels.  Flush-out must be a minimum two-weeks with MERV-13 filtration media as determined by <RID>ASHRAE 52.2</RID>at 100 
+percent outside air.  Air contamination testing must be consistent with EPA's current Compendium of Methods for 
+the Determination of Air Pollutants in Indoor Air.  After building flush-out or testing and prior to occupancy, 
+replace filtration media.  Filtration media must have a MERV of 13 as determined by <RID>ASHRAE 52.2</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PREPARATION</TTL><BRK/>
+<BRK/>
+<TXT>Designate receiving/storage areas for incoming material to be delivered according to installation schedule and 
+to be placed convenient to work area in order to minimize waste due to excessive materials handling and misapplication.  
+Store and handle materials in a manner as to prevent loss from weather and other damage.  Keep materials, products, 
+and accessories <NED/>covered and off the ground, and store in a dry, secure area.  Prevent contact with material that 
+may cause corrosion, discoloration, or staining.  Protect all materials and installations from damage by the 
+activities of other trades.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 78 24.00 20 (February 2015)<BRK/>
+                                       Change 1 - 08/15<BRK/>
+                                        ---------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-01 78 24.00 20 (August 2014)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 78 24.00 20</SCN><BRK/>
+<BRK/>
+<STL>FACILITY ELECTRONIC OPERATION AND MAINTENANCE SUPPORT INFORMATION (eOMSI)</STL><BRK/>
+<DTE>02/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>Electronic Operation 
+and Maintenance Support Information (eOMSI).</SCP>  Use of this section is required 
+by, but not limited to, project thresholds in ECB 2014-01, NAVFAC's Building 
+Information Management and Modeling (BIM) Phased Implementation Plan, available 
+for download at <URL>http://www.wbdg.org/ccb/browse_cat.php?c=268</URL>.  <BRK/>
+<BRK/>
+Consult the NAVFAC Public Works Facilities Management Division (FMD) on construction 
+contracts under the stated threshold values to determine if this guide specification 
+is required.  Collaborate with the FMD to edit this section and to develop the 
+preliminary eOMSI Facility Data Workbook to attach to this section for DBB or 
+to develop for DB.<BRK/>
+<BRK/>
+Always use and include Section <SRF>01 78 23</SRF>, OPERATION AND MAINTENANCE DATA, with 
+this section.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.<BRK/>
+<BRK/>
+Brackets are used in the text to indicate designer choices or locations where 
+text must be supplied by the designer.</NPR><BRK/>
+<BRK/>
+<NPR>This guide specification includes tailoring options for NAVFAC Design-Bid-Build 
+(DBB), Design-Build (DB) Facility Data Workbook, and Commissioning Authority.  
+Selection or de-selection of a tailoring option will include or exclude that 
+option in the section, but editing the resulting section to fit the project 
+is still required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  eOMSI is divided into two major types of information: <BRK/>
+<BRK/>
+a.  The eOMSI Manual:  Required for both Navy and Marine Corps projects, and 
+organized around two traditional Operation and Maintenance Support Information 
+(OMSI) Headings:<BRK/>
+<BRK/>
+      (1) Product and Drawing Information<BRK/>
+      (2) Facility Information<BRK/>
+<BRK/>
+b.  The eOMSI Facility Data Workbook:  Required for Navy facilities only, which 
+are operated and maintained under the MAXIMO system.  Delete Workbook for Marine 
+Corps, Army, and Air Force facilities.  Tailor eOMSI Facility Data Workbook 
+out of this section if it is not used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Medical Facilities, thoroughly edit this section throughout, and 
+coordinate with Defense Health Agency (DHA) for projects designed in accordance 
+with UFC 4-510-01 DESIGN: MEDICAL MILITARY FACILITIES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The <ATT>eOMSI Facility Data Workbook</ATT> is available for download on the Whole 
+Building Design Guide, under NAVFAC Specifications, and UFGS, NAVFAC Regional 
+Specifications and PPV Graphics.<BRK/>
+<BRK/>
+TO DOWNLOAD UFGS GRAPHICS:<BRK/>
+<BRK/>
+1.  Go To: <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL><BRK/>
+<BRK/>
+2.  Locate 01 78 24.00 20 in the UFGS Number column.<BRK/>
+<BRK/>
+3.  Select the eOMSIFacilityDataWorkbook.zip link in the Graphic Hyperlink column.<BRK/>
+<BRK/>
+4.  Save the .ZIP file to your desktop or network share.<BRK/>
+<BRK/>
+5.  Extract the eOMSI Facility Data Workbook from the .ZIP file in Excel format 
+to your project folder.<BRK/></NPR>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.</NPR><BRK/>
+<BRK/>
+<NPR>Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.</NPR><BRK/>
+<BRK/>
+<NPR>References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>U.S. DEPARTMENT OF DEFENSE (DOD)</ORG><BRK/><BRK/><RID>FC 1-300-09N</RID><RTL>(2014; with Change 4, 2018) Navy and Marine Corps Design</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DEFINITIONS AND ABBREVIATIONS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>eOMSI Manual</TTL><BRK/>
+<BRK/>
+<TXT>Manual (PDF file) provided by the Contractor that includes, but is not limited to, product information, a facility 
+description with photos, and a list of primary facility systems.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="FACILITY DATA WORKBOOK"><SPT><TTL>eOMSI Facility Data Workbook (FDW)</TTL><BRK/>
+<BRK/>
+<TXT>A Microsoft Excel file containing required facility information populated by the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Systems</TTL><BRK/>
+<BRK/>
+<TXT>The words "system", "systems", and "equipment", when used in this document refer to as-built systems and equipment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Computer Assisted Design and Drafting (CADD)</TTL><BRK/>
+<BRK/>
+<TXT>Electronic Computer Assisted Design and Drafting graphic software program that is used to create facility design 
+contract documents and Record Drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>KTR</TTL><BRK/>
+<BRK/>
+<TXT>An abbreviation for "Contractor."</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>EOMSI MEETINGS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><TAI OPT="DESIGN-BID-BUILD">[Pre-Construction Meeting] </TAI><TAI OPT="DESIGN-BUILD">[Post-Award Kickoff Meeting]</TAI></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Design-Bid-Build, choose the Pre-Construction Meeting bracketed option.  
+For Design-Build, choose the Post-Award Kickoff Meeting bracketed option.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Items in paragraph below contain tailoring tags for FACILITY DATA WORKBOOK 
+and DBB.<BRK/>
+<BRK/>
+Use the last item below in brackets for DBB only and as applicable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Be prepared to discuss the following during this meeting:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  eOMSI Manual <TAI OPT="FACILITY DATA WORKBOOK">and eOMSI Facility Data Workbook </TAI>Development Meetings</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Processes and methods of gathering eOMSI Manual <TAI OPT="FACILITY DATA WORKBOOK">and eOMSI Facility Data Workbook </TAI>information during 
+construction.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  The eOMSI Submittals schedule.  Include the eOMSI submittal schedule on the Baseline Construction 
+Schedule in accordance with Section <SRF>01 32 17.00 20</SRF> COST-LOADED NETWORK ANALYSIS SCHEDULE (NAS).</LST><BRK/>
+<BRK/>
+<TAI OPT="FACILITY DATA WORKBOOK">[<LST INDENT="-0.33">d.  Electronic eOMSI Facility Data Workbook file for Contractor's use and completion.</LST><BRK/>
+<BRK/>
+]</TAI></SPT><SPT><TTL>eOMSI Manual <TAI OPT="FACILITY DATA WORKBOOK">and Facility Data Workbook </TAI>Coordination Meeting</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DBB Projects, choose Pre-Construction Meeting.  For DB projects, 
+choose Post-Award Kickoff meeting.<BRK/>
+<BRK/>
+Choose the Commissioning Authority bracketed option below if required by the project.<BRK/>
+<BRK/>
+Choose Designer of Record (DOR) for DB projects only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The paragraph below contains tailoring tags for DB, DBB, COMMISSIONING 
+AUTHORITY, and FACILITY DATA WORKBOOK.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Facilitate a meeting after the [Pre-Construction Meeting] [Post-Award Kickoff Meeting] prior to the submission 
+of the eOMSI Progress Submittal.  Meeting attendance must include the Contractor's eOMSI Manual<TAI OPT="FACILITY DATA WORKBOOK"> and Facility 
+Data Workbook</TAI> Preparer, <TAI OPT="DESIGN-BUILD">[Designer of Record (DOR), ]</TAI>and Quality Control Manager, <TAI OPT="COMMISSIONING AUTHORITY">[the Commissioning Authority 
+(CxA), ]</TAI>and the Government's Design Manager (DM), Contracting Officer's Representative, and NAVFAC Public Works 
+(PW) Facilities Management Division (FMD).  Include any Mechanical, Electrical, and Fire Protection Sub-Contractors.</TXT><BRK/>
+<BRK/>
+<TXT>The purpose of this meeting is to reach a mutual understanding of the scope of work concerning the contract requirements 
+for eOMSI and coordinate the efforts necessary by both the Government and Contractor to ensure an accurate collection, 
+preparation and timely Government review of eOMSI.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Facility Turnover Meeting</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DBB projects, choose Section <SRF>01 30 00</SRF> ADMINISTRATIVE REQUIREMENTS.  
+For DB projects, choose Section 01 31 19.05 20 POST AWARD MEETINGS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Include eOMSI in NAVFAC Red Zone (NRZ) facility turnover meetings as specified in [Section <SRF>01 30 00</SRF>, ADMINISTRATIVE 
+REQUIREMENTS.][<TAI OPT="DESIGN-BUILD">Section 01 31 19.05 20, POST AWARD MEETINGS.</TAI>]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTAL SCHEDULING</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>eOMSI, Progress Submittal</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Paragraph contains tailoring for Facility Data Workbook.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit the Progress submittal when construction is approximately 50 percent complete, to the Contracting Officer 
+for approval.  Provide eOMSI Manual Files (Bookmarked PDF)<TAI OPT="FACILITY DATA WORKBOOK"> and eOMSI Facility Data Workbook (Excel)</TAI>.  Include 
+the elements and portions of system construction completed up to this point.</TXT><BRK/>
+<BRK/>
+<TXT>The purpose of this submittal is to verify progress is in accordance with contract requirements as discussed 
+during the eOMSI Coordination Meeting.  Field verify a portion of the eOMSI information in accordance with paragraph 
+FIELD VERIFICATION.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>eOMSI, Prefinal Submittal</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose the bracketed option of submission of the Prefinal submittal 90 
+calendar days prior to BOD for MILCON and Special Projects.  Choose 60 calendar 
+days prior to BOD for renovations or repairs, or provide a timeframe practical 
+to the project duration for smaller projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit the 100 percent submittal of the eOMSI Prefinal Submittal to the Contracting Officer for approval within 
+[90][60][_____] calendar days of the Beneficial Occupancy Date (BOD). This submittal must provide a complete, 
+working document that can be used to operate and maintain the facility. Any portion of the submittal that is 
+incomplete or inaccurate requires the entire submittal to be returned for correction.  Any discrepancies discovered 
+during the Government's review of eOMSI Progress submittal must be corrected prior to the Prefinal submission.</TXT><BRK/>
+<BRK/>
+<TXT>The eOMSI Prefinal Submittal must include eOMSI Manual Files (Bookmarked PDF)<TAI OPT="FACILITY DATA WORKBOOK"> and eOMSI Facility Data Workbook 
+(Excel)</TAI>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>eOMSI, Final Submittal</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit completed eOMSI Manual Files (Bookmarked PDF)<TAI OPT="FACILITY DATA WORKBOOK"> and eOMSI Facility Data Workbook (Excel)</TAI>.  The Final submittal 
+is due at BOD.  Any discrepancies discovered during the Government's review of the Prefinal eOMSI submittal, 
+including the Field Verification, must be corrected prior to the Final eOMSI submission.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="NAVFAC EURAFSWA,NAVFAC FE">[<SPT><TTL>Final eOMSI Submittal Translation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For OCONUS locations, choose the appropriate foreign language that will 
+be used based on the location of the project.  If a foreign translation is not 
+required, delete this bracketed paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a translation in [Italian][Spanish][Portuguese][Greek][Japanese] [_____] of the Facility Information 
+Manual in electronic format.  Provide drawings, charts and tables in both English and the foreign language.  
+If required by Contracting Officer, provide a split format showing the foreign language on the left and English 
+translation on the right.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI></SPT><SPT><TTL>UNITS OF MEASURE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DBB, choose the first bracketed option.  For DB, choose the second 
+bracketed option for Section 01 33 10.05 20 DESIGN SUBMITTAL PROCEDURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide eOMSI utilizing the units of measure<TAI OPT="DESIGN-BID-BUILD"> [used in the Government generated contract documents.]</TAI><TAI OPT="DESIGN-BUILD">[required 
+by the RFP for the facility.  Refer to Section 01 33 10.05 20 DESIGN SUBMITTAL PROCEDURES.]</TAI><MET>[  Metric eOMSI must 
+be in SI (System International) metric units exclusively.]</MET></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DB, delete <SRF>01 33 00</SRF>, SUBMITTAL PROCEDURES, and replace with 01 33 
+00.05 20, CONSTRUCTION SUBMITTAL PROCEDURES and 01 33 10.05 20, DESIGN SUBMITTAL 
+PROCEDURES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>eOMSI, Progress Submittal</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>eOMSI, Prefinal Submittal</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>eOMSI, Final Submittal</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>eOMSI FILES FORMAT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for Facility Data Workbook.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Format eOMSI manuals and files in accordance with Section <SRF>01 78 23</SRF> OPERATION AND MAINTENANCE DATA.  Include a 
+complete electronically linked operation and maintenance directory. Provide [four] [_____] electronic copies 
+of the eOMSI Manuals to the Contracting Officer for approval.</TXT><BRK/>
+<BRK/>
+<TXT><TAI OPT="FACILITY DATA WORKBOOK">Provide eOMSI Facility Data Workbook on compact disks (CD) or data digital versatile disk (DVD) disks in (EXCEL) 
+format.</TAI>  Scan eOMSI Manual Files<TAI OPT="FACILITY DATA WORKBOOK"> and eOMSI Facility Data Workbook</TAI> for viruses, malware, and spyware using a commercially 
+available scanning program that is routinely updated to identify and remove current virus threats.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>eOMSI Manual Organization</TTL><BRK/>
+<BRK/>
+<TXT>Organize the eOMSI Manuals into two parts: 1) Product and Drawing Information, and 2) Facility Information.  
+Bookmark the PDF files for easy access to the information.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Bookmark Product and Drawing Information documents in accordance with Section <SRF>01 78 23</SRF> OPERATION 
+AND MAINTENANCE DATA.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Bookmark Facility Information to at least one level lower than the major system.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>eOMSI Manual CD or DVD Disk Label and Disk Holder or Case</TTL><BRK/>
+<BRK/>
+<TXT>Provide disks in accordance with Section <SRF>01 78 23</SRF> OPERATION AND MAINTENANCE DATA.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>eOMSI MANUAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Product and Drawing Information</TTL><BRK/>
+<BRK/>
+<TXT>Provide an organized record of the facility products, materials, equipment, and minimum information necessary 
+to operate the facility.  Provide Product and Drawing Information for the systems in the final constructed facility.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>O&amp;M Data</TTL><BRK/>
+<BRK/>
+<TXT>As a minimum, provide the approved O&amp;M Data, submitted in the technical specification sections, in accordance 
+with paragraph TYPES OF INFORMATION REQUIRED IN O&amp;M DATA PACKAGES in Section <SRF>01 78 23</SRF> OPERATION AND MAINTENANCE 
+DATA.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Record Drawings</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  <BRK/>
+<BRK/>
+For DB projects, always use this paragraph.<BRK/>
+<BRK/>
+For DBB projects, use this paragraph if Contractor is providing the Record Drawings 
+as specified in Section <SRF>01 78 00</SRF> CLOSEOUT SUBMITTALS.<BRK/>
+<BRK/>
+Delete this paragraph for DBB projects if the Designer is providing the Record 
+Drawings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide an electronic, PDF copy of the Record Drawings, prepared in accordance with <RID>FC 1-300-09N</RID> and 
+<SRF>01 78 00</SRF> CLOSEOUT SUBMITTALS.  Bookmark drawings using the sheet title and sheet number.</TXT><BRK/>
+<BRK/>
+<TXT>Include Record Drawings as part of the Red-Zone specified in Section <SRF>01 30 00</SRF> ADMINISTRATIVE REQUIREMENTS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Utility Record Drawings</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph if project does not include Utility work. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Using Record Source Drawings, show and document details of the actual installation of the utility systems; annotate 
+and highlight the eOMSI information.  Provide Utility Record Drawings in PDF format.  Provide the following drawings 
+at a large enough scale to differentiate designated isolation units from surrounding valves and switches.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Utility Schematic Diagrams - Provide a one line schematic diagram for each utility system such as 
+power, water, wastewater, and gas/fuel. Schematic diagram must show from the point where the utility 
+line is connected to the mainline up to the<MET> 1.5-meter</MET><ENG> five-foot</ENG> connection point to the facility. Indicate 
+location or area designation for route of transmission or distribution lines; locations of duct banks, 
+manholes/ handholes or poles; isolation units such as valves and switches; and utility facilities such 
+as pump stations, lift stations, and substations.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Enlarged Connection and Cutoff Plans - Provide enlarged floor plans that provide information between 
+the<MET> 1.5 meter</MET><ENG> five foot</ENG> utility connection point and where utilities connect to facility distribution.  
+Enlarge floor plans/ elevations of the rooms where the utility enters the building and indicate on these 
+plans locations of the main interior and exterior connection and cutoff points for the utilities.  Also 
+enlarge floor plans / elevations of the rooms where equipment is located.  Include enough information 
+to enable someone unfamiliar with the facility to locate the connection and cutoff points.  Indicate 
+designations such as room number, panel number, circuit breaker, or valve number, of each utility and 
+equipment connection and cutoff point, and what that connection and cutoff point controls.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Facility Information</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit Facility Information paragraphs based on complexity, size and scope 
+of the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide the following in Facility Information:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>General Facility and System Description</TTL><BRK/>
+<BRK/>
+<TXT>Describe the function of the facility.  Detail the overall dimensions of the facility, number of floors, foundation 
+type, expected number of occupants, and facility Category Code.  List and generally describe all the facility 
+systems and any special building features (for example, HVAC Controls, Sprinkler Systems, Cranes, Elevators, 
+and Generators).  Include photographs marked up and labeled to show key operating components and the overall 
+facility appearance.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="DESIGN-BUILD">[<SPT><TTL>Basis of Design</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use Basis of Design for DB only.  This paragraph is tailored for DB use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Include the Basis of Design that shows the basic design scope of work, assumptions and the original intentions 
+of the Designer of Record (DOR). Identify the site utility design goals, objectives, design load limits, assumptions, 
+and system features that are critical to the operation and maintenance of the systems.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI><SPT><TTL>Floor Plans</TTL><BRK/>
+<BRK/>
+<TXT>Provide uncluttered, legible<MET> 29.9 by 43.2 cm</MET><ENG> 11 by 17 inches</ENG> floor plans.  Include room numbers, type or function 
+of spaces, and overall facility dimensions on the floor plans.  Do not include items such as construction instructions, 
+references, or frame numbers.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Floor Coverings, Wall Surfaces, and Ceiling Surfaces</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists by room number (including hallways and common spaces), the type, and area of finish, 
+manufacturer's product name, identifying number, and color. Include a facility summary of the total area for 
+each type of space and floor, wall, or ceiling finish in the table.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Windows</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists by room number (including hallways<BRK/>
+and common spaces), the type of window, window size, number of each size and type, special features, manufacturer's 
+product name, identifying number, and color.  The table must include a facility summary of the total number for 
+each type and size of window.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Roofing</TTL><BRK/>
+<BRK/>
+<TXT>Provide the total area of each type of roof surface and system.  Provide the name of the roofing product and 
+system; manufacturer's, supplier's, and installer's names, addresses, and phone numbers; manufacturer's product 
+name, identifying number, and color.  For each type of roof, provide a recommended inspection, maintenance and 
+repair schedule that details checkpoints, frequencies, and prohibited practices.  List roof structural load limits.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>HVAC Filters</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists the quantity, type, size, and location of each HVAC filter, manufacturer's product 
+name, and identifying number.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Plumbing Fixtures</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists by room number, the number<BRK/>
+and type of plumbing and bathroom plumbing fixtures (for example, sinks, water closets, urinals, showers and 
+drinking fountains).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Lighting Fixtures</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists by room number (including hallways and common spaces), the type of lighting fixture, 
+ballast, number of lighting fixtures, type of lamps and number of lamps, and the manufacturer's product name 
+and the identifying number.  The table must include a facility summary of the total number of fixtures of each 
+type and number of lamps of each type.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Equipment Listing</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table that lists the major equipment shown on the design equipment schedules. Show the item descriptions, 
+locations, model numbers; and the names, addresses, and telephone numbers of the manufacturers, suppliers, contractors, 
+and subcontractors.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>System Flow Diagrams </TTL><BRK/>
+<BRK/>
+<TXT>Provide a flow diagram indicating system liquid, air or gas flow during normal operations.  Integrate the system 
+components into the diagram.  A compilation of non-integrated, flow diagrams for the individual system components 
+are not acceptable.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Valve List</TTL><BRK/>
+<BRK/>
+<TXT>Provide a list of all valves associated with the system.  Show valve type, identification number, function, location 
+and normal operating position.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Riser Diagrams</TTL><BRK/>
+<BRK/>
+<TXT>Provide riser diagrams and settings of equipment.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><TAI OPT="FACILITY DATA WORKBOOK"><SPT><TTL>eOMSI FACILITY DATA WORKBOOK</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with NAVFAC FEC's PW FMD lead to help identify the Mastersystems, 
+Systems, and Subsystems based on project scope.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The eOMSI Facility Data Workbook.xlsx is located inside the zip file 
+at the following location:  <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL></NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DBB, attach PDF of edited, Model &amp; Facility Data Matrix tab, 
+from the <ATT>eOMSI Facility Data Workbook,</ATT> to this section.  Edit Model &amp; Facility 
+Data Matrix tab by selecting MASTERSYSTEMS, SYSTEMS, and SUBSYSTEMS within the 
+project scope.<BRK/>
+<BRK/>
+For DB, the Contractor provides the Facility Data Workbook, complete.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose the first bracketed item below for DBB projects, or choose the 
+second bracketed item for DB projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[<TAI OPT="DESIGN-BID-BUILD">An initial, pre-edited draft of the Model &amp; Facility Data Matrix tab within the eOMSI Facility Data Workbook 
+is attached to this section.  The Government will provide this <ATT>eOMSI Facility Data Workbook</ATT> electronically to 
+the Contractor upon award.  Add, delete, and update Mastersystems, Systems, and Subsystems that may have changed 
+during construction, or any items that may have been omitted or missed during design, at no additional cost to 
+the Government.  Complete the KTR Facility Data File tab based on the selection of Mastersystems, Systems, and 
+Subsystems installed.  ]</TAI><TAI OPT="DESIGN-BUILD">[ Download the eOMSI Facility Data Workbook at the following location:  <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL>
+.  Complete the KTR Facility Data File tab based on the selection of Mastersystems, Systems, and Subsystems installed.  
+]</TAI>The following tabs are included in the eOMSI Facility Data File Workbook and serve the purpose stated:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Instructions Tab:  Instructions for completing Model &amp; Facility Data Matrix Tab and KTR Facility 
+Data File Tab.  If a discrepancy exists between what is required in this section and the Workbook, the 
+instructions within the workbook take precedence.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Model &amp; Facility Data Matrix Tab: - The Matrix lists Required Facility Asset Fields for each 
+SYSTEM and SUBSYSTEM.  The Designer of Record selects SYSTEMS and SUBSYSTEMS that are within the project 
+scope, which the Contractor needs to include and populate in KTR Facility Data File tab.  The "Required 
+Facility Asset Field Position Numbers," one through seventeen, are pre-populated, and are not editable.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Required Facility Asset Fields Tab:  Defines the 17 Required Facility Asset Field Position Numbers 
+used in Model and Facility Data Matrix and KTR Facility Data File tabs.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  KTR Sample Facility Data File Tab:  Sample KTR eOMSI facility data file.  This tab provides an example 
+of the mandatory fields of equipment installed by the Contractor, and populated in the KTR eOMSI Facility 
+Data File Tab, along with their descriptions.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  KTR Facility Data File Tab:  Required eOMSI facility data file deliverable provided to the Government.  
+Provide a separate and unique new row for each facility component or piece of equipment installed.</LST><BRK/>
+<BRK/></SPT>
+</TAI></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TAI OPT="FACILITY DATA WORKBOOK"><SPT><TTL>FIELD VERIFICATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For DB projects, choose bracketed option for Design Quality Control Manager; 
+otherwise, delete. <BRK/>
+<BRK/>
+Choose Commissioning Authority if required by the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for DB, FACILITY DATA WORKBOOK, and 
+COMMISSIONING AUTHORITY.  Only use this paragraph if project requires Facility 
+Data Workbook.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Field verify eOMSI Facility Data Workbook information with Contractor and Government personnel.  Include the 
+following personnel in this meeting:  Contractor's eOMSI Manual and Facility Data Workbook Preparer and Quality 
+Control Manager, <TAI OPT="COMMISSIONING AUTHORITY">[Commissioning Authority, ]</TAI>and the Government's Contracting Officer's Representative and NAVFAC 
+PW FMD.  Request, and provide, an eOMSI Field Verification Meeting no sooner than 14 calendar days after submission 
+of the Progress eOMSI submittal, and another, no sooner than 14 calendar days after submission of the Prefinal 
+eOMSI submittal.  During this meeting, the Government and Contractor will verify that the eOMSI Facility Data 
+Workbook is complete and accurate.</TXT><BRK/>
+<BRK/>
+<TXT>Field verify that at least 5 Subsystems under each of the Mastersystems are accurate, for a total of 25 Subsystems.  
+For each of these items, verify that the required facility asset field, as defined in the "Model &amp; Facility 
+Data Matrix" tab, contains the specified data and it is accurate (i.e. item description, manufacturer, model 
+no., serial no.).  100 percent accuracy of eOMSI information is required for successful field verification.  
+If data discrepancies are discovered amongst the 25 Subsystems verified, resubmit an updated eOMSI FDW, and request 
+a make-up field verification meeting.  At the make-up field verification meeting 25 new Subsystems and their 
+associated required facility asset fields will be field verified; the 25 new Subsystems must be 100% accurate.  
+Any discrepancies discovered must be corrected prior to next eOMSI Facility Data Workbook Submittal.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit and modify the following Master Systems, to specify a total of 5 
+that correspond with the project scope.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM>(1)   D10 - CONVEYING</ITM><BRK/>
+<ITM>(2)   D20 - PLUMBING</ITM><BRK/>
+<ITM>(3)   D30 - HVAC</ITM><BRK/>
+<ITM>(4)   D40 - FIRE PROTECTION</ITM><BRK/>
+<ITM>(5)   D50 - ELECTRICAL</ITM><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>eOMSI TRAINING</TTL><NED/><BRK/>
+<BRK/>
+<TXT>Provide training on eOMSI Manuals<TAI OPT="FACILITY DATA WORKBOOK"> and Facility Data Workbook</TAI> in accordance with Section <SRF>01 78 23</SRF> OPERATION AND 
+MAINTENANCE DATA.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

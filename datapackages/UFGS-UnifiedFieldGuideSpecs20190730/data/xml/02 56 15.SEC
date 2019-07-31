@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 56 15 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 56 15 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 56 15</SCN><BRK/>
+<BRK/>
+<STL>GEOSYNTHETIC CLAY LINER (GCL)</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>geosynthetic clay 
+liners</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>UNIT PRICES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when lump sum bidding is used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measurement will be made of the total surface area covered by GCL in square<MET> m</MET><ENG> yards</ENG> as shown on the contract 
+drawings.  Final quantities will be based on as-built conditions.  Allowance will be made for GCL in anchor and 
+drainage trenches; however, no allowance will be made for waste, overlap, repairs, or materials used for the 
+convenience of the Contractor.  GCL installed and accepted will be paid for at the respective contract unit price 
+in the bidding schedule.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D1505</RID><RTL>(2018) Standard Test Method for Density of Plastics by the Density-Gradient Technique</RTL><BRK/><BRK/><RID>ASTM D5199</RID><RTL>(2012) Measuring Nominal Thickness of Geosynthetics</RTL><BRK/><BRK/><RID>ASTM D5261</RID><RTL>(2010; R 2018) Standard Test Method for Measuring Mass Per Unit Area of Geotextiles</RTL><BRK/><BRK/><RID>ASTM D5887/D5887M</RID><RTL>(2016) Standard Test Method for Measurement of Index Flux Through Saturated Geosynthetic Clay Liner Specimens Using a Flexible Wall Permeameter</RTL><BRK/><BRK/><RID>ASTM D5888</RID><RTL>(2006; R 2016) Standard Guide for Storage and Handling of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D5889/D5889M</RID><RTL>(2018) Standard Practice for Quality Control of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D5890</RID><RTL>(2011) Swell Index of Clay Mineral Component of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D5891/D5891M</RID><RTL>(2002; R 2016; E 2016) Fluid Loss of Clay Component of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D5993</RID><RTL>(2014) Measuring Mass Per Unit of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D5994/D5994M</RID><RTL>(2010; R 2015; E2015) Standard Test Method for Measuring Core Thickness of Textured Geomembranes</RTL><BRK/><BRK/><RID>ASTM D6072/D6072M</RID><RTL>(2019) Standard Practice for Obtaining Samples of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D6243/D6243M</RID><RTL>(2016) Determining the Internal and Interface Shear Resistance of Geosynthetic Clay Liner by the Direct Shear Method</RTL><BRK/><BRK/><RID>ASTM D6496/D6496M</RID><RTL>(2004a; R 2015; E 2015) Standard Test Method for Determining Average Bonding Peel Strength Between Top and Bottom Layers of Needle-Punched Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D6768/D6768M</RID><RTL>(2004; R 2015; E 2015; E 2015) Standard Test Method for Tensile Strength of Geosynthetic Clay Liners</RTL><BRK/><BRK/><RID>ASTM D792</RID><RTL>(2013) Density and Specific Gravity (Relative Density) of Plastics by Displacement</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>ADMINISTRATIVE REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Submit GCL panel <SUB>layout and detail drawings</SUB>, for approval, a minimum of [14] [_____] days prior to deployment.  
+Include GCL panel layout and penetration detail drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G." Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System. 
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Layout and Detail Drawings</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Manufacturer's Quality Control (QC) Manual</SUB></ITM><BRK/>
+<ITM><SUB>GCL Properties</SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Submit certified test results at least [14] [_____] working days prior to delivery of the 
+GCL.</ITM><BRK/>
+<BRK/>
+<ITM><SUB>Warranty</SUB></ITM><BRK/>
+<ITM><SUB>Tests, Inspections, and Verifications</SUB></ITM><BRK/>
+<ITM><SUB>Qualifications</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Manufacturer's, installer's, QC inspector's, and QC laboratory's qualification statements 
+including resumes of key personnel involved in this project.</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Samples</SUB></ITM><BRK/>
+<BRK/>
+<ITM>  Deliver QC samples at the specified frequencies.</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Tests, Inspections, and Verifications</SUB></ITM><BRK/>
+<ITM><SUB>Conformance Tests</SUB></ITM><BRK/>
+<ITM><SUB>Subgrade Preparation</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY CONTROL</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Manufacturer's Quality Control (QC) Manual</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit the manufacturer's quality control (QC) manual which describes testing procedures, frequency of testing 
+and acceptance/rejection criteria for QC testing at least [14] [_____] days prior to delivery of the GCL.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Qualifications</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Manufacturer</TTL><BRK/>
+<BRK/>
+<TXT>Geosynthetic clay liner shall be the product of a GCL Manufacturer who has produced the proposed GCL using the 
+same bentonite, polyethylene geomembrane, geotextiles, sewing thread, and adhesive for at least 5 completed projects 
+and shall have produced a minimum of<MET> [186,000] [_____] square meters</MET><ENG> [2,000,000] [_____] square feet</ENG> of the proposed 
+GCL.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Installer</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Small projects may not require the use of a specialized GCL installer.  
+If a specialized GCL installer will not be required, this paragraph should be 
+omitted and the submittal requirements above edited accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The installer shall have installed GCL at a minimum of 5 projects of comparable scope and complexity and shall 
+have installed a minimum of<MET> 186,000 [_____] square meters</MET><ENG> 2,000,000 [_____] square feet</ENG> of the proposed GCL.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QC Inspector</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  An independent third party inspector should be considered based on the 
+qualifications of the Government quality assurance personnel, the size and importance 
+of the project, and impacts of a GCL failure.  Delete this paragraph if a third 
+party inspector will not be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The independent QC inspector is responsible for monitoring and documenting activities related to the QC of the 
+GCL from manufacturing through installation.  The QC inspector shall have provided QC and/or QA inspection during 
+installation of GCL material for at least 5 projects and shall have performed QC and/or QA inspection on a minimum 
+of<MET> [186,000] [_____] square meters</MET><ENG> [2] [_____] million square feet</ENG> of GCL.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QC Laboratory</TTL><BRK/>
+<BRK/>
+<TXT>An independent QC laboratory is responsible for QC GCL testing.  The QC laboratory shall have provided QC and/or 
+QA testing of GCL for at least 5 completed projects and shall have performed QC and or QA testing for a minimum 
+of<MET> [186,000] [_____] square meters</MET><ENG> [2] [_____] million square feet</ENG> of GCL.  The QC laboratory shall be accredited 
+via the Geosynthetic Accreditation Institute's Laboratory Accreditation Program (GAI-LAP).</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>DELIVERY, STORAGE, AND HANDLING</TTL><BRK/>
+<BRK/>
+<TXT>Delivery, storage, and handling of GCL shall be in accordance with <RID>ASTM D5888</RID>.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Delivery</TTL><BRK/>
+<BRK/>
+<TXT>The Contracting Officer shall be present during unloading of the GCL.  Rolls shall be packaged in an opaque, 
+waterproof, protective covering and wrapped around a central core.  Tears in the packaging shall be repaired 
+to restore a waterproof protective barrier around the GCL.  Unloading of rolls from the delivery vehicles shall 
+be done in a manner that prevents damage to the GCL and its packaging.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Storage</TTL><BRK/>
+<BRK/>
+<TXT>Field storage shall be in flat dry areas where water cannot accumulate and the GCL rolls can be protected from 
+damage.  Storage of the rolls on blocks or pallets will not be allowed unless the GCL rolls are fully supported 
+as approved by the Contracting Officer.  Stacks of GCL rolls shall be no greater than three high.  Rolls shall 
+be covered with a water proof tarpaulin or plastic sheet if stored outdoors.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Handling</TTL><BRK/>
+<BRK/>
+<TXT>During handling, rolls shall not be dragged, lifted by one end, dropped to the ground, or otherwise damaged.  
+A pipe or solid bar of sufficient strength to support the full weight of the roll without significant bending 
+shall be used for all unloading and handling activities.  If recommended by the manufacturer, a sling handling 
+method utilizing appropriate loading straps may be used.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>WARRANTY</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Several manufacturers should be contacted to determine what length of 
+warranty is available for GCL materials and installation.  Manufacturers provide 
+prorated material warranties ranging from 1 to 30 years depending on the application.  
+Installation warranties are generally specified as 1 to 2 years in length.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The manufacturer's warranty shall state that the GCL materials meet all requirements of the contract documents 
+and that for the intended use, the GCL is warranted for [_____] years against deterioration.  The installer's 
+warranty shall state that the GCL shall not fail due to improper installation within [_____] years.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>GCL PROPERTIES</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Test method ASTM D5887 is an index test used to determine the flux rate 
+of water through a GCL specimen.  If a contaminated fluid will contact the GCL, 
+compatibility testing should be considered during the design phase to ensure 
+that the GCL can perform as desired.  The following ASTM test methods should 
+be referenced when performing compatibility testing:<BRK/>
+<BRK/>
+ASTM D6141 - Standard Guide for Screening the Clay Portion of a Geosynthetic 
+Clay Liner (GCL) for chemical Compatibility to Liquids, and<BRK/>
+<BRK/>
+ASTM D6766 - Standard Test Method for Evaluation of Hydraulic Properties of 
+Geosynthetic Clay Liners Permeated with Potentially Incompatible Liquids.</NPR><BRK/>
+<BRK/>
+<NPR>Additional geomembrane or geotextile requirements can be added to Table 1 or 
+placed in a separate section of the specification package and referenced here.</NPR><BRK/>
+<BRK/>
+<NPR>Remove geotextile and/or geomembrane requirements from Table 1 as required for 
+the type of product being specified.</NPR><BRK/>
+<BRK/>
+<NPR>A normal stress equal to anticipated field conditions should be specified in 
+Table 1 for mid-plane shear strength testing.</NPR><BRK/>
+<BRK/>
+<NPR>A residual mid-plane shear strength should never be specified.  The designer 
+must ensure that the design is configured such that the allowable peak mid-plane 
+shear stress is not exceeded.</NPR><BRK/>
+<BRK/>
+<NPR>GCL constructed with nonwoven geotextiles on both sides should be considered 
+for situations where increased frictional resistance is required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>GCL shall be a manufactured product consisting of a sodium montmorillonite clay (bentonite) layer evenly [distributed 
+between two geotextiles] [or] [attached to a polyethylene geomembrane.  The exposed surface of the polyethylene 
+membrane shall be [smooth] [textured]].  GCL shall conform to the property requirements listed in Table 1 and 
+shall be free of tears, holes, or other defects that may affect its serviceability.  Encapsulating geotextiles 
+shall be mechanically bonded together using a needle punch or stitch bonding process.  Needle punched and stitch 
+bonded GCLs shall be continuously inspected for broken needles using an in-line metal detector and broken needles 
+shall be removed.  The minimum manufactured GCL sheet width shall be<MET> 4.1 m</MET><ENG> 13.5 feet</ENG> and the minimum manufactured 
+GCL sheet length shall be<MET> 30 m</MET><ENG> 98 feet</ENG>.<BRK/>
+<BRK/>
+Submit manufacturer's certified raw and roll material data sheets.  If needle punching or stitch bonding is used 
+in construction of GCL, the certification shall indicate that the GCL has been continuously inspected for broken 
+needles using an in-line metal detector and all broken needles have been removed.  The certified data sheets 
+shall be attested to by a person having legal authority to bind the GCL manufacturing company.<BRK/>
+<TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="23">
+      <COL AUTOWIDTH="0" WIDTH="144.75"/>
+      <COL AUTOWIDTH="0" WIDTH="142.50"/>
+      <COL AUTOWIDTH="0" WIDTH="169.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 1 - GCL PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL/>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">TEST METHOD</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TEST VALUE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">BENTONITE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Swell Index Test, minimum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5890</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">24 mL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Fluid Loss, maximum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5891/D5891M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">18 mL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">UPPER GEOTEXTILE PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Material Type</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING">[Woven][Nonwoven]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Mass per Unit Area, min.</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5261</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[204] [_____] g/sq m</MET><ENG>[6] [_____] ounces/square yard</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">LOWER GEOTEXTILE PROPERTIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Material Type</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL>
+<DTA TYPE="STRING">[Woven][Nonwoven]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Mass per Unit Area, min.</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5261</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[204] [_____] g/sq m</MET><ENG>[6] [_____] ounces/square yard</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">GEOMEMBRANE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Thickness, minimum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5199</RID><BRK/><RID>ASTM D5994/D5994M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Sheet Density, minimum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D1505</RID><BRK/><RID>ASTM D792</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">0.92 g/cc</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">COMPOSITE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">Bentonite Mass/Unit Area, minimum, Note 1</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5993</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>3700 g/sq m</MET><ENG>0.75 lbs/sq foot</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.75">
+         <CEL>
+<DTA TYPE="STRING">Moisture Content, maximum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5993</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">40 percent</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="84.75">
+         <CEL>
+<DTA TYPE="STRING">Tensile Strength, minimum, (MD and CD)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6768/D6768M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[_____] kN/m</MET><ENG>[_____] lbs/in</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Peak<BRK/>Mid-Plane Shear Strength<BRK/>(hydrated), minimum<BRK/>at a normal stress of <MET>[_____] kPa</MET><BRK/><ENG>[_____] psf</ENG><BRK/><BRK/></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6243/D6243M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>[_____] kPa</MET><ENG>[_____] psf</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="57.00">
+         <CEL>
+<DTA TYPE="STRING">[Peak][Large Displacement]Interface Friction Angle (hydrated), minimum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6243/D6243M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] degrees</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Index Flux, maximum</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D5887/D5887M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">0.00000001 cubic m/sq m-sec</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="44.25">
+         <CEL>
+<DTA TYPE="STRING"><MET>Peel Strength, min. MD</MET><ENG>Peel Strength, MARV MD</ENG>Note 2</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6496/D6496M</RID></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET>400 N/m</MET><ENG>2.3 lbs/inch</ENG></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="62.25">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">Note 1:  Bentonite mass/unit area shall be computed at 0 percent moisture content.  Bentonite mass/unit area is exclusive of glues added to the bentonite.<BRK/>Note 2:  The peel test applies to geotextile backed GCL products only.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>TESTS, INSPECTIONS, AND VERIFICATIONS</SUB></TTL><BRK/>
+<BRK/>
+<SPT><TTL>Manufacturing Sampling and Testing</TTL><BRK/>
+<BRK/>
+<TXT>GCL and its components shall be sampled and tested in accordance with the manufacturer's approved QC manual.  
+The manufacturer's QC procedures shall be in accordance with <RID>ASTM D5889/D5889M</RID>.  Test results not meeting the 
+requirements specified in Table 1 shall result in the rejection of applicable rolls.  The manufacturer's QC manual 
+shall describe procedures used to determine rejection of applicable rolls.  As a minimum, rolls produced immediately 
+prior to and immediately after the failed roll shall be tested for the same failed parameter.  Testing shall 
+continue until a minimum of three successive rolls on both sides of the original failing roll pass the failed 
+parameter.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Shear Strength Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Frictional resistance of GCL is highly dependent on the hydrating fluid, 
+hydration state, confining stresses during saturation, confining stresses during 
+shear, and strain rate.  These parameters should be specified on a site specific 
+basis.  For interface shear strength testing, a set of direct shear tests should 
+consist of a minimum of three tests performed at normal stresses bracketing 
+the anticipated average normal field stresses.</NPR><BRK/>
+<BRK/>
+<NPR>The hydration state of the GCL can have a significant effect on its shear strength.  
+The shear strength of bentonite decreases with increasing moisture content.  
+In addition, hydration of bentonite may affect the properties of reinforced 
+GCL by stretching the reinforcement as the bentonite swells.  For geotextile 
+backed GCLs, interface shear strength is reduced due to the bentonite extruding 
+into the interface.  As a preliminary guideline, minimum hydration time should 
+be 24 hours for mid-plane and interface shear strength testing.  However, it 
+must be pointed out that research indicates these hydration times will probably 
+not result in complete hydration of the GCL.  Hydration times of up to 25 days 
+are required to attain complete hydration.</NPR><BRK/>
+<BRK/>
+<NPR>The default strain rate of 1 mm/min is currently the predominant strain rate 
+in use for both mid-plane and interface shear strength testing.  Additional 
+guidance on determining the appropriate strain rate to prevent the build-up 
+of pore pressure is provided in ASTM D6243/D6243M.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Perform mid-plane and interface shear strength testing in accordance with <RID>ASTM D6243/D6243M</RID>.  Submit mid-plane 
+and interface shear strength test results at least [14] [_____] days prior to deployment.  The hydration fluid 
+to be used for both mid-plane and interface shear strength testing shall be [tap water] [_____].  The final moisture 
+content of the GCL at the center of each specimen shall be included with the test results.  GCL and adjacent 
+geosynthetics shall be oriented such that the shear force is parallel to the down slope orientation of the geosynthetics 
+in the field.  Modifications to the test procedures described in this section shall be submitted and approved 
+prior to use.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Mid-Plane Shear Strength Testing</TTL><BRK/>
+<BRK/>
+<TXT>[One set] [[_____] sets] of mid-plane direct shear tests shall be performed.  Specimens shall be allowed to hydrate 
+prior to shearing for a minimum of [_____] hours.  Free drainage shall be provided along both sides of the GCL 
+to aid in hydration.  Specimens shall be allowed to consolidate prior to shearing for a minimum of [_____] hours.  
+A normal stress of [_____]<MET> kPa</MET><ENG> psf</ENG> shall be used during hydration, consolidation, and shearing.  The normal stresses 
+shall not be relieved prior to or during shearing of the specimens.  The shear rate shall be [_____].  Tests 
+shall be run until peak strength is determined.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Interface Shear Strength Testing</TTL><BRK/>
+<BRK/>
+<TXT>[One set] [[_____] sets] of interface direct shear tests shall be performed on both interfaces of the GCL.  Specimens 
+shall be allowed to hydrate prior to shearing for a minimum of [_____] hours.  Free drainage shall be provided 
+along the outside of the GCL to aid in hydration.  The other side of the GCL shall be placed against the interface 
+material on which the test will be run.  This interface material shall remain in place during hydration, consolidation, 
+and shearing.  Specimens shall be allowed to consolidate prior to shearing for a minimum of [_____] hours.  Normal 
+stresses of [_____], [_____], and [_____]<MET> kPa</MET><ENG> psf</ENG> shall be used during hydration, consolidation, and shearing.  
+The normal stresses shall not be relieved prior to or during shearing of the specimens.  The shear rate shall 
+be [_____].  Tests shall be run until a minimum total displacement of<MET> [50] [_____] mm</MET><ENG> [2] [_____] inches</ENG> is reached.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SAMPLES AND TESTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The need for and amount of QC testing performed by the QC laboratory 
+should be determined on a site specific basis.  Permeability and tensile strength 
+tests are often performed at a reduced frequency in comparison to the mass per 
+unit area test referenced in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL><SUB>Samples</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Collect QC samples at approved locations upon delivery to the site at [the request of the Contracting Officer] 
+[a frequency of one test sample per<MET> [9,000] [_____] square meters</MET><ENG> [100,000] [_____] square feet</ENG>].  Samples shall 
+be collected, packaged, and transported in accordance with <RID>ASTM D6072/D6072M</RID>.  Samples shall be identified with 
+a waterproof marker by manufacturer's name, product identification, lot and roll number.  The date, a unique 
+sample number, the machine direction, and the top surface of the GCL shall also be noted on the sample.  The 
+outer layer of the GCL roll shall be discarded prior to sampling a roll.  Samples shall then be collected by 
+cutting the full-width of the GCL sheet a minimum of<MET> 1 meter</MET><ENG> 3 feet</ENG> wide in the machine direction.  An additional<MET>
+ [610 by 610] [_____] mm</MET><ENG> [24 by 24] [_____] inch</ENG> QA sample shall be collected, labeled, and submitted to the 
+Contracting Officer each time QC samples are collected.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Conformance Tests</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide QC samples to the QC laboratory to determine bentonite mass per unit area (<RID>ASTM D5993</RID>) peel strength 
+(<RID>ASTM D6496/D6496M</RID>), flux (<RID>ASTM D5887/D5887M</RID>) and tensile strength (<RID>ASTM D6768/D6768M</RID>) [at the request of the 
+Contracting Officer] [at a frequency of once per [_____]<MET> square meters</MET><ENG> square feet</ENG> of GCL placed].  Tests not 
+meeting the requirements specified in Table 1 shall result in the rejection of applicable rolls.  Determination 
+of applicable rolls shall be as described in paragraph Tests, Inspections and Verifications.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>INSTALLATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Subgrade Preparation</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Subgrade and anchor trench soils are typically compacted to a minimum 
+of 90 percent of ASTM D698 maximum density.  The final subgrade surface should 
+be rolled with a smooth drum roller.  This paragraph will have to be removed 
+or modified if the GCL subgrade will be another geosynthetic layer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The subgrade shall be compacted in accordance with Section [<SRF>31 00 00</SRF> EARTHWORK] [_____].  The subgrade surface 
+shall be smooth and free of vegetation, standing water, and angular stones or other foreign matter that could 
+damage the GCL.  At a minimum, the subgrade surface shall be rolled with a smooth-drum compactor of sufficient 
+weight to remove any wheel ruts, footprints, or other abrupt grade changes.  All protrusions extending more than<MET>
+ [13] [_____] mm</MET><ENG> [0.5] [_____] inches</ENG> from the subgrade surface (or less if recommended by the manufacturer) 
+shall either be removed, crushed, or pushed into the surface with the smooth-drum compactor.  Each day during 
+placement, the Contracting Officer and installer shall inspect the surface on which GCL is to be placed and certify 
+in writing that the surface is acceptable.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Placement</TTL><BRK/>
+<BRK/>
+<TXT>GCL shall be installed as soon as practical after completion and approval of the subgrade.  Rolls shall be delivered 
+to the work area in their original packaging.  Immediately prior to deployment, the packaging shall be carefully 
+removed without damaging the GCL.  GCL which has been hydrated prior to being covered by an overlying geomembrane 
+or a minimum of<MET> 305 mm</MET><ENG> 12 inches</ENG> of cover soil shall be removed and replaced.  Hydrated GCL is defined as having 
+become soft as determined by squeezing the material with finger pressure or material which has exhibited swelling.  
+If the subgrade is soil, construction equipment may be used to deploy GCL.  If the subgrade is a geosynthetic, 
+GCL shall be deployed by hand or by use of approved light weight equipment with pneumatic tires which will not 
+damage the underlying geosynthetic.  On side slopes, GCL shall be anchored at the top and deployed down the slope 
+to minimize wrinkles.  Dragging of GCL panels over the ground surface shall be minimized.  The Contracting Officer 
+has the option of requiring the use of a slip sheet.  Deployed GCL panels shall lie flat on the subgrade surface, 
+with no wrinkles or folds.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Anchor Trench</TTL><BRK/>
+<BRK/>
+<TXT>Where anchor trenches are required, they shall be placed a minimum of<MET> [610] [_____] mm</MET><ENG> [24] [_____] inches</ENG> back 
+from the edge of slopes to be covered.  Anchor trenches shall be a minimum of<MET> [610] [_____] mm</MET><ENG> [24] [_____] inches</ENG>
+ deep and<MET> [457] [_____] mm</MET><ENG> [18] [_____] inches</ENG> wide.  The front edge of the trench shall be rounded so as to 
+eliminate sharp corners that could damage the GCL.  The GCL shall extend down the front wall and across the bottom 
+of the anchor trench.  Soils used for backfill shall have a maximum particle size of<MET> 25 mm</MET><ENG> 1.0 inch</ENG> and shall 
+be placed in two lifts.  Compaction and testing requirements are described in Section [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Seams</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Geomembrane-backed GCLs may also be welded together.  Refer to Section 
+<SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE for geomembrane seaming requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>On side slopes, GCL shall be placed with seams oriented parallel to the line of maximum slope and shall be free 
+of tension or stress upon completion of installation.  Panels shall be positioned with the overlap recommended 
+by the manufacturer, but not less than<MET> 150 mm</MET><ENG> 6 inches</ENG> for panel sides or<MET> 450 mm</MET><ENG> 18 inches</ENG> for panel ends.  Soil 
+or other foreign matter shall be removed from the overlap area immediately prior to seaming.  If recommended 
+by the manufacturer, granular bentonite of the same type as the bentonite used for the GCL shall be placed along 
+the entire overlap width at a minimum rate of<MET> 0.37 kg/linear meter</MET><ENG> 0.25 lbs/linear foot</ENG> or as recommended by 
+the manufacturer.  Construction adhesive or other approved seaming methods recommended by the manufacturer shall 
+be used for horizontal seams on slopes.  Overlaps which occur on slopes shall be constructed with the up slope 
+GCL shingled over the down slope GCL.  Alternate seaming methods may be approved if recommended by the manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protection</TTL><BRK/>
+<BRK/>
+<TXT>Only those GCL panels which can be anchored and covered in the same day shall be unpackaged and installed.  If 
+exposed GCL cannot be permanently covered before the end of a working day, it shall be temporarily covered with 
+plastic or other waterproof material to prevent hydration.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REPAIRS</TTL><BRK/>
+<BRK/>
+<TXT>Holes or tears in GCL shall be repaired by placing a patch of GCL extending a minimum of<MET> 305 mm</MET><ENG> 12 inches</ENG> beyond 
+the edges of the hole or tear on all sides.  If recommended by the manufacturer, granular bentonite or bentonite 
+mastic shall be applied in the overlap area.  Patches shall be secured with a construction adhesive or other 
+approved methods as recommended by the manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PENETRATIONS</TTL><BRK/>
+<BRK/>
+<TXT>Penetration details shall be as recommended by the GCL manufacturer.  As a minimum, pipe penetrations shall incorporate 
+a collar of GCL wrapped around the pipe and securely fastened.  Dry bentonite or bentonite paste shall be placed 
+around the penetration as recommended by the GCL manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>COVERING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph should be modified or removed if the GCL will be covered 
+by another geosynthetic layer.</NPR><BRK/>
+<BRK/>
+<NPR>Generally, cover soil should have a maximum particle size of<MET> 25 mm</MET><ENG> 1 inch</ENG> or 
+less.  The required maximum particle size should be based on manufacturer's 
+recommendations.</NPR><BRK/>
+<BRK/>
+<NPR>In cases where a non-aqueous liquid (i.e. jet fuel, gasoline, etc.) is being 
+contained by the GCL, it may be necessary to hydrate the GCL with water prior 
+to use.  Hydration may be accomplished by introducing water into the containment 
+area either by flooding or by the use of sprinklers.  The GCL supplier should 
+be contacted for specific procedures if manual hydration is necessary.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>GCL shall not be covered prior to inspection and approval by the Contracting Officer.  Cover soil shall be free 
+of angular stones or other foreign matter which could damage the GCL.  The maximum particle size of the cover 
+soil shall be<MET> [25] [_____] mm</MET><ENG> [1] [_____] inch</ENG>.  Cover soil shall not be dropped directly onto the GCL from a 
+height greater than<MET> 1 meter</MET><ENG> 3 feet</ENG>.  The soil shall be pushed out over the GCL in an upward tumbling motion.  
+The direction of backfilling shall proceed in the direction of down gradient shingling of GCL overlaps; except 
+that on side slopes, soil backfill shall be placed from the bottom of the slope upward.  Cover soil shall be 
+placed such that soil does not enter the GCL overlap zone and tensile stress are not mobilized in the GCL.  No 
+equipment shall be operated on the top surface of the GCL without permission from the Contracting Officer.  The 
+initial loose soil lift thickness shall be<MET> [305] [_____] mm</MET><ENG> [12] [_____] inches</ENG>.  Equipment with ground pressures 
+less than<MET> 50 kPa</MET><ENG> 7.0 psi</ENG> shall be used to place the first lift over the GCL.  A minimum of<MET> [305] [610] [915] 
+[_____] mm</MET><ENG> [12] [24] [36] [_____] inches</ENG> of soil shall be maintained between construction equipment with ground 
+pressures greater than<MET> 50 kPa</MET><ENG> 7 psi</ENG> and the GCL during the covering process.  Equipment placing cover soil shall 
+not stop abruptly, make sharp turns, spin their wheels, or travel at speeds exceeding<MET> [2.2] [_____] m/s</MET><ENG> [5] [_____] 
+mph</ENG>.  Cover soil compaction and testing requirements are described in Section [_____].</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

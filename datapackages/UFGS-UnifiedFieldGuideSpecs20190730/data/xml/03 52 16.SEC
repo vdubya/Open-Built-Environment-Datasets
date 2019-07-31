@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                 UFGS-03 52 16 (April 2008)<BRK/>
+                                              --------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                    Superseding<BRK/>
+                                              UFGS-03 51 00 (October 2007)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 52 16</SCN><BRK/>
+<BRK/>
+<STL>LIGHTWEIGHT INSULATING CONCRETE</STL><BRK/>
+<DTE>04/08</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>low density cast-in-place 
+concrete roof decking</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN IRON AND STEEL INSTITUTE (AISI)</ORG><BRK/><BRK/><RID>AISI SG03-3</RID><RTL>(2002; Suppl 2001-2004; R 2008) Cold-Formed Steel Design Manual Set</RTL><BRK/><BRK/></REF><REF><ORG>AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (ASHRAE)</ORG><BRK/><BRK/><RID>ASHRAE FUN IP</RID><RTL>(2017) Fundamentals Handbook, I-P Edition</RTL><BRK/><BRK/><RID>ASHRAE FUN SI</RID><RTL>(2017) Fundamentals Handbook, SI Edition</RTL><BRK/><BRK/></REF><REF><ORG>AMERICAN WELDING SOCIETY (AWS)</ORG><BRK/><BRK/><RID>AWS A2.4</RID><RTL>(2012) Standard Symbols for Welding, Brazing and Nondestructive Examination</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM A1064/A1064M</RID><RTL>(2017) Standard Specification for Carbon-Steel Wire and Welded Wire Reinforcement, Plain and Deformed, for Concrete</RTL><BRK/><BRK/><RID>ASTM A653/A653M</RID><RTL>(2018) Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process</RTL><BRK/><BRK/><RID>ASTM C150/C150M</RID><RTL>(2018) Standard Specification for Portland Cement</RTL><BRK/><BRK/><RID>ASTM C260/C260M</RID><RTL>(2010a; R 2016) Standard Specification for Air-Entraining Admixtures for Concrete</RTL><BRK/><BRK/><RID>ASTM C332</RID><RTL>(2017) Standard Specification for Lightweight Aggregates for Insulating Concrete</RTL><BRK/><BRK/><RID>ASTM C495/C495M</RID><RTL>(2012) Standard Test Method for Compressive Strength of Lightweight Insulating Concrete</RTL><BRK/><BRK/><RID>ASTM C578</RID><RTL>(2018) Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation</RTL><BRK/><BRK/><RID>ASTM C595/C595M</RID><RTL>(2018) Standard Specification for Blended Hydraulic Cements</RTL><BRK/><BRK/><RID>ASTM C796/C796M</RID><RTL>(2012) Standard Test Method for Foaming Agents for Use in Producing Cellular Concrete Using Preformed Foam</RTL><BRK/><BRK/><RID>ASTM C869/C869M</RID><RTL>(2011; R 2016) Standard Specification for Foaming Agents Used in Making Preformed Foam for Cellular Concrete</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Low Density Roof Systems</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Design Mix</SUB></ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SYSTEM REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Provide the services of a firm experienced in the installation of cast-in-place <SUB>low density roof systems</SUB>.  A 
+representative of the firm shall supervise the mixing, transporting, placing, finishing, and testing of the low 
+density concrete.  Submit drawings indicating shop and erection details for form systems proposed to be used.  
+Show on the drawings cuts, vent holes, cut-outs for other trades, connections, and welds.  Indicate welds in 
+accordance with <RID>AWS A2.4</RID>.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><TST>Concrete</TST></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Oven-dry unit weight of low density concrete should not exceed<MET> 800 kg/cubic 
+meter</MET><ENG> 50 pcf</ENG>; nor should the compressive strength exceed<MET> 3100 kPa</MET><ENG> 450 psi</ENG>.  
+Insulation value decreases with high unit weights.  Unit weight of<MET> 400 kg/cubic 
+meter</MET><ENG> 25 pcf</ENG> with a minimum compressive strength of<MET> 862 kPa</MET><ENG> 125 psi</ENG> will normally 
+be specified.  Manufacture of this type of concrete is specialized and manufacturer's 
+data should be relied on to establish mixture proportions.  See ACI 523.1R for 
+additional information.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Establish the strength qualities of the low density concrete proposed for use from manufacturer's submitted data 
+prior to the beginning of construction operations.  Perform the preparation of the <SUB>design mix</SUB> and subsequent 
+testing through an approved testing laboratory capable of performing such services or, if approved, by the manufacturer 
+of the low density concrete.  Prepare trial design batches with the same materials proposed for use in the work.  
+Make and test Test Cylinders in accordance with <RID>ASTM C495/C495M</RID> for perlite and vermiculite concrete and <RID>ASTM C796/C796M</RID>
+ for cellular concrete.  Proportion low density concrete for a minimum oven-dry unit weight of<MET> [400] [_____] 
+kg/cubic meter</MET><ENG> [25] [_____] pcf</ENG> and the minimum average compressive strengths at 28 days of<MET> [862] [_____] kPa</MET><ENG>
+ [125] [_____] psi</ENG>.  Submit certified copies of the design mix report for low density concrete indicating mixture 
+proportions, average compressive strength in<MET> MPa</MET><ENG> psi</ENG>, and wet unit weight at point of placement for the type 
+proposed for the project.  Make allowances for any unit weight changes resulting from handling and placing methods.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Required U-Value</TTL><BRK/>
+<BRK/>
+<TXT>The actual average installed thickness of concrete, forms, and insulation, if used, shall be sufficient to provide 
+a coefficient of heat transmission, or U-value, based on winter conditions, through the affected construction, 
+not in excess of [_____]<MET> W per square meter, per degree K</MET><ENG> Btu per hour, per square foot, per degree F</ENG> temperature 
+difference, when determined in accordance with recognized methods set forth in the<MET> <RID>ASHRAE FUN SI</RID></MET><ENG> <RID>ASHRAE FUN IP</RID></ENG>
+.  Determine the U-value from inside air to outside air.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Steel Forms</TTL><BRK/>
+<BRK/>
+<TXT>Design of steel forms shall conform to <RID>AISI SG03-3</RID>.  Design units for attachment to the structural supports by 
+welding or by a special system of clips as recommended by the manufacturer.  The deflection of the steel forms 
+under the design live load indicated shall not exceed 1/240 of the clear span.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MATERIALS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Admixtures</TTL><BRK/>
+<BRK/>
+<TXT>Provide air-entraining admixtures conforming to <RID>ASTM C260/C260M</RID>.  Do not use admixtures containing chloride ions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Aggregate</TTL><BRK/>
+<BRK/>
+<TXT>Provide light weight aggregate free of asbestos and conforming to <RID>ASTM C332</RID>, Group I.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Foaming Agent</TTL><BRK/>
+<BRK/>
+<TXT>Provide foaming agents, for making cellular concrete, conforming to <RID>ASTM C869/C869M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cementitious Material</TTL><BRK/>
+<BRK/>
+<TXT>Provide portland cement conforming to <RID>ASTM C150/C150M</RID>, Type I, III; or <RID>ASTM C595/C595M</RID>, Type IS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wire Reinforcement</TTL><BRK/>
+<BRK/>
+<TXT>Provide reinforcement consisting of either wire mesh or welded wire fabric.  Mesh shall be<MET> 50 mm</MET><ENG> 2 inch</ENG> hexagonal, 
+woven from<MET> 19 gauge</MET><ENG> 19 gauge</ENG> steel wire and reinforced with<MET> 16 gauge</MET><ENG> 16 gauge</ENG> longitudinal steel wire spaced 
+on<MET> 75 mm</MET><ENG> 3 inch</ENG> maximum centers.  Wires forming common sides of mesh spaces that are adjacent to longitudinal 
+wires shall be woven around longitudinal wires.  Wire shall be galvanized conforming to <RID>ASTM A1064/A1064M</RID>.  Welded 
+wire fabric shall conform to <RID>ASTM A1064/A1064M</RID>, galvanized, <MET>12 gauge</MET><ENG> 12 gauge</ENG> longitudinal wires spaced on<MET> 100 
+mm</MET><ENG> 4 inch</ENG>maximum centers with<MET> 14 gauge</MET><ENG> 14 gauge</ENG> transverse wires spaced on<MET> 200 mm</MET><ENG> 8 inch</ENG> maximum centers.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Steel Forms</TTL><BRK/>
+<BRK/>
+<TXT>Forms shall be galvanized corrugated steel conforming to <RID>ASTM A653/A653M</RID>, Grade A or E, with coating Class G 
+90.  Provide forms with side lap venting clips, formed in side lap vents, or vent slots in the corrugation.  
+Vent area shall be at least<MET> 700 square mm per square m</MET><ENG> 0.10 square inch per square foot</ENG> of roof deck area.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Rigid Insulation</TTL><BRK/>
+<BRK/>
+<TXT>Provide insulation conforming to <RID>ASTM C578</RID>, Type as recommended by the manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Expansion Joint Materials</TTL><BRK/>
+<BRK/>
+<TXT>Expansion joint material shall be compressible up to at least 50 percent under<MET> 172 kPa</MET><ENG> 25 psi</ENG> of pressure.  Material 
+shall be weather resistant and compatible with the roofing system used.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MIXING PROCEDURE</TTL><BRK/>
+<BRK/>
+<TXT>Mechanically mix concrete ingredients to produce low density concrete of uniform consistency and a wet unit weight 
+at point of placement required to obtain the compressive strength specified.  Mixing and transporting operation 
+shall be in accordance with the low density concrete material manufacturer's recommendation.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>FORMWORK</TTL><BRK/>
+<BRK/>
+<TXT>Attach forms to structural members by plug welding or special clips furnished by the manufacturer.  Welding or 
+the use of clips shall be in conformance with recommendations of the manufacturer.  Sheets shall be placed with 
+edge-corrugation lips pointing upward and shall be lapped not less than one full corrugation.  End laps shall 
+be located over permanent supports and shall be a minimum of<MET> 50 mm</MET><ENG> 2 inches</ENG>.  Venting shall be as recommended 
+by the manufacturer.  Prior to placing low density concrete, areas of coating that have been damaged by welding 
+or other operations shall have welding flux, spatter, and slag removed, shall be cleaned of loose rust and other 
+foreign matter by wire brushing, and then coated with zinc-rich paint.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>WIRE REINFORCEMENT</TTL><BRK/>
+<BRK/>
+<TXT>Unroll and place wire reinforcement so that the long dimension is perpendicular with the corrugation in the steel 
+forms.  Location of reinforcement shall be approximately in the center of the lower one-third of the slab in 
+which it is placed; however, minimum cover for reinforcement shall be<MET> 19 mm</MET><ENG> 3/4 inch</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>LOW DENSITY CONCRETE CONVEYING AND PLACEMENT</TTL><BRK/>
+<BRK/>
+<TXT>Conveying of low density concrete from the mixer to place of deposit shall be by methods that will prevent segregation 
+and loss of material.  Equipment for conveying concrete shall be of such size and design to ensure uniform, continuous 
+placement of concrete.  Deposit and screed low density concrete in a continuous operation until the placing of 
+a panel or section is completed.  Do not use rodding, tamping, vibrating, or steel troweling.  Use temporary 
+runways during placement.  The actual thickness of the roof system shall be that required to obtain the U-value 
+specified; however, the minimum thickness of the top-most layer of low-density concrete shall not be less than<MET>
+ 50 mm</MET><ENG> 2 inches</ENG>.  Rigid insulation, if used to obtain the required U-value, shall be encapsulated in low density 
+concrete as recommended by the manufacturer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EXPANSION JOINTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Expansion joints will be as required by normal building design and construction.  
+Perlite systems require expansion joints at all intersections with vertical 
+surfaces except where designed as diaphragms in seismic design.  Use<MET> 40 mm</MET><ENG> 1-1/2 
+inch</ENG> joints when roof exceeds<MET> 30 m</MET><ENG> 100 feet</ENG> in length.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Locate expansion joints as indicated.  In addition, where perlite aggregate is used<MET> [25] [40] mm</MET><ENG> [1] [1-1/2] 
+inch</ENG> expansion joints shall be installed at junctions of roof and vertical surfaces.  Joints shall extend the 
+full depth of the roof system.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>COLD WEATHER PLACEMENT</TTL><BRK/>
+<BRK/>
+<TXT>Reinforcement, forms, fillers, and other materials that will come in contact with the low density mixture shall 
+be free of frost, snow, or ice.  Do not place low density concrete at temperatures below<MET> 4 degrees C</MET><ENG> 40 degrees 
+F</ENG> or when temperatures are predicted to fall below<MET> 4 degrees C</MET><ENG> 40 degrees F</ENG> during placement, unless precautions 
+recommended by the manufacturer are employed and such placement is approved.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CURING</TTL><BRK/>
+<BRK/>
+<TXT>Cure low density concrete in accordance with the manufacturer's recommendation.  Curing operations shall commence 
+at initial set of the concrete.  After curing, allow surfaces to dry to permit subsequent application of roofing 
+system, as determined by installation firm.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><TST>FIELD-CONTROL TESTS</TST></TTL><BRK/>
+<BRK/>
+<TXT>Field-control tests shall be performed by an approved commercial testing laboratory and consist of wet-density 
+at time of placement and compressive strength tests.  If the specimens tested fail to meet the compressive-strength 
+requirements, remove and replace the portion of roof decking represented by the specimens.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><TST>Wet-Density Tests</TST></TTL><BRK/>
+<BRK/>
+<TXT>Wet-density tests shall be made as required, but shall be not less than twice during each day's pour.  Samples 
+for wet-density tests shall be taken at the point of placement.  A variation in excess of 5 percent under the 
+laboratory-established design of wet density, after discharge at point of placement, shall require a modification 
+of mix proportions or changes in mixing procedure, or both.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><TST>Compressive Strength Tests</TST></TTL><BRK/>
+<BRK/>
+<TXT>The preparation of cylinders and testing shall be in accordance with <RID>ASTM C495/C495M</RID>, or <RID>ASTM C796/C796M</RID> as applicable, 
+except that samples shall be obtained at the point of placement.  Take samples at least once a day and for each<MET>
+ 60 cubic meters</MET><ENG> 75 cubic yards</ENG> of low density concrete placed.  The area of roof decking represented by the 
+sample shall be properly identified.  One sample shall be sufficient to make at least four cylinders.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CLEANING AND PROTECTION</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of the roof deck, sweep the roof surfaces clean of debris leaving it ready to receive the roofing.  
+Protect the finished deck from damage by weather and construction operations prior to installation of roofing.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

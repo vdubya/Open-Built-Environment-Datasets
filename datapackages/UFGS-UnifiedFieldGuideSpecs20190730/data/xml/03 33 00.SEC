@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-03 33 00 (November 2009)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-03 33 00 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 33 00</SCN><BRK/>
+<BRK/>
+<STL>CAST-IN-PLACE ARCHITECTURAL CONCRETE</STL><BRK/>
+<DTE>11/09</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>cast-in-place architectural 
+concrete</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN CONCRETE INSTITUTE (ACI)</ORG><BRK/><BRK/><RID>ACI 211.1</RID><RTL>(1991; R 2009) Standard Practice for Selecting Proportions for Normal, Heavyweight and Mass Concrete</RTL><BRK/><BRK/><RID>ACI 211.2</RID><RTL>(1998; R 2004) Standard Practice for Selecting Proportions for Structural Lightweight Concrete</RTL><BRK/><BRK/><RID>ACI 301</RID><RTL>(2016) Specifications for Structural Concrete</RTL><BRK/><BRK/><RID>ACI 301M</RID><RTL>(2016) Metric Specifications for Structural Concrete</RTL><BRK/><BRK/><RID>ACI 318</RID><RTL>(2014; Errata 1-2 2014; Errata 3-5 2015; Errata 6 2016; Errata 7-9 2017) Building Code Requirements for Structural Concrete (ACI 318-14) and Commentary (ACI 318R-14)</RTL><BRK/><BRK/><RID>ACI 318M</RID><RTL>(2014; ERTA 2015) Building Code Requirements for Structural Concrete &amp; Commentary</RTL><BRK/><BRK/><RID>ACI 347R</RID><RTL>(2014; Errata 1 2017) Guide to Formwork for Concrete</RTL><BRK/><BRK/><RID>ACI SP-66</RID><RTL>(2004) ACI Detailing Manual</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM A36/A36M</RID><RTL>(2014) Standard Specification for Carbon Structural Steel</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<BRK/>
+<TXT>All materials, procedures, and requirements specified in Section <SRF>03 30 00</SRF> CAST-IN-PLACE CONCRETE shall fully 
+apply to cast-in-place architectural concrete, except as otherwise specified.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Concrete Mix Design</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If it is determined that the concrete mix requires plasticizers, the 
+requirements will be added in this paragraph.  Slumps for plasticized concrete 
+may range as high as<MET> 250 mm</MET><ENG> 10 inches</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Design the concrete mix in accordance with <RID>ACI 211.1</RID> and <RID>ACI 211.2</RID> including consideration of the finishes required.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Formwork Design</TTL><BRK/>
+<BRK/>
+<TXT>Design formwork conforming to <MET><RID>ACI 301M</RID></MET><ENG><RID>ACI 301</RID></ENG> and <RID>ACI 347R</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects. </NPR><BRK/>
+<BRK/>
+<NPR>SD-04:  The materials used in architectural concrete vary from one project to 
+another.  For most projects, samples for all materials are not required.  A 
+list of suggested samples is given below:</NPR><BRK/>
+<BRK/>
+<NPR>Form Ties</NPR><BRK/>
+<NPR>Form Liners</NPR><BRK/>
+<NPR>Cement Colors</NPR><BRK/>
+<NPR>Coarse Aggregates</NPR><BRK/>
+<NPR>Reinforcing Chairs</NPR><BRK/>
+<NPR>Sample panels should not be required for small projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Detail Drawings</SUB></ITM>.<BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Materials</SUB></ITM><BRK/>
+<ITM><SUB>Panels</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Detail Drawings</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit detail drawings conforming to <RID>ACI SP-66</RID> and<MET> <RID>ACI 318M</RID></MET><ENG> <RID>ACI 318</RID></ENG>.  Detail drawings shall show location of 
+cast-in-place elements in the work, building elevations, formwork fabrication details, reinforcements, embedments, 
+dimensions, concrete strength, interface with adjacent materials, and special placing instructions, in sufficient 
+detail to cover fabrication, placement, stripping, and finishing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Panels</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide sample panels<MET> 1.8 m</MET><ENG> 6 feet</ENG> long and<MET> 1.2 m</MET><ENG> 4 feet</ENG> high with the thickness to match building conditions 
+for each type of architectural concrete and finish, located where directed.  Panel forms shall include a typical 
+joint between form panels, form tie conditions and finishes.  Protect panels from weather, and other damage until 
+acceptance of work.  Sample panels shall be used as job standards throughout construction.  Submit a sample panel 
+for approval.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>MATERIALS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit samples of materials listed below, indicating sizes, shapes, finishes, color, and pertinent accessories:  
+[_____].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Aggregates</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If a specific type or size of aggregate is required for a desired finish, 
+whether it be for a facing mix or the entire thickness, the additional requirements 
+will be added in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Aggregates shall conform to [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Reinforcing Steel</TTL><BRK/>
+<BRK/>
+<TXT>Reinforcing steel shall be galvanized if clearance to an exterior face is<MET> 25 mm</MET><ENG> 1 inch</ENG> or less.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Tie Wire</TTL><BRK/>
+<BRK/>
+<TXT>Tie wire shall be soft monel or 18-8 stainless steel.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Plates, Angles, Anchors, and Embedments</TTL><BRK/>
+<BRK/>
+<TXT>Plates, angles, anchors, and embedments shall conform to <RID>ASTM A36/A36M</RID>, and shall be prime painted with inorganic 
+zinc primer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Formwork</TTL><BRK/>
+<BRK/>
+<TXT>Formwork for special effects shall be as approved.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Form Release Agents</TTL><BRK/>
+<BRK/>
+<TXT>Form release agents shall be manufacturer's standard, nonstaining, nonpetroleum based, compatible with surface 
+sealer finish coating.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Surface Sealer</TTL><BRK/>
+<BRK/>
+<TXT>Surface sealer shall be methyl methacrylate polymer acrylic emulsion, clear color.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>FORMWORK ERECTION</TTL><BRK/>
+<BRK/>
+<TXT>Erect formwork in accordance with the detail drawings to ensure that the finished concrete members conform accurately 
+to the indicated dimensions, lines, elevations, and finishes.  Deflection shall not exceed 1/360th of each component 
+span or distance between adjacent supports.  Deflections and tolerance shall not be cumulative.  Install form 
+lines as necessary to provide the required finish.  Forms shall be coated with form release agents before reinforcement 
+is placed.  Formwork shall conform to <MET><RID>ACI 301M</RID></MET><ENG><RID>ACI 301</RID></ENG> and <RID>ACI 347R</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONCRETE FINISHES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The types of possible finishes for concrete faces are virtually limitless.  
+The requirements for the project will be specified in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Concrete finishes shall conform to the approved finishes.  Finishing shall be accomplished at the time of concrete 
+placement or immediately after formwork removal, as follows:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Smooth finish:  (1) As cast using flat smooth nonporous forms. (2) As cast using fluted, sculptured, 
+board finish or textured form liners.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Textured finish:  (1) Textured form liners applied to inside of forms.  (2) Distress finish by breaking 
+off portion of face of raised portion of unit.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Exposed aggregate finish:  (1) Finish obtained by applying even coat of retardant to face of form, 
+removing forms after concrete hardens, and exposing coarse aggregate to a depth of [_____]<MET> mm</MET><ENG> inches</ENG> 
+by washing and brushing or lightly sandblasting away surface mortar.  (2) Finish obtained by treating 
+surface of unit with brushes which have been immersed in acid solution.</LST><BRK/>
+<BRK/>
+<TXT>Cast-in-place concrete elements which are to have a finish other than the surface produced from standard formwork, 
+shall be accomplished by using the following procedures: [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>JOINT SEALING</TTL><BRK/>
+<BRK/>
+<TXT>Joint sealing shall be as specified in Section <SRF>07 92 00</SRF> JOINT SEALANTS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CLEANING</TTL><BRK/>
+<BRK/>
+<TXT>No sooner than 72 hours after joints are sealed, faces and other exposed surfaces of cast-in-place concrete shall 
+be washed down, cleaned with soap and water applied with a soft bristle brush, then washed down again with clean 
+water, or by other approved procedures.  Discolorations which cannot be removed by these procedures, shall be 
+considered defective work. Cleaning work shall be done when temperature and humidity conditions are such that 
+surfaces dry rapidly.  Care shall be taken during cleaning operations to protect adjacent surfaces from damage.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SURFACE SEALING</TTL><BRK/>
+<BRK/>
+<TXT>After cleaning, exterior exposed architectural concrete surfaces indicated shall be given one coat of surface 
+sealer, spray applied unless otherwise approved.  Adjacent surfaces shall be protected to prevent damage from 
+the surface sealer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROTECTION OF WORK</TTL><BRK/>
+<BRK/>
+<TXT>Work shall be protected against damage from subsequent operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>DEFECTIVE WORK</TTL><BRK/>
+<BRK/>
+<TXT>Defective work shall be repaired or replaced, as directed, using approved procedures.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

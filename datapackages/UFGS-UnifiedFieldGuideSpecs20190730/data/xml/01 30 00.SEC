@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-01 30 00 (August 2015)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                  Superseding <BRK/>
+                                             UFGS-01 30 00 (November 2011)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 30 00</SCN><BRK/>
+<BRK/>
+<STL>ADMINISTRATIVE REQUIREMENTS</STL><BRK/>
+<DTE>08/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers <SCP>general administrative and procedural 
+requirements for Contractor management and coordination</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This section contains tailoring for NAVY, NAVFAC EURAFSWA, NAVFAC FE, 
+NAVFAC MAR, NAVFAC SE, ARMY, AIR FORCE, NASA, and DESIGN-BUILD.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EM 385-1-1</RID><RTL>(2014) Safety and Health Requirements Manual</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>15 CFR 772</RID><RTL>Definition of Terms</RTL><BRK/><BRK/><RID>15 CFR 773</RID><RTL>Special Licensing Procedures</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.</NPR><BRK/>
+<BRK/>
+<NPR>The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.</NPR><BRK/>
+<BRK/>
+<NPR>For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.</NPR><BRK/>
+<BRK/>
+<NPR>The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.</NPR><BRK/>
+<BRK/>
+<NPR>Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>View Location Map</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Progress and Completion Pictures</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<TAI OPT="AIR FORCE"><LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph only for Air Force projects.  Do not use this paragraph 
+in Design-Build projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Color Boards</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></TAI>
+</SPT><TAI OPT="AIR FORCE"><SPT><TTL><SUB>COLOR BOARDS</SUB> FOR AIR FORCE PROJECTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for Air Force.  Use for Air Force projects 
+only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit five sets of color boards within 90 calendar days after Contract Award.  Each set of boards must include 
+samples of colors and finishes of interior surfaces, such as walls, floors, and ceilings.  Present the samples 
+on<MET> 200 by 270 mm</MET><ENG> 8 by 10-1/2 inches</ENG> boards (modules) with a maximum spread of<MET> 600 by 810 mm</MET><ENG> 24 by 31-1/2 inches</ENG>
+ for foldouts.  Design modules to fit in a standard loose-leaf, three-ring binder.  Where special finishes such 
+as architectural concrete, carpet, or prefinished textured metal panels are required, submit samples not less 
+than<MET> 300 mm</MET><ENG> 12 inches</ENG> square with the board.  If more space is needed, more than one board per set may be submitted.  
+Certify that the color samples have been reviewed in detail, and that the color samples are in strict accordance 
+with contract drawings and specifications, except as may be otherwise explicitly stated.  Submittal of color 
+samples does not relieve the Contractor of the responsibility to submit samples required elsewhere herein.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL><SUB>VIEW LOCATION MAP</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit, prior to or with the first digital photograph submittals, a sketch or drawing indicating the required 
+photographic locations.  Update as required if the locations are moved.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>PROGRESS AND COMPLETION PICTURES</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Photographically document site conditions prior to start of construction operations.  [Include aerial photographs.  
+]Provide monthly, and within one month of the completion of work, digital photographs, 1600x1200x24 bit true 
+color [_____] minimum resolution in [JPEG][_____] file format showing the sequence and progress of work.  Take 
+a minimum of 20 digital photographs each week throughout the entire project from a minimum of ten views from 
+points located by the Contracting Officer.  Submit with the monthly invoice two sets of digital photographs, 
+each set on a separate compact disc (CD) or data versatile disc (DVD), cumulative of all photos to date.  Indicate 
+photographs demonstrating environmental procedures.  Provide photographs for each month in a separate monthly 
+directory and name each file to indicate its location on the view location sketch.  Also provide the view location 
+sketch on the CD or DVD as a digital file.  Include a date designator in file names.  Cross reference submittals 
+in the appropriate daily report.  Photographs provided are for unrestricted use by the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>MINIMUM INSURANCE REQUIREMENTS</TTL><BRK/>
+<TAI OPT="NAVFAC SE"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Do not use this paragraph for projects at Guantanamo Bay.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Provide the minimum insurance coverage required by FAR 28.307-2 Liability, during the entire period of performance 
+under this contract.  Provide other insurance coverage as required by [State ]<TAI OPT="NAVFAC EURAFSWA">[Portugal]</TAI><TAI OPT="NAVFAC FE">[Guam ][Diego Garcia 
+BIOT ]</TAI>law.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>FIRST TIER CONTRACTOR REQUIREMENTS FOR ASBESTOS CONTAINING MATERIALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph when Section <SRF>02 82 00</SRF> ASBESTOS REMEDIATION is used 
+in the project.  Private Qualified Person is tailored for Navy, and Designated 
+Competent Person is tailored for Army in paragraph below.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Accomplish all contract requirements of Section <SRF>02 82 00</SRF> ASBESTOS REMEDIATION, assigned to the <TAI OPT="NAVY">Private Qualified 
+Person, </TAI><TAI OPT="ARMY">Designated Competent Person, </TAI>directly with a first tier subcontractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUPERVISION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Minimum Communication Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Have at least one qualified superintendent, or competent alternate, capable of reading, writing, and conversing 
+fluently in the English language, on the job-site at all times during the performance of contract work.  In addition, 
+if a Quality Control (QC) representative is required on the contract, then that individual must also have fluent 
+English communication skills.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Superintendent Qualifications</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For first and second bracketed items, choose 10 years and 5 years respectively, 
+for most projects.  Fill in brackets and coordinate with <TAI OPT="ARMY,NASA">Construction Manager/Resident 
+Engineer </TAI><TAI OPT="NAVY">ROICC/FEAD </TAI>to determine if more experience is needed for larger, complex 
+projects, or less, for simple, less costly projects.  This note contains tailoring 
+for ARMY, NASA, and NAVY.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The project superintendent must have a minimum of [10][_____] years experience in construction with at least 
+[5][_____] of those years as a superintendent on projects similar in size and complexity.  The individual must 
+be familiar with the requirements of <RID>EM 385-1-1</RID> and have experience in the areas of hazard identification and 
+safety compliance.  The individual must be capable of interpreting a critical path schedule and construction 
+drawings.  The qualification requirements for the alternate superintendent are the same as for the project superintendent.  
+The Contracting Officer may request proof of the superintendent's qualifications at any point in the project 
+if the performance of the superintendent is in question.</TXT><BRK/>
+<BRK/>
+[<TXT>For routine projects where the superintendent is permitted to also serve as the Quality Control (QC) Manager 
+as established in Section <TAI OPT="ARMY">[<SRF>01 45 00.00 10</SRF>]</TAI><TAI OPT="NAVY">[<SRF>01 45 00.00 20</SRF>]</TAI>[<SRF>01 45 00.00 40</SRF>] QUALITY CONTROL, the superintendent 
+must have qualifications in accordance with that section.</TXT><BRK/>
+<BRK/>
+]<SPT><TTL>Duties</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph contains tailoring for NAVFAC Red Zone for NAVY.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The project superintendent is primarily responsible for managing and coordinating day-to-day production and schedule 
+adherence on the project.  The superintendent is required to attend <TAI OPT="NAVY">NAVFAC Red Zone meetings, </TAI>partnering meetings, 
+and quality control meetings.  The superintendent or qualified alternative must be on-site at all times during 
+the performance of this contract until the work is completed and accepted.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><TAI OPT="NAVFAC EURAFSWA"><SPT><TTL>Project Manager</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph on NAVFAC EURAFSWA projects only.  This paragraph 
+is tailored for NAVFAC EURAFSWA.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Assign a Project Manager with the responsibility for the overall management of the project.  The Contracting 
+Officer may request proof of the Project Manager's qualifications at any point in the project if the performance 
+of the Project Manager is in question.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Project Manager Qualifications</TTL><BRK/>
+<BRK/>
+<TXT>The Project Manager must have a minimum 10 years experience as a Project Manager or Superintendent on projects 
+of similar size and complexity.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></TAI><SPT><TTL>Non-Compliance Actions</TTL><BRK/>
+<BRK/>
+<TXT>The Project Superintendent is subject to removal by the Contracting Officer for non-compliance with requirements 
+specified in the contract and for failure to manage the project to insure timely completion.  Furthermore, the 
+Contracting Officer may issue an order stopping all or part of the work until satisfactory corrective action 
+has been taken.  No part of the time lost due to such stop orders is acceptable as the subject of claim for extension 
+of time for excess costs or damages by the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PRECONSTRUCTION <TAI OPT="NAVY">MEETING</TAI><TAI OPT="ARMY,NASA">CONFERENCE</TAI></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The title of this paragraph is tailored for NAVY to use "Meeting" and 
+tailored for ARMY and NASA to use "Conference."</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAI OPT="ARMY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Do not use this paragraph for Design-Build projects. </NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>After award of the contract but prior to commencement of any work at the site, meet with the Contracting Officer 
+to discuss and develop a mutual understanding relative to the administration of the value engineering and safety 
+program, preparation of the schedule of prices or earned value report, shop drawings, and other submittals, scheduling 
+programming, prosecution of the work, and clear expectations of the "Interim DD Form 1354" Submittal.  Major 
+subcontractors who will engage in the work must also attend.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="NAVY"><SPT><TTL>FACILITY TURNOVER PLANNING MEETINGS (NAVFAC Red Zone - NRZ)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for NAVY projects only.  This paragraph is tailored 
+for NAVY use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Meet with the Government to identify strategies to ensure the project is carried to expeditious closure and turnover 
+to the Client.  Start the turnover process at the Pre-Construction Conference meeting with a discussion of the 
+NAVFAC Red Zone (NRZ) process and convene at regularly scheduled NRZ Meetings.  Include the following in the 
+facility Turnover effort:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>NRZ Checklist</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Contracting Officer's Technical Representative (COTR) will provide the Contractor a copy of the NRZ 
+Checklist template prior to 75 percent completion.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Prior to 75 percent completion add/delete critical activities to the NRZ Checklist template as necessary 
+to match the project scope, and schedule critical activities and insert planned completion dates in the 
+NRZ checklist for each critical activity.  Present the NRZ Checklist to COTR and review during a regularly 
+scheduled QC Meeting.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Meetings</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Upon Government acceptance of the NRZ Checklist, the Project Superintendent is required to lead regular 
+NRZ Meetings beginning at approximately 75 percent project completion, or three to six months prior to 
+Beneficial Occupancy Date (BOD), whichever comes first.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The Contracting Officer will determine the frequency of the meetings, which is expected to increase 
+as the project completion draws nearer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Using the NRZ Checklist as a Plan of Action and Milestones (POAM) and basis for discussion, review 
+upcoming critical activities and strategies to ensure work is completed on time.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Coordinate with the COTR any upcoming activities that require Government involvement.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Maintain the NRZ Checklist by documenting the actual completion dates as work is completed and update 
+the NRZ Checklist with revised planned completion dates as necessary to match progress.  Distribute copies 
+of the current NRZ Checklist to attendees at each NRZ Meeting.</LST><BRK/>
+<BRK/></SPT>
+</SPT></TAI><TAI OPT="NAVFAC EURAFSWA,NAVFAC FE,NAVFAC MAR">[<SPT><TTL>EXPORT LICENSES FOR OVERSEAS PROJECTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for use at NAVFAC EURAFSWA, FE, and MAR.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Obtain individual export licenses and project export licenses required by the Department of Commerce regulations 
+(<RID>15 CFR 772</RID> and <RID>15 CFR 773</RID>) so that no delays are experienced in shipping from the United States of America to 
+a foreign country.  For additional information, the Contractor may contact one of the U.S. and Foreign Commercial 
+Service District Offices of the Department of Commerce which are located in almost every State.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI><TAI OPT="NAVFAC EURAFSWA,NAVFAC FE,NAVFAC MAR">[<SPT><TTL>WAIVER FOR WORKER'S COMPENSATION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include the following paragraph in projects for overseas locations, except 
+Guantanamo Bay.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for use at NAVFAC EURAFSWA, FE, and MAR.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In addition to FAR 52.228-4 Workers' Compensation and War-Hazard Insurance Overseas, the Secretary of Labor has 
+granted a waiver.  The waiver does not apply to employees who are hired in the United States, or who are residents, 
+or citizens of the United States.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI><SPT><TTL>PARTNERING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Partnering is required for all projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>To most effectively accomplish this contract, the Government requires the formation of a cohesive partnership 
+within the Project Team whose members are from the Government, the Contractor and their Subcontractors.  Key 
+personnel from the Supported Command, the End User (who will occupy the facility), the Government Design and 
+Construction team and Subject Matter Experts, the Installation, the Contractor and Subcontractors, and the Designer 
+of Record will be invited to participate in the Partnering process.  The Partnership will draw on the strength 
+of each organization in an effort to achieve a project that is without any safety mishaps, conforms to the Contract, 
+and stays within budget and on schedule.</TXT><BRK/>
+<BRK/>
+<TXT>The Contracting Officer will provide Information on the Partnering Process and a list of key and optional personnel 
+who should attend the Partnering meeting.</TXT><BRK/>
+<BRK/>
+[<SPT><TTL>Formal Partnering</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose either Formal or Informal Partnering on Design-Bid-Build projects, 
+and delete the other.  Coordinate with the Project Manager/Design Manager and 
+Construction Manager to determine whether Formal or Informal Partnering should 
+be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Formal Partnering is recommended for use on high risk, high visibility, 
+compressed duration, technical complexity, or stand alone contracts over approximately 
+$15M. Facilitated by a consultant paid for by Contractor. Contractor includes 
+costs for facilitator, room rental and incidental items in bid.  Participants 
+pay own costs for meals, lodging and transportation.  Partnering "re-groups" 
+are held as agreed in charter.<BRK/>
+<BRK/>
+Exceptions: Consider using Informal Partnering when the Contractor, the Government 
+and the Supported Commands are already familiar with each other from recent 
+contracts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide and host the Partnering sessions with key personnel of the Project Team, including Contractor personnel 
+and Government personnel.  Pay all costs associated with the Partnering effort including the Facilitator, the 
+meeting room, and other incidental items.  In exception, each participant  bears their own costs for meals, lodging, 
+and transportation associated with the Partnering sessions.</TXT><BRK/>
+<BRK/>
+<TXT>Before a Partnering session, coordinate with the Facilitator all requirements for incidental items (such as audio-visual 
+equipment, easels, flipchart paper, colored markers, note paper, pens/pencils, colored flash cards), and have 
+these items available at the Partnering session. Provide copies of documents for distribution to all attendees.  
+Provide a Facilitator experienced in conducting Partnering Workshops, and who is acceptable to both the Government 
+and the Contractor.  The Facilitator is responsible for leading the team in a timely manner and making sure that 
+issues are identified and resolved.  A list of Partnering Facilitators is available from the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Schedule the Initial Partnering Session for a duration of [one][_____] day minimum.  Locate this 
+session at a place off the construction site, as agreed to by the Contracting Officer and the Contractor.  
+It may take place concurrently with the Pre-Construction Meeting.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Schedule follow-on Partnering Session(s) for a maximum of 4 hours.  Schedule them at no more than 
+3 to six month intervals.  Participants are encouraged to utilize electronic means to expedite meetings.  
+Meetings may be held at a location off-Base, at the project site, or in a Government Facility on Base.  
+Follow-on meetings may be held concurrently with other scheduled meetings.  Attendees need only be those 
+required to resolve current issues.  Recommend using the same Facilitator from the Initial Partnering 
+session to achieve best results and for continuity.</LST><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Informal Partnering</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose either Formal or Informal Partnering on Design-Bid-Build projects, 
+and delete the other.  Coordinate with the Project Manager/Design Manager and 
+Construction Manager to determine whether Formal or Informal Partnering should 
+be used.<BRK/>
+<BRK/>
+Informal Partnering is recommended for use on contracts less than $15M, that 
+are not high risk or high visibility, and contain no compressed performance 
+period or technically complex characteristics. Informal Partnering is led by <TAI OPT="NAVY">
+FEAD/ROICC </TAI><TAI OPT="ARMY,NASA">Resident Engineer </TAI>personnel at the Pre-Construction Conference (PreCon).<BRK/>
+<BRK/>
+Exceptions:  Consider upgrade to Formal Partnering, to lessen the risk, when 
+new Supported Commands, new Contractor, first time use of new contract vehicle, 
+or other unique contract requirements exist.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>These notes and paragraphs contain tailoring for PWD FEAD/ROICC for the NAVY, 
+and Resident Engineer for the ARMY and NASA.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Contracting Officer will organize the Partnering Sessions with key personnel of the project team, including 
+Contractor personnel and Government personnel.</TXT><BRK/>
+<BRK/>
+<TXT>The Initial Partnering session should be a part of the Pre-Construction Meeting.  Partnering sessions will be 
+held at a location agreed to by the Contracting Officer and the Contractor (typically a conference room provided 
+by the <TAI OPT="NAVY">PWD FEAD/ROICC </TAI><TAI OPT="ARMY,NASA">Resident Engineer </TAI>office or the Contractor).  The Initial Informal Partnering Session will 
+be conducted and facilitated using electronic media (a video and accompanying forms) provided by the Contracting 
+Officer.  The Partners will determine the frequency of the follow-on sessions, at no more than 3 to six month 
+intervals.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>ELECTRONIC MAIL (E-MAIL) ADDRESS</TTL><BRK/>
+<BRK/>
+<TXT>Establish and maintain electronic mail (e-mail) capability along with the capability to open various electronic 
+attachments as text files, pdf files, and other similar formats.  Within 10 days after contract award, provide 
+the Contracting Officer a single (only one) e-mail address for electronic communications from the Contracting 
+Officer related to this contract including, but not limited to contract documents, invoice information, request 
+for proposals, and other correspondence.  The Contracting Officer may also use email to notify the Contractor 
+of base access conditions when emergency conditions warrant, such as hurricanes or terrorist threats.  Multiple 
+email addresses are not allowed.</TXT><BRK/>
+<BRK/>
+<TXT>It is the Contractor's responsibility to make timely distribution of all Contracting Officer initiated e-mail 
+with its own organization including field office(s).  Promptly notify the Contracting Officer, in writing, of 
+any changes to this email address.</TXT><BRK/>
+<NED/><BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+    <END/><BRK/></SEC>

@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 61 13 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 61 13 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 61 13</SCN><BRK/>
+<BRK/>
+<STL>EXCAVATION AND HANDLING OF CONTAMINATED MATERIAL</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>excavation, handling, 
+and temporary storage of contaminated material</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following information should be shown on the project drawings:</NPR><BRK/>
+<BRK/>
+<NPR>a.  Overall site plan, borrow areas, stockpile areas, storage areas, security 
+requirements, special shoring requirements, boring logs, and access routes.</NPR><BRK/>
+<BRK/>
+<NPR>b.  Individual site plans of each area of contamination with site features such 
+as buildings, roads, utilities, topography, trees, shrubs, surface conditions, 
+etc.</NPR><BRK/>
+<BRK/>
+<NPR>c.  Limits of pavement removal, fence removal, and the location of ancillary 
+equipment to be removed.</NPR><BRK/>
+<BRK/>
+<BRK/>
+<BRK/>
+<NPR>When applicable, the use of onsite field screening or field analysis (supported 
+at a prescribed frequency by fixed laboratory analysis) should be encouraged 
+to avoid prolonged delays or equipment downtime.  Details on the appropriate 
+application and use of field analyses can be found in Appendix H of EM 200-1-3.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>MEASUREMENT AND PAYMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  These paragraphs should be deleted if the work is in one lump sum contract 
+price.  Coordinate requirements of these paragraphs with the bidding schedule.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Measurement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Modify this paragraph if the method of payment will be on a weight basis.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measurement for excavation and onsite transportation shall be based on the actual number of cubic<MET> meters</MET><ENG> yards</ENG>
+ of contaminated material in-place prior to excavation.  Determination of the volume of contaminated material 
+excavated shall be based on cross-sectional volume determination reflecting the differential between the original 
+elevations of the top of the contaminated material and the final elevations after removal of the contaminated 
+material.  Measurement for backfilling of excavated areas shall be based on in-place cubic<MET> meters</MET><ENG> yards</ENG> of compacted 
+fill.  Measurement for construction of stockpile areas shall be based on the number of square<MET> meters</MET><ENG> yards</ENG> of 
+stockpile liner constructed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Excavation and Transportation</TTL><BRK/>
+<BRK/>
+<TXT>Compensation for excavation and onsite transportation of contaminated material will be paid as a unit cost.  
+This unit cost shall include any other items incidental to excavation and handling not defined as having a specific 
+unit cost.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Backfilling</TTL><BRK/>
+<BRK/>
+<TXT>Compensation for backfill soil, transportation of backfill, backfill soil conditioning, backfilling, compaction, 
+and geotechnical testing will be paid as a single unit cost.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiling</TTL><BRK/>
+<BRK/>
+<TXT>Compensation for construction of stockpile areas will be paid for as a unit cost.  This unit cost shall include 
+all aspects of grading, preparation, handling, placement, maintenance, removal, treatment, and disposal of stockpile 
+cover materials and liner materials and all other items incidental to construction of stockpiles.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D1556/D1556M</RID><RTL>(2015; E 2016) Standard Test Method for Density and Unit Weight of Soil in Place by Sand-Cone Method</RTL><BRK/><BRK/><RID>ASTM D1557</RID><RTL>(2012; E 2015) Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Modified Effort (56,000 ft-lbf/ft3) (2700 kN-m/m3)</RTL><BRK/><BRK/><RID>ASTM D2167</RID><RTL>(2015) Density and Unit Weight of Soil in Place by the Rubber Balloon Method</RTL><BRK/><BRK/><RID>ASTM D2487</RID><RTL>(2017) Standard Practice for Classification of Soils for Engineering Purposes (Unified Soil Classification System)</RTL><BRK/><BRK/><RID>ASTM D422</RID><RTL>(1963; R 2007; E 2014; E 2014) Particle-Size Analysis of Soils</RTL><BRK/><BRK/><RID>ASTM D5434</RID><RTL>(2012) Field Logging of Subsurface Explorations of Soil and Rock</RTL><BRK/><BRK/><RID>ASTM D6938</RID><RTL>(2017a) Standard Test Method for In-Place Density and Water Content of Soil and Soil-Aggregate by Nuclear Methods (Shallow Depth)</RTL><BRK/><BRK/><RID>ASTM D698</RID><RTL>(2012; E 2014; E 2015) Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/cu. ft. (600 kN-m/cu. m.))</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EM 385-1-1</RID><RTL>(2014) Safety and Health Requirements Manual</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>29 CFR 1926</RID><RTL>Safety and Health Regulations for Construction</RTL><BRK/><BRK/><RID>40 CFR 302</RID><RTL>Designation, Reportable Quantities, and Notification</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DESCRIPTION OF WORK</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include any pertinent information regarding project/site conditions in 
+this paragraph, the appendices to the specifications, or on the drawings.</NPR><BRK/>
+<BRK/>
+<NPR>If oversize material such as debris and foundations are present, the specification 
+should describe treatment, handling, and disposal requirements for this material.  
+Measurement and payment procedures should also be described for this material.</NPR><BRK/>
+<BRK/>
+<NPR>If clean soil overlies the contaminated material, the specification should describe 
+how this material will be measured, removed, stored, and tested to verify they 
+are clean.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The work consists of excavation and temporary storage of approximately [_____] cubic<MET> meters</MET><ENG> yards</ENG> of contaminated 
+material.  Approximate locations of contaminated material are shown on the drawings.  Characterization data on 
+the nature and extent of the contaminated material is shown in Appendix [_____].  Subsurface conditions are shown 
+[on the drawings] [in Appendix [_____]].  Submit a <SUB>Work Plan</SUB> as specified below.  Notify the Contracting Officer 
+within [24] [_____] hours, and before excavation, if contaminated material is discovered that has not been previously 
+identified or if other discrepancies between data provided and actual field conditions are discovered.  Backfill 
+material is [not available onsite] [available onsite and typically consists of [_____]].  Ground water is approximately 
+[_____]<MET> meters</MET><ENG> feet</ENG> below pre-excavation ground surface.  Required sampling and chemical analysis shall be conducted 
+in accordance with [_____].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Scheduling</TTL><BRK/>
+<BRK/>
+<TXT>Notify the Contracting Officer [_____] calendar days prior to the start of excavation of contaminated material.  
+The [Contracting Officer will] [Contractor shall] be responsible for contacting regulatory agencies in accordance 
+with the applicable reporting requirements.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Work Plan</TTL><BRK/>
+<BRK/>
+<TXT>Submit a Work Plan within [30] [_____] calendar days after notice to proceed.  No work at the site, with the 
+exception of site inspections and surveys, shall be performed until the Work Plan is approved.  Allow [30] [_____] 
+calendar days in the schedule for the Government's review.  No adjustment for time or money will be made if resubmittals 
+of the Work Plan are required due to deficiencies in the plan.  At a minimum, the Work Plan shall include:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Schedule of activities.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Method of excavation and equipment to be used.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Shoring or side-wall slopes proposed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Dewatering plan.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Storage methods and locations for liquid and solid contaminated material.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Borrow sources and haul routes.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Decontamination procedures.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Spill contingency plan.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Submittal Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Submit separate cross-sections of each area before and after excavation and after backfilling, test results, 
+and [_____] copies of the Closure Report within [14] [_____] calendar days of work completion at the site.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-02 Shop Drawings</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Surveys</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Work Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Closure Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Backfill</SUB></ITM><BRK/>
+<ITM><SUB>Surveys</SUB></ITM><BRK/>
+<ITM><SUB>Confirmation Sampling and Analysis</SUB></ITM><BRK/>
+<ITM><SUB>Sampling of Stored Material</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Sampling Liquid</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Compaction</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REGULATORY REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Permits and Licenses</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include additional site specific requirements in this paragraph.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Obtain required federal, state, and local permits for excavation and storage of contaminated material.  Permits 
+shall be obtained at no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Emissions</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  An air pathway analysis should be performed during design to determine 
+what air monitoring and controls are required.  Guidance on air pathway analyses 
+is provided in EP 1110-1-21  Air Pathway Analysis for the Design of Hazardous, 
+Toxic, and Radioactive Waste (HTRW) Remedial Action Projects.  Specify perimeter 
+air monitoring requirements in Section <SRF>01 57 19</SRF> TEMPORARY ENVIRONMENTAL CONTROLS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Air emissions shall be monitored and controlled in accordance with Section <SRF>01 57 19</SRF> TEMPORARY ENVIRONMENTAL CONTROLS.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SPILL RESPONSE MATERIALS</TTL><BRK/>
+<BRK/>
+<TXT>Provide appropriate spill response materials including, but not limited to the following: containers, adsorbents, 
+shovels, and personal protective equipment.  Spill response materials shall be available at all times when contaminated 
+materials/wastes are being handled or transported.  Spill response materials shall be compatible with the type 
+of materials and contaminants being handled.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>BACKFILL</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If contaminated material removal is part of a larger project and a backfilling 
+specification is needed for the project as a whole, refer to another specification 
+such as Section <SRF>31 23 00.00 20</SRF> EXCAVATION AND FILL for Buildings, for backfill 
+requirements and delete the following paragraphs.</NPR><BRK/>
+<BRK/>
+<NPR>In many cases, the degree of engineering control of the materials used as backfill 
+may not need to be as stringent as described in this paragraph.  In other cases, 
+such as under pavements, special compaction and material requirements may apply 
+and the specification will need to be revised to address these special requirements 
+or another specification section should be referenced.</NPR><BRK/>
+<BRK/>
+<NPR>Backfill and topsoil brought in from offsite is usually tested to verify the 
+material is clean.  Quality assurance samples taken by the Government may also 
+be prudent to verify the seller's claims by analyzing for target analytes.  
+Backfill is commonly tested for the site specific contaminants being cleaned 
+up and/or is based on suspicion of contamination at the site from which the 
+backfill is originating.</NPR><BRK/>
+<BRK/>
+<NPR>At some sites, previously contaminated material which has been removed from 
+the excavation is reused as backfill following treatment to remove the contaminant 
+of concern.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Backfill material shall be obtained from [the location indicated on the drawings] [offsite sources approved by 
+the Contracting Officer].  Backfill shall be classified in accordance with <RID>ASTM D2487</RID> as GW, GP, GM, GC, SW, 
+SP, SM, SC, ML, MH, CL, or CH and shall be free from roots and other organic matter, trash, debris, snow, ice 
+or frozen materials.  Backfill material shall be tested for the parameters listed below at a frequency of once 
+per [3000] [_____] cubic<MET> m</MET><ENG> yards</ENG>.  A minimum of one set of classification tests shall be performed per borrow 
+source.  [One] [_____] backfill sample per borrow source shall also be collected and tested for the chemical 
+parameters listed below.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="4">
+      <COL AUTOWIDTH="0" WIDTH="152.25"/>
+      <COL AUTOWIDTH="0" WIDTH="152.25"/>
+      <COL AUTOWIDTH="0" WIDTH="152.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Physical Parameter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Criteria</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Grain Size</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Compaction</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D698</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="152.25"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="152.25"/>
+      <COL AUTOWIDTH="0" WIDTH="152.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Chemical Parameter</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Test Frequency</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Criteria</DTA>
+         </CEL>
+      </ROW>
+      <ROW>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Do not use material for backfill until borrow source chemical and physical test results have been submitted and 
+approved.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>SURVEYS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Perform surveys immediately prior to and after excavation of contaminated material to determine the volume of 
+contaminated material removed.  Also, perform surveys immediately after backfill of each excavation.  Provide 
+cross-sections on<MET> [7.6] [_____] meter</MET><ENG> [25] [_____] foot</ENG> intervals and at break points for all excavated areas.  
+Locations of confirmation samples shall also be surveyed and shown on the drawings.  Perform surveys in accordance 
+with Section:  [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EXISTING STRUCTURES AND UTILITIES</TTL><BRK/>
+<BRK/>
+<TXT>No excavation shall be performed until site utilities have been field located.  Take the necessary precautions 
+to ensure no damage occurs to existing structures and utilities.  Damage to existing structures and utilities 
+resulting from the Contractor's operations shall be repaired at no additional cost to the Government.  Utilities 
+encountered that were not previously shown or otherwise located shall not be disturbed without approval from 
+the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CLEARING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Grubbing is typically not required at sites where contaminated soil is 
+being excavated for treatment and/or disposal.  Typically, vegetation that is 
+cut off above a certain height is defined as clean and any stumps and brush 
+below this height are defined as contaminated.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Clearing shall be performed to the limits shown on the drawings in accordance with Section <SRF>31 11 00</SRF> CLEARING 
+AND GRUBBING.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONTAMINATED MATERIAL REMOVAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Excavations should be marked and secured in accordance with the requirements 
+specified in Section <SRF>01 35 29.13</SRF> HEALTH, SAFETY, AND EMERGENCY RESPONSE PROCEDURES 
+FOR CONTAMINATED SITES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Excavation</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For large excavations, more than one excavation log may be required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Areas of contamination shall be excavated to the depth and extent shown on the drawings and not more than<MET> [60] 
+[_____] mm</MET><ENG> [0.2] [_____] ft</ENG> beyond the depth and extent shown on the drawings unless directed by the Contracting 
+Officer.  Excavation shall be performed in a manner that will limit spills and the potential for contaminated 
+material to be mixed with uncontaminated material.  An excavation log describing visible signs of contamination 
+encountered shall be maintained for each area of excavation.  Excavation logs shall be prepared in accordance 
+with <RID>ASTM D5434</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Shoring</TTL><BRK/>
+<BRK/>
+<TXT>If workers must enter the excavation, it shall be evaluated, shored, sloped or braced as required by <RID>EM 385-1-1</RID>
+ and <RID>29 CFR 1926</RID> section 650.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Dewatering</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Dewatering can significantly increase the cost of a project involving 
+the excavation of contaminated material and should be carefully considered during 
+design.  UFC 3-220-05 Dewatering and Groundwater Control provides guidance on 
+the design of dewatering systems.</NPR><BRK/>
+<BRK/>
+<NPR>If water from dewatering operations will be allowed to discharge on or into 
+the ground, an NPDES permit for dewatering is required.  Reference the permits 
+paragraph of Section <SRF>01 57 19</SRF> TEMPORARY ENVIRONMENTAL CONTROLS for permit requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Surface water shall be diverted to prevent entry into the excavation.  [Dewatering shall be limited to that necessary 
+to assure adequate access, a safe excavation, prevent the spread of contamination, and to ensure that compaction 
+requirements can be met.] [No dewatering shall be performed without prior approval of the Contracting Officer.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>CONFIRMATION SAMPLING AND ANALYSIS</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Confirmation samples and analyses are used to verify cleanup criteria 
+have been met.  These test results should be of relatively high quality.  For 
+this reason, the designer should consider the  regulatory requirements, the 
+complexity of the monitoring needed, and quantitative Data Quality Objectives 
+in determining the analytical methods specified.</NPR><BRK/>
+<BRK/>
+<NPR>The number of confirmation samples must be based on the size of the excavation 
+and regulatory requirements.  For small excavations, a minimum of one sample 
+should be taken from near the center of the excavation (or where there is the 
+highest potential for contamination).  Additional samples may be oriented symmetrically 
+relative to the center sample and the limits of the excavation.</NPR><BRK/>
+<BRK/>
+<NPR>Many military facilities have base-wide sampling and analysis plans which have 
+been approved by the applicable regulatory agencies.  These plans may specify 
+the number of confirmation samples which must be taken.</NPR><BRK/>
+<BRK/>
+<NPR>For larger excavations, EPA 230/02-89-042 Methods of Evaluation and Attainment 
+of Cleanup Standards provides guidance on the design of statistically based 
+sampling intervals.</NPR><BRK/>
+<BRK/>
+<NPR>With regulator approval, confirmation sampling and analysis may be accomplished 
+using an averaging technique for comparison to cleanup criteria.  This is based 
+on the fact that most soil risk exposure scenarios do not model contamination 
+as existing in discrete hot spots but as a more disperse phenomenon.  Two ways 
+to accomplish this averaging technique are to take discrete samples and average 
+the data or by compositing sample material before analysis.  A composite sample 
+typically consists of 4 to 6 samples which are mixed together.  One sample is 
+then obtained from the composite sample for analysis.  EM 200-1-3 provides guidance 
+on compositing samples.  Composite samples are not applicable to volatile organic 
+contaminants because the compositing process will result in volatilization of 
+contaminants.</NPR><BRK/>
+<BRK/>
+<NPR>Confirmation sampling at a site with radioactive contamination in surface soils 
+or on building surfaces will be performed in accordance with the Multi-Agency 
+Radiation Survey and Site Investigation Manual (MARSSIM), NUREG-1575, EPA 402-R-97-016.  
+This manual is a guide for confirmation survey design (planning) and for data 
+evaluation.  Its primary purpose is to acquire legally defensible data concerning 
+the post excavation residual radioactivity at the site to demonstrate that the 
+site meets release criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Contracting Officer shall be present to inspect the removal of contaminated material from each site.  After 
+all material suspected of being contaminated has been removed, the excavation shall be examined for evidence 
+of contamination.  If the excavation appears to be free of contamination, field analysis shall be used to determine 
+the presence of [_____] contamination using [a real time vapor monitoring instrument] [immunoassay field kits] 
+[_____].  Excavation of additional material shall be as directed by the Contracting Officer.  After all suspected 
+contaminated material is removed, confirmation samples shall be collected and analyzed for the following contaminants:</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">Chemical Parameter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Action Level</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Samples shall be collected at a frequency of one per [_____] square<MET> m</MET><ENG> yards</ENG> from the bottom [and each of the 
+side walls] or as directed by the Contracting Officer.  A minimum of one sample shall be collected from the bottom 
+[and each side wall] of the excavation.  Based on test results, propose any additional excavation which may be 
+required to remove material which is contaminated above action levels.  Additional excavation shall be subject 
+to approval by the Contracting Officer.  Locations of samples shall be marked in the field and documented on 
+the as-built drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONTAMINATED MATERIAL STORAGE</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For CERCLA sites, permits are not required to store hazardous waste in 
+a stockpile.  However, storage structures and conditions must be in compliance 
+the Applicable, Relevant, and Appropriate Regulations (ARARs).  For RCRA sites, 
+permits are required to store hazardous waste in a stockpile.  However, for 
+RCRA sites, hazardous waste can be stored in a drum or roll-off unit for up 
+to 90 days without a permit.</NPR><BRK/>
+<BRK/>
+<NPR>For temporary storage of more than 90 days, dual containment of hazardous liquid 
+and some hazardous solids may be required.  Containment system requirements 
+are described in 40 CFR 264.175.  For stock piles that meet the definition of 
+a waste pile, see 40 CFR 264.250.</NPR><BRK/>
+<BRK/>
+<NPR>To provide secondary containment, tanks and roll-off units are sometimes stored 
+on lined areas similar in design to what is described in paragraph Stockpiles.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Material shall be placed in temporary storage [immediately after excavation] [after treatment while awaiting 
+test results].  The following paragraphs describe acceptable methods of material storage.  Storage units shall 
+be in good condition and constructed of materials that are compatible with the material or liquid to be stored.  
+If multiple storage units are required, each unit shall be clearly labeled with an identification number and 
+a written log shall be kept to track the source of contaminated material in each temporary storage unit.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Stockpiles</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Check state regulations to determine the minimum requirements for stockpiles 
+and modify this paragraph accordingly.  For contaminated material with high 
+moisture content, the subgrade for the stockpile must be sloped and a sump should 
+be provided.</NPR><BRK/>
+<BRK/>
+<NPR>Scrim reinforced geomembranes are commonly specified for stockpile covers and 
+liners.  Due to their higher strength properties, scrim reinforced geomembranes 
+can generally be thinner than non-reinforced geomembranes.</NPR><BRK/>
+<BRK/>
+<NPR>For post treatment stockpiles, chemical testing is usually required to determine 
+if material is contaminated or clean.  Maximum stockpile size should be based 
+on the required frequency of chemical testing.  For example, if chemical tests 
+are required at a frequency of one per 1,000 cubic meters (cubic yards), then 
+stockpiles should be no greater than 1,000<MET> cubic meters</MET><ENG> cubic yards</ENG> in size.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Stockpiles shall be constructed to isolate stored contaminated material from the environment.  The maximum stockpile 
+size shall be [_____] cubic<MET> m</MET><ENG> yards</ENG>.  Stockpiles shall be constructed to include:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  [A chemically resistant geomembrane liner free of holes and other damage.  Non-reinforced geomembrane 
+liners shall have a minimum thickness of<MET> [0.5] [_____] mm</MET><ENG> [20] [_____] mils</ENG>.  Scrim reinforced geomembrane 
+liners shall have a minimum weight of<MET> 20 kg/100 square m</MET><ENG> 40 lbs/1000 square feet</ENG>.  The ground surface 
+on which the geomembrane is to be placed shall be free of rocks greater than<MET> 13 mm</MET><ENG> 0.5 inches</ENG> in diameter 
+and any other object which could damage the membrane.] [Pavement shall be used as the liner system.  
+Pavement shall be constructed in accordance with Section [_____]].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Geomembrane cover free of holes or other damage to prevent precipitation from entering the stockpile.  
+Non-reinforced geomembrane covers shall have a minimum thickness of<MET> 0.25 mm</MET><ENG> 10 mils</ENG>.  Scrim reinforced 
+geomembrane covers shall have a minimum weight of<MET> 13 kg/100 square m</MET><ENG> 26 lbs/1000 square feet</ENG>.  The cover 
+material shall be extended over the berms and anchored or ballasted to prevent it from being removed 
+or damaged by wind.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Berms surrounding the stockpile, a minimum of<MET> 300 mm</MET><ENG> 12 inches</ENG> in height.  Vehicle access points 
+shall also be bermed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The liner system shall be sloped to allow collection of leachate.  Storage and removal of liquid 
+which collects in the stockpile, in accordance with paragraph Liquid Storage.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Roll-Off Units</TTL><BRK/>
+<BRK/>
+<TXT>Roll-off units used to temporarily store contaminated material shall be water tight.  A cover shall be placed 
+over the units to prevent precipitation from contacting the stored material.  The units shall be located [as 
+shown on the drawings] [_____].  Liquid which collects inside the units shall be removed and stored in accordance 
+with paragraph Liquid Storage.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Liquid Storage</TTL><BRK/>
+<BRK/>
+<TXT>Liquid collected from excavations and stockpiles shall be temporarily stored in<MET> [220 L barrels] [[2000] [_____] 
+L tanks]</MET><ENG> [55 gallon barrels] [[500] [_____] gallon tanks]</ENG>.  Liquid storage containers shall be water-tight and 
+shall be located [as indicated] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SAMPLING</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Sampling of Stored Material</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Additional samples are sometimes collected from excavated material to 
+determine the contaminants present prior to treatment or disposal.</NPR><BRK/>
+<BRK/>
+<NPR>Composite samples are often collected from stockpiled material.  However, composite 
+samples cannot be taken if the samples are being analyzed for volatile organic 
+contaminants.</NPR><BRK/>
+<BRK/>
+<NPR>At sites with radioactive contamination, ex-situ sampling of excavated material 
+is typically performed to ensure that the material meets disposal facility acceptance 
+criteria and, in some cases, to assist with the preparation of shipping papers.  
+The ex-situ sampling regime is site-specific.  It is usually determined in consultation 
+with the disposal facility and its regulatory agency.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Samples of stored material shall be collected at a frequency of once per [_____] cubic<MET> m</MET><ENG> yards</ENG>.  Samples shall 
+be tested for the following:</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">Chemical Parameter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Action Level</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Stored material with contaminant levels that exceed the action levels shall be treated [offsite.  Analyses for 
+contaminated material to be taken to an offsite treatment facility shall conform to local, state, and federal 
+criteria as well as to the requirements of the treatment facility.  Documentation of all analyses performed shall 
+be furnished to the Contracting Officer.  Additional sampling and analyses to the extent required by the approved 
+offsite treatment, storage or disposal (TSD) facility shall be the responsibility of the Contractor and shall 
+be [performed at no additional cost to the Government] [subject to approval by the Contracting Officer].] [onsite.  
+Treatment shall be in accordance with Section [_____].]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Sampling Liquid</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Liquid should generally be tested for the same contaminants as are found 
+in the contaminated solid material being removed.  The frequency of testing 
+should be determined on a site specific basis.  Offsite disposal will generally 
+require additional testing and analysis prior to disposal.  NPDES requirements 
+must be considered for onsite disposal of liquids.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Liquid collected from [excavations] [storage areas] [decontamination facilities] shall be sampled at a frequency 
+of once for every<MET> [2,000] [_____] L</MET><ENG> [500] [_____] gal</ENG> of liquid collected.  Samples shall be tested for the following:</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="22.50">
+         <CEL>
+<DTA TYPE="STRING">Chemical Parameter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Action Level</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.75">
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Liquid with contaminant levels that exceed action levels shall be treated [offsite.  Analyses for contaminated 
+liquid to be taken to an offsite treatment facility shall conform to local, state, and federal criteria as well 
+as to the requirements of the treatment facility.  Documentation of all analyses performed shall be furnished 
+to the Contracting Officer.  Additional sampling and analysis to the extent required by the approved offsite 
+treatment, storage or disposal (TSD) facility receiving the material shall be the responsibility of the Contractor 
+and shall be [performed at no additional cost to the Government] [subject to approval by the Contracting Officer].] 
+[onsite.  Treatment shall be in accordance with Section [_____].]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sampling Beneath Storage Units</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  At some sites, samples are collected to verify the soil on which a storage 
+unit is placed has not become contaminated.</NPR><BRK/>
+<BRK/>
+<NPR>Sampling along any connecting pipelines that transport contaminated liquid may 
+also be appropriate.  A standard practice is to sample at<MET> 6 m</MET><ENG> 20 foot</ENG> intervals 
+under piping and at connections such as bends, elbows, or tees.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Samples from beneath each storage unit shall be collected prior to construction of and after removal of the storage 
+unit.  Samples shall be collected at a frequency of one per each [_____] square<MET> m</MET><ENG> yards</ENG> from a depth interval 
+of<MET> [0 to 0.15] [_____] m</MET><ENG> [0 to 0.5] [_____] feet</ENG> and shall be tested for the following:</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.75">
+         <CEL>
+<DTA TYPE="STRING">Chemical Parameter</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Action Level</DTA>
+         </CEL>
+      </ROW>
+      <ROW>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>Based on test results, soil which has become contaminated above action levels shall be removed at no additional 
+cost to the Government.  Contaminated material which is removed from beneath the storage unit shall be handled 
+in accordance with paragraph Sampling of Stored Material.  As directed by the Contracting Officer and at no additional 
+cost to the Government, additional sampling and testing shall be performed to verify areas of contamination found 
+beneath stockpiles have been cleaned up to below action levels.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SPILLS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Regarding preestablished spill reporting procedures, the designer should 
+consult CEMP-RT memorandum of 20 July 1995, Subject:  Spill Reporting Procedures 
+for USACE Personnel Involved in HTRW Projects.</NPR><BRK/>
+<BRK/>
+<NPR>Evaluate whether a contingency plan is needed per 40 CFR 262.34.  This regulation 
+is a potential requirement for large quantity generators of hazardous waste.  
+At military installations, a plan is typically already in place.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In the event of a spill or release of a hazardous substance (as designated in <RID>40 CFR 302</RID>), pollutant, contaminant, 
+or oil (as governed by the Oil Pollution Act (OPA), 33 U.S.C. 2701 et seq.), notify the Contracting Officer immediately.  
+If the spill exceeds the reporting threshold, follow the pre-established procedures as described in the [RCRA 
+Contingency Plan] [Base Wide Contingency Plan] [_____] for immediate reporting and containment.  Immediate containment 
+actions shall be taken to minimize the effect of any spill or leak.  Cleanup shall be in accordance with applicable 
+federal, state, and local regulations.  As directed by the Contracting Officer, additional sampling and testing 
+shall be performed to verify spills have been cleaned up.  Spill cleanup and testing shall be done at no additional 
+cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>BACKFILLING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If allowed by the regulatory authority, field analyses should be used 
+to reduce laboratory turn-around time and minimize the duration an excavation 
+must be left open.<BRK/>
+<BRK/>
+After completion of backfilling, a 150 mm (6 inch) layer of top soil is typically 
+placed in areas that are not paved.  The topsoil is placed in a single lift 
+to the lines and grades shown on the drawings.  Top soil and seeding requirements 
+should be described in a different section of the specification package.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Confirmation Test Results</TTL><BRK/>
+<BRK/>
+<TXT>Excavations shall be backfilled immediately after all contaminated materials have been removed and confirmation 
+test results have been approved.  Backfill shall be placed and compacted to the lines and grades shown on the 
+drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Compaction</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following paragraph outlines density requirements for in-place backfill.  
+If the density of the backfill is not critical, modify this paragraph by replacing 
+the density testing requirements with procedural requirements for compaction.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Place approved backfill in lifts with a maximum loose thickness of<MET> [200] [_____] mm</MET><ENG> [8] [_____] inches</ENG>.  Compact 
+soil to [90] [_____] percent of [<RID>ASTM D698</RID>] [<RID>ASTM D1557</RID>] maximum dry density.  Perform density tests at a frequency 
+of once per<MET> [930] [_____] square meters</MET><ENG> [10,000] [_____] square feet</ENG> per lift.  conduct a minimum of [one density 
+test] [[_____] density tests] on each lift of backfill placed.  Determine field in-place dry density in accordance 
+with <RID>ASTM D1556/D1556M</RID>, <RID>ASTM D2167</RID>, or <RID>ASTM D6938</RID>.  If <RID>ASTM D6938</RID> is used, a minimum of one in ten tests shall 
+be checked using <RID>ASTM D1556/D1556M</RID> or <RID>ASTM D2167</RID>.  Test results from <RID>ASTM D1556/D1556M</RID> or <RID>ASTM D2167</RID> shall govern 
+if there is a discrepancy with the <RID>ASTM D6938</RID> test results.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>DISPOSAL REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Offsite disposal of contaminated material shall be in accordance with Section <SRF>02 81 00</SRF> TRANSPORTATION AND DISPOSAL 
+OF HAZARDOUS MATERIALS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>CLOSURE REPORT</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  In addition to progress photos, video tapes have been used at some sites 
+to record site activities.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit [_____] copies of a Closure Report within [14] [_____] calendar days of completing work at the site.  
+The report shall be labeled with the contract number, project name, location, date, name of general Contractor, 
+and the Corps of Engineers District contracting for the work.  The Closure Report shall include the following 
+information as a minimum:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  A cover letter signed by a [responsible company official] [Professional Engineer registered in the 
+State of [_____] who is a responsible company official] certifying that all services involved have been 
+performed in accordance with the terms and conditions of the contract documents and regulatory requirements.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  A narrative report including, but not limited to, the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  site conditions, ground water elevation, and cleanup criteria;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  excavation logs;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3)  field screening readings;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4)  quantity of materials removed from each area of contamination;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5)  quantity of water/product removed during dewatering;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6)  sampling locations and sampling methods;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(7)  sample collection data such as time of collection and method of preservation;</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(8)  sample chain-of-custody forms; and</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(9)  source of backfill.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Copies of all chemical and physical test results.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Copies of all manifests and land disposal restriction notifications.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Copies of all certifications of final disposal signed by the responsible disposal facility official.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Waste profile sheets.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Scale drawings showing limits of each excavation, limits of contamination, known underground utilities 
+within<MET> 15 m</MET><ENG> 50 feet</ENG> of excavation, sample locations, and sample identification numbers.  On-site stockpile, 
+storage, treatment, loading, and disposal areas shall also be shown on the drawings.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Progress Photographs.  Color photographs shall be used to document progress of the work.  A minimum 
+of four views of the site showing the location of the area of contamination, entrance/exit road, and 
+any other notable site conditions shall be taken before work begins.  After work has been started, activities 
+at each work location shall be photographically recorded [daily] [weekly].  Photographs shall be a minimum 
+of<MET> 76.2 by 127.0 mm</MET><ENG> 3 by 5 inches</ENG> and shall include:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1)  Soil removal and sampling.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2)  Dewatering operations.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3)  Unanticipated events such as spills and the discovery of additional contaminated material.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4)  Contaminated material/water storage, handling, treatment, and transport.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5)  Site or task-specific employee respiratory and personal protection.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(6)  Fill placement and grading.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(7)  Post-construction photographs.  After completion of work at each site, take a minimum of 
+four views of each excavation site.</ITM><BRK/>
+<BRK/>
+<TXT>A digital version of all photos shown in the report shall be included with the Closure Report.  Photographs shall 
+be a minimum of<MET> 76 by 127 mm</MET><ENG> 3 inches by 5 inches</ENG> and  shall be mounted back-to-back in double face plastic sleeves 
+punched to fit standard three ring binders.  Each print shall have an information box attached.  The box shall 
+be typewritten and arranged as follows:</TXT><BRK/>
+<TXT><TAB HEADERROWS="0">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="3">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="228.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Project Name:</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Direction of View:</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Location:</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Date/Time:</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Photograph No.:</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Description of View:</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>

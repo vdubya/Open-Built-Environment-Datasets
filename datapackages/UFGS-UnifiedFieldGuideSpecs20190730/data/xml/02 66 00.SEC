@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-02 66 00 (February 2010)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-02 66 00 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 02 66 00</SCN><BRK/>
+<BRK/>
+<STL>SELECT FILL AND TOPSOIL FOR LANDFILL COVER</STL><BRK/>
+<DTE>02/10</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>select fill and 
+topsoil layers for landfill cover systems.  Select fill is the term used by 
+USACE to describe soil layers placed directly on geosynthetic materials</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>UNIT PRICES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph when work is covered by a lump sum contract price.  
+Weight measurement may be used to supplement volume measurement surveys if significant 
+subgrade settlement is anticipated.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Measurement and payment for "select fill" and "topsoil" shall be based on the respective unit prices for each 
+cubic<MET> meter</MET><ENG> yard</ENG> of "select fill" and "topsoil" in place.  This unit price shall include the cost for development 
+of borrow sources, cost of materials, excavation, hauling, equipment, placement, testing, and other work required 
+to construct the "select fill" or "topsoil" layers.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM D1556/D1556M</RID><RTL>(2015; E 2016) Standard Test Method for Density and Unit Weight of Soil in Place by Sand-Cone Method</RTL><BRK/><BRK/><RID>ASTM D2167</RID><RTL>(2015) Density and Unit Weight of Soil in Place by the Rubber Balloon Method</RTL><BRK/><BRK/><RID>ASTM D2216</RID><RTL>(2010) Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass</RTL><BRK/><BRK/><RID>ASTM D2487</RID><RTL>(2017) Standard Practice for Classification of Soils for Engineering Purposes (Unified Soil Classification System)</RTL><BRK/><BRK/><RID>ASTM D2974</RID><RTL>(2014) Moisture, Ash, and Organic Matter of Peat and Other Organic Soils</RTL><BRK/><BRK/><RID>ASTM D422</RID><RTL>(1963; R 2007; E 2014; E 2014) Particle-Size Analysis of Soils</RTL><BRK/><BRK/><RID>ASTM D4318</RID><RTL>(2017; E 2018) Standard Test Methods for Liquid Limit, Plastic Limit, and Plasticity Index of Soils</RTL><BRK/><BRK/><RID>ASTM D4972</RID><RTL>(2018) Standard Test Methods for pH of Soils</RTL><BRK/><BRK/><RID>ASTM D6938</RID><RTL>(2017a) Standard Test Method for In-Place Density and Water Content of Soil and Soil-Aggregate by Nuclear Methods (Shallow Depth)</RTL><BRK/><BRK/><RID>ASTM D698</RID><RTL>(2012; E 2014; E 2015) Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/cu. ft. (600 kN-m/cu. m.))</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Materials Handling Plan</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Select Fill</SUB></ITM><BRK/>
+<ITM><SUB>Topsoil</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Borrow Source Assessment Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Select Fill and Topsoil Material Tests</SUB></ITM><BRK/>
+<ITM><SUB>Moisture Content and Density Tests of In-Place Select Fill</SUB></ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Select Fill</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The default maximum allowable particle size is<MET> 25 mm</MET><ENG> 1 inch</ENG>.  If the 
+select fill layer will be placed directly on top of a geomembrane, this value 
+may have to be reduced and restrictions regarding angularity may have to be 
+included.  Manufacturers should be consulted for recommendations on select fill 
+based on the type and thickness of geomembrane being used.<BRK/>
+<BRK/>
+Selection of suitable select fill should be based on the type and availability 
+of soils at or close to the site.  The designer must verify that these soils 
+will not clog underlying drainage layers.  The soil types listed in Table 1 
+are generally acceptable for use as select fill.<BRK/>
+<BRK/>
+Sands must be analyzed to ensure they are internally stable.  A soil is internally 
+stable if it is self-filtering (i.e., the fine particles do not move through 
+the pores of the coarser fraction).  Federal Highway Administration Publication 
+No. FHWA-HI-95-038 describes procedures for determining the clogging potential 
+and internal stability of  soil.<BRK/>
+<BRK/>
+The designer must also ensure the select fill is compatible with the underlying 
+filter.  For landfill applications, the filter is typically a geotextile.  Filter 
+design is based on a comparison of the grain size distribution (ASTM D422) of 
+the select fill and the apparent opening size (AOS) of the underlying geotextile.  
+Geotextile filter design procedures are outlined in Federal Highway Administration 
+Publication No. FHWA-HI-95-038.<BRK/>
+<BRK/>
+Criteria for Atterberg limits are sometimes included in Table 1 to control the 
+properties of the select fill.<BRK/>
+<BRK/>
+Hydraulic conductivity criteria may also need to be added to Table 1 for the 
+select fill soil.  The hydraulic conductivity of the select fill layer controls 
+the rate at which precipitation infiltrates into the underlying drainage layer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Select fill shall comply with the criteria listed in Table 1 and shall be free of debris, frozen materials, angular 
+rocks, roots, and organics.  Submit a minimum of<MET> 23 kg</MET><ENG> 50 pounds</ENG> of select fill from each proposed borrow source 
+to the Government's designated laboratory at least [15] [_____] days prior to placement.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>TOPSOIL</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Topsoil shall consist of natural, friable soil that is representative of soils in the vicinity which produce 
+heavy growths of crops, grass, or other vegetation and is reasonably free from underlying subsoil, clay lumps, 
+objectionable weeds, litter, brush, matted roots, toxic substances, or any material that might be harmful to 
+plant growth or be a hindrance to grading, planting, or maintenance operations.  Submit a minimum of<MET> 2 kg</MET><ENG> 5 pounds</ENG>
+ of topsoil from each proposed borrow source to the Government's designated laboratory at least [15] [_____] 
+days prior to placement.  Topsoil shall also comply with the criteria listed in Table 1.</TXT><BRK/>
+<TXT><TAB WIDTH="98" HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="8">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="166.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="142.50"/>
+      <COL AUTOWIDTH="0" WIDTH="138.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">TABLE 1<BRK/>REQUIRED PHYSICAL PROPERTIES OF SELECT FILL AND TOPSOIL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Test Value</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Select Fill</DTA>
+         </CEL>
+         <CEL STYLEID="s50"/>
+         <CEL/>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="60.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Soil classification</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Lean clay (CL)<BRK/>Clayey sand (SC) <BRK/>Clayey gravel (GC) [_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D2487</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>Max. particle size (mm)</MET><ENG>Max. particle size (inches)</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>25 [_____]</MET><ENG>1.0 [_____]</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>Max. particle size (mm)</MET><ENG>Max. particle size (inches)</ENG><BRK/></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>25</MET><ENG>1</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">pH</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">5-7</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D4972</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Organic content (percent)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">5-20</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM D2974</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL>EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Equipment used to place the select fill and topsoil layers shall be as described in the approved <SUB>Materials Handling 
+Plan</SUB>, including ground pressures.  Equipment shall not accelerate or brake suddenly, turn sharply, or be operated 
+at speeds exceeding<MET> 8 km</MET><ENG> 5.0 miles</ENG> per hour.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>BORROW SOURCE ASSESSMENT REPORT</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit a Borrow Source Assessment Report at least [15] [_____] days prior to select fill and topsoil placement.  
+No select fill or topsoil may be placed until the Borrow Source Assessment Report is approved.  Include the following 
+in the report: location of each borrow source; estimated quantity of borrow available; logs of subsurface explorations; 
+and laboratory test results.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Select Fill</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  A test fill should be required when needed to demonstrate placement technique 
+or to determine cover or liner stability.  Section <SRF>02 66 10</SRF> TEST FILL can be 
+edited and included in the specification package if a test fill will need to 
+be constructed.</NPR><BRK/>
+<BRK/>
+<NPR>Shear strength testing is often required for landfill covers and liners which 
+contain geosynthetics.  Criteria for shear strength testing  are described in 
+Section <SRF>02 56 13</SRF> WASTE CONTAINMENT GEOMEMBRANE or Section <SRF>02 56 15</SRF> GEOSYNTHETIC 
+CLAY LINER (GCL).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Classification Testing</TTL><BRK/>
+<BRK/>
+<TXT>Borrow source assessment tests shall be performed on each principal type or combination of materials proposed 
+for use in the select fill layer to ensure compliance with specified requirements.  At least one set of borrow 
+assessment tests shall be performed on each borrow source proposed for use.  A set of borrow source assessment 
+tests shall consist of Atterberg limits (<RID>ASTM D4318</RID>), particle size analysis (<RID>ASTM D422</RID>), and moisture content 
+(<RID>ASTM D2216</RID>).  Based on borrow source assessment testing, soils shall be classified in accordance with<RID> ASTM D2487</RID>
+.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture-Density (Compaction) Testing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph if compaction requirements will not be specified 
+for the select fill layer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A representative sample from each principal type or combination of borrow materials shall be tested to establish 
+compaction curves using <RID>ASTM D698</RID>.  At least one compaction test shall be performed on each borrow source proposed.  
+A minimum of [5] [_____] points shall be used to develop each compaction curve.  During construction, placement 
+of select fill shall conform to the following requirements:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The minimum allowable dry density shall be no less than [90] [_____] percent of maximum dry density.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  The allowable moisture content range shall be [+/- 3] [_____] percent of optimum.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Topsoil</TTL><BRK/>
+<BRK/>
+<TXT>Testing shall be performed on representative samples of each principal type or combination of topsoil materials.  
+At least one set of tests shall be performed on each borrow source proposed.  Testing shall consist of the determination 
+of maximum particle size in accordance with <RID>ASTM D422</RID>, pH in accordance with <RID>ASTM D4972</RID>, and organic content 
+in accordance with <RID>ASTM D2974</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Chemical Contamination Testing</TTL><BRK/>
+<BRK/>
+<TXT>Borrow used for the select fill and topsoil layers shall be free of contamination.  Each proposed borrow source 
+shall be sampled and analyzed for chemical contamination in accordance with [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>INSTALLATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Select Fill Placement</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Large landfills may require the construction of temporary haul roads 
+to allow access for large construction equipment during select fill placement.  
+The haul roads are typically a minimum of<MET> 1 m</MET><ENG> 3 feet</ENG> in thickness and are constructed 
+using select fill layer soil.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>No equipment shall be operated directly on the top surface of geosynthetics without permission from the Contracting 
+Officer.  Select fill shall be pushed out over geosynthetics in an upward tumbling motion so that wrinkles in 
+geosynthetics do not fold over.  Soil shall not be dropped directly onto geosynthetics from a height greater 
+than<MET> 915 mm</MET><ENG> 3 feet</ENG>.  On slopes, select fill shall be placed from the bottom of the slope upward.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Initial Lift of Select Fill Placed Over Geosynthetics</TTL><BRK/>
+<BRK/>
+<TXT>The first lift of soil placed over geosynthetics shall be a minimum of<MET> [305][380] mm</MET><ENG> [12][15] inches</ENG> in loose 
+thickness.  Equipment with ground pressures less than<MET> 49 kPa</MET><ENG> 7 psi</ENG> shall be used to place and traffic compact 
+the first lift of select fill.  Traffic compaction shall consist of a minimum of 2 passes over all areas.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Subsequent Lifts of Select Fill</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Maximum loose lift thickness should be no greater than<MET> 200 mm</MET><ENG> 8 inches</ENG>
+ if a density criteria will be applied to the lift.  The criteria for minimum 
+number of passes can be omitted if the Contractor must meet a density criteria.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The loose lift thickness of each subsequent lift shall be no greater than<MET> [205][305] mm</MET><ENG> [8][12] inches</ENG>.  Full 
+scale placement and compaction equipment shall be allowed on areas underlain by geosynthetics after the [first][second]loose 
+lift of soil has been placed.  [Compaction shall consist of a minimum of 2 passes over all areas.</TXT>]<BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Topsoil Placement</TTL><BRK/>
+<BRK/>
+<TXT>Topsoil shall not be placed when the subgrade is frozen, excessively wet, extremely dry, or in a condition otherwise 
+detrimental to proper grading.  Topsoil shall be placed in one lift and shall be evenly spread to a final compacted 
+thickness of<MET> [150] [_____] mm</MET><ENG> [6] [_____] inches</ENG>.  Topsoil shall be traffic compacted using approved placement 
+equipment.  On slopes, topsoil shall be placed from the bottom of the slope upward.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CONSTRUCTION TOLERANCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The U.S. Environmental Protection Agency document, EPA/600/R-93/182 Quality 
+Assurance and Quality Control for Waste Containment Facilities discourages the 
+use of grade stakes which penetrate the select fill layer to control lift thickness.  
+Grade stakes can potentially damage underlying geosynthetic materials.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Finished surfaces shall be uniformly graded and shall be free from depressions, mounds, or windrows.  The top 
+surface of the select fill layer and topsoil layer shall be no greater than<MET> [76] [_____] mm</MET><ENG> [3] [_____] inches</ENG>
+ above the lines and grades shown on the drawings.  No minus tolerance will be permitted.  Rigid grade stakes 
+shall not be driven into the select fill layer to control placement.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>CONSTRUCTION TESTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Select Fill and Topsoil Material Tests</SUB></TTL><BRK/>
+<BRK/>
+<TXT>No select fill or topsoil shall be placed until the Borrow Source Assessment Report is approved.  During construction 
+of the select fill layer, representative samples shall be taken for testing at the frequencies listed in Table 
+2 from the borrow source prior to placement.  Test results must comply with the requirements listed in Part 2  
+Products or the material will be rejected for use.  Submit test results as specified.</TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="11">
+      <COL AUTOWIDTH="0" WIDTH="144.75"/>
+      <COL AUTOWIDTH="0" WIDTH="174.75"/>
+      <COL AUTOWIDTH="0" WIDTH="137.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 2<BRK/>SELECT FILL AND TOPSOIL MATERIAL TESTING FREQUENCIES</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Frequency</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">Select Fill</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Grain size analysis</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>1,500 cubic meters</MET><ENG>2,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Atterberg limits</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>1,500 cubic meters</MET><ENG>2,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D4318</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Compaction (Note 1)</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>4,000 cubic meters</MET><ENG>5,200 cubic yards</ENG><BRK/></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D698</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="21.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">Topsoil</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">Grain size analysis for maximum particle size</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>1,500 cubic meters</MET><ENG>2,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D422</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL>
+<DTA TYPE="STRING">pH</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>1,500 cubic meters</MET><ENG>2,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D4972</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL>
+<DTA TYPE="STRING">Organic content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>1,500 cubic meters</MET><ENG>2,000 cubic yards</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D2974</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="54.00">
+         <CEL MERGEACROSS="2">
+<DTA TYPE="STRING">Note 1:  Compaction test results shall be compared with the results obtained during the borrow source assessment.  When there are significant differences, adjustments to the acceptable moisture content or density ranges shall be proposed by the Contractor for approval.</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/></SPT>
+<SPT><TTL><SUB>Moisture Content and Density Tests of In-Place Select Fill</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Density testing requirements are usually waived for the first<MET> 300 to 
+460 mm</MET><ENG> 12 to 18 inches</ENG> of select fill placed  over geosynthetics to prevent 
+damage to the underlying geosynthetics.  Remove this paragraph if moisture content 
+and density testing will not be performed on any of the select fill lifts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Moisture content and density tests shall be performed in accordance with Table 3.  Density requirements will 
+not be enforced for the first lift of the select fill layer.  Submit test results as specified.</TXT><BRK/>
+<TXT><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="6">
+      <COL AUTOWIDTH="0" WIDTH="135.75"/>
+      <COL AUTOWIDTH="0" WIDTH="180.00"/>
+      <COL AUTOWIDTH="0" WIDTH="141.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2" STYLEID="s50">
+<DTA TYPE="STRING">TABLE 3<BRK/>MOISTURE CONTENT AND DENSITY TESTS OF IN-PLACE SELECT FILL</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Property</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Frequency per Lift</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Test Method</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Nuclear moisture content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>925 square meters</MET><ENG>10,000 square feet</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6938</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Standard moisture content</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1 for every 20 nuclear tests</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D2216</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Nuclear density</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><MET>925 square meters</MET><ENG>10,000 square feet</ENG></DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D6938</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">Standard density</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">1 for every 20 nuclear tests</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><RID>ASTM D1556/D1556M</RID> or <RID>ASTM D2167</RID><BRK/></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<SPT><TTL>Test Frequencies and Locations</TTL><BRK/>
+<BRK/>
+<TXT>Each day that select fill is placed, a minimum of one set of standard moisture content and density tests shall 
+be performed.  Nuclear density and moisture content tests shall be checked at the frequencies shown in Table 
+3.  Standard tests shall be performed at locations which are as close as possible to the locations of the nuclear 
+tests being checked.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nuclear Density and Moisture Content Tests</TTL><BRK/>
+<BRK/>
+<TXT>Nuclear density readings shall be taken in the direct transmission mode.  When <RID>ASTM D6938</RID> is used, the calibration 
+curves shall be checked and adjusted using only the sand cone method as described in <RID>ASTM D1556/D1556M</RID>.  <RID>ASTM D6938</RID>
+ results in a wet unit weight of soil and when using this method <RID>ASTM D6938</RID> shall be used to determine the moisture 
+content of the soil.  The calibration curves furnished with the moisture gauges shall also be checked along with 
+density calibration checks as described in <RID>ASTM D6938</RID>; the calibration checks of both the density and moisture 
+gauges shall be made at the beginning of a job on each different type of material encountered and at intervals 
+as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Test Results</TTL><BRK/>
+<BRK/>
+<TXT>Field moisture content and density test results shall be compared to the compaction curve for the appropriate 
+material type being tested.  If test results are not within the acceptable range for moisture content or density, 
+as described in subparagraph Moisture-Density (Compaction) Testing, [3] [_____] additional tests shall be performed 
+near the location of the failed parameter.  If all retests pass, no additional action shall be taken.  If any 
+of the retests fail, the lift of soil shall be repaired out to the limits defined by passing tests for that parameter.  
+The area shall then be retested as directed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>PROTECTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Damage</TTL><BRK/>
+<BRK/>
+<TXT>Erosion rills or other damage that occurs shall be repaired and grades re-established.  Repairs to the select 
+fill layer or topsoil layer shall be documented including location and volume of soil affected, corrective action 
+taken, and results of retests.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stockpiles</TTL><BRK/>
+<BRK/>
+<TXT>Storage or stockpiling of material on the completed surface of the select fill or topsoil layers will not be 
+permitted.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></PRT>    <END/><BRK/></SEC>

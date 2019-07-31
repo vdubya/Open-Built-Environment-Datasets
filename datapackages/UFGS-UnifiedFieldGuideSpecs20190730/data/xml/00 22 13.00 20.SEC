@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-00 22 13.00 20 (February 2014)<BRK/>
+                                       Change 3 - 11/18<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-00 22 13 (May 2011)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>DOCUMENT 00 22 13.00 20</SCN><BRK/>
+<BRK/>
+<STL>SUPPLEMENTARY INSTRUCTIONS TO OFFERORS</STL><BRK/>
+<DTE>02/14</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification consists of <SCP>requirements for bidding instructions 
+for use on all projects, and for items such as unit prices, additive items, 
+and option items</SCP>.  Do not edit the paragraphs except to fill in the blanks where 
+specific project information is required.  Do not process this section with 
+the final specifications package, but provide separately with the Project Information 
+Form (PIF), to the Government Project Manager, for inclusion in the Acquisition 
+part of the Contract.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This section contains tailoring for Design-Bid-Build, Design-Build, NAVFAC 
+EURAFSWA, AZORES, OPTIONS, and ADDITIVES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>CONTRACT LINE ITEMS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Base Bid is Contract Line Item 0001.  If contract combines projects 
+(i.e. multiple 1391s), edit section to add a new CLIN for each project (i.e. 
+CLIN 0002 for second project).<BRK/>
+<BRK/>
+Compose requirements for work, to be done under any option or additive item, 
+such that the work in the options and additives is clearly specified not to 
+be included under the base bid.  Work under any option or additive item must 
+not depend upon another option or additive item for its function and utility.  
+Clearly specify interfaces between any option or additive item, and the base 
+bid, in the bid notes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The terms Offeror and Bidder and versions thereof (offer/bid) have the same definition as used within this contract.</TXT><BRK/>
+<BRK/>
+<TXT>Provide the Contract Line Item (CLIN) lump sum price for the following items:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">    CLIN 0001 - BASE PRICE.  Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If multiple facilities are included in a single project (i.e. a single 
+1391), break out costs by providing Sub-Contract Line Item Numbers (CLIN) for 
+each facility. For example, use CLIN 0001AA for Facility 1, CLIN 0001AB for 
+Facility 2, and CLIN 0001AC for Facility 3.<BRK/>
+<BRK/>
+CLINs for facilities and site work associated with facilities are both part 
+of the Base Bid, but broken out as separate line items for bidding purposes.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit bracketed items in paragraph below for Sub-CLINs and CLINs in the 
+contract after editing the whole section.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    CLIN 0001AA.  Price for the entire work [for Facility [_____], ]complete to the<MET> 1.5 meter</MET><ENG> 5 foot</ENG> 
+line outside of the building, in accordance with the drawings and specifications, but excluding work 
+described in Contract Line Item (CLIN)[[0001AB,] [0001AC,] [0001AD,] [0001AE,][0001AF,] [0002,] [0003,] 
+[0004,] [0005,] [_____]and [_____]].</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Under Description column, insert description of facility; add P number 
+if MILCON project.<BRK/>
+<BRK/>
+Leave Price column blank.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAB WIDTH="94">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0001AA</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">0001AA</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+[<LST INDENT="-0.33">    CLIN 0001AB.  Price for the entire work [for Facility [_____], ]complete to the<MET> 1.5 meter</MET><ENG> 5 foot</ENG> 
+line outside of the building, in accordance with the drawings and specifications, but excluding work 
+described in CLIN 0001AA, [[0001AC,] [0001AD,] [0001AE,][0001AF,] [0002,] [0003,] [0004,] [0005,] [_____]and 
+[_____]].</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0001AB</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AB</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB>]<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following CLIN for the site work for the entire project.  Do 
+not break out site work for each facility unless projects are funded from different 
+sources, or multiple projects are combined into one contract, such that project 
+costs must be separated.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    CLIN 0001AC.  Price for the entire project Site Work, outside the [facility's] [facilities']<MET> 1.5 
+meter</MET><ENG> 5 foot</ENG>  line, complete in accordance with the drawings and specifications but excluding work described 
+in CLIN 0001AA, [[0001AB,] [0001AD,] [0001AE,][0001AF,] [0002,] [0003,] [0004,] [0005,] [_____]and [_____]].</LST><BRK/>
+<BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR 0001AC</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><TAI OPT="DESIGN-BUILD"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following line item for Design-Build projects only.  CLIN is 
+for the cost of design for the entire project.  Item is tailored for Design-Build.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">    CLIN 0001AD.  Price for entire Design of the Project, complete.</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0001AD</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">0001AD</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TAI><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following CLINs for Unit Priced Items.  Edit description of Item, 
+Units, and No. of Units appropriately.  Do not include prices.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+][<LST INDENT="-0.33">    CLIN 0001AE.  Price for foundation piling complete in accordance with drawings and specifications 
+and in accordance with the following schedule:</LST><BRK/>
+<TAB WIDTH="91">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="53.25"/>
+      <COL AUTOWIDTH="0" WIDTH="89.25"/>
+      <COL AUTOWIDTH="0" WIDTH="45.00"/>
+      <COL AUTOWIDTH="0" WIDTH="72.75"/>
+      <COL AUTOWIDTH="0" WIDTH="66.00"/>
+      <COL AUTOWIDTH="0" WIDTH="99.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT PRICE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NO. UNITS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0001AE (UNIT PRICE X NO. UNITS)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">0001AE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Piling</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Linear feet</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+][<LST INDENT="-0.33">    CLIN 0001AF.  Price for pile load test, complete in accordance with the drawings and specifications 
+and in accordance with the following schedule:</LST><BRK/>
+<TAB WIDTH="93">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="57.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="83.25"/>
+      <COL AUTOWIDTH="0" WIDTH="50.25"/>
+      <COL AUTOWIDTH="0" WIDTH="78.75"/>
+      <COL AUTOWIDTH="0" WIDTH="61.50"/>
+      <COL AUTOWIDTH="0" WIDTH="104.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT PRICE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NO. UNITS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0001AF (UNIT PRICE X NO. UNITS)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AF</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Pile Load Test</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Each</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]<NTE><AST/><BRK/>
+<NPR>NOTE:  Add CLINS in format above for Unit Priced Items as needed for the project.  
+Below are other examples of Unit Priced Items in<MET> Metric</MET><ENG> English</ENG> units of measure:<BRK/>
+<MET><TAB>
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="9">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="40.50"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="64.50"/>
+      <COL AUTOWIDTH="0" WIDTH="33.75"/>
+      <COL AUTOWIDTH="0" WIDTH="53.25"/>
+      <COL AUTOWIDTH="0" WIDTH="47.25"/>
+      <COL AUTOWIDTH="0" WIDTH="82.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="33.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT PRICE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NO. UNITS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="49.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AB</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Mass rock excavation and disposal</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> CM</MET><ENG> CY</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="66.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AC</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Trench rock excavation and disposal</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> CM</MET><ENG> CY</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="150.75">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AD</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Removal and disposal of asbestos containging pip insulation (by pipe diameter ranges [_____])</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> LM</MET><ENG> LF</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="89.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AE</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Removal and disposal of asbestos containing floor tile</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> SM</MET><ENG> SF</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="94.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AF</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Removal and disposal of asbesots containing siding</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> SM</MET><ENG> SF</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="97.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AG</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Removal and disposal of oily water and sludge inside tanks [_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> L</MET><ENG> Gal</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="86.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AI</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Removal and disposal of contaminated stockpiled soils</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> CM</MET><ENG> CY</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="88.50">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0001AJ</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Provision and compaction of fill in place of removed contaminated soil</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><MET> CM</MET><ENG> CY</ENG></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></MET></NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAI OPT="AZORES">[<BRK/>
+<NTE><AST/><BRK/>
+<NPR>NOTE:  Include the following line items for projects in the Azores.  Unit prices 
+are based on a pre-negotiated contract and should not be adjusted.  The following 
+items are tailored for the Azores.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    ITEM 0001AG.  Price for Government furnished shipping from the United States to the Azores and from 
+the Azores to the United States complete in accordance with specifications and the following schedule:</LST><BRK/>
+<TAB WIDTH="88">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="56.25"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="99.75"/>
+      <COL AUTOWIDTH="0" WIDTH="56.25"/>
+      <COL AUTOWIDTH="0" WIDTH="68.25"/>
+      <COL AUTOWIDTH="0" WIDTH="52.50"/>
+      <COL AUTOWIDTH="0" WIDTH="78.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="63.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT PRICE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NO. UNITS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR<BRK/>CLIN 0001AG</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="32.25">
+         <CEL>
+<DTA TYPE="STRING">0001AG</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Government Shipping</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Container</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><HL1>$5600.00</HL1></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<LST INDENT="-0.33">    CLIN 0001AH.  Price for Government packaging of Contractor material in shipping containers for shipment 
+from the United States to the Azores complete in accordance with specifications and the following schedule:</LST><BRK/>
+<TAB WIDTH="92">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="57.75"/>
+      <COL AUTOWIDTH="0" WIDTH="97.50"/>
+      <COL AUTOWIDTH="0" WIDTH="85.50"/>
+      <COL AUTOWIDTH="0" WIDTH="66.00"/>
+      <COL AUTOWIDTH="0" WIDTH="55.50"/>
+      <COL AUTOWIDTH="0" WIDTH="68.25"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">UNIT PRICE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">NO. UNITS</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN<BRK/>0001AH</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">0001AH</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Containerizing by FISC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Measurement Ton (MTON)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$48.00</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$_____</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]</TAI><TAI OPT="OPTION CLIN">[<LST INDENT="-0.33">    CLIN 0002  Option Item No. 1 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph when an option item is required.  Describe the work 
+required for the option item in the brackets.  Order of option items is not 
+critical.  Provide additional paragraphs if more option items are required.<BRK/>
+<BRK/>
+Do not use Additives and Options in the same project.<BRK/>
+<BRK/>
+Do not indicate option items on drawings except when work under an additive 
+or option item cannot be adequately and clearly described in the specification, 
+and then only with the approval of the Government Project Manager and Contracting 
+Officer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use of option items must be approved by the Supervisory Contracting Officer 
+of the advertising office.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price for providing all work in connection with [_____], complete in accordance with the drawings 
+and specifications.</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0002</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0002</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+][<LST INDENT="-0.33">    CLIN 0003  Option Item No. 2 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following option is an example of an Option item for Electronic Security 
+System (ESS) when required in the project.  Edit for each project.  Use this 
+paragraph when one option item is required.  Add additional paragraphs if more 
+than one option item is required.  An example would be when one fund source 
+pays for the equipment required to meet the policy based requirements, and the 
+Supported Command provides funding for the additional equipment.  (i.e. CCTV 
+system for perimeter surveillance).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The paragraph below is tailored for Design-Bid-Build (DBB) and Design-Build 
+(DB).  Choose the first bracketed option for DBB or the second bracketed option 
+for DB.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price for provision, design, installation, testing, and associated training for the Electronic Security 
+System (ESS) equipment necessary for this facility.  The ESS includes, but is not limited to, Intrusion 
+Detection System (IDS), Access Control System (ACS), and Closed Circuit Television (CCTV) complete in 
+accordance with the <TAI OPT="DESIGN-BID-BUILD">[drawings and specifications ]</TAI><TAI OPT="DESIGN-BUILD">[RFP]</TAI>.  Equipment includes items such as Premise Control 
+Units (PCU), central processing units, field panels, sensors, card readers, keypads, cameras, switches, 
+video recorders, workstations, and the communication cabling connecting these devices together.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">    Include the price for supporting, permanent infrastructure under CLIN 0001 - BASE PRICE.  Interior 
+supporting infrastructure includes items such as conduit, junction boxes, electronic door strikes, door 
+hardware, mounting hardware, and power connections.  Exterior supporting infrastructure includes items 
+such as exterior ductbanks, manholes, utility poles, utility connections, and power connections.</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0003</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">0003</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Electronic Security System (ESS) equipment</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]</TAI><TAI OPT="ADDITIVES">[<LST INDENT="-0.33">    CLIN 0002  Additive Item No. 1 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Do not use Additives unless allowed by the Contracting Officer; only 
+sealed bidding allows additives to be used.  Use this paragraph if allowed to 
+use additives.  Describe the work required for the additive in brackets.  List 
+additive items in order of priority, and prepare in such a manner, that any 
+item may be skipped if it causes the total to exceed the funds available.<BRK/>
+<BRK/>
+Do not use Additive and Option items in the same project.<BRK/>
+<BRK/>
+Do not indicate additive items on drawings except when work under an additive 
+or option item cannot be adequately and clearly described in the specification, 
+and then only with the approval of the Government Project Manager and Contracting 
+Officer.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>In accordance with Naval Facilities Acquisition Supplement (NFAS), up to four 
+additive items may be used.  NFAS can be downloaded by NAVFAC employees at the 
+following link: <URL HREF="https://portal.navfac.navy.mil/portal/page/portal/navfac/navfac_forbusinesses_pp/smallbusiness/contracting/navfac">https://portal.navfac.navy.mil/portal/page/portal/navfac/navfac_forbusinesses_pp/smallbusiness/contracting/navfac</URL>
+Use of more than four additive items requires Contracting Officer approval.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price for adding work in connection with [_____] complete in accordance with drawings and specifications.</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0002</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0002</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+][<LST INDENT="-0.33">    CLIN 0003  Additive Item No. 2 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph when more than one additive bid item is used.  Add 
+additional paragraphs if more additive items are required.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price for adding work in connection with [_____] complete in accordance with drawings and specifications.</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="108.00"/>
+      <COL AUTOWIDTH="0" WIDTH="207.75"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">DESCRIPTION</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL PRICE FOR CLIN 0003</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="35.25">
+         <CEL>
+<DTA TYPE="STRING">0003</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$__________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]</TAI>[<LST INDENT="-0.33">    CLIN 0004  Planned Modification Item 1 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use and edit this item for providing the FF&amp;E.  Insert amount of 
+Government FF&amp;E Estimate in the brackets and leave the HAR and TOTAL FF&amp;E 
+AMOUNT blank.  Refer to paragraph PLANNED MODIFICATION BID NOTES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price to procure and supervise installation of the Furniture, Fixtures, and Equipment (FF&amp;E) 
+complete in accordance with the plans and specifications and in accordance with the following schedule:</LST><BRK/>
+<TAB WIDTH="94">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="39.00"/>
+      <COL AUTOWIDTH="0" WIDTH="55.50"/>
+      <COL AUTOWIDTH="0" WIDTH="93.75"/>
+      <COL AUTOWIDTH="0" WIDTH="41.25"/>
+      <COL AUTOWIDTH="0" WIDTH="86.25"/>
+      <COL AUTOWIDTH="0" WIDTH="123.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="107.25">
+         <CEL>
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">GOVERNMENT FF&amp;E ESTIMATE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">HAR (NTE 5%)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">HAR AMOUNT (GOVT FF&amp;E ESTIMATE x HAR%)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL FF&amp;E ESTIMATED AMOUNT FOR CLIN 0004<BRK/>(GOVT FF&amp;E ESTIMATE + HAR AMOUNT)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">0004</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">FF&amp;E</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[$_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">_____%</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+][<LST INDENT="-0.33">    CLIN 0005  Planned Modification Item 2 - Price includes the following:</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use and edit this item for providing Audio/Visual (A/V) Services if in 
+the project.  Insert amount of Government A/V Estimate in the brackets and leave 
+the HAR and TOTAL FF&amp;E AMOUNT blank.  Refer to paragraph PLANNED MODIFICATION 
+BID NOTES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">    Price for providing work in connection with all labor, material, equipment, transportation and supervision 
+required for the Audio/Visual (A/V) complete in accordance with the plans and specifications and the 
+following schedule:</LST><BRK/>
+<TAB WIDTH="98">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="6" ROWCOUNT="2">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="45.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="79.50"/>
+      <COL AUTOWIDTH="0" WIDTH="82.50"/>
+      <COL AUTOWIDTH="0" WIDTH="55.50"/>
+      <COL AUTOWIDTH="0" WIDTH="80.25"/>
+      <COL AUTOWIDTH="0" WIDTH="114.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="95.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">CLIN</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">ITEM</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">GOVERNMENT A/V ESTIMATE</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">A/V<BRK/>(HAR NTE 5%)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">HAR AMOUNT (GOVT A/V ESTIMATE x HAR%)<BRK/></DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TOTAL A/V ESTIMATED AMOUNT FOR CLIN 0005 (GOVT A/V ESTIMATE + HAR AMOUNT)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">0005</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Audio/Visual (A/V)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[$_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">_____%</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$______</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+]</SPT><SPT><TTL>GENERAL BID NOTES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraph for projects with extensions under CLIN 0001. <BRK/>
+<BRK/>
+Include and edit the first bracketed items for projects with sub-CLINs for multiple 
+facilities.  Edit extensions for any unit-priced line items.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">a.  Award will be made on the total sum of Contract Line Item[s] 0001AA[, 0001AB,][and] [0001AC,] [and] 
+[0001AD,] and the sum of the extensions under Contract Line Item[s] 0001[AE], [and] 0001[AF].  For CLIN[s] 
+0001AE, [and] [0001AF]enter unit prices and extended totals in spaces provided.  If there is a difference 
+between a unit price and the extended total, the unit price will be held to be the intended bid and the 
+total recomputed accordingly.  If an Offeror provides a total but fails to enter a unit price, the total 
+divided by the specified quantity will be held to be the intended unit price.</LST><BRK/>
+<TAI OPT="OPTION CLIN"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following notes if option items are used. Edit CLIN of the Option 
+items in the project.<BRK/>
+<BRK/>
+Insert the number of days that Option price will be held. Limit hold terms of 
+options to only what is necessary, and no more than terms allowed in NFAS 17.202-100, 
+"Use of options in construction contracts."  Edit If the number of calendar 
+days is different for hold price of each bid item, edit to indicate so. <BRK/>
+<BRK/>
+Choose bracketed sentence for construction time to remain the same if options 
+are awarded, and insert original construction time; or choose bracketed sentence 
+to extend construction time, and complete time to extend.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">b.  The Government reserves the unilateral right to award CLIN 0002 [and CLIN [0003] [_____]] to the 
+Contractor at the proposed price within [_____] calendar days after the contract award.  A firm fixed 
+proposed price is required for CLIN 0001[, CLIN 0002][and CLIN 0003].  No provision is made for economic 
+price adjustment.  [If Options are exercised, the contract completion date remains [_____] calendar daysafter 
+award of the contract.] [Award of CLIN [_____] extends the contract completion date by [_____] calendar 
+days upon award of the CLIN.]</LST><BRK/>
+<BRK/>
+]<LST INDENT="-0.33">c.  Evaluation of Options (JUL 1990).  Except when it is determined in accordance with FAR 17.206(b) 
+Evaluation not to be in the Government's best interest, the Government will evaluate offers for award 
+purposes by adding the price for the Option(s) to the total price for CLIN 0001.  In accordance with 
+FAR 52.217-5 Evaluation of Options, evaluation of options will not obligate the Government to exercise 
+the Option(s).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The Government may reject an offer as nonresponsive if it is materially unbalanced as to prices for 
+the basic requirement and the [option] [additive]  quantities.  An offer is unbalanced when it is based 
+on prices significantly less than cost for some work and prices which are significantly overstated for 
+other work.</LST></TAI><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert Option or Additive CLIN numbers in the first set of brackets.  
+Edit the last sentence and Item numbers if FF&amp;E or A/V are part of the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">e.  If CLIN [0002] [and] [0003] [_____] are exercised, additional bonding and consent of surety is required.  
+Consequently, the Performance Bond must reflect 100 percent of the aggregate amount of all Items.  </LST><BRK/>
+<BRK/>
+<TAI OPT="NAVFAC EURAFSWA"><NTE><AST/><BRK/>
+<NPR>NOTE: Use the following items for projects in the Azores only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">g.  Offerors must submit their bid in Euros with the exception of line items associated with Government 
+shipping and packaging which are to remain in U.S. Dollars.  Contract award and payment will be made 
+in Euros.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  For evaluation of bid, prices will be converted to U.S. Dollars using the following factor:  0.8785 
+Euros = 1 U.S. Dollar.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Include all costs for shipping and packaging in the base bid amount with the exclusion of any shipping 
+and packaging done by the Government.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">j.  If the Contractor chooses to utilize Government furnished shipping or packaging, enter the information 
+required in the above line items.  These line item prices will be paid for by the Government and will 
+be utilized in the evaluation of the low Offeror.  If the Contractor chooses 
+not to utilize Government furnished shipping and/or packaging, the Contractor must enter "Not Applicable" 
+in the above applicable bid line items.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">k.  1 Measurement Ton (MTON) = 40 cubic feet</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">l.  History has shown that the average billable volume for a 40 ft. container is 59.0 MTON.  There is 
+a weight restriction of 50,000 lbs. per container, which includes tare weight of the container.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">m.  Bids will be accepted only from United States of America <BRK/>
+Contractors and Portuguese Contractors.  In accordance with the 1984 Technical Agreement in implementation 
+of the Defense Agreement of September 6, 1951 between the Government of Portugal and the Government of 
+the United States, the Contractor must fulfill his manpower requirements using Portuguese nationals to 
+the maximum extent feasible.  Manpower requirements include Contractor and subcontractors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">n.  Portuguese Contractor:  For purposes of this contract, a Portuguese Contractor must be a firm (contracting 
+entity or corporation) incorporated in Portugal and must comply with the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) The principal place of business and corporate headquarters must be in Portugal.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) The firm must have paid applicable taxes in Portugal for a minimum of 2 years.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) The highest ranking officer of the firm must be a Portuguese citizen, and, in addition, 
+the firm must employ Portuguese citizens or residents in other key management positions, including 
+individuals in charge of work under the contract.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) More than 60 percent of ownership interest in the firm must be by Portuguese citizens or 
+by Portuguese firms in which more than 60 percent of ownership interest is by Portuguese citizens.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) Under Article 17 of Portuguese Decree Law 40623 of May 30, 1956, a Contractor already doing 
+business in Portugal continuously for more than 5 years before the 1956 law was enacted can 
+be considered a Portuguese company without any restriction.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">o.  U.S. Contractor:  To qualify as a U.S. Contractor, the firm (or if a joint venture, members of the 
+joint venture) must be incorporated in the United States, and must comply with the following:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) The principal place of business and corporate headquarters must be in the United States.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) The firm must have paid corporate franchise and employment taxes in the United States for 
+a minimum of 2 years.  The firm must have filed state and federal income tax declarations for 
+a minimum of 2 corporate years and paid any applicable taxes determined to be due as a result 
+of such filing.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) The firm must employ U.S. citizens in key management positions.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">p.  Joint Ventures:  Joint ventures will be permitted provided that members of the joint venture meet 
+the specified requirements for either a U.S. Contractor or a Portuguese Contractor.</LST><BRK/>
+]</TAI><BRK/></SPT>
+<SPT><TTL>PLANNED MODIFICATION BID NOTES</TTL><BRK/>
+<BRK/>
+<TXT>These notes apply to Planned Modification CLINs. </TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The estimated amount for FF&amp;E [and A/V] has been supplied by the Government, to provide offerors 
+with the projected magnitude of effort.  The estimated amount includes the actual cost of the FF&amp;E 
+[and A/V]including freight and installation charges.  The Government FF&amp;E [and A/V] Estimate is only 
+an estimated amount.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Design-Bid-Build, choose Section 01 30 01.00 20 DESIGN PROCUREMENT 
+AND INSTALLATION OF FURNITURE, FIXTURES, AND EQUIPMENT.  This section is currently 
+under development.  Contact NAVFAC LANT or NAVFAC SE Interior Designer for latest 
+draft.  Edit paragraph for section and number used.  Include Audio/Video equipment 
+in Section 01 30 01.00 20 as appropriate.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Design-Build, choose the second bracketed option for E20, and E10, 
+as appropriate.<BRK/>
+<BRK/>
+The paragraph below contains tailoring for Design-Bid-Build and Design-Build.</NPR>  <BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">b.  If awarded, line items will be funded separately after completion of FF&amp;E [and A/V] design package 
+review by the Government, and receipt of appropriate funding by the Government.  Requirements and details 
+are provided in <TAI OPT="DESIGN-BID-BUILD">[</TAI><TAI OPT="DESIGN-BID-BUILD">Section 01 30 01.00 20 DESIGN PROCUREMENT AND INSTALLATION OF FURNITURE, FIXTURES, AND 
+EQUIPMENT</TAI><TAI OPT="DESIGN-BID-BUILD">]</TAI><TAI OPT="DESIGN-BUILD">[E20, FURNISHINGS [and E10, EQUIPMENT ]of the RFP]</TAI>.</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit and insert CLIN numbers of FF&amp;E and A/V equipment in the brackets 
+provided. </NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">c.  Bonding is not required for the design, procurement and installation of FF&amp;E [and A/V equipment].</LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  HAR is limited to 5 percent for NAVFAC in accordance with NAVFAC Furniture, 
+Fixtures &amp; Equipment (FF&amp;E) Contracting Guide for Design-Build Construction 
+Projects, which is also valid for Design-Bid-Build Projects by Amendment, and 
+available for download by NAVFAC employees at <URL HREF="https://portal.navfac.navy.mil/portal/page/portal/aq/aq_hi/pre_award/construction/9bc9974c17910abfe04400144f414f26">https://portal.navfac.navy.mil/portal/page/portal/aq/aq_hi/pre_award/construction/9bc9974c17910abfe04400144f414f26</URL>
+.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<LST INDENT="-0.33">d.  Offerors may propose a Handling and Administration Rate (HAR) for the FF&amp;E [and A/V] not to exceed 
+5 percent.  This fee will account for all administrative costs, overhead, bonding fees, administration 
+of subcontracts, profit, and any other costs associated with and related to the coordination and processing 
+of the procurement and installation of FF&amp;E [and A/V].  The proposed HAR percentage will be incorporated 
+into the contract award and will not be adjusted regardless of fluctuations from the estimate amount 
+for the FF&amp;E [and A/V].  The proposed HAR is a fixed rate.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  The Government is not obligated to award the Planned Modification line item(s).  Should the Government 
+choose to award the Planned Modification, the line item will be awarded as a negotiated modification 
+to the contract/task order.  The Contractor's proposed HAR will be applied to all vendor/supplier costs 
+for the FF&amp;E[ and A/V].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  If awarded, the FF&amp;E [and A/V ]modification will be awarded at least six months prior to the 
+contract completion date.  A minimum of six months is required for the Contractor to purchase, deliver 
+and install the FF&amp;E [and A/V ] without impacting the overall completion date of the project.  The 
+Contractor's schedule must assume the award of the FF&amp;E [and A/V] as a modification.  No schedule 
+extensions will be granted if the modification is awarded at least six months prior to the contract completion 
+date.  If the Government decides to negotiate and award the furniture modification with less than six 
+months prior to the contact completion date, the Contractor may be entitled to a contract extension and 
+extended field overhead. A contract extension and <NED/>extended field overhead will only be granted in those 
+cases where the Contractor demonstrates that an accepted Final FF&amp;E [and A/V ]package was submitted 
+within the approved schedule deadlines and sufficient lead time for the FF&amp;E [and A/V] is not available 
+and the Government's award of the modification is in the last six months of the contract.</LST><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><NED/><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not used.</TXT><BRK/>
+<BRK/></PRT>
+    <EOD/><BRK/></SEC>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA            UFGS-01 35 13.43 10 (August 2015)<BRK/>
+                                         ---------------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>               Superseding<BRK/>
+                                         UFGS-01240A (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 35 13.43 10</SCN><BRK/>
+<BRK/>
+<STL>SPECIAL PROJECT PROCEDURES FOR CONTAMINATED SITES</STL><BRK/>
+<DTE>08/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>preparing a cost 
+and performance documentation report on environmental remediation projects</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The work covered by this section will be restricted to report preparation.  
+No design, construction, operation or maintenance requirements are included 
+herein.  The specifier or designer will include available information and data 
+or provide appropriate references to prevent remedial action Contractor from 
+duplicating previous efforts.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>FEDERAL REMEDIATION TECHNOLOGIES ROUNDTABLE (FRTR)</ORG><BRK/><BRK/><RID>USAEC SFIM-AEC-ET-CR-97053</RID><RTL>(2007) Federal Remediation Technologies Screening Matrix and Reference Guide, Fourth Edition</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>EP 1110-1-19</RID><RTL>(2001) A Guide to Preparing and Reviewing Remedial Action Reports of Cost and Performance</RTL><BRK/><BRK/><RID>ER 1110-3-1301</RID><RTL>(1999) Engineering and Design -- Cost Engineering Policy Requirements for Hazardous, Toxic Radioactive Waste (HTRW) Cost Engineering</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA 542-B-98-007</RID><RTL>(1998) Guide to Documenting and Managing Cost and Performance Information for Remediation Projects</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DESCRIPTION OF WORK</TTL><BRK/>
+<BRK/>
+<TXT>Work consists of the preparation of a report containing cost and performance data from the [_____] environmental 
+remediation project.  Use the [partial] [draft] [_____] [<ATT>Cost and Performance Report</ATT> attached to this specification] 
+[Cost and Performance Report included in <RID>EP 1110-1-19</RID>, Appendix A] [_____] to comply with this specification.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Report Format</TTL><BRK/>
+<BRK/>
+<TXT>Prepare the report in accordance with <RID>EPA 542-B-98-007</RID>.  Present the report as follows:  1) Word processing format:  
+MS Word, [12] [_____] point font size, typeface.  2) Page layout:  <MET>215 x 280 mm</MET><ENG> 8-1/2 x 11 inch</ENG> size paper; <MET>[25] 
+[_____] mm</MET><ENG> [1] [_____] inch</ENG> margins; portrait or landscape orientation; bold headings, footnotes, page numbering.  
+3) Tables and charts software: spreadsheets, groundwater modeling.  4) Computer file:  also present the document 
+in Hypertext Mark-up Language (HTML 2.0) saved as an ASCII file; link postscript drawings to document text.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Drawing Format</TTL><BRK/>
+<BRK/>
+<TXT>Use the same format for drawings, including software, as that used in the investigative and design phases of 
+the project.  [Provide drawingfiles in post script [[_____].ps] [[_____].eps] [or] [[_____].gif] format.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Quality Control</TTL><BRK/>
+<BRK/>
+<TXT>Develop a project-specific quality control program to detail the procedures for preparation of the report and 
+for correction of deficiencies.  Arrange for conferences to coordinate the work or to sequence related work for 
+sensitive and complex items as needed and as requested by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM>  [Three] [_____] copies of the report upon completion of each of the following stages:  Outline, 
+Draft Report, and Final Report.  Provide the report to the [Contracting Officer] [_____].  Provide 
+and ASCII file of the report to the [Contracting Officer] [HTRW CX] [_____].</ITM><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>REPORT</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Prepare the report in accordance with <RID>EP 1110-1-19</RID>.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Executive Summary</TTL><BRK/>
+<BRK/>
+<TXT>The Executive Summary is  a brief overview of the Cost and Performance Report.  It includes [a brief description 
+of the historical activities that generated the need for environmental restoration,] [a brief summary of the 
+appropriate regulatory framework under which the cleanup is to occur,] [the remedial technology specified,] [the 
+date, number and title of decision document,] [any special sequencing and scheduling milestones,] [definitions 
+for standard terminology used in the preparation of the report,] [average characteristics of the contaminated 
+media pre- and post-treatment,] [and] [the cost breakdown for the complete remediation].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Site Information</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Site information data will be provided by USACE and/or design Contractor.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Information developed prior to remediation is [included] [_____].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Type of Action</TTL><BRK/>
+<BRK/>
+<TXT>State whether the cleanup to be performed is an entire site remediation or intermediate remedial project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Period of Operation</TTL><BRK/>
+<BRK/>
+<TXT>Indicate the dates of start-up, shut-down, periods of retreatment, partial operation, inactivity and operation 
+of the treatment system in the report.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Quantity of Material Treated During Application</TTL><BRK/>
+<BRK/>
+<TXT>Indicate the estimated quantity of material treated during the remedial or removal action.  For ex-situ or in-situ 
+treatment, determine the estimated volume of material treated as specified in the respective technical specification 
+section and note in the report.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Performance Objectives</TTL><BRK/>
+<BRK/>
+<TXT>Bulletize the clean-up goals associated with this project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Site Logistics/Contacts</TTL><BRK/>
+<BRK/>
+<TXT>List the addresses and telephone numbers for the [Project Manager,] [Regulatory Agency Contacts,] [and] [Vendors] 
+involved in the cleanup activities.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Matrix and Contaminant Description</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Matrix Identification</TTL><BRK/>
+<BRK/>
+<TXT>Report the type of matrix treated using the standard terminology contained in <RID>EP 1110-1-19</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Site Geology/Stratigraphy</TTL><BRK/>
+<BRK/>
+<TXT>Describe the site soils and geology in the site geology/stratigraphy narrative.  Include the areal and vertical 
+(stratigraphy) variability in the soils, soil classifications and particle-size distributions.  Include depth 
+to groundwater, depth to bedrock, and thickness of overburden soil.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contaminant Characterization</TTL><BRK/>
+<BRK/>
+<TXT>Identify the primary contaminant and the extent of vertical and areal contamination in this section.  Note other 
+contaminants which may affect treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contaminant Properties</TTL><BRK/>
+<BRK/>
+<TXT>Report the properties of contaminants present at the remediation site as a summary of the results from the Sampling 
+and Analysis Plan.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nature and Extent of the Contaminants</TTL><BRK/>
+<BRK/>
+<TXT>Describe the of location, nature, and extent of contamination by text and/or appropriate contract drawings.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Matrix Characteristics Affecting Treatment Cost or Performance</TTL><BRK/>
+<BRK/>
+<TXT>Identify the measurement procedure used for each parameter.  Provide the measurement, the procedure to obtain 
+the measurement, and the effect on cost and performance for each parameter as shown in Tables 1 and 3 of <RID>EP 1110-1-19</RID>
+.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Treatment System Description</TTL><BRK/>
+<BRK/>
+<TXT>Describe treatment technologies using terminology from <RID>USAEC SFIM-AEC-ET-CR-97053</RID> and <RID>EPA 542-B-98-007</RID> or other 
+approved similar terminology in areas where those documents are incomplete.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Primary Treatment Technology Types</TTL><BRK/>
+<BRK/>
+<TXT>List primary treatment technology types for each contaminant matrix using standard terminology and the listing 
+of primary treatment technologies in <RID>EP 1110-1-19</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Supplemental Treatment Technology Types</TTL><BRK/>
+<BRK/>
+<TXT>List Pre-treatment and Post-treatment technology types for each matrix using standard terminology and the listing 
+of supplemental treatment technologies in <RID>EP 1110-1-19</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Time Line</TTL><BRK/>
+<BRK/>
+<TXT>Provide a tabular or Gannt chart form specifying the major tasks associated with the remediation. Include key 
+milestones such as treatability testing; design completion; site preparation; site mobilization; excavation; 
+treatment start date; adjustment dates; submittal dates, and demobilization.  Initiate the time line at the onset 
+of remedial investigations and terminate at completion of demobilization from the site.  Designate the projects 
+critical path on the time line.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Treatment System Operation</TTL><BRK/>
+<BRK/>
+<TXT>Provide a completion Process Flow Diagram in the report and include an overall schematic of the treatment system 
+and each treatment unit process.  Also include personnel requirements for operating the system, the approach 
+used to operate the system over the course of the remediation, and the health and safety requirements including 
+level of personal protective equipment required in the description of system operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Operating Parameters Affecting Treatment Cost or Performance</TTL><BRK/>
+<BRK/>
+<TXT>Provide a table presenting the major operating parameters affecting cost and performance for the primary treatment 
+technologies and the values measured for each parameter.  Include site-specific items such as number of samples, 
+number of wells, and other specific parameters that may affect the cost of operation in the report in accordance 
+with Table 4 of <RID>EP 1110-1-19</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Treatment System Performance</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Treatment Performance Data</TTL><BRK/>
+<BRK/>
+<TXT>Report the pre-treatment and post-treatment contaminant concentrations in the soil or groundwater.  Present the 
+number and type of samples collected, management or reduction of sampling results, and the method number of the 
+laboratory analysis in a table.  For in-situ technologies, provide information for separate locations using cross-referenced 
+site plans and tables.  Present analytical results in tabular format using the following conventions for reporting 
+data:  mass/volume for contaminant levels in off-gas; mass/mass for solids; mass/volume for contaminant levels 
+in water, and ND (DL) with footnote saying:  not detected at levels above the detection limit (reported laboratory 
+detection limit shown in parentheses).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Data Assessment and Deviations from Standard Performance</TTL><BRK/>
+<BRK/>
+<TXT>Describe the available performance data and discuss in terms of whether cleanup goals were met and whether treatment 
+performance varied during the course of the remediation.  Include an evaluation of the performance of the treatment 
+system in the report.  Include the information contained in the following paragraphs.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Material Balances</TTL><BRK/>
+<BRK/>
+<TXT>Perform material balances around the treatment unit; link the data to specific operating conditions.  State whether 
+balances are required for a specific process unit, the complete train of processes or both.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Target Contaminant and Operating Conditions</TTL><BRK/>
+<BRK/>
+<TXT>Match target contamination concentrations prior to treatment with concentrations in treated material.  Link these 
+data to specific operating conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Target Contaminant and Removal Efficiencies</TTL><BRK/>
+<BRK/>
+<TXT>compare target contaminant concentrations prior to treatment with concentrations in treated material, to determine 
+removal efficiencies and average concentrations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Characteristics of Treated Material</TTL><BRK/>
+<BRK/>
+<TXT>Assess the physical and chemical state of the treated material using methods appropriate for the material.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Performance Data Quality</TTL><BRK/>
+<BRK/>
+<TXT>Provide an overall assessment of the quality control of the available performance data in the narrative.  A brief 
+description of the Quality Assurance Project Plan (QAPP) for the remediation effort must include how checks were 
+made on the sample analysis and interpretation, and a discussion of the use of statistics in sampling program 
+design and data interpretation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Treatment System Cost</TTL><BRK/>
+<BRK/>
+<TXT>Use the work breakdown structure specified in <RID>ER 1110-3-1301</RID> to the third (subsystem) level, in conjunction with 
+the standard descriptions, to document costs for activities directly attributed to the treatment system; however, 
+utilizing lower levels for each work breakdown structure is optional.  Use the third (subsystem) level of detail 
+for capturing the primary treatment technology costs.  Identify documentation of costs for before treatment activities 
+separately in the appropriate third-level remedial action work breakdown structure categories, i.e. Monitoring, 
+Sampling, Testing, and Analysis.  Separately identify post construction operation and maintenance using the O&amp;M 
+work breakdown structure.  Identify unit costs and number of units for each cost element in the documentation, 
+as specified in <RID>ER 1110-3-1301</RID>.  Show cost for activities directly attributed to the treatment as a total cost 
+and as a calculated cost on a per unit of media treated basis, and on a per unit of contaminant removed basis, 
+as indicated.  The second (system) and the third (subsystem) level cost elements for activities directly associated 
+with the project are shown in the same referenced documents.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>HTRW - Remedial Action Work Breakdown Structure</TTL><BRK/>
+<BRK/>
+<TXT>Appropriately allocate invoices for materials, labor, supplies, services, and other costs.  Allocate these costs 
+to pretreatment, treatment, and post-treatment activities.  These cost allocations must include the sub-breakdown 
+of cost elements.  Further allocate costs between capital and operating costs.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pre-Treatment Costs</TTL><BRK/>
+<BRK/>
+<TXT>Include preparation costs in the reported pre-treatment costs (i.e.  Sampling Plans, Treatability Plans, [_____]) 
+management and other distributive costs, mobilization, sampling and analysis, site work, excavation, [_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Costs Directly Associated with Treatment</TTL><BRK/>
+<BRK/>
+<TXT>Include solids, liquid, vapor preparation and handling; mobilization, spill control, testing, permits, training, 
+and O&amp;M costs in the costs directly associated with the treatment.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Post-Treatment Costs</TTL><BRK/>
+<BRK/>
+<TXT>The post-treatment costs include decontamination and decommissioning, disposal, site restoration, and demobilization.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Regulatory/Institutional Issues</TTL><BRK/>
+<BRK/>
+<TXT>List approvals, licenses and permits required for remediation along with the direct cost and time lines associated 
+with obtaining them.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Observations and Lessons Learned</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete any of the following paragraphs when not applicable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Cost Observations and Lessons Learned</TTL><BRK/>
+<BRK/>
+<TXT>Summarize observations or lessons learned concerning cost for each treatment system.  Consider key factors that 
+affected project costs, and major items that caused final costs to differ from initial bid.  Issues to be discussed 
+include change orders, reclarifications, liquidated damages, variations in quantities, and unforeseen conditions.  
+Include recommendations for cost savings in future procurements of each treatment technology in the narrative.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Performance Observations and Lessons Learned</TTL><BRK/>
+<BRK/>
+<TXT>Summarize observations or lessons learned concerning performance of each treatment system for this contract.  
+Consider key factors that caused performance variations from contract requirements/cleanup standards.  Describe 
+lessons learned from scaling-up treatability studies to full-scale activities.  Discuss the accuracy of such 
+treatability studies in predicting the full-scale application cost and performance.  Also discuss recommendations 
+for improved performance in future applications, including information from each treatment vendor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Observations and Lessons Learned</TTL><BRK/>
+<BRK/>
+<TXT>Summarize observations or lessons learned from each treatment unit not directly related to cost or performance.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT></PRT>    <END/><BRK/></SEC>

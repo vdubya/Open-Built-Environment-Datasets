@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><BRK/>
+<HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                UFGS-03 37 29 (November 2009)<BRK/>
+                                             -----------------------------<BRK/>
+Preparing Activity:  <PRA>USACE</PRA>                   Superseding<BRK/>
+                                             UFGS-03 37 29 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 03 37 29</SCN><BRK/>
+<BRK/>
+<STL>CONCRETE FOR CONCRETE CUTOFF WALLS</STL><BRK/>
+<DTE>11/09</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>concrete cutoff 
+wall structures</SCP>.  This section was originally developed for USACE Civil Works 
+projects.</NPR><BRK/>
+<BRK/>
+<NPR>Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.</NPR><BRK/>
+<BRK/>
+<NPR>Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The content of this specification is such that guidance given in EM 1110-2-2000, 
+"Standard Practice for Concrete", is applicable.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>UNIT PRICES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If Section <SRF>01 22 00.00 10</SRF> PRICE AND PAYMENT PROCEDURES is included in 
+the project specifications, this paragraph title (UNIT PRICES) should be deleted 
+from this section and the remaining appropriately edited subparagraphs below 
+should be inserted into Section <SRF>01 22 00.00 10</SRF>.</NPR><BRK/>
+<BRK/>
+<NPR>With the exception of coring concrete in completed panels, all costs in connection 
+with this section, including all materials, will be included in the payment 
+item(s) specified.</NPR><BRK/>
+<BRK/>
+<NPR>Core recovery percentage for each boring should be a high number such as 90 
+to 95, since it is expected that a competent concrete material is being cored.  
+The deviation of the core hole should be in relation to the smallest dimension 
+of the panels that will be produced for each jobsite.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Coring Concrete in Completed Panels</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Payment</TTL><BRK/>
+<BRK/>
+<TXT>Payment will be made for costs associated with Coring Concrete in Completed Panels and backfilling the core holes.  
+This price will constitute full compensation for mobilizing and demobilizing and furnishing all equipment and 
+supplies necessary to perform all operations specified.  No payment will be made for coring and backfilling at 
+a location where the coring reveals the presence of "unacceptable concrete", as specified in paragraph UNACCEPTABLE 
+CONCRETE IN COMPLETED PANELS in PART 3.  All costs incurred, including the initial core boring and as many additional 
+core borings as may be required to delineate the limits of the unacceptable concrete and the repair of the cutoff 
+wall, shall be borne by the Contractor and shall not result in any additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Measurement</TTL><BRK/>
+<BRK/>
+<TXT>Coring Concrete in Completed Panels will be measured for payment from the top of the panel to the bottom of the 
+core hole.  If overall core recovery for a boring is less than [_____] percent or the boring deviates from the 
+cutoff wall prior to reaching a depth of [_____]<MET> meters</MET><ENG> feet</ENG>, the boring shall be redrilled and backfilled at 
+no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Unit of Measure</TTL><BRK/>
+<BRK/>
+<TXT>Unit of measure: per linear<MET> meter</MET><ENG> foot</ENG> of cored hole.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>AMERICAN CONCRETE INSTITUTE (ACI)</ORG><BRK/><BRK/><RID>ACI 211.1</RID><RTL>(1991; R 2009) Standard Practice for Selecting Proportions for Normal, Heavyweight and Mass Concrete</RTL><BRK/><BRK/></REF><REF><ORG>ASTM INTERNATIONAL (ASTM)</ORG><BRK/><BRK/><RID>ASTM C1017/C1017M</RID><RTL>(2013; E 2015) Standard Specification for Chemical Admixtures for Use in Producing Flowing Concrete</RTL><BRK/><BRK/><RID>ASTM C1064/C1064M</RID><RTL>(2017) Standard Test Method for Temperature of Freshly Mixed Hydraulic-Cement Concrete</RTL><BRK/><BRK/><RID>ASTM C1077</RID><RTL>(2017) Standard Practice for Agencies Testing Concrete and Concrete Aggregates for Use in Construction and Criteria for Testing Agency Evaluation</RTL><BRK/><BRK/><RID>ASTM C117</RID><RTL>(2017) Standard Test Method for Materials Finer than 75-um (No. 200) Sieve in Mineral Aggregates by Washing</RTL><BRK/><BRK/><RID>ASTM C123/C123M</RID><RTL>(2014) Standard Test Method for Lightweight Particles in Aggregate</RTL><BRK/><BRK/><RID>ASTM C1260</RID><RTL>(2014) Standard Test Method for Potential Alkali Reactivity of Aggregates (Mortar-Bar Method)</RTL><BRK/><BRK/><RID>ASTM C127</RID><RTL>(2015) Standard Test Method for Density, Relative Density (Specific Gravity), and Absorption of Coarse Aggregate</RTL><BRK/><BRK/><RID>ASTM C128</RID><RTL>(2015) Standard Test Method for Density, Relative Density (Specific Gravity), and Absorption of Fine Aggregate</RTL><BRK/><BRK/><RID>ASTM C131/C131M</RID><RTL>(2014) Standard Test Method for Resistance to Degradation of Small-Size Coarse Aggregate by Abrasion and Impact in the Los Angeles Machine</RTL><BRK/><BRK/><RID>ASTM C136/C136M</RID><RTL>(2014) Standard Test Method for Sieve Analysis of Fine and Coarse Aggregates</RTL><BRK/><BRK/><RID>ASTM C142/C142M</RID><RTL>(2017) Standard Test Method for Clay Lumps and Friable Particles in Aggregates</RTL><BRK/><BRK/><RID>ASTM C143/C143M</RID><RTL>(2015) Standard Test Method for Slump of Hydraulic-Cement Concrete</RTL><BRK/><BRK/><RID>ASTM C150/C150M</RID><RTL>(2018) Standard Specification for Portland Cement</RTL><BRK/><BRK/><RID>ASTM C1567</RID><RTL>(2013) Standard Test Method for Potential Alkali-Silica Reactivity of Combinations of Cementitious Materials and Aggregate (Accelerated Mortar-Bar Method)</RTL><BRK/><BRK/><RID>ASTM C172/C172M</RID><RTL>(2017) Standard Practice for Sampling Freshly Mixed Concrete</RTL><BRK/><BRK/><RID>ASTM C192/C192M</RID><RTL>(2018) Standard Practice for Making and Curing Concrete Test Specimens in the Laboratory</RTL><BRK/><BRK/><RID>ASTM C231/C231M</RID><RTL>(2017a) Standard Test Method for Air Content of Freshly Mixed Concrete by the Pressure Method</RTL><BRK/><BRK/><RID>ASTM C260/C260M</RID><RTL>(2010a; R 2016) Standard Specification for Air-Entraining Admixtures for Concrete</RTL><BRK/><BRK/><RID>ASTM C295/C295M</RID><RTL>(2018a) Standard Guide for Petrographic Examination of Aggregates for Concrete</RTL><BRK/><BRK/><RID>ASTM C31/C31M</RID><RTL>(2019) Standard Practice for Making and Curing Concrete Test Specimens in the Field</RTL><BRK/><BRK/><RID>ASTM C33/C33M</RID><RTL>(2018) Standard Specification for Concrete Aggregates</RTL><BRK/><BRK/><RID>ASTM C39/C39M</RID><RTL>(2018) Standard Test Method for Compressive Strength of Cylindrical Concrete Specimens</RTL><BRK/><BRK/><RID>ASTM C40</RID><RTL>(2011) Standard Test Method for Organic Impurities in Fine Aggregates for Concrete</RTL><BRK/><BRK/><RID>ASTM C40/C40M</RID><RTL>(2019) Standard Test Method for Organic Impurities in Fine Aggregates for Concrete</RTL><BRK/><BRK/><RID>ASTM C441/C441M</RID><RTL>(2017) Standard Test Method for Effectiveness of Pozzolans or Ground Blast-Furnace Slag in Preventing Excessive Expansion of Concrete Due to the Alkali-Silica Reaction</RTL><BRK/><BRK/><RID>ASTM C494/C494M</RID><RTL>(2017) Standard Specification for Chemical Admixtures for Concrete</RTL><BRK/><BRK/><RID>ASTM C535</RID><RTL>(2016) Standard Test Method for Resistance to Degradation of Large-Size Coarse Aggregate by Abrasion and Impact in the Los Angeles Machine</RTL><BRK/><BRK/><RID>ASTM C566</RID><RTL>(2013) Standard Test Method for Total Evaporable Moisture Content of Aggregate by Drying</RTL><BRK/><BRK/><RID>ASTM C618</RID><RTL>(2019) Standard Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete</RTL><BRK/><BRK/><RID>ASTM C70</RID><RTL>(2013) Standard Test Method for Surface Moisture in Fine Aggregate</RTL><BRK/><BRK/><RID>ASTM C87/C87M</RID><RTL>(2017) Standard Test Method for Effect of Organic Impurities in Fine Aggregate on Strength of Mortar</RTL><BRK/><BRK/><RID>ASTM C94/C94M</RID><RTL>(2018) Standard Specification for Ready-Mixed Concrete</RTL><BRK/><BRK/><RID>ASTM C989/C989M</RID><RTL>(2018a) Standard Specification for Slag Cement for Use in Concrete and Mortars</RTL><BRK/><BRK/><RID>ASTM D75/D75M</RID><RTL>(2014) Standard Practice for Sampling Aggregates</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL DRILLING ASSOCIATION (NDA)</ORG><BRK/><BRK/><RID>DCDMA TM</RID><RTL>(1991; Reviewed 2012) DCDMA Technical Manual</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST)</ORG><BRK/><BRK/><RID>NIST HB 44</RID><RTL>(2018) Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices</RTL><BRK/><BRK/></REF><REF><ORG>NATIONAL READY MIXED CONCRETE ASSOCIATION (NRMCA)</ORG><BRK/><BRK/><RID>NRMCA CPMB 100</RID><RTL>(2000; R 2006) Concrete Plant Standards</RTL><BRK/><BRK/></REF><REF><ORG>U.S. ARMY CORPS OF ENGINEERS (USACE)</ORG><BRK/><BRK/><RID>COE CRD-C 100</RID><RTL>(1975) Method of Sampling Concrete Aggregate and Aggregate Sources, and Selection of Material for Testing</RTL><BRK/><BRK/><RID>COE CRD-C 104</RID><RTL>(1980) Method of Calculation of the Fineness Modulus of Aggregate</RTL><BRK/><BRK/><RID>COE CRD-C 112</RID><RTL>(1969) Method of Test for Surface Moisture in Aggregate by Water Displacement</RTL><BRK/><BRK/><RID>COE CRD-C 130</RID><RTL>(2001) Standard Recommended Practice for Estimating Scratch Hardness of Coarse Aggregate Particles</RTL><BRK/><BRK/><RID>COE CRD-C 143</RID><RTL>(1962) Specifications for Meters for Automatic Indication of Moisture in Fine Aggregate</RTL><BRK/><BRK/><RID>COE CRD-C 400</RID><RTL>(1963) Requirements for Water for Use in Mixing or Curing Concrete</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review submittal description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are for [Contractor Quality Control approval.] [information only.  When used, a designation following the "G" 
+designation identifies the office that will review the submittal for the Government.]  Submittals with an "S" 
+are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-03 Product Data</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Concrete Mixture Proportions</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Batch Plant</SUB></ITM><BRK/>
+<ITM><SUB>Concrete Mixers</SUB></ITM><BRK/>
+<ITM><SUB>Capacity</SUB></ITM><BRK/>
+<ITM><SUB>Conveying Equipment</SUB></ITM><BRK/>
+<ITM><SUB>Plant and Equipment</SUB></ITM><BRK/>
+<ITM><SUB>Tests and Inspections</SUB></ITM><BRK/>
+<ITM><SUB>Vertical Construction Joints</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Curing and Protection</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-04 Samples</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Cementitious Materials</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Admixtures</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Aggregates</SUB></ITM><BRK/>
+<ITM><SUB>Quality of Aggregates</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Mixer Uniformity</SUB></ITM><BRK/>
+<ITM><SUB>Tests and Inspections</SUB></ITM><BRK/>
+<ITM><SUB>Unacceptable Concrete</SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Cementitious Materials</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<ITM><SUB>Air-Entraining Admixture</SUB></ITM><BRK/>
+<ITM><SUB>Accelerators</SUB></ITM><BRK/>
+<ITM><SUB>Other Chemical Admixtures</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<TXT>"<SUB>Unacceptable Concrete</SUB>" is concrete that is honeycomb, segregated, uncemented, or contains voids greater than 
+the diameter of the core boring.  When such concrete is encountered in any panel, the unacceptable concrete shall 
+be replaced or repaired in accordance with paragraph CONCRETE PLACEMENT.  Submit a copy of the records and Contractor 
+tests, as well as the records of the corrective action taken where testing has determined that concrete in completed 
+panels is unacceptable, as directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Government Testing and Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Provide facilities and labor as may be necessary for procurement of representative test samples.  The Government 
+will sample and test aggregates and concrete to determine compliance with the specifications.  Samples of aggregates 
+will be obtained at the point of batching in accordance with <RID>ASTM D75/D75M</RID>.  Concrete will be sampled in accordance 
+with <RID>ASTM C172/C172M</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Preconstruction Sampling and Testing</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Aggregates</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The Designer should consult the appropriate DM, identify the sources 
+for aggregates, and attach them to the end of this section.  A Format Template 
+for Aggregate Sources is located in the Template Menu of UFGS.  Contact the 
+Division Laboratory for information to fill in the blanks below.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The aggregate sources listed at the end of this section have been tested and at the time testing was performed 
+were capable of producing materials of a quality required for this project provided suitable processing is performed.  
+The Contractor may furnish materials from a listed source or from a source not listed.  Samples from any source 
+of coarse aggregate and any source of fine aggregate selected by the Contractor, consisting of not less than 
+[_____] [<MET>70 kg</MET><ENG> 150 pounds</ENG>] of each size coarse aggregate and [_____] [<MET>35 kg</MET><ENG> 75 pounds</ENG>] of fine aggregate taken 
+under the supervision of the Contracting Officer in accordance with <RID>COE CRD-C 100</RID> shall be delivered to [_____] 
+within 15 days after notice to proceed.  Sampling and shipment of samples shall be at the Contractor's expense.  
+[_____] days will be required to complete evaluation of the aggregates.  Testing will be performed by and at 
+the expense of the Government in accordance with the applicable COE CRD-C or ASTM test methods.  The cost of 
+testing one source for each size of aggregate will be borne by the Government.  If the Contractor selects more 
+than one source for each aggregate size or selects a substitute source for any size aggregate after the original 
+source was tested, the cost of that additional testing will be borne by the Contractor.  Tests to which aggregate 
+may be subjected are listed in paragraph QUALITY in PART 2.  The material from the proposed source shall meet 
+the quality requirements of this paragraph.  The Government's test data and other information on aggregate quality 
+of those sources listed at the end of this section are included in the DM and are available for review in the 
+district office.  Testing of aggregates by the Government does not relieve the Contractor of the requirements 
+outlined in paragraph TESTS AND INSPECTIONS in PART 3.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cementitious Materials and Admixtures</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  EM 1110-2-2000, "Standard Practice for Concrete", provides guidance in 
+selecting the options for Government or for Contractor testing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>At least 60 days in advance of concrete placement, notify the Contracting Officer of the source of materials, 
+along with sampling location, brand name, type, and quantity to be used in the manufacture and/or curing of the 
+concrete.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Construction Testing by the Government</TTL><BRK/>
+<BRK/>
+<TXT>[Sampling and testing will be performed by and at the expense of the Government except as otherwise specified.  
+No material shall be used until notice has been given by the Contracting Officer that test results are satisfactory.]  
+[The Government will sample and test chemical admixtures, curing compounds, and cementitious materials].</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Chemical Admixtures Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Chemical admixtures that have been in storage at the project site for longer than 6 months or that have been 
+subjected to freezing shall be retested at the expense of the Contractor when directed by the Contracting Officer 
+and shall be rejected if test results are not satisfactory.  Chemical admixtures will be accepted based on compliance 
+with paragraph CHEMICAL ADMIXTURES of PART 2.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cement and Pozzolan</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTES:  Delete this paragraph if materials are to be accepted on the basis of 
+a manufacture's certification of compliance and mill test reports, and the optional 
+sentence in paragraph SUBMITTALS, SD-07 Certificates, will be used.  See the 
+appropriate DM or consult the Materials Engineer to select prequalified sources, 
+subparagraphs "a" and "b" below, or sealed bins, subparagraphs "c" and "d" below, 
+or both options, subparagraphs "a" and "b" and "c" and "d".  Selection of the 
+sealed bin method, subparagraphs "c" and "d", must be fully justified in the 
+appropriate DM.</NPR><BRK/>
+<BRK/>
+<NPR>In subparagraph "c" below, to fill in the blank for cost of testing excess cement, 
+contact the Structures Laboratory, Concrete Technology Division, WES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>If cement or pozzolan is to be obtained from more than one source, the initial notification shall state the estimated 
+amount to be obtained from each source and the proposed schedule of shipments.</TXT><BRK/>
+<BRK/>
+[<SPT><TTL>Prequalified Cement Sources</TTL><BRK/>
+<BRK/>
+<TXT>Cement shall be delivered and used directly from a mill of a producer designated as a qualified source.  Samples 
+of cement for check testing will be taken at the project site or concrete-producing plant by a representative 
+of the Contracting Officer for testing at the expense of the Government.  A list of prequalified cement sources 
+is available from Director, U.S. Army Corps of Engineers, Waterways Experiment Station, 3909 Halls Ferry Road, 
+Vicksburg, MS 39180-6199, ATTN:  CEWES-SC.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Prequalified Pozzolan Sources</TTL><BRK/>
+<BRK/>
+<TXT>Pozzolan shall be delivered and used directly from a producer designated as a qualified source.  Samples of pozzolan 
+for check testing will be taken at the project site by the Contracting Officer for testing at the expense of 
+the Government.  A list of prequalified pozzolan sources is available from the Director, U.S. Army Corps of Engineers, 
+Waterways Experiment Station, 3909 Halls Ferry Road, Vicksburg, MS 39180-6199, ATTN: CEWES-SC.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL> Nonprequalified Cement Sources</TTL><BRK/>
+<BRK/>
+<TXT>Cement, if not from a prequalified source, will be sampled at the source and stored in sealed bins pending completion 
+of testing.  Sampling, testing, and the shipping inspection from the point of sampling, when the point is other 
+than at the site of the work, will be made by or under the supervision of the Government and at its expense.  
+No cement shall be used until notice has been given by the Contracting Officer that test results are satisfactory.  
+In the event of failure, the cement may be resampled and tested at the request and expense of the Contractor.  
+When the point of sampling is other than at the site of the work, the fill gates of the sampled bin and conveyances 
+used in shipment will be sealed under Government supervision and kept sealed until shipment from the bin has 
+been completed.  If tested cement is rehandled at transfer points, the extra cost of inspection shall be at the 
+Contractor's expense.  The cost of testing cement excess to project requirements shall also be at the expense 
+of the Contractor.  The charges for testing cement at the expense of the Contractor will be deducted from the 
+payments due the Contractor at a rate of [_____] dollars per ton of cement represented by the tests.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>Nonprequalified Pozzolan Sources</TTL><BRK/>
+<BRK/>
+<TXT>Pozzolan, if not from a prequalified source, will be sampled at the source and stored in sealed bins pending 
+completion of certain tests.  Pozzolan will also be sampled at the site when determined necessary.  All sampling 
+and testing will be by and at the expense of the Government.  Release for shipment and approval for use will 
+be based on compliance with 7-day lime-pozzolan strength requirements and other physical and chemical and uniformity 
+requirements for which tests can be completed by the time the 7-day lime-pozzolan strength test is completed.  
+Release for shipment and approval for use on the above basis will be contingent on continuing compliance with 
+the other requirements of the specifications.  If a bin fails, the contents may be resampled and tested at the 
+Contractor's expense.  In this event, the pozzolan may be sampled as it is loaded into cars, trucks, or barges 
+provided they are kept at the source until released for shipment.  Unsealing and resealing of bins and sealing 
+of shipping conveyances will be by or under the supervision of the Government.  Shipping conveyances will not 
+be accepted at the site of the work unless received with all seals intact.  If pozzolan is damaged in shipment, 
+handling, or storage, it shall be promptly removed from the site of the work.  Pozzolan that has not been used 
+within 6 months after testing shall be retested at the expense of the Contractor when directed by the Contracting 
+Officer and shall be rejected if the test results are not satisfactory.  If tested pozzolan is rehandled at transfer 
+points, the extra cost of inspection shall be at the Contractor's expense.  The cost of testing excess pozzolan 
+shall be at the Contractor's expense at a rate of [_____] cents per ton.  The amount will be deducted from payment 
+to the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>Concrete Tests</TTL><BRK/>
+<BRK/>
+<TXT>Provide facilities and labor as necessary for procurement of representative test samples.  The Government will 
+sample and test concrete to determine compliance with the specifications.  Concrete will be sampled in accordance 
+with <RID>ASTM C172/C172M</RID>.  Slump and air content will be determined in accordance with <RID>ASTM C143/C143M</RID> and <RID>ASTM C231/C231M</RID>
+, respectively.  Compression test specimens will be made and laboratory cured in accordance with <RID>ASTM C31/C31M</RID>
+, and compression test specimens tested in accordance with <RID>ASTM C39/C39M</RID>, but results will be used only for determination 
+of the uniformity of the mixture produced.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT></PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<SPT><TTL>SYSTEM DESCRIPTION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Well-rounded natural aggregates are preferred due to the increased flowability 
+of concrete containing these aggregates.  If crushed aggregates are used, the 
+fine aggregate and cementitious materials contents may have to be increased 
+to achieve satisfactory flowability.  If crushed aggregate is used, increase 
+the specified minimum cement content to<MET> 335 kg per cubic meter</MET><ENG> 564 pounds per 
+cubic yard</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit <SUB>concrete mixture proportions</SUB> as determined by the Contractor for review.  State concrete mixture quantities 
+of all ingredients per cubic<MET> meter</MET><ENG> yard</ENG> and nominal maximum coarse aggregate size that will be used in the manufacture 
+of each quality of concrete.  Proportions shall indicate the mass of cement, pozzolan, ground granulated blast-furnace 
+slag (GGBFS) when used, and water; the mass of aggregates in a saturated surface-dry condition; and the quantities 
+of admixtures.  The submission shall be accompanied by test reports from a laboratory complying with <RID>ASTM C1077</RID>
+ which show that proportions thus selected will produce concrete of the qualities indicated.  No substitution 
+shall be made in the source or type of materials used in the work without additional tests to show that the quality 
+of the new materials and concrete are satisfactory.  Concrete Mixture Proportioning shall conform to the following:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Maximum Water-Cement Ratio</TTL><BRK/>
+<BRK/>
+<TXT>The maximum water-cement ratio by weight of equivalent portland cement shall be 0.50, unless otherwise approved 
+in writing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Cement Content</TTL><BRK/>
+<BRK/>
+<TXT>The cement content of the concrete shall be within the range from a minimum of<MET> [279 kg]</MET><ENG> [470 pounds]</ENG> [_____] 
+to a maximum of<MET> 446 kg/cubic meter</MET><ENG> 752 pounds/cubic yard</ENG>.  When a pozzolan is used, the total absolute volume 
+of cementitious material shall be within the same range in absolute volume as previously specified.  Of the total 
+absolute volume of cementitious materials, between 20 and 30 percent may be pozzolan that meets the requirements 
+of paragraph POZZOLAN, OTHER THAN SILICA FUME in PART 2.  [If GGBFS is used, it shall not exceed 25 percent by 
+absolute volume, and percentage shall be as approved before mixture proportioning studies commence.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nominal Maximum-Size Coarse Aggregate</TTL><BRK/>
+<BRK/>
+<TXT>The nominal maximum-size coarse aggregate is [<MET>19.0 mm</MET><ENG> 3/4 inch</ENG>] [<MET>25.0 mm</MET><ENG> 1 inch</ENG>].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fine Aggregate</TTL><BRK/>
+<BRK/>
+<TXT>Fine aggregate comprises approximately 40 to 50 percent, by volume, of the total aggregate.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Content</TTL><BRK/>
+<BRK/>
+<TXT>Air Content as determined by <RID>ASTM C231/C231M</RID> to be 6.0 ± 1.5 percent.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Slump</TTL><BRK/>
+<BRK/>
+<TXT>Determined by <RID>ASTM C143/C143M</RID> between<MET> 150 and 225 mm</MET><ENG> 6 and 9 inches</ENG>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Responsibility of Mixture Proportioning</TTL><BRK/>
+<BRK/>
+<TXT>Proportioning of concrete for use in construction of the cutoff wall shall be the responsibility of the Contractor 
+and performed by a laboratory complying with <RID>ASTM C1077</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Proportioning</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  There is no requirement for fc'.  The results of trial mixture should 
+be basis for QC.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Trial batches and testing requirements for concrete shall be the responsibility of the Contractor.  Samples of 
+approved aggregates shall be obtained in accordance with the requirements of <RID>ASTM D75/D75M</RID>.  Samples of materials 
+other than aggregate shall be representative of those proposed for the project and shall be accompanied by manufacturer's 
+test reports indicating compliance with applicable specified requirements.  Trial mixtures having proportions, 
+slumps, and air content suitable for the work shall be made based on <RID>ACI 211.1</RID>.  The maximum water-cement ratio 
+required in the paragraph MAXIMUM WATER-CEMENT RATIO above will be converted to a weight ratio of water to cement 
+plus pozzolan or GGBFS by mass equivalency as described in <RID>ACI 211.1</RID>.  In the case where GGBFS is used, the mass 
+of the slag shall be included in the equation for the term P, which is used to denote the mass of pozzolan.  
+Trial mixtures shall be proportioned for specified slump and air content.  The temperature of concrete in each 
+trial batch shall be reported.  If a chemical admixture is used, slump loss versus time in each trial batch shall 
+be reported.  For each trial mixture, at least three test cylinders for each test age shall be made and cured 
+in accordance with <RID>ASTM C192/C192M</RID>.  They shall be tested at 7 and 28 days in accordance with <RID>ASTM C39/C39M</RID>, 
+or if a pozzolan is used, they shall be tested at 7, 28, and 90 days.  Results of these compressive strength 
+tests shall be submitted but will be used only for quality control purposes.  All results of mixture proportioning 
+studies shall be submitted at least 10 days prior to commencing concrete placement.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>MATERIALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete the requirements for Certificates for air entrainment admixtures, 
+other chemical admixtures, curing compounds, portland cement, and pozzolan if 
+the optional parts of paragraph CEMENTITIOUS MATERIALS below, is used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit certificate of compliance with all specification requirements for the following:  <SUB>Air-Entraining Admixture</SUB>
+, <SUB>Accelerators</SUB>, and <SUB>other Chemical Admixtures</SUB>.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Cementitious Materials</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  See the appropriate DM to select the proper requirements for the Cementitious 
+Materials Options.  Other cementitious materials may be added if specifically 
+recommended and approved in the concrete materials DM.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Cementitious Materials are portland cement or portland cement in combination with pozzolan or GGBFS [or [_____]] 
+conforming to appropriate specifications listed below.  Do not use cementitious materials until notice of acceptance 
+has been given by the Contracting Officer.  Cementitious materials will be subject to check testing from samples 
+obtained at the source, at transfer points, or at the project site, as scheduled by the Contracting Officer, 
+and such sampling will be by or under the supervision of the Government at its expense.  Material not meeting 
+specifications shall be promptly removed from the site of work.  Submit the manufacturer's certification of compliance, 
+accompanied by mill test reports that materials meet the requirements of the specification under which they are 
+furnished, for cementitious materials, including Cement and Pozzolan, [and GGBFS].  Certification and mill test 
+reports must be from samples taken from the particular lot furnished.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Portland Cement</TTL><BRK/>
+<BRK/>
+<TXT><RID>ASTM C150/C150M</RID>, Type I or II, except that the maximum amount of C3A in Type I cement shall be 15 percent [including 
+the heat of hydration at 7 days] [including false set requirements] [low alkali when used with aggregates listed 
+at the end of this section which require it].  [In lieu of low-alkali cement, the Contractor may use a combination 
+of portland cement that does not meet the low-alkali requirement with a pozzolan or GGBFS provided the following 
+requirement is met.  The expansion of the proposed combination when tested in accordance with <RID>ASTM C441/C441M</RID>
+ shall be equal to or less than the expansion of a low-alkali cement meeting the requirements of <RID>ASTM C150/C150M</RID>
+ when tested in general conformance with <RID>ASTM C441/C441M</RID>.  The expansion tests shall be run concurrently at an 
+independent laboratory that is nationally recognized to perform such tests.  The Government reserves the right 
+to confirm the test results and to adjust the percentage of pozzolan or slag in the combination to suit other 
+requirements.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pozzolan, Other than Silica Fume</TTL><BRK/>
+<BRK/>
+<TXT>Pozzolan shall conform to <RID>ASTM C618</RID>, Class [C], [F], with the optional requirements for multiple factor, drying 
+shrinkage, and uniformity [and [moderate] [severe] sulfate resistance requirements] of Table 2A.  Table 1A requirement 
+for maximum alkalis shall apply when used with aggregates listed at the end of this section to require low-alkali 
+cement.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Ground Granulated Blast-Furnace (GGBF) Slag</TTL><BRK/>
+<BRK/>
+<TXT>Ground Granulated Blast-Furnace Slag shall conform to <RID>ASTM C989/C989M</RID>, Grade 100 or Grade 120.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Aggregates</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This note may be disregarded for regions where Alkali-Silica Reactivity 
+(ASR) is not a concern. Some aggregate sources may exhibit an ASR potential.  
+ASR is a potentially deleterious reaction between alkalis present in concrete 
+and some siliceous aggregates, reference EM 1110-2-2000 paragraph 2-3b(6) and 
+appendix D.  Where ASR is known or suspected to pose a concern for concrete 
+durability, it is recommended that aggregates proposed for use in concrete be 
+evaluated to determine ASR potential and an effective mitigation.  EM 1110-2-2000, 
+provides recommendations for evaluating and mitigating ASR in concrete mixtures.  
+Aggregate evaluations may not be practical for projects requiring small quantities 
+of concrete (less than<MET> 200 cubic meters</MET><ENG> 250 cubic yards</ENG>).<BRK/>
+<BRK/>
+Section <SRF>32 13 14.13</SRF> CONCRETE PAVING FOR AIRFIELDS AND OTHER HEAVY DUTY PAVEMENTS, 
+paragraph 2.3.1.2 Alkali-Silica Reactivity, provides a specification method 
+for the Contractor to evaluate and mitigate ASR in concrete mixtures.  The expansion 
+limits specified in Section <SRF>32 13 14.13</SRF> are requirements for pavements and exterior 
+slab construction.  For structural concrete applications the measured expansion 
+shall be less than 0.10 percent.  It may not be economical or practical to specify 
+different test limit requirements for use on the same project.  In which case 
+the lower limit required by the application should be used.<BRK/>
+<BRK/>
+The designer may use the specification method in Section <SRF>32 13 14.13</SRF> by incorporating 
+the relevant paragraphs into this specification, or may use the following requirements 
+(retain either the 0.10 or the 0.08 percent expansion limits as appropriate) 
+included in the paragraph below.  Delete the following paragraph if not required 
+in the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Alkali-Silica Reactivity:  Fine and coarse aggregates proposed for use in concrete shall be tested and evaluated 
+for alkali-aggregate reactivity in accordance with <RID>ASTM C1260</RID>.  The fine and coarse aggregates shall be evaluated 
+separately and in combination, which matches the Contractor's proposed mix design proportioning.  All results 
+of the separate and combination testing shall have a measured expansion less than 0.10 (0.08) percent at 16 days 
+after casting.  Should the test data indicate an expansion of 0.10 (0.08) percent or greater, the aggregate(s) 
+shall be rejected or additional testing using <RID>ASTM C1260</RID> and <RID>ASTM C1567</RID> shall be performed.  The additional testing 
+using <RID>ASTM C1260</RID> and <RID>ASTM C1567</RID> shall be performed using the low alkali portland cement in combination with ground 
+granulated blast furnace (GGBF) slag, or Class F fly ash.  GGBF slag shall be used in the range of 40 to 50 percent 
+of the total cementitious material by mass.  Class F fly ash shall be used in the range of 25 to 40 percent of 
+the total cementitious material by mass.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Listed Sources</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The list of sources and required tests and test limits will be taken 
+from the concrete materials DM.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Concrete aggregates may be furnished from any source capable of meeting the quality requirements as stated in 
+paragraph QUALITY below.  The sources listed at the end of this section were evaluated during the design phase 
+of the project in [_____] and at that time were capable of meeting the quality requirements when suitably processed.  
+No guarantee is given or implied that any of the listed sources are currently capable of producing aggregates 
+that meet the required quality stated in paragraph QUALITY below.  A DM containing the results of the Government's 
+investigation and test results is available for review in the [_____] District Office.  Contact [_____] at [_____] 
+to arrange for review of the memorandum.  The test results and conclusions shall be considered valid only for 
+the sample tested and shall not be taken as an indication of the quality of all material from a source nor for 
+the amount of processing required.  Fine and coarse aggregates shall conform to the grading requirements of <RID>ASTM C33/C33M</RID>
+.  The nominal maximum size shall be as listed in subparagraph NOMINAL MAXIMUM-SIZE COARSE AGGREGATE of 1.3, 
+'c'.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Aggregate Sources</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If an aggregate source is provided by the Government, the appropriate 
+paragraphs from Section <SRF>03 70 00</SRF> should be used.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>List of Sources</TTL><BRK/>
+<BRK/>
+<TXT>The <ATT>concrete aggregates sources</ATT> may be selected from sources listed at the end of this section.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Selection of Source</TTL><BRK/>
+<BRK/>
+<TXT>After the award of the contract, designate in writing only one source or combination of sources from which he 
+proposes to furnish aggregates.  If the Contractor proposes to furnish aggregates from a source or from sources 
+not listed at the end of this section, then designate only a single source or single combination of sources for 
+aggregates.  Regardless of the source, selected samples for acceptance testing shall be provided as required 
+by paragraph GOVERNMENT TESTING AND SAMPLING in PART 1.  If a source for coarse or fine aggregates so designated 
+by the Contractor does not meet the quality requirements stated in the paragraph below, the Contractor may not 
+submit for approval other nonlisted sources but shall furnish the coarse or fine aggregate, as the case may be, 
+from sources listed at the end of this section at no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Quality</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTES:  The tests selected should be those which are applicable to the concrete 
+to be used in the project.  These tests may include those listed below in addition 
+to others not listed.  See EM 1110-2-2000 for schedule of tests.</NPR><BRK/>
+<BRK/>
+<NPR>Depending upon the quality of aggregates available, some tests may not be required.  
+Refer to EM 1110-2-2000 for the purpose of each test.</NPR><BRK/>
+<BRK/>
+<NPR>A list of properties and test values are unique to each project and should be 
+taken from the concrete materials DM.  Delete the quality tests not required 
+in the DM.</NPR><BRK/>
+<BRK/>
+<NPR>The petrographic examination shall be used to identify deleterious substances 
+in aggregates.  Deleterious substances shall be listed individually with respective 
+limits.</NPR><BRK/>
+<BRK/>
+<NPR>In selecting deleterious substances, it should be borne in mind that cutoff 
+walls  are to be treated as structures not exposed to weather.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Aggregates delivered to the mixer shall meet the following requirements: </TXT><BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="11">
+      <COL AUTOWIDTH="0" WIDTH="135.75"/>
+      <COL AUTOWIDTH="0" WIDTH="105.00"/>
+      <COL AUTOWIDTH="0" WIDTH="105.00"/>
+      <COL AUTOWIDTH="0" WIDTH="111.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="3" STYLEID="s50">
+<DTA TYPE="STRING">TEST LIMITS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">FINE AGGREGATE</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">COARSE AGGREGATE</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">TESTS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Specific Gravity</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C127</RID><BRK/><RID>ASTM C128</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Absorption</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C127</RID><BRK/><RID>ASTM C128</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Clay Lumps and Friable Particles</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C142/C142M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL>
+<DTA TYPE="STRING">Material Finer than<MET> 75-µm </MET><ENG> No. 200</ENG> Sieve</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C117</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Organic Impurities</DTA>
+         </CEL>
+         <CEL MERGEACROSS="1">
+<DTA TYPE="STRING">Not darker than No. 3<BRK/>Not less than 95 percent<BRK/></DTA>
+         </CEL>
+         <CEL INDEX="4">
+<DTA TYPE="STRING"><RID>ASTM C40/C40M</RID><BRK/><RID>ASTM C87/C87M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">L.A. Abrasion</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C131/C131M</RID><BRK/><RID>ASTM C535</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Soft Particles</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[<RID>COE CRD-C 130</RID>]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL>
+<DTA TYPE="STRING">Petrographic Examination</DTA>
+         </CEL>
+         <CEL MERGEACROSS="1">
+<DTA TYPE="STRING">Listed unwanted deleterious<BRK/>materials and their limits</DTA>
+         </CEL>
+         <CEL INDEX="4">
+<DTA TYPE="STRING"><RID>ASTM C295/C295M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">Coal and Lignite, less than 2.00 specific gravity</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C123/C123M</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Fine Aggregate Grading and Moisture Content</TTL><BRK/>
+<BRK/>
+<TXT>The fine aggregate or each fine aggregate shall have its sieve analysis and fineness modulus determined in accordance 
+with <RID>ASTM C136/C136M</RID> and <RID>COE CRD-C 104</RID>, respectively.  The moisture content shall be determined with an electric 
+moisture meter that shall be in accordance with <RID>COE CRD-C 143</RID>.  When in the Contracting Officer's opinion the 
+electric moisture meter is not operating satisfactorily, the moisture content shall be determined in accordance 
+with either <RID>ASTM C70</RID>, <RID>ASTM C566</RID>, or <RID>COE CRD-C 112</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Coarse Aggregate Grading and Moisture Content</TTL><BRK/>
+<BRK/>
+<TXT>Each size group of coarse aggregate shall have its sieve analysis determined in accordance with <RID>ASTM C136/C136M</RID>
+.  The moisture content of each size group of the coarse aggregate shall be made in accordance with <RID>ASTM C566</RID>
+ or <RID>COE CRD-C 112</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Chemical Admixtures</TTL><BRK/>
+<BRK/>
+<TXT><SUB>Admixtures</SUB> shall comply with the following.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Air-Entraining Admixture</TTL><BRK/>
+<BRK/>
+<TXT>The air-entraining admixture shall conform to <RID>ASTM C260/C260M</RID> and shall consistently cause the concrete to have 
+an air content in the specified ranges under field conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Accelerating Admixture</TTL><BRK/>
+<BRK/>
+<TXT>Accelerators shall meet the requirements of <RID>ASTM C494/C494M</RID>, Type C or E, except that calcium chloride or admixtures 
+containing calcium chloride shall not be used.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Flowing Concrete Admixtures</TTL><BRK/>
+<BRK/>
+<TXT>Other chemical admixtures for use in producing flowing concrete shall comply with <RID>ASTM C1017/C1017M</RID>, Type I or 
+II.  These admixtures shall be used only if the proposed admixture shows no deleterious effects when used with 
+all other project materials during mixture proportioning studies.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Water</TTL><BRK/>
+<BRK/>
+<TXT>Water for mixing and curing shall be fresh, clean, potable, and free of injurious amounts of oil, acid, salt, 
+or alkali, except that nonpotable water may be used if it meets the requirements of <RID>COE CRD-C 400</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>PLANT AND EQUIPMENT</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit data on all placing equipment and methods for review by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Capacity</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Experience has shown that to reduce problems associated with placement 
+rates, the minimum capacity should be<MET> 77 cubic meters per hour</MET><ENG> 100 cubic yards 
+per hour</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The batching and mixing equipment shall have a capacity of at least [_____] cubic<MET> meters</MET><ENG> yards</ENG> per hour.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Batch Plant</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Batching Plant shall conform to the requirements of <RID>NRMCA CPMB 100</RID> and as specified; however, rating plates attached 
+to batch plant equipment are not required.  Submit batch plant data to the Contracting Officer for review for 
+conformance with applicable specifications.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Batching Equipment</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Refer to the appropriate DM to choose the appropriate alternates.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The batching controls shall be [partially automatic], [semiautomatic], [or] [automatic].  [The semiautomatic 
+batching system shall be provided with interlocks such that the discharge device cannot be actuated until the 
+indicated material is within the applicable tolerance.]  The batching system shall be equipped with an accurate 
+recorder or recorders that meet the requirements of <RID>NRMCA CPMB 100</RID>.  Separate bins or compartments shall be provided 
+for each size group of aggregate and cement, pozzolan, and GGBFS.  Aggregates shall be weighed either in separate 
+weigh batchers with individual scales or cumulatively in one weigh batcher on one scale.  Aggregate shall not 
+be weighed in the same batcher with cement, pozzolan, or GGBFS.  If both cement and pozzolan or GGBFS are used, 
+they may be batched cumulatively provided that the portland cement is batched first.  If measured by mass, the 
+mass of the water shall not be batched cumulatively with another ingredient.  Water batcher filling and discharging 
+valves shall be so interlocked that the discharge valve cannot be opened before the filling valve is fully closed.  
+An accurate mechanical device for measuring and dispensing each admixture shall be provided.  Each dispenser 
+shall be interlocked with the batching and discharging operation of the water so that each admixture is separately 
+batched and discharged automatically in a manner to obtain uniform distribution throughout the batch in the specified 
+mixing period.  Admixtures shall not be combined prior to introduction in water.  The plant shall be arranged 
+so as to facilitate the inspection of all operations at all times.  Suitable facilities shall be provided for 
+obtaining representative samples of aggregates from each bin or compartment.  All filling ports for cementitious 
+materials bins or silos shall be clearly marked with a permanent sign stating the contents.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Scales</TTL><BRK/>
+<BRK/>
+<TXT>The equipment for batching by mass shall conform to the applicable requirements of <RID>NIST HB 44</RID>, except that the 
+accuracy shall be plus or minus 0.2 percent of scale capacity.  Provide standard reference masses and any other 
+auxiliary equipment required for checking the operating performance of each scale or other measuring devices.  
+The tests shall be made at the frequency required in paragraph TESTS AND INSPECTIONS, in PART 3, and in the presence 
+of a Government inspector.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Batching Tolerances</TTL><BRK/>
+<BRK/>
+<TXT>Tolerances on determination of mass:</TXT><BRK/>
+<TXT><TAB WIDTH="86">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="232.50"/>
+      <COL AUTOWIDTH="0" WIDTH="258.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="17.25">
+         <CEL>
+<DTA TYPE="STRING">MATERIAL</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">PERCENT OF REQUIRED MASS</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="17.25">
+         <CEL>
+<DTA TYPE="STRING">Cementitious materials</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">-0 to +2</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="17.25">
+         <CEL>
+<DTA TYPE="STRING">Aggregate</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">± 2</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="17.25">
+         <CEL>
+<DTA TYPE="STRING">Water</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">± 1</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="26.25">
+         <CEL>
+<DTA TYPE="STRING">Chemical admixture</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">-0 to +6</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<TXT>For volumetric batching equipment, the following tolerances shall apply to the required volume of material being 
+batched:</TXT><BRK/>
+<TXT><TAB WIDTH="83" HEADERROWS="0">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="159.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="219.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="15.75">
+         <CEL>
+<DTA TYPE="STRING">Water</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Plus or minus 1 percent</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Chemical admixtures</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Zero to plus 6 percent</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Control</TTL><BRK/>
+<BRK/>
+<TXT>The plant shall be capable of ready adjustment to compensate for the varying moisture content of the aggregates 
+and to change the masses of the materials being batched.  [An electric moisture meter complying with the provisions 
+of <RID>COE CRD-C 143</RID> shall be provided for measuring moisture in the fine aggregate.  The sensing element shall be 
+arranged so that the measurement is made near the batcher charging gate of the sand bin or in the sand batcher.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Concrete Mixers</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The concrete mixers shall not be charged in excess of the capacity recommended by the manufacturer.  The mixers 
+shall be operated at the drum or mixing blade speed designated by the manufacturer.  The mixers shall be maintained 
+in satisfactory operating condition, and the mixer drums shall be kept free of hardened concrete.  Should any 
+mixer at any time produce unsatisfactory results, its use shall be promptly discontinued until it is repaired.  
+Submit concrete mixer data including the make, type, and <SUB>capacity</SUB> of concrete mixers proposed for mixing concrete 
+in conformance with specified requirements.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Stationary Mixers</TTL><BRK/>
+<BRK/>
+<TXT>Concrete plant mixers shall be tilting, nontilting, horizontal-shaft, vertical-shaft, or pugmill and shall be 
+provided with an acceptable device to lock the discharge mechanism until the required mixing time has elapsed.  
+The mixing time and uniformity shall conform to all the requirements in <RID>ASTM C94/C94M</RID> applicable to central-mixed 
+concrete.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Truck Mixers</TTL><BRK/>
+<BRK/>
+<TXT>Truck mixers, the mixing of concrete, and concrete uniformity shall conform to the requirements of <RID>ASTM C94/C94M</RID>
+.  A truck mixer may be used for complete mixing or to finish the partial mixing begun in a stationary mixer.  
+Each truck shall be equipped with two counters from which it will be possible to determine the number of revolutions 
+at mixing speed and the number of revolutions at agitating speed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Conveying Equipment</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Experience has shown that to reduce problems associated with placement 
+rates, the minimum conveying capacity should be<MET> 75 cubic meters per hour</MET><ENG> 100 
+cubic yards per hour</ENG>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The conveying equipment shall have a capacity of at least [_____] cubic<MET> meters</MET><ENG> yards</ENG> per hour.  Concrete shall 
+be conveyed from mixer to trench as rapidly as practicable and within the time interval specified in paragraph 
+PLACING, in PART 3, by methods that will prevent segregation or loss of ingredients.  Any concrete transferred 
+from one conveying device to another shall be passed through a hopper that is conical in shape and shall not 
+be dropped vertically more than<MET> 1.5 m</MET><ENG> 5 feet</ENG>, except where suitable equipment is provided to prevent segregation 
+and where specifically authorized.  Submit data on the conveying equipment and methods for transporting, handling, 
+and depositing the concrete.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Buckets</TTL><BRK/>
+<BRK/>
+<TXT>The interior hopper slope shall be not less than 58 degrees from the horizontal; the minimum dimension of the 
+clear gate opening shall be at least five times the nominal maximum-size aggregate; and the area of the gate 
+opening shall not less than<MET> 0.2 square meters</MET><ENG> 2 square feet</ENG>.  The maximum dimension of the gate opening shall 
+not be greater than twice the minimum dimension.  The bucket gates shall be essentially grout tight when closed 
+and may be manually, pneumatically, or hydraulically operated except that buckets larger than<MET> 1.5 cubic meters</MET><ENG>
+ 2 cubic yards</ENG> shall not be manually operated.  The design of the bucket shall provide means for positive regulation 
+of the amount and rate of deposit of concrete in each dumping position.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Trucks</TTL><BRK/>
+<BRK/>
+<TXT>Truck mixers operating at agitating speed or truck agitators used for transporting plant-mixed concrete shall 
+conform to the requirements of <RID>ASTM C94/C94M</RID>.  Nonagitating equipment shall not be used for transporting concrete.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Chutes</TTL><BRK/>
+<BRK/>
+<TXT>When concrete can be placed directly from a truck mixer or agitator, the chutes attached to this equipment by 
+the manufacturer may be used.  A discharge deflector shall be used when required by the Contracting Officer.  
+Separate chutes and other similar equipment will not be permitted for conveying concrete.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Pumps</TTL><BRK/>
+<BRK/>
+<TXT>Concrete may be conveyed by positive displacement pump when approved.  The pumping equipment shall be piston 
+or squeeze pressure.  The pipeline shall be rigid steel pipe or heavy-duty flexible hose.  The inside diameter 
+of the pipe shall be at least three times the nominal maximum-size coarse aggregate in the concrete mixture to 
+be pumped, but not less than<MET> 100 mm</MET><ENG> 4 inches</ENG>.  Aluminum pipe shall not be used.  The nominal maximum-size coarse 
+aggregate shall not be reduced to accommodate the pumps.  The distance to be pumped shall not exceed limits recommended 
+by the pump manufacturer.  The concrete shall be supplied to the concrete pump continuously.  When pumping is 
+completed, concrete remaining in the pipeline shall be ejected without contamination of concrete in place.  After 
+each operation, equipment shall be thoroughly cleaned, and flushing water shall be wasted outside of the forms.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT></PRT><PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PLACING</TTL><BRK/>
+<BRK/>
+<TXT>Concrete placement will not be permitted when, in the opinion of the Contracting Officer, weather conditions 
+prevent proper placement.  Concrete shall be deposited in the tremie hopper and in so depositing there shall 
+be no vertical drop greater than<MET> 1.5 m</MET><ENG> 5 feet</ENG> except where suitable equipment is provided to prevent segregation 
+and where specifically authorized.  Sufficient placing capacity shall be provided so that concrete placement 
+can be kept plastic and free of horizontal cold joints while concrete is being placed.  Prior to placement, submit 
+the method and equipment proposed for <SUB>vertical construction joints</SUB> cleanup and waste disposal, for review and 
+approval by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Time Interval Between Mixing and Placing</TTL><BRK/>
+<BRK/>
+<TXT>Place concrete within 30 minutes after mixing or agitating ceases.  When concrete is truck mixed or when a truck 
+mixer or agitator is used for transporting concrete mixed by a concrete plant mixer, the concrete shall be delivered 
+to the site of the work, and discharge shall be completed within 45 minutes after introduction of the cement 
+to the aggregates.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Placing Temperature</TTL><BRK/>
+<BRK/>
+<TXT>Concrete, when deposited in the slurry, shall have a temperature of not less than<MET> 5 degrees C</MET><ENG> 40 degrees F</ENG>.  
+Heating of the mixing water or aggregates shall not be permitted until the temperature of the concrete has decreased 
+to<MET> 7 degrees C</MET><ENG> 45 degrees F</ENG>.  The materials shall be free from ice, snow, and frozen lumps before entering the 
+mixer.  All placing equipment and methods shall be subject to [approval] [review].  When heating is necessary 
+to keep the concrete temperature above<MET> 5 degrees C</MET><ENG> 40 degrees F</ENG>, it shall be regulated so that the concrete temperature 
+does not exceed<MET> 15 degrees C</MET><ENG> 60 degrees F</ENG>.  The concrete, when deposited in the slurry, shall not exceed<MET> 32 degrees 
+C</MET><ENG> 90 degrees F</ENG>.  Cooling of the mixing water and/or aggregates may be required to obtain an adequate placing 
+temperature.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Deposited in Cutoff Trench</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The hopper on top of the tremie pipe shall be of a size capable of receiving 
+and passing concrete into the tremie pipe at the capacity rate of the batching, 
+mixing, and conveying equipment.</NPR><BRK/>
+<BRK/>
+<NPR>Depending upon the quality of aggregates available, some tests may not be required.  
+Refer to EM 1110-2-2000 for the purpose of each test.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Concrete placed for the cutoff wall shall be deposited in a bentonite slurry-filled trench by a tremie or by 
+a valved tremie.  The methods and equipment used shall be subject to approval.  Concrete buckets will not be 
+permitted for placement of concrete in the slurry trench, although they may be used to transport concrete to 
+the tremie hoppers.  The tremie shall be watertight and sufficiently large to permit a free flow of concrete, 
+but it shall not be less than<MET> 250 mm</MET><ENG> 10 inches</ENG> in diameter.  A funnel-shaped hopper of at least [_____] cubic<MET>
+ meters</MET><ENG> yards</ENG> in volume shall be required at the top of the tremie.  Neither the tremie pipe nor the hopper shall 
+be constructed of aluminum.  Hoisting equipment for raising and lowering the tremie pipe as the concrete is placed 
+and tools for connecting the tremie pipe sections shall be continuously available and on hand.  In lieu of use 
+of a tremie, concrete may be placed using a positive displacement pump and pump line provided the entire operation 
+is approved in writing after a demonstration of its use.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Placement</TTL><BRK/>
+<BRK/>
+<TXT>Tremie pipe sections shall be suitably secured together and a gasket used at each joint to prevent leakage.  
+A retrievable traveling plug (go-devil) or a dry pipe with a plate and gasket wired to the bottom to prevent 
+contact of the concrete and the slurry in the tremie shall be required to start each placement.  The tremie assembly 
+shall be lowered to rest within<MET> 150 mm</MET><ENG> 6 inches</ENG> of the bottom of the trench prior to beginning placement.  During 
+placement of the concrete, any unnecessary movement of the pipe shall be avoided.  The bottom of the tremie pipe 
+shall remain submerged in fresh concrete at all times to a depth that will produce the flat test surface slope 
+that can practically be achieved.  This depth shall not be less than<MET> 3 m</MET><ENG> 10 feet</ENG> nor more than<MET> 9 m</MET><ENG> 30 feet</ENG> except 
+when beginning placement at the bottom of a panel.  Batches of concrete shall be supplied to the tremie pipe 
+at a uniform rate for a continuous flow.  The tremie pipe shall be lifted during placement at a rate that will 
+maintain the bottom of the pipe embedded in fresh concrete to a level that will produce the desired surface slope 
+and rate of flow within the limits specified above.  It may be necessary to reduce the amount of embedment as 
+the differential head decreases between the concrete in the tremie pipe and the concrete in the panel.  The repeated 
+raising and lowering of the tremie pipe in the fresh concrete to facilitate placement shall be minimized.  Placement 
+shall proceed without interruption until the concrete has been brought to the required height.  Continuously 
+measure and record the flow and slopes during placement with the use of a sounding line.  The tremie shall not 
+be moved horizontally during a placing operation, except that as the required height is reached, the tremie pipes 
+may be moved to the corners and low areas between the tremie pipes to bring the lift to final elevation.  A sufficient 
+number of tremies shall be provided so that the concrete does not flow horizontally a distance of more than<MET> 2.1 
+m</MET><ENG> 7 feet</ENG> from a tremie; i.e., tremies shall be placed a maximum of<MET> 4.2 m</MET><ENG> 14 feet</ENG> on centers.  Where more than 
+one tremie pipe is used in the same placement simultaneously, the concrete level at each pipe position shall 
+be maintained nearly level with respect to the other.  Special care shall be taken to ensure that the bottom 
+of the tremie pipe is not lifted out of the fresh concrete.  If this occurs, remove the tremie pipe, insert a 
+dry pipe with a temporary bottom plug, and restart the placement.  Also, as soon as practical, drill a NX-size 
+core boring through the center of the cutoff wall to a depth of at least<MET> 3 m</MET><ENG> 10 feet</ENG> below the depth where the 
+bottom of the tremie pipe was lifted out of the fresh concrete.  Unacceptable zones of concrete such as honeycombed, 
+segregated, or uncemented zones found within the core boring shall immediately be repaired or removed and replaced 
+by an appropriate means.  All cost incurred because of this failure, including the initial core boring and as 
+many additional core borings as may be required to delineate the limits of the unacceptable concrete and the 
+repair of the cutoff wall, shall be borne by the Contractor and shall not result in any additional cost to the 
+Government.  Submit a plan for repairing or removing and replacing the unacceptable concrete.  Placement delays 
+shall not be permitted for periods of time longer than 30 minutes.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Required Height of Concrete</TTL><BRK/>
+<BRK/>
+<TXT>Concrete that is free of laitance, scum, slurry, or other contaminants shall be placed at the top of the wall.  
+All scum, laitance, and contaminated concrete shall be removed from the top of the concrete as the placement 
+is nearing completion and shall be disposed of in the spoil areas.  The top surface shall be finished to grade 
+by screeding spoil areas.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>CURING AND PROTECTION</SUB></TTL><BRK/>
+<BRK/>
+<TXT>The exposed concrete shall be moist cured for 14 days.  Immediately after placement, concrete shall be protected 
+from premature drying, extremes in temperatures, rapid temperature change, and mechanical damage.  All materials 
+and equipment needed for adequate curing and protection shall be available and at the placement site prior to 
+the start of concrete placement.  Concrete shall be protected from the damaging effects of rain for 12 hours 
+and from flowing water for 14 days.  No fire or excessive heat including welding shall be permitted near or in 
+direct contact with concrete or concrete embedments at any time.  Submit the curing medium and methods to be 
+used for review and approval.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>TESTS AND INSPECTIONS</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Submit statements asserting that the concrete testing technicians and the concrete inspectors meet the specified 
+requirements; also test results and inspection reports daily and weekly as required.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>General</TTL><BRK/>
+<BRK/>
+<TXT>Perform the inspection and tests described in the following paragraphs and, based upon the results of these inspections 
+and tests, take the action required and submit reports as required.  When, in the opinion of the Contracting 
+Officer, the concreting operation is out of control, concrete placement shall cease.  The laboratory performing 
+the tests shall be onsite and shall conform with <RID>ASTM C1077</RID>.  The individuals who sample and test concrete or 
+the constituents of concrete as required in this specification shall have demonstrated a knowledge and ability 
+to perform the necessary test procedures equivalent to the ACI minimum guidelines for certification of Concrete 
+Field Testing Technicians, Grade I.  The individuals who perform the inspection of concrete construction shall 
+have demonstrated a knowledge and ability equivalent to the ACI minimum guidelines for certification of Concrete 
+Construction Inspector, Level II.  The Government will inspect the laboratory, equipment, and test procedures 
+prior to start of concreting operations and at least once per year thereafter for conformance with <RID>ASTM C1077</RID>
+.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Testing and Inspection Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Submit documentation asserting that the concrete testing technicians and the concrete inspectors meet the specified 
+requirements.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Fine Aggregate</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Grading</TTL><BRK/>
+<BRK/>
+<TXT>At least once during each shift when the concrete plant is operating, perform one sieve analysis and fineness 
+modulus determination in accordance with <RID>ASTM C136/C136M</RID> and <RID>COE CRD-C 104</RID> for the fine aggregate or for each 
+size range of fine aggregate if it is batched in more than one size or classification.  The location at which 
+samples are taken may be selected by the Contractor as the most advantageous for control.  However, the Contractor 
+is responsible for delivering fine aggregate to the mixer within specification limits.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL> Corrective Action for Fine Aggregate Grading</TTL><BRK/>
+<BRK/>
+<TXT>When the amount passing on any sieve is outside the specification limits, the fine aggregate shall be immediately 
+resampled and retested.  If there is another failure on any sieve, the fact shall immediately be reported to 
+the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Content Testing</TTL><BRK/>
+<BRK/>
+<TXT>When, in the opinion of the Contracting Officer, the electric moisture meter is not operating satisfactorily, 
+there shall be at least four tests for moisture content in accordance with <RID>ASTM C566</RID> during each 8-hour period 
+of mixing plant operation.  The times for the tests shall be selected randomly within the 8-hour period.  An 
+additional test shall be made whenever the slump is out of control or excessive variation in workability is reported 
+by the placing foreman.  When the electric moisture meter is operating satisfactorily, at least two direct measurements 
+of moisture content shall be made per week to check the calibration of the meter.  The results of tests for moisture 
+content shall be used to adjust the added water in the control of the batch plant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moisture Content Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>Whenever the moisture content of the fine aggregate changes by 0.5 percent or more, the scale settings for the 
+fine-aggregate batcher and water batcher shall be adjusted (directly or by means of a moisture compensation device) 
+if necessary to maintain the specified slump.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Coarse Aggregate</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Grading</TTL><BRK/>
+<BRK/>
+<TXT>At least once during each shift in which the concrete plant is operating, there shall be a sieve analysis in 
+accordance with <RID>ASTM C136/C136M</RID> for each size of coarse aggregate.  The location at which samples are taken may 
+be selected by the Contractor as the most advantageous for production control.  A test record of samples of aggregate 
+taken at the same locations shall show the results of the current test as well as the average results of the 
+five most recent tests including the current test.  The Contractor may adopt limits for control which are coarser 
+than the specification limits for samples taken at locations other than as delivered to the mixer to allow for 
+degradation during handling.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Corrective Action for Grading</TTL><BRK/>
+<BRK/>
+<TXT>When the amount passing any sieve is outside the specification limits, the coarse aggregate shall be immediately 
+resampled and retested.  If the second sample fails on any sieve, that fact shall be reported to the Contracting 
+Officer.  Where two consecutive averages of five tests are outside specification limits, the operation shall 
+be considered out of control and shall be reported to the Contracting Officer.  Concreting shall be stopped and 
+immediate steps shall be taken to correct the grading.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Coarse Aggregate Moisture Content</TTL><BRK/>
+<BRK/>
+<TXT>A test for moisture content of each size group of coarse aggregate in accordance with <RID>ASTM C566</RID> or <RID>COE CRD-C 112</RID>
+ shall be made at least once during a shift.  When two consecutive readings for smallest-size coarse aggregate 
+differ by more than 1.0 percent, frequency of testing shall be increased to that specified above for fine aggregate, 
+until the difference falls below 1.0 percent.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Coarse Aggregate Moisture Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>Whenever the moisture content of any size of coarse aggregate changes by 0.5 percent or more, the scale setting 
+for the coarse aggregate batcher and the water batcher shall be adjusted if necessary to maintain the specified 
+slump.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Quality of Aggregates</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTES:  Tests should be those listed in paragraph QUALITY.  The petrographic 
+examination shall be used to identify deleterious substances in aggregates.  
+Deleterious substances shall be listed individually with respective limits.</NPR><BRK/>
+<BRK/>
+<NPR>Depending upon the quality of aggregates available, some tests may not be required.  
+Refer to EM 1110-2-2000 for the purpose of each test.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>  Submit aggregate quality tests results at least 30 days prior to start of concrete placement.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Frequency of Quality Tests</TTL><BRK/>
+<BRK/>
+<TXT>Thirty days prior to the start of concrete placement perform all tests for aggregate quality listed below.  In 
+addition, after the start of concrete placement, perform tests for aggregate quality in accordance with the frequency 
+schedule shown below.  Samples tested after the start of concrete placement shall be taken immediately prior 
+to entering the concrete mixer.</TXT><BRK/>
+<BRK/>
+<TXT><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="4" ROWCOUNT="11">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="162.00"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="96.00"/>
+      <COL AUTOWIDTH="0" WIDTH="96.00"/>
+      <COL AUTOWIDTH="0" WIDTH="102.75"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL MERGEACROSS="3" STYLEID="s51">
+<DTA TYPE="STRING">FREQUENCY</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="30.00">
+         <CEL>
+<DTA TYPE="STRING">PROPERTY</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">FINE AGGREGATE</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">COARSE AGGREGATE</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">TEST</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Specific Gravity</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C127</RID><BRK/><RID>ASTM C128</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Absorption</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C127</RID><BRK/><RID>ASTM C128</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Clay Lumps and Friable Particles</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C142/C142M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Material Finer than the <MET>75 µm </MET><ENG>No. 200 </ENG>Sieve</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C117</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="41.25">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Organic Impurities</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 3 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Not applicable</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C40</RID><BRK/><RID>ASTM C87/C87M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">L.A. Abrasion</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Not applicable</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C131/C131M</RID><BRK/><RID>ASTM C535</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Soft Particles</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Not applicable</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>COE CRD-C 130</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Petrographic Examination</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID>ASTM C295/C295M</RID></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="54.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Coal and Lignite, less than 2.00 specific gravity</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Every 6 months</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING"><RID> ASTM C123/C123M</RID> or <RID>ASTM C295/C295M</RID></DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Corrective Action for Aggregate Quality</TTL><BRK/>
+<BRK/>
+<TXT>If the result of a quality test fails to meet the requirements for quality immediately prior to start of concrete 
+placement, production procedures or materials shall be changed and additional tests shall be performed until 
+the material meets the quality requirements prior to proceeding with either mixture proportioning studies or 
+starting concrete placement.  After concrete placement commences, whenever the result of a test for quality fails 
+the requirements, the test shall be rerun immediately.  If the second test fails the quality requirement, the 
+fact shall be reported to the Contracting Officer, and immediate steps shall be taken to rectify the situation.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Deleterious Substances</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Testing</TTL><BRK/>
+<BRK/>
+<TXT>When, in the opinion of the Contracting Officer, a problem exists in connection with deleterious substances in 
+fine or coarse aggregates, tests shall be made in accordance with <RID>ASTM C33/C33M</RID> at a frequency as directed, but 
+not less than once per week.  Results of tests shall be reported in writing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Corrective Action for Deleterious Substances</TTL><BRK/>
+<BRK/>
+<TXT>When the results for a deleterious substance are out of the specification limit, the aggregate shall be resampled 
+and retested for the deleterious substance that failed.  If the second sample fails, that fact shall be reported 
+to the Contracting Officer.  When material finer than 75-µm (No. 200) sieve for coarse aggregate exceeds the 
+specification limit, immediate steps, such as washing or other corrective actions, shall be initiated.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Scales</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Accuracy</TTL><BRK/>
+<BRK/>
+<TXT>Checked by test weights prior to start of concrete operations and at least once every 3 months for conformance 
+with the applicable requirements of paragraph BATCHING EQUIPMENT.  Such tests shall also be made as directed 
+whenever there are variations in properties of the fresh concrete that could result from batching errors.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Batching and Recording Accuracy</TTL><BRK/>
+<BRK/>
+<TXT>Once a week the accuracy of each batching and recording device shall be checked during a weighing operation by 
+noting and recording the required weight, recorded weight, and the actual mass batched.  Confirm that the calibration 
+devices described in paragraph BATCH PLANT in PART 2 for checking the accuracy of dispensed admixtures are operating 
+properly.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Scales Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>When either the weighing accuracy or batching accuracy does not comply with specification requirements, the plant 
+shall not be operated until necessary adjustments or repairs have been made.  Discrepancies in recording accuracies 
+shall be corrected immediately.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Batch-Plant Control</TTL><BRK/>
+<BRK/>
+<TXT>The measurement of quantities of all constituent materials batched including cementitious materials, each size 
+of aggregate, water, and admixtures shall be continuously controlled.  The aggregate quantities and amount of 
+added water shall be adjusted as necessary to compensate for free moisture in the aggregates.  The amount of 
+air-entraining agent shall be adjusted to control air content within specified limits.  A report shall be prepared 
+indicating type and source of cement used, type and source of pozzolan or slag used, amount and source of admixtures 
+used, aggregate source, the required aggregate and water amounts per cubic<MET> meter</MET><ENG> yard</ENG>, amount of water as free 
+moisture in each size of aggregate, and the batch aggregate and water amounts per cubic<MET> meter</MET><ENG> yard</ENG> for each class 
+of concrete batched during plant operation.  Submit the report to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Mixture</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Air Content Testing</TTL><BRK/>
+<BRK/>
+<TXT>Air content tests shall be made when test specimens are fabricated.  In addition, at least two tests for air 
+content shall be made on randomly selected batches of each separate concrete mixture produced during each 8-hour 
+period of concrete production.  Additional tests shall be made when excessive variation in workability is reported 
+by the placing foreman or Government quality assurance representative.  Tests shall be made in accordance with <RID>
+ASTM C231/C231M</RID>.  Test results shall be plotted on control charts which shall at all times be readily available 
+to the Government.  Copies of the current control charts shall be kept in the field by the Contractor's quality 
+control representatives and results plotted as tests are made.  When a single test result reaches either the 
+upper or lower action limit, a second test shall immediately be made.  The results of the two tests shall be 
+averaged, and this average shall be used as the air content of the batch to plot on the control charts for air 
+content and range and to determine the need for any remedial action.  The result of each test, or average as 
+noted in the previous sentence, shall be plotted on a separate chart for each mixture on which an "average line" 
+is set at the midpoint of the specified air content range from subparagraph AIR CONTENT of 1.3 'e'.  An upper 
+warning limit and a lower warning limit line shall be set 1.0 percentage point above and below the average line.  
+An upper action limit and a lower action limit line shall be set 1.5 percentage points above and below the average 
+line, respectively.  The range between each two consecutive tests shall be plotted on a control chart for range 
+where an upper warning limit is set at 2.0 percentage points and an upper action limit is set at 3.0 percentage 
+points.  Samples for air content may be taken at the mixer; however, the Contractor is responsible for delivering 
+the concrete to the placement site at the stipulated air content.  If the Contractor's materials or transportation 
+methods cause air content loss between the mixer and the placement, correlation samples shall be taken at the 
+placement site as required by the Contracting Officer and the air content at the mixer controlled as directed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Content Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>Whenever points on the control chart for percent air reach either warning limit, an adjustment shall immediately 
+be made in the amount of air-entraining admixture batched.  As soon as is practical after each adjustment, another 
+test shall be made to verify the result of the adjustment.  Whenever a point on the control chart range reaches 
+the warning limit, the admixture dispenser shall be recalibrated to ensure that it is operating accurately and 
+with good reproducibility.  Whenever a point on either control chart reaches an action limit line, the air content 
+shall be considered out of control and the concreting operation shall immediately be halted until the air content 
+is under control.  Additional air content tests shall be made when concreting is restarted.  All this shall be 
+at no extra cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Slump Testing</TTL><BRK/>
+<BRK/>
+<TXT>In addition to slump tests which shall be made when test specimens are fabricated, at least four slump tests 
+shall be made on randomly selected batches in accordance with <RID>ASTM C143/C143M</RID> for each separate concrete mixture 
+produced during each 8-hour or less period of concrete production each day.  Also, additional tests shall be 
+made when excessive variation in workability is reported by the placing foreman or Government's quality assurance 
+representative.  Test results shall be plotted on control charts which shall at all times be readily available 
+to the Government.  Copies of the current control charts shall be kept in the field by the Contractor's quality 
+control representatives and results plotted as tests are made.  When a single slump test reaches or goes beyond 
+either the upper or lower action limit, a second test shall immediately be made on the same batch of concrete.  
+The results of the two tests shall be averaged and this average used as the slump of the batch to plot on the 
+control charts for percent air and for range and to determine the need for any remedial action.  An upper warning 
+limit shall be set at<MET> 13 mm</MET><ENG> 1/2 inch</ENG> below the maximum allowable slump on separate control charts for percent 
+air used for each type of mixture as specified in subparagraph SLUMP of 1.3 'f', and upper and lower action limit 
+lines shall be set at the maximum and minimum allowable slumps, respectively, as specified in the same paragraph.  
+The range between each consecutive slump test for each type of mixture shall be plotted on a single control chart 
+for range on which an upper action limit is set at<MET> 50 mm</MET><ENG> 2 inches</ENG>.  Samples for slump shall be taken at the mixer; 
+however, the Contractor is responsible for delivering the concrete to the placement site at the stipulated slump.  
+If the Contractor's materials or transportation methods cause slump loss between mixer and the placement, correlation 
+samples shall be taken at the placement site as required by the Contracting Officer and the slump at the mixer 
+controlled as directed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Slump Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>Whenever points on the control chart for slump reach the upper warning limit, an adjustment shall be immediately 
+made in the batch weights of water and fine aggregate.  The adjustments are to be made so that the total water 
+content does not exceed that amount allowed by the maximum water-cement ratio specified, based upon aggregates 
+which are in a saturated surface-dry condition.  When a single slump reaches the upper or lower action limit, 
+no further concrete shall be delivered to the placing site until proper adjustments have been made.  Immediately 
+after each adjustment, another test shall be made to verify the correctness of the adjustment.  Whenever two 
+consecutive slump tests, made during a period when there was no adjustment of batch weights, produce a point 
+on the control chart for range at or above the upper action limit, the concreting operation shall immediately 
+be halted, and take appropriate steps to bring the slump under control.  Also, additional slump tests shall be 
+made as directed.  All this shall be at no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Compressive Strength</TTL><BRK/>
+<BRK/>
+<TXT>At least once during each shift, fabricate and cure, in accordance with <RID>ASTM C192/C192M</RID>, four<MET> 150 by 300 mm</MET><ENG> 6 
+by 12 inch</ENG> test specimens.  Two specimens shall be tested at 7 days and two at 28 days.  If pozzolan is used, 
+six specimens shall be fabricated and two tested at 7 days, two at 28 days, and two at 90 days.  Testing shall 
+be in accordance with <RID>ASTM C39/C39M</RID>.  The results of compressive strength tests will not be used for acceptance.  
+Results will be for record purposes and to evaluate the uniformity of concrete production.  The results of each 
+set of specimens tested at each age shall be averaged to produce one "test result".  These "test results" shall 
+be plotted on control charts for each age.  One control chart shall consist of each "test result" plotted consecutively.  
+One control chart shall consist of the range from the "test result" for any one day to that of the next day.  
+When the range exceeds<MET> 6.9 MPa</MET><ENG> 1,000 psi</ENG>, the Contracting Officer shall be notified and the operation modified 
+to produce better uniformity.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Temperature</TTL><BRK/>
+<BRK/>
+<TXT>The temperature of the concrete shall be measured when compressive strength specimens are fabricated.  Measurement 
+shall be in accordance with <RID>ASTM C1064/C1064M</RID>.  The temperature shall be reported along with the compressive 
+strength data.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Placing</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Preparation for Placing</TTL><BRK/>
+<BRK/>
+<TXT>Inspect each section of wall in sufficient time prior to concrete placement to certify to the Contracting Officer 
+that it is ready to receive concrete.  Report the results of each inspection in writing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Placing</TTL><BRK/>
+<BRK/>
+<TXT>The placing foreman shall supervise all placing operations, shall determine that the correct quality of concrete 
+is placed in each location as directed by the Contracting Officer, and shall be responsible for measuring and 
+recording concrete temperatures, weather conditions, time of placement, quantity placed, method of placement, 
+depths of tremie pipes and concrete at regular intervals, and loss of concrete.  A written report recording these 
+data shall be submitted daily.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Placing Corrective Action</TTL><BRK/>
+<BRK/>
+<TXT>Placing shall not be continued if any pile of concrete is inadequately consolidated.  If any batch of concrete 
+fails to meet the temperature requirements, immediate steps shall be taken to improve temperature controls.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Curing</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Moist-Curing Inspections</TTL><BRK/>
+<BRK/>
+<TXT>At least once each shift and once per day on nonwork days an inspection shall be made of all areas subject to 
+moist curing.  The surface moisture condition shall be noted and recorded.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Moist-Curing Correction Action</TTL><BRK/>
+<BRK/>
+<TXT>When a daily inspection report lists an area of inadequate curing, immediate corrective action shall be taken, 
+and the required curing period for such areas shall be extended by 1 day.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>Mixer Uniformity</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Mixer uniformity of concrete shall conform to the following:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Stationary Mixers</TTL><BRK/>
+<BRK/>
+<TXT>At the start of concrete placing and at least once every 6 months when concrete is being placed, uniformity of 
+concrete shall be determined.  The tests shall be performed in accordance with <RID>ASTM C94/C94M</RID>.  Whenever adjustments 
+in mixer or increased mixing times are necessary because of failure of any mixer to comply, the mixer shall be 
+retested after adjustment.  Submit in writing the results of the initial mixer uniformity tests at least 5 days 
+prior to the initiation of placing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Truck Mixers</TTL><BRK/>
+<BRK/>
+<TXT>At the start of concrete placing and at least once every 6 months when concrete is being placed, uniformity of 
+concrete shall be determined in accordance with <RID>ASTM C94/C94M</RID>.  The truck mixers shall be selected randomly for 
+testing.  When satisfactory performance is found in one truck mixer, the performance of mixers of substantially 
+the same design and condition of blades may be regarded as satisfactory.  Results of tests shall be reported 
+in writing.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Mixer Uniformity Concrete Action</TTL><BRK/>
+<BRK/>
+<TXT>When a mixer fails to meet mixer uniformity requirements, the mixing time shall be increased or adjustments shall 
+be made to the mixer until compliance is achieved.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>Reports</TTL><BRK/>
+<BRK/>
+<TXT>All results of tests and inspections shall be reported as required.  Each report shall include the updating of 
+control charts covering the entire period from the start of the construction season through the current week.  
+During periods of cold-weather protection, reports of pertinent temperatures shall be made daily.  These requirements 
+do not relieve the Contractor of the obligation to report certain failures immediately as required in preceding 
+paragraphs.  Such reports of failures and the action taken shall be confirmed in writing in the routine reports.  
+The Contracting Officer has the right to examine all Contractor quality control records.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Concrete Coring</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTES:  The number of the test panels to be cored should be determined by each 
+district office as necessary to give a representation of the work that was done.  
+The core boring of these test panels should be done after the concrete has developed 
+sufficient strength to allow cores of properly placed concrete to be retrieved.</NPR><BRK/>
+<BRK/>
+<NPR>The spacing and timing of the core borings of the concrete cutoff wall should 
+be arranged to retrieve properly placed concrete cores.  The concrete should 
+be allowed to develop sufficient strength to allow cores of competent concrete 
+to be retrieved.  The spacing of the core holes should be representative of 
+the particular job to give confidence in the work that was performed.  The wall 
+construction should not be allowed to get too far ahead of the core boring.  
+This will allow problems discovered by the core boring to be corrected or changed 
+and these changes incorporated in the cutoff wall construction that follows.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Concrete Coring in Completed Panels</TTL><BRK/>
+<BRK/>
+<TXT>One NX core boring (or one core boring approximately NX) shall be drilled through the concrete in each of the 
+first [_____] test panels.  These borings shall be completed during the installation of the first [_____] linear<MET>
+ meters</MET><ENG> feet</ENG> of cutoff wall and prior to commencement of the remainder of the wall.  Thereafter, an NX boring 
+shall be drilled through one panel selected by the Contracting Officer for every [_____] linear<MET> meters</MET><ENG> feet</ENG> of 
+wall, within [_____] days after completion of each [_____]<MET> meter</MET><ENG> foot</ENG> section.  Additional core borings may be 
+directed by the Contracting Officer.  The borings shall be located in the center of each panel unless otherwise 
+directed by the Contracting Officer.  While coring the completed panels, prepare a log including the elevation 
+of any drill fluid loss, soft zones, drill tool drops, or zones of core loss and provide the log to the Contracting 
+Officer immediately after coring is complete.  The core holes shall not be backfilled until approved by the Contracting 
+Officer.  [If the Contracting Officer decides to have falling head permeability tests or other tests conducted 
+due to core results, this shall not be used as basis for a claim.]  Core holes deviating through the side of 
+the panel shall be filled and a new core hole drilled at no additional cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Method of Drilling</TTL><BRK/>
+<BRK/>
+<TXT>Drilling of cores shall be by any approved standard and accepted method of rotary rock core wireline drilling 
+using diamond-set coring bits by means of which continuous and complete cores of standard diameter for the specified 
+bit size shall be obtained.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Equipment and Supplies</TTL><BRK/>
+<BRK/>
+<TXT>Equipment to be furnished by the Contractor for core drilling shall include diamond core-drilling machinery of 
+a type or types approved by the Contracting Officer, complete with all accessories for taking continuous cores 
+of a diameter consistent with specified bit size to the depths specified.  The core drill shall be the product 
+of one of the standard core drill manufacturing companies designed primarily for this type of work.  Use a ball-bearing, 
+swivel-type, double-tube NX core barrel or manufacturers' equivalent meeting standards established by <RID>DCDMA TM</RID>
+.  Capacity of barrels shall not exceed<MET> 4.6 m</MET><ENG> 15 feet</ENG> of core, and they shall be equipped with diamond-set core 
+bits and standard core lifters.  Supplies for core drilling shall include all casing, drill rods, core barrels, 
+diamond-set coring bits, piping, pumps, water, tools, core boxes, and power required for drilling.  Bits shall 
+be set with the proper size stones for drilling the concrete and bed rock.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Core Boxes</TTL><BRK/>
+<BRK/>
+<TXT>Longitudinally partitioned wooden core boxes constructed of dressed lumber or other approved materials in general 
+accordance with arrangement and dimensions shown in the drawing included at the end of this section of the specifications 
+shall be used for all cores.  As many core boxes as may be required shall be used in submitting each concrete 
+or rock core or group of cores.  Core boxes shall be completely equipped with all necessary partitions, covers, 
+hinges, and hasps for holding down the cover.  To prevent undue core breakage (while it is being placed in boxes) 
+and to allow for ease of access to core in the specified core boxes, the maximum amount of core to be placed 
+in any one box shall be determined by the Government core drill inspector during the drilling operations.  Normally, 
+it is expected that an average of approximately<MET> 3.7 m</MET><ENG> 12 feet</ENG> of core can be placed in each box.  In addition 
+to the spacer blocks shown in the drawing, provide, as required, lengths of<MET> 29 by 54 mm</MET><ENG> 1-1/8 by 2-1/8 inch</ENG> wood, 
+painted red on one side, which shall be cut into<MET> 100 mm</MET><ENG> 4-inch</ENG> lengths, marked with appropriate depths, and inserted 
+in the proper positions in core boring samples to show the location and actual extent of voids and core losses.  
+Mark all core boxes with the appropriate hole number, box number, and depths.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Disposition of Core Samples</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of core drilling and sampling operations for each hole, core boxes containing cores shall be 
+delivered to a storage facility to be designated at the project site.  Core boxes containing cores shall be delivered 
+in accordance with schedules prepared by the Contracting Officer.  All packing, handling, and transportation 
+of samples shall be considered as subsidiary obligations of the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Backfilling Core Holes</TTL><BRK/>
+<BRK/>
+<TXT>Upon completion of core sampling, the holes shall be backfilled under gravity pressure with portland cement grout 
+or mortar as directed by the Contracting Officer.  The grout shall be pumped into the hole through drill rods 
+or plastic hose set to within<MET> 1.5 m</MET><ENG> 5 feet</ENG> of the bottom of the hole.  The bottom of the core hole is defined 
+as being a point in bedrock<MET> 900 mm</MET><ENG> 3 feet</ENG> below the bottom of the panel or the point at which the boring deviates 
+from the cutoff wall.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Evaluation and Acceptance</TTL><BRK/>
+<BRK/>
+<TXT>Concrete will be evaluated by examination of cores drilled by the Contractor from completed panels as specified 
+in paragraph CORING CONCRETE IN COMPLETED PANELS in PART 1, and unacceptable concrete is defined in paragraph 
+UNACCEPTABLE CONCRETE IN COMPLETED PANELS.  Concrete determined to be unacceptable shall be repaired or removed 
+and replaced as specified in paragraph CONCRETE PLACEMENT above.</TXT><BRK/>
+<BRK/>
+<PGE/><TAB HEADERROWS="2">
+<WBK>
+   <STS>
+      <STY SID="s50">
+         <ALN VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s51">
+         <ALN HORIZONTAL="CENTER" VERTICAL="BOTTOM"/>
+      </STY>
+      <STY SID="s52">
+         <ALN HORIZONTAL="CENTER"/>
+      </STY>
+   </STS>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="15">
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="84.75"/>
+      <COL STYLEID="s50" AUTOWIDTH="0" WIDTH="273.75"/>
+      <COL AUTOWIDTH="0" WIDTH="226.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">_________, 20__<BRK/>LIST OF FINE AND COARSE AGGREGATE SOURCES<BRK/></DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="36.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING"><BRK/>LAT/LONG</DTA>
+         </CEL>
+         <CEL STYLEID="s51">
+<DTA TYPE="STRING">PIT LOCATION, ADDRESS<BRK/>AND TELEPHONE NUMBER</DTA>
+         </CEL>
+         <CEL STYLEID="s52">
+<DTA TYPE="STRING">MAIN OFFICE, ADDRESS<BRK/>AND TELEPHONE NUMBER</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">FINE AGGREGATE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="2" STYLEID="s51">
+<DTA TYPE="STRING">COARSE AGGREGATE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="48.00">
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">___/___</DTA>
+         </CEL>
+         <CEL STYLEID="s50">
+<DTA TYPE="STRING">____________________________________<BRK/>____________________________________<BRK/>____________________________________</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">___________________________<BRK/>___________________________<BRK/>___________________________</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB></SPT></SPT></PRT>   <END/><BRK/></SEC>

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                  UFGS-00 73 04 (August 2008)<BRK/>
+                                               ---------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                    Superseding<BRK/>
+                                               UFGS-00 73 04 (April 2008)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>DOCUMENT 00 73 04</SCN><BRK/>
+<BRK/>
+<STL>SUPPLEMENTARY CONDITIONS FOR PROJECTS IN MEDITERRANEAN AREA</STL><BRK/>
+<DTE>08/08</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>special requirements 
+for projects located in the area of responsibility of Naval Engineering Field 
+Activity Mediterranean</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>..</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification. The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>ITALIAN LAWS AND DECREES (D.M.)</ORG><BRK/><BRK/><RID>LAW No. 1086</RID><RTL>(May 11, 1971) Norms for Works in Reinforced Concrete and Steel and Application Instructions</RTL><BRK/><BRK/><RID>Law No. 373</RID><RTL>(April 30, 1976) Norms for the containment of energy consumption for thermal uses in buildings.</RTL><BRK/><BRK/><RID>Law No. 46</RID><RTL>(March 5, 1990) Safety Norms for Technological Systems</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G".  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.   
+Only add a “G” to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy,  Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance to Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following SD-01 submittals except the last apply to projects located 
+only in Italy.  The last SD-01 submittal applies to projects located in Spain.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Gate Entry Pass, Vehicle Pass; Application For</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Contractor Employee Base Access Pass</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Chamber of Commerce Certificate of Membership</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Family Status and Residency Certificate</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+[<ITM><SUB>Contractor Personnel Identification</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+]<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following submittals apply only to projects in Italy.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<ITM><SUB>Certificate of Compliance for All Contract Work</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certified Credentials of Proposed Testing Personnel</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certification of the Static Load Tests Results</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certification of Actual Testing Personnel</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certificate of Conformity for Electrical System</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certificate of Compliance for Heating System</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certificate of Compliance for Fire Prevention System</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Certificate for Elevator System Test(s)</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<TAI OPT="NAVFAC EURAFSWA"><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following paragraph submittal applies only to projects located only 
+in Aviano, Italy (NAVFAC EURAFSWA).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<ITM><SUB>Proof of IMD ordnance work authorization</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+]</TAI><BRK/></SPT>
+<SPT><TTL>PUBLIC RELEASE OF INFORMATION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Prohibition</TTL><BRK/>
+<BRK/>
+<TXT>There shall be no public release of information or photographs concerning any aspect of the materials or services 
+relating to this bid, contract, or purchase order or other documents resulting therefrom without the prior written 
+approval of the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Subcontracts and Purchase Orders</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor agrees to insert the substance of above paragraph "Prohibition" in each subcontract and purchase 
+order generated for this contract.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>ENGLISH SPEAKING REPRESENTATIVE</TTL><BRK/>
+<BRK/>
+<TXT>At all times when any performance of the work at the site is being conducted by any employee of the Contractor 
+or his subcontractors, the Contractor shall have a representative present on the site who is capable of explaining 
+the work operations and receiving instructions in the English language.  The Contracting Officer shall have the 
+right to determine without appeal of such decision, whether the proposed representative has sufficient technical 
+and lingual capabilities and the Contractor shall immediately replace any individual not acceptable to the Contracting 
+Officer.  The Construction Contractor's qualified Project Manager, on-site Superintendent, Quality Control Manager, 
+and Quality Control Specialist shall be fluent (can read, speak, and write) in both English and [Italian][Spanish][Greek][_____] 
+languages.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>NORMS AND LAWS</TTL><BRK/>
+<BRK/>
+<TXT>In case of differences between project specifications or the accompanying drawings and referenced norms and laws, 
+norms and laws shall govern.  In case of differences between project specifications and the accompanying drawings, 
+the specifications shall govern.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>INDUSTRY STANDARDS</TTL><BRK/>
+<BRK/>
+<TXT>When both U.S. and European, or [Italian][Spanish][Greek][_____], Industry Standards are applicable to this project 
+and the standards are in conflict with each other, the most stringent of the industry shall govern.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROHIBITED ITEMS</TTL><BRK/>
+<BRK/>
+<TXT>Use of the following items in this construction project is prohibited:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Use of aluminum for electrical conductors.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Embedding aluminum conduit in concrete.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Use of fluorescent light ballasts and other products containing PCB's.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Use of urea-formaldehyde foam insulation products.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Use of any paint/coatings having a lead content of over 0.06 percent by weight of non-volatile content.  
+The use of ozone depleting chemicals is prohibited.  The use of zinc-chromate is prohibited.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  The use of materials containing asbestos is prohibited.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>PROPRIETARY NAMES</TTL><BRK/>
+<BRK/>
+<TXT>Manufacturer's proprietary names indicated for colors, textures and patterns of materials are for the purpose 
+of color, texture and pattern selection only.  Other manufacturers materials are acceptable and provided they 
+closely approximate colors, textures and patterns indicated and provided they conform to all other requirements 
+subject to Contracting Officer's approval.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SUBMITTAL OF PROOF OF QUALIFICATIONS AND EXPERIENCE</TTL><BRK/>
+<BRK/>
+<TXT>Where qualifications or experience requirements are set forth in the specifications with respect to equipment 
+and equipment installers, written proof of such qualifications or experience must be provided within thirty (30) 
+calendar days after Contract award, and before placing any order for such equipment or before dispatching equipment 
+installers to the project site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ORAL MODIFICATION</TTL><BRK/>
+<BRK/>
+<TXT>No oral statement of any person other than the Contracting Officer as provided in the clause in this Contract 
+entitled FAR 52.243-4 Changes shall in any manner or degree modify or otherwise affect the terms of this Contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>NO WAIVER BY GOVERNMENT</TTL><BRK/>
+<BRK/>
+<TXT>The failure of the Government, in any one or more instances, to insist upon the strict performance of any of 
+the terms of this Contract or to exercise any option herein conferred shall not be construed as a waiver or relinquishment 
+to any extent of the right to assert or rely upon such terms or option on any future occasion.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>PRODUCTS SPECIFIED USING USA STANDARDS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph and its subparagraphs if no USA standards are specified 
+in the project technical specifications.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<SPT><TTL>Local Products Specified Using United States of America (USA) Standards</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Delete this subparagraph when no local products are specified to meet 
+USA standards.<BRK/>
+<BRK/>
+This group of products is covered by NAVFAC LANT's Product Specification Category 
+II (PSC II). PSC II covers the category of locally available products that meet 
+USA standards. The specification paragraph below defines "locally available 
+products that meet USA standards"<BRK/>
+<BRK/>
+The required actions specified below are intended to be the exception, not the 
+rule, since products in PSC I shall be specified to the maximum extent possible.<BRK/>
+<BRK/>
+PSC I covers the category of acceptable products that are locally available 
+and manufactured to local standards. Using products in PSC I allows the Contractor 
+to provide products that are recognized by or in common use by the local construction 
+industry.  Please note that PSC I specifications shall contain the generic technical 
+requirements, but do not require a list of brand names as required below for 
+PSC III and PSC II.<BRK/>
+<BRK/>
+<HL1>Actions Required of Designers/Specifiers For Each Affected Specification Paragraph 
+For PSC II:</HL1><BRK/>
+<BRK/>
+1.  All product specifications shall contain the generic technical requirements.  
+The generic specifications in PART 2 of each section shall be followed by a 
+minimum of two product brand names, with manufacturer's address, phone number 
+and product model or identification (ID) number.<BRK/>
+<BRK/>
+The PSC II products list may include any combination of a locally available 
+in-country qualified product, a European Union (EU) qualified product, or a 
+USA manufactured qualified product readily available locally from  in-country 
+or in EU sources.  Review the definition of "locally available products that 
+meet USA standards".<BRK/>
+<BRK/>
+2.  In the spec section covering the product, use the following format to specify 
+the brand name data; specify the data in a separate but unnumbered subparagraph:<BRK/>
+<BRK/>
+"The following manufacturers generally meet this specification:<BRK/>
+<BRK/>
+Manufacturer's         Manufacturer's<BRK/>
+Name, Address          Model No.,Series No.<BRK/>
+<HL1>and Phone Number</HL1>       <HL1>or ID Number        </HL1><BRK/>
+________________       ____________________<BRK/>
+________________       ____________________"<BRK/>
+<BRK/>
+<BRK/>
+3.  If a PSC II product is specified in a specification section, that section 
+number and title shall be listed in the paragraph below.<BRK/></NPR>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>There are locally available products specified in this contract that meet USA standards.  "Locally available 
+products that meet USA standards" are defined as:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  "Products that meet the referenced USA standards, and are manufactured and distributed in-country, 
+or manufactured and distributed in the European Union, and are readily available locally from in-country 
+sources or from the European Union sources"; or</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  "Products manufactured in the USA and distributed in-country or in the European Union or in the USA, 
+and are readily available locally from in-country sources or from the European Union sources, or from 
+USA sources.".</LST><BRK/>
+<BRK/>
+The products are specified in the technical sections listed below:<BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Add specific section references for the products here.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/></SPT>
+][<SPT><TTL>USA Manufactured Products Specified Using USA Standards</TTL><BRK/>
+<BRK/>
+<NTE><AST/><BRK/>
+<NPR>NOTE: Delete this subparagraph if no products are required to be manufactured 
+in the USA using USA standards.<BRK/>
+<BRK/>
+This group of products is covered by  NAVFAC LANT's Product Specification Category 
+III (PSC III).  PSC III covers the category of products that are manufactured 
+only in the USA to USA standards or in other countries if licensed by the USA 
+manufacturer. Products in PSC III shall not be used unless warranted by explicit 
+product or customer requirements.<BRK/>
+<BRK/>
+The required actions, specified below, are intended to be the exception, not 
+the rule, since products in PSC I shall be specified to the maximum extent possible.<BRK/>
+<BRK/>
+PSC I covers the category of acceptable products that are locally available 
+and manufactured to local standards. Using products in PSC I allows the Contractor 
+to provide products that are recognized by or in common use by the local construction 
+industry.  Please note that PSC I specifications shall contain the generic technical 
+requirements, but do not require a list of brand names as required below for 
+PSC III and PSC II.<BRK/>
+<BRK/>
+<HL1>Actions Required of Designers/Specifiers For Each Affected Specification Paragraph 
+For PSC III:</HL1><BRK/>
+<BRK/>
+1.  All product specifications shall contain the generic technical requirements.  
+The generic specifications in PART 2 of each section shall be followed by a 
+minimum of two product brand names, with manufacturer's address, phone number 
+and product model or identification number. Only USA manufactured products shall 
+be listed.<BRK/>
+<BRK/>
+2.  In the spec section covering the product, use the following format to specify 
+the brand name data; specify the data in a separate but unnumbered subparagraph:<BRK/>
+<BRK/>
+"The following manufacturers generally meet this specification:<BRK/>
+<BRK/>
+Manufacturer's         Manufacturer's<BRK/>
+Name, Address          Model No.,Series No.<BRK/>
+<HL1>and Phone Number</HL1>       <HL1>or ID Number</HL1><BRK/>
+______________         _______________________<BRK/>
+______________         _______________________"<BRK/>
+<BRK/>
+3.  If a PSC III product is specified in a specification section, that section 
+number and title shall be listed in the paragraph below.<BRK/></NPR>
+<BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>There are products to be provided in this contract that are not readily available locally and must be manufactured 
+in the United States of America (USA) and in compliance with USA standards.  Products manufactured in another 
+country are considered USA manufactured, if the manufacturers or suppliers are under license by USA manufacturers 
+and the products meet the same applicable specifications and standards.  The products are specified in the technical 
+sections listed below:</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Add specific section references for the products here.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/></SPT>
+]<SPT><TTL>Consignment, Marking, and Customs Clearance</TTL><BRK/>
+<BRK/>
+<TXT>In order for the Contractor to be exempt from paying duty on material or equipment to be imported for incorporation 
+into the contract work, all shipments shall be consigned to the OICC/ROICC and marked for the contract by contract 
+number. Additionally, the Contractor shall supply to the OICC/ROICC with certified copies of the confirmed material/equipment 
+orders and invoices in order that the duty free customs clearance may be accomplished.  Failure on the part of 
+the Contractor to comply with the requirements herein will not be grounds for non-enforcement of the provisions 
+of the Clause, "Taxes" of the Contract Clauses.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Excess</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall furnish to the Contracting Officer, just prior to completion of this contract, a consolidated 
+inventory of all excess supplies, materials, and equipment imported duty free for use under this contract.  The 
+Contract shall either pay required duties on the excesses or re-export the excesses.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]<SPT><TTL>FINAL GOVERNING STANDARDS (FGS)</TTL><BRK/>
+<BRK/>
+<TXT>Final Governing Standards (FGS) for environmental protection at DOD installations and facilities in [Italy][Spain][Greece] 
+went into effect June 1994.  These standards were developed by comparing and adopting the more protective requirements 
+of the Overseas Environmental Baseline Guidance Document (OEBGD), European Union and national, regional, and 
+local environmental laws and regulations.  The FGS are applicable to work under this contract.  The FGS (both 
+English and local language versions) may be reviewed at the ROICC Office during normal business hours.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SECURITY REQUIREMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph and its subparagraphs cover special requirements for projects 
+located only in Italy.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing each employee, and for requiring that each employee engaged 
+in the project, display such identification as may be approved and directed by the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Every employee of the prime contractor, all subcontractor employees, and all material suppliers' employees, who 
+require access to the base for any reason and for any length of time will be required to obtain a base access 
+pass.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose the first bracketed paragraph and its subitems for projects in 
+Italy, except for projects at Aviano Air Base, Aviano, Italy (NAVFAC EURAFSWA).  
+For projects at Aviano Air Base, choose the second bracketed paragraph.<BRK/>
+<BRK/>
+The specified attachment, <ATT>VISITOR CONTROL CENTER</ATT>, can be downloaded at <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL></NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>In order to obtain a base access pass, the Contractor must complete a "<SUB>Gate Entry Pass, Vehicle Pass; Application 
+For</SUB>", available at the office of the Contracting Officer, and present to the Base Security Officer for approval.  
+The following documents are required from each worker at time of presentation of completed application form:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  "Carta di Identita" (Valid Italian Identification Card) or "Patente di Guida" (Obtain from the Ministero 
+dei Trasporti e Dell'Aviazione Civile).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  A valid Italian Vehicle Registration Card and proof of Minimum Vehicle Liability Insurance for each 
+Contractor's official vehicle.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  "Certificato Penale" - Obtain from any Court of Justice.</LST><BRK/>
+<BRK/>
+][<TXT>Procedures for obtaining base entry passes for construction/Contractors are provided as an attachment, VISITOR 
+CONTROL CENTER, which is included at the end of this section.</TXT><BRK/>
+]<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: For projects located at Aviano Air Base, Aviano, Italy, delete the first 
+paragraph below and use the second bracketed paragraph instead.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Contractor Employee Base Access Pass:</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing and requiring that each person employed in connection with 
+this contract or any subcontract hereunder, be provided with a valid/current <SUB>Contractor Employee Base Access 
+Pass</SUB>.  All prescribed identification shall be immediately delivered and/or surrendered to the Contracting Officer 
+for cancellation upon:  (1) termination or release of any employee;  (2) termination or completion of contract.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="NAVFAC EURAFSWA">[<SPT><TTL>Contractor Employee Base Access Pass:</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing and requiring that each person employed in connection with 
+this contract or any subcontract hereunder, be provided with a valid/current <SUB>Contractor Employee Base Access 
+Pass</SUB>.</TXT>  <BRK/>
+<BRK/>
+<TXT>Every 30 days, the Contractor shall submit a list of personnel who have badges.  In order to obtain a base access 
+pass, the Contractor shall complete a USAFE Form 79, REQUEST FOR BASE ENTRY IDENTIFICATION AND CONTRACTOR PERSONNEL 
+IDENTIFICATION, available at the Office of the Contracting Officer, and present it to the Base Security Officer 
+for approval. After approval, the Contractor can obtain a base badge.</TXT><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for obtaining permission for his personnel to enter the work site areas and 
+for ensuring that such information is up-to-date and remains valid.</TXT><BRK/>
+<BRK/>
+<TXT>All prescribed identification shall be immediately delivered and/or surrendered to the Contracting Officer for 
+cancellation upon:  (1) termination or release of any employee;  (2) termination or completion of contract.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI><SPT><TTL>Responsibility for Physical Security</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for physical security of all construction materials, supplies, and equipment 
+of every description (including property which may be Government furnished or owned) provided and/or utilized 
+in the execution of this contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Access to Operational Areas</TTL><BRK/>
+<BRK/>
+<TXT>Contractor personnel are expressly prohibited and shall be restricted from entering operational buildings or 
+areas without the specific authorization of the Contracting Officer. To perform work, where "security escorts" 
+are required for access to a facility, the Contractor shall coordinate with the Contracting Officer for access 
+to such facilities.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Employment</TTL><BRK/>
+<BRK/>
+<TXT>Should the continued employment of any person in connection with this contract, or any subcontract thereunder, 
+be deemed by the Contracting Officer to be prejudicial to the interests of the Government, that person shall 
+immediately be removed from the work.  In this connection the Contractor agrees that:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Cases which may involve disciplinary action against such persons, or the necessity of reassignment 
+or termination of their services, shall be investigated, processed, reported and disposed of, as directed 
+by the Contracting Officer.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Employment contracts of all persons employed in connection with this contract, or any subcontract 
+thereunder shall include clauses containing the substance of this clause.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Compliance</TTL><BRK/>
+<BRK/>
+<TXT>Compliance with the foregoing provisions of this clause by subcontractors shall be the responsibility of the 
+Contractor.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>ANTI-MAFIA LAW</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph and subparagraphs without modification, only for 
+projects located in ITALY on land owned by the Italian State.  Projects at the 
+following leased sites do not require this paragraph:  (1) Via Scarfoglia, Agnano, 
+Naples, and (2) Bagnoli, Naples.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Pre-Award Effect of Anti-Mafia Procedures</TTL><BRK/>
+<BRK/>
+<TXT>Inasmuch as the work of this solicitation is to be performed on land owned by the Italian State, the prospective 
+contractor will be subject to Italian Law No. 646, of 13 September 1982, and subsequent integrations and amendments. 
+The solicitation data will be made available only to firms that meet the related submittal requirements below 
+in paragraph "Submittals".  As such, in the event that prior to award any disciplinary actions or proceedings 
+for Mafia related matters exist against the apparent low bidder, no award will be made to said low bidder.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Termination Under Italian Law No. 646 (Anti-Mafia)</TTL><BRK/>
+<BRK/>
+<TXT>If during the life of this contract, any proceeding or disciplinary actions contemplated by Italian Law No. 646 
+of 13 September 1982 (and subsequent amendments and integrations) is undertaken against any component of the 
+Contractor or any Subcontractor, the Government can consider this a failure to execute the work and terminate 
+the contractor's right to proceed with the work under the "Default" clause of this contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Application of Italian Law No. 646 (Anti-Mafia) to Subcontractors</TTL><BRK/>
+<BRK/>
+<TXT>In addition to the requirement in FAR 52.244-2 Subcontracts, of this contract, before the Contracting Officer 
+can consent to any subcontractors, the Contractor will be required to certify to the Contracting Officer that 
+no disciplinary actions or proceedings for Mafia related matters exist against such Subcontractors.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Documentation Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Contractor shall submit the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  An original, unexpired and not older than 10 months at the time of the bid opening, of the <SUB>Chamber 
+of Commerce Certificate of Membership</SUB> (Certificato di iscrizione alla Camera di Commercio).</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Originals, unexpired and not older than one month at the time of the bid opening, of the <SUB>Family Status 
+and Residency Certificate</SUB> of each member of the firm, as listed in the Chamber of Commerce Certificate 
+of Membership (Per Decreto Legislativo n. 490 of 8 Aug 94, published in the Gazzetta Ufficiale n. 186 
+of 10 Aug 1994).</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>CERTIFICATION OF COMPLIANCE WITH ITALIAN LAWS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph and its subparagraphs apply only to projects in Italy.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Certification</TTL><BRK/>
+<BRK/>
+<TXT>As a condition of final acceptance of the work, the Contractor shall submit to the Contracting Officer a <SUB>certificate 
+of compliance for all contract work</SUB>certifying that the work complies with Italian <RID>Law No. 46</RID> and that the provided 
+work is adequate and safe for the designated use.  The certification shall be made by the responsible technician 
+of the installation firm who shall have been regularly registered on the Installation National Professional Rolls 
+of Italy for at least the last three years.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Static Load and Final Testing</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall comply with the pertinent articles of Italian <RID>LAW No. 1086</RID>.  Because this construction will 
+be performed on property owned by the Italian State, the <RID>LAW No. 1086</RID> Articles pertaining to notification and 
+participation by civil authorities are not applicable.</TXT><BRK/>
+<BRK/>
+<TXT>The Contractor shall be fully responsible for construction, supervision, static load tests, and final testing, 
+and for all costs associated with this procedure and specifically follow Article 7 of Italian <RID>LAW No. 1086</RID> in 
+performing the test.  Any fees for these tests shall be in accordance with Italian Professional Law No. 143 of 
+2 March 1949 as amended.</TXT><BRK/>
+<BRK/>
+<TXT>Article 2 of Italian <RID>LAW No. 1086</RID> requires the static load tests to be performed under the supervision of an 
+engineer or architect registered on the National Professional Verifier Rolls of Italy.</TXT><BRK/>
+<BRK/>
+<TXT>Since GENIODIFE intends to participate in static load and final testing, the Contractor shall notify the Contracting 
+Officer at least 21 calendar days prior to any static load or final test to enable the Contracting Officer to 
+notify GENIODIFE.</TXT><BRK/>
+<BRK/>
+<TXT>Prior to performing the tests,  submit to the Contracting Officer the names and <SUB>certified credentials of proposed 
+testing personnel</SUB>, engineer(s) or architects(s) they propose to perform the static load testing.</TXT><BRK/>
+<BRK/>
+<TXT>Upon completion of the tests, the Contractor shall submit to the Contracting Officer two original <SUB>certification 
+of the static load tests results</SUB> of the static load tests together with a <SUB>certification of actual testing personnel</SUB>
+ stating that each test was performed by the same engineer(s) or architects(s) whose certified credentials were 
+previously submitted.  The Contracting Officer will submit one original certification to GENIODIFE.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Other Tests</TTL><BRK/>
+<BRK/>
+<TXT>In addition to the certifications listed above, the Contractor shall provide with all other certifications and 
+testing required by Italian Law.  The Contractor is also responsible for all permits required by Italian Law 
+(See Contract Clause FAR 52.236-7 Permits and Responsibilities.  The Contractor shall submit to the Contracting 
+Officer two originals of each certification required by Italian Law.  Such certifications may include but not 
+be limited by the following as applicable to the project:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  <SUB>Certificate of conformity for electrical system</SUB> in accordance with Italian <RID>Law No. 46</RID>.  Include a 
+separate specific certificate of compliance for each electrical panel in accordance with Italian <RID>Law No. 46</RID>
+.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  <SUB>Certificate of compliance for heating system</SUB> above 100,000 Kal/hr in accordance with Italian <RID>Law No. 373</RID>
+.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  <SUB>Certificate of compliance for fire prevention system</SUB> in accordance with DM 16 February 1982 and UFC 
+3-600-01.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  <SUB>Certificate for elevator system test(s)</SUB> in accordance with Italian Law 1415 of 24 October 1942.</LST><BRK/>
+<BRK/></SPT>
+</SPT><TAI OPT="NAVFAC EURAFSWA">[<SPT><TTL>CULTURAL RESOURCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph and following paragraph covers special requirements for 
+projects located only at Aviano Air Base, in Italy (NAVFAC EURAFSWA).</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Cultural resources such as archaeological remains or villa remains may be uncovered during construction excavation 
+operations on and off Aviano Air Base.  If during excavations, suspected cultural remains are found, excavation 
+operations shall immediately cease and contractor shall notify the Contracting Officer.  The Contracting Officer 
+shall contact 31 CES/CEV, Environmental Flight, at telephone number 632-4322.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>UNEXPLODED ORDNANCE</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor is advised that unexploded ordnance may exist in areas where excavation work is required.</TXT><BRK/>
+<BRK/>
+<TXT>During the entire life of this Contract, the Contractor shall be responsible for performing both visual and electronic 
+inspection of the work areas to prevent danger to personnel and loss of equipment from inadvertently exploding 
+old ordnance.</TXT><BRK/>
+<BRK/>
+<TXT>During excavation work the Contractor shall use caution when unknown objects are encountered and thoroughly identify 
+the object prior to removal.</TXT><BRK/>
+<BRK/>
+<TXT>Upon discovery of any suspected unexploded ordnance in the course of contract work, the Contractor shall clear 
+the area and contact the Base Operations Officer and the Contracting Officer. Resultant exploratory and removal 
+work shall be subject to negotiations for a contract change in accordance with the Contract Clauses.</TXT><BRK/>
+<BRK/>
+<TXT>Contractor shall upon issuance of the notice to proceed by the Contracting Officer shall provide the exploratory 
+excavation and removal of suspected unexploded ordnance.  This work shall be conducted only by a firm authorized 
+by the Italian Ministry of Defense (IMD) to perform such work, and approved by the Contracting Officer.  Submit <SUB>
+proof of IMD ordnance work authorization</SUB> to the Contracting Officer for review and approval prior to conducting 
+ordnance work.</TXT><BRK/>
+<BRK/>
+<TXT>The Contractor shall have the approved ordnance removal firm committed to an on-call basis in the event that 
+suspected unexploded ordnance is encountered during contract work.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI>[<SPT><TTL>EXCLUSION OF PRICE REVISION LAWS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph and following two paragraphs and their subparagraphs cover 
+special requirements for projects located only in Spain.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Contractor and the United States Government, as the sole parties to this contract, do specifically and irrevocably 
+agree that this contract is a FIRM FIXED-PRICE CONTRACT, and do expressly waive and exclude the application of 
+any and all local Laws, Decrees, Orders, and Regulations, which might mandate, authorize, or permit an increase 
+in the contract price, revision or any other mechanism as a result of increased labor costs, equipment costs, 
+material costs, supplies, subcontractor costs, other overhead costs, direct or indirect, or otherwise.</TXT><BRK/>
+<BRK/>
+<TXT>The risks and consequences of this exclusion of the application of Laws as aforementioned are understood by the 
+parties, and have been taken into consideration in arriving at the contract price set forth herein.</TXT><BRK/>
+<BRK/>
+<TXT>It is the parties' intention that the work contracted for, including any subsequent modifications to this contract, 
+shall be performed on a firm fixed-price basis without price revision of any kind.</TXT><BRK/>
+<BRK/>
+<TXT>Any dispute in this respect arising between the parties will be resolved by strict interpretation of the provision 
+of the contract itself.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>OPTIONAL PURCHASE</TTL><BRK/>
+<BRK/>
+<TXT>All materials and equipment not specifically required to be purchased in the United States of America shall be 
+purchased in Spain and may not be purchased elsewhere without specific written approval of the Contracting Officer.  
+If purchase of material and equipment is not feasible in Spain or it is specified that material and equipment 
+be purchased in the United States, the Clause, "STATUS OF CONTRACTOR AS DIRECT CONTRACTOR" of this Section, will 
+apply.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>SECURITY REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing each employee,<BRK/>
+and for requiring that each employee engaged in the work display, such identification as may be approved and 
+directed by the Contracting Officer.  All prescribed identification shall immediately be delivered to the Contracting 
+Officer for cancellation upon release of any employee.</TXT><BRK/>
+<BRK/>
+<TXT><SUB>Contractor personnel identification</SUB>, including names and photographs, D.N.I.  (Documento Nacional de Identidad) 
+numbers, vehicles identification and license plate numbers, of all personnel to be employed in the performance 
+of the work at the site, shall be submitted to the Contracting Officer at least seven (7) days prior to commencement 
+of the work.</TXT><BRK/>
+<BRK/>
+<TXT>Contractor personnel shall be restricted from entering operational buildings or areas without the specific authorization 
+of the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+]</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+    <EOD/><BRK/></SEC>

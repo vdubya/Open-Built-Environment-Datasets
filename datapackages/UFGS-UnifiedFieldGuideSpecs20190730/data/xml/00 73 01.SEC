@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA                  UFGS-00 73 01 (August 2008)<BRK/>
+                                               Change 2 - 05/16<BRK/>
+                                               ---------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>                    Superseding<BRK/>
+                                               UFGS-00 73 01 (April 2006)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>DOCUMENT 00 73 01</SCN><BRK/>
+<BRK/>
+<STL>SUPPLEMENTARY CONDITIONS FOR GUANTANAMO BAY PROJECTS</STL><BRK/>
+<DTE>08/08</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>special requirements 
+for projects located at Guantanamo Bay, Cuba</SCP>.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>INSTRUCTIONS AND STANDARDS FOR NAVBASE GUANTANAMO BAY CUBA (COMNAVBASEGTMOINST)</ORG><BRK/><BRK/><RID>11300.3</RID><RTL>Base Energy Conservation Regulations</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Entry Approval for Employees</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>INFORMATIONAL DATA</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Work Force</TTL><BRK/>
+<BRK/>
+<TXT>Due to the sensitive locale of the U.S. Naval Base, Guantanamo Bay, Cuba, foreign nationals from dissident political 
+areas may be excluded and denied entry approval.  In general, foreign nationals may be used.  The Contractor 
+agrees to dismiss from the site, when directed by the Contracting Officer, any individual whose continued employment 
+is deemed to be contrary to the public interest or inconsistent with the best interest of the national security.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Entry Approval for Employees</SUB></TTL><BRK/>
+<BRK/>
+<TXT>No employee or representative of the Contractor will be admitted to the U.S. Naval Base, Guantanamo Bay, Cuba 
+without prior entry approval.  The background of Contractor personnel will be screened prior to entry to the 
+U.S. Naval Base, Guantanamo Bay, Cuba.  The Contractor shall submit to the Contracting Officer the full name, 
+date and place of birth, and Social Security number of such persons.  This information shall be received by the 
+Contracting Officer 45 calendar days prior to the scheduled or desired arrival at the Naval Base.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Identification of Employees</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing to each employee and for requiring each employee to display 
+such identification as may be approved and directed by the Contracting Officer.  Employees may be fingerprinted 
+prior to employment as a condition of entry onto the Naval Base. Prescribed Government identification cards shall 
+be immediately delivered to the Contracting Officer for cancellation upon release of any employee.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Local Labor</TTL><BRK/>
+<BRK/>
+<TXT>Proselytizing of labor, that is the hiring of Government or Contractor on-base employees by offering higher wages 
+or other amenities, shall not be permitted unless a release from the employer is executed or the employee resigns 
+and leaves the base for a minimum of 90 days.  Accordingly, labor which the Contractor proposes to use shall 
+be approved by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Management Personnel</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be responsible for furnishing the personnel required, with the necessary skills and qualifications, 
+to perform the work as described.  Additionally, the Contractor shall provide an individual on-site, who is authorized 
+to negotiate and financially commit change orders for the Principal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Work outside Regular Hours</TTL><BRK/>
+<BRK/>
+<TXT>Normal working hours are 0730 to 1630, Monday through Friday (except holidays).  The Government recognizes that, 
+because of the isolation of the Naval Base and the added cost to house and feed a work force, there are mutual 
+benefits in allowing Contractors to work outside normal working hours.  For example, Contractors often work six 
+ten-hour days per week.  Contractor requests to work outside normal working hours, including blanket request, 
+are often approved.  However, the Contracting Officer has full discretion to approve or disapprove, or withdraw 
+approval of, request.  If the Contractor desires to work outside normal hours (including Saturdays, Sundays and 
+holidays), he shall submit his request to the Contracting Officer.  Some typical constraints on working outside 
+normal working hours are:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  The Contractor's request must be made at least two days in advance (e.g., request received by Government 
+by close of business Wednesday for work on following Saturday).  Prior to submitting the request, the 
+Contractor must coordinate as needed (such as utility outages) and have all required people and materials 
+for the work that will be performed.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  A Contractor with quality or safety (including camp and material storage site) problems (as determined 
+by the Contracting Officer) will usually be restricted to normal working hours.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  A Contractor who fails to correct deficiencies within a reasonable time (as determined by the Contracting 
+Officer) usually will be restricted to normal working hours or may be allowed to work outside normal 
+working hours only to correct those deficiencies.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  The Contractor shall schedule his work to cause the least amount of interference to normal activities.  
+Conflicts, such as disturbing housing occupants after working hours, may be cause for limiting work to 
+normal working hours.</LST><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Storage of Materials</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  On large jobs, a laydown area shall be identified on the contract drawings 
+(by ROICC or PWD at 100 percent review) and described herein.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Contractor shall store materials only in places where directed.  No fire-hazardous materials or flammable 
+liquids shall be stored or otherwise maintained within a building or structure, except as approved, in accordance 
+with the local fire regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Access Roads</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall refrain from the use of roads, grounds, or other facilities which have not been specifically 
+authorized for his use.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Availability and Cost of Government Materials and Services</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Prices of services and items shown herein shall be updated by ROICC at 
+100 percent review.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The availability of Government materials, equipment, and services indicated in this specification may vary subject 
+to local supply priority requirements for operations and maintenance of the base.  Non-availability will not 
+be considered as an excusable delay under the General Conditions Clause entitled "Changes."  The cost of Government 
+materials, equipment, and services reflected in this specification are subject to fluctuation, revision, and 
+adjustment.  Changes in rates or prices for goods and services in this and following paragraphs shall not be 
+used as a basis for a change to the contract.  However, should the actual rate required to be paid by the Contractor 
+vary by more than 15 percent from that specified, the contract price will be adjusted to reflect the amount by 
+which the rate actually paid varies by more than 15 percent from that specified.  Some materials and equipment 
+may be furnished to the Contractor by the Government at current rates subject to 3 days' advance notice in writing. 
+Request shall be made to the Contracting Officer.  Equipment will not be available for long-term rental.  Short-term 
+equipment rental (1 to 2 days), one-time hauling service, and one-time crane service may be available if there 
+is no conflict with Government workload.  Government equipment will not be provided without Government operators.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>List of Government Equipment</TTL><BRK/>
+<BRK/>
+<TXT>The following list of Government equipment available for rental and corresponding prices is provided. Cranes 
+have an operator provided. All other equipment used will be Contractor operated. <HL3>Rentals will only be short term 
+(1 to 2 days) and may be interrupted if the equipment is required to support Station needs.</HL3></TXT><BRK/>
+<BRK/>
+<TAB HEADERROWS="2" WIDTH="75">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="3" ROWCOUNT="35">
+      <COL AUTOWIDTH="0" WIDTH="68.25"/>
+      <COL AUTOWIDTH="0" WIDTH="189.75"/>
+      <COL AUTOWIDTH="0" WIDTH="93.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL MERGEACROSS="1">
+<DTA TYPE="STRING">NAVAL STATION INVENTORY</DTA>
+         </CEL>
+         <CEL INDEX="3">
+<DTA TYPE="STRING">6/29/00</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">USN</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">TYPE/MODEL</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">PRIVATE (HR)</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">82 04907</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">22 Ton Hydraulic RT Crane</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$103.59</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">82 04951</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">35 Ton Hydraulic RT Crane</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$144.77</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">42 02386</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">40 Ton Fixed Lattice Crawler Crane</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$132.30</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">82 05166</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">60 Ton Hydraulic Truck Crane</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$196.67</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">82 04466</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">90 Ton Fixed Lattice Truck Crane</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$260.13</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">31 07851</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Air Compressor 750 cfm</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$33.30</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">44 02977</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Road Grader</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$67.30</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">45 04105</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Front-end Loader</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$67.66</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">48 18365</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Tractor with Backhoe</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$11.45</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">51 22233</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Emergency Light Plant</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$13.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">51 23673</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Emergency Light Plant</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$13.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">51 76176</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">Electric Arc Welder</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$11.35</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">94 25868</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">1 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$16.70</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95 28868</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95-28869</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95 28879</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95-29999</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95-30000</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95 30001</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">95 30002</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">3 Ton Stake Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$18.65</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 40860</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">5 Ton Refer Van</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$42.62</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 45858</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">6X4 Dump Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$52.92</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 45859</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">6X4 Dump Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$52.92</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 45880</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">7.5 Ton Tractor Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$41.95</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 46251</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">7.5 Ton Tractor Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$41.95</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 45893</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">15 Ton Tractor Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$41.95</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">96 37704</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">25 ton Tractor Truck</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$64.19</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">97 30548</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">60 Ton Lowboy Trailer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$17.00</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">97 31481</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">20 Ton Semi Stake Trailer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$9.85</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">97 34706</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">20 Ton Semi Stake Trailer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$9.85</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">97 31680</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">SEMI TNK 5 KG</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$45.95</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">97 35887</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">12 Ton Semi Van Trailer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$9.15</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">97 34219</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">20 Ton Semi Van Trailer</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$9.15</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+</SPT><SPT><TTL>Ocean Freight</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall provide loading of freight and ocean freight, off-loading, and handling as required, based 
+on the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Marine Insurance:  Marine insurance, to the extent required, shall be furnished by the Contractor.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Ship Arrival</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) No ships or vessels may enter the Guantanamo Bay Defense Sea Area except as approved by 
+Commander, U.S. Naval Base, Guantanamo Bay, Cuba.  Not less than 48 hours prior to departure 
+of vessel from the port of embarkation, the Contractor shall furnish to the Contracting Officer 
+the following information:</ITM><BRK/>
+<BRK/>
+<ITM>(a) Name of vessel.</ITM><BRK/>
+<BRK/>
+<ITM>(b) Place of registry and registry number.</ITM><BRK/>
+<BRK/>
+<ITM>(c) Name, nationality, and address of owner.</ITM><BRK/>
+<BRK/>
+<ITM>(d) Name, nationality, and address of operator.</ITM><BRK/>
+<BRK/>
+<ITM>(e) Gross tonnage, length, beam, and draft of vessel.</ITM><BRK/>
+<BRK/>
+<ITM>(f) Nationality and numbers of officers and crew (include crew list).</ITM><BRK/>
+<BRK/>
+<ITM>(g) Number of passengers (include passenger list).</ITM><BRK/>
+<BRK/>
+<ITM>(h) Last port of call prior to entry into Guantanamo Bay Naval Defense Sea Area.</ITM><BRK/>
+<BRK/>
+<ITM>(i) Purpose of visit.</ITM><BRK/>
+<BRK/>
+<ITM>(j) Proposed date of entry and estimated duration of stay.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Passengers and crew will be subject to Base regulations.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) Commercial vessels will be permitted to discharge cargo at cargo docks to the extent that 
+space is available.</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Vessels on Contract to Government</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Contract for scheduled every other week shipping service to and from Guantanamo Bay from 
+Jacksonville, Florida, is provided by TransAtlantic Lines LLC for 14 days sailing schedule between 
+Jacksonville, Florida and Guantanamo Bay.</ITM><BRK/>
+<BRK/>
+<ITM>TransAtlantic Lines LLC</ITM><BRK/>
+<ITM>120 Greenwich Ave.</ITM><BRK/>
+<ITM>Greenwich, CT 06830</ITM><BRK/>
+<ITM>Gudmundur Kjaernested Vice President</ITM><BRK/>
+<ITM>Voice:  (203) 625-5514</ITM><BRK/>
+<ITM>Valerie Bowen Bookings/Dispatcher</ITM><BRK/>
+<ITM>Fax:  (203) 863-9354</ITM><BRK/>
+<BRK/>
+<ITM>Jacksonville Terminal</ITM><BRK/>
+<ITM>8998 Blount Island Blvd.</ITM><BRK/>
+<ITM>Jacksonville, FL 32226</ITM><BRK/>
+<ITM>Coastal Maritime Stevedoring, LLC</ITM><BRK/>
+<ITM>Terminal Service</ITM><BRK/>
+<ITM>Customer service Hotline</ITM><BRK/>
+<ITM>1-888-840-9918</ITM><BRK/>
+<ITM>Rick Clarke, Terminal Manager</ITM><BRK/>
+<ITM>Office:  (904) 714-1424</ITM><BRK/>
+<ITM>Sally Gibson, Chief Clerk</ITM><BRK/>
+<ITM>Fax:  (904) 714-1165</ITM><BRK/>
+<BRK/>
+<ITM>Coastal Maritime Stevedoring, LLC</ITM><BRK/>
+<ITM>Corporate Offices</ITM><BRK/>
+<ITM>Magnus Lindebach CEO</ITM><BRK/>
+<ITM>1-888-644-2842</ITM><BRK/>
+<ITM>Ben Brown, Operations Manager</ITM><BRK/>
+<ITM>Office:  (904) 727-7007</ITM><BRK/>
+<ITM>Bud Underwood, Safety/Human Resources</ITM><BRK/>
+<ITM>Fax:  (904) 727-0071</ITM><BRK/>
+<ITM>Kathy Wiley Admin/Bookings</ITM><BRK/>
+<BRK/>
+<ITM>Burns and Roe</ITM><BRK/>
+<ITM>Maurice Mullen Project Manager at GTMO</ITM><BRK/>
+<ITM>Voice:  011-5399-3126</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Since these vessels are under Government contract, priority materials for Government agencies 
+may delay receipt of Contractor's equipment and materials.  The cost of containerization, shipping, 
+on-loading, and off-loading, is at the Contractor's expense; and arrangements shall be made 
+directly with the shipping company.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(3) The ocean vessel Contractor is subject to change.  If a change in Contractor should occur, 
+the Government is not liable for any additional costs which may be incurred by the Contractor 
+for the construction contract.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(4) The Contractor is under no obligation to use the Government carrier and may use others subject 
+to the terms and conditions of this contract and U.S. Maritime law.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(5) The Contractor may ship materials and equipment by air or sea provided all clearances are 
+met and approved in advance.  The Contractor shall use the  Government's barge contractor, if 
+space is available, at the established commercial rates provided by the Government's barge contractor.  
+The Contractor shall use the Government's consolidator in Jacksonville, Florida to transport 
+anything on the Government's barge.  The Government's material will have priority over Contractor 
+material on the Government's barge.  If space is not available on the Government's barge, the 
+contractor will be permitted to use another barge for transportation.</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Medical and Dental Services</TTL><BRK/>
+<BRK/>
+<TXT>Medical and dental services available to the Contractor's employees are limited in Guantanamo Bay.  The Naval 
+Hospital and Naval Dental Clinic are staffed to treat primarily DOD personnel.  The Contractor shall screen prospective 
+employees with the objective to exclude those with admitted chronic disorders from traveling to Guantanamo Bay.  
+Advise prospective employees of the limited medical and dental services available in Guantanamo Bay; and explain 
+the Contractor's policy concerning the extent of liability and coverage for required treatment.  Every reasonable 
+attempt shall be made to prevent personnel with chronic disorders, which may require treatment, such as cardiovascular 
+defects, tuberculosis, mental health problems, and alcoholism, from being sent to Guantanamo Bay. The Contractor 
+shall provide and have available, both at the job site and in the berthing areas, first aid for minor and emergency 
+treatment.  Government ambulance and medical care, when required, will be billed at the then current rates.  
+For more information on: dental care rates, call 011-53-99-2239; medical outpatient care rates, call 011-53-99-2230, 
+and medical in-patient care rates, call 011-053-99-2185.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Post Exchange and Commissary Privilege and Recreation Facilities</TTL><BRK/>
+<BRK/>
+<TXT>Post exchange and commissary privileges and recreation facilities are available to authorized Contractor personnel 
+and dependents of Contractor personnel in accordance with current base regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>On-Base Transportation</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall provide necessary personnel, vehicles, and equipment required for on-base vehicular transportation, 
+and shall bear the cost of required fuel, oil, lubricants, and maintenance there-for.  The vehicles shall be 
+operated only by Contractor's employees who possess a valid motor vehicle operator's identification card; and 
+vehicular registration will be provided without cost by the Government.  The Contractor shall comply with traffic 
+safety program set forth in OPNAV Instruction 5100.12.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Laundry and Dry Cleaning</TTL><BRK/>
+<BRK/>
+<TXT>The Government will make available laundry and dry cleaning facilities for Contractor personnel and dependents 
+of Contractor personnel at current rates as set forth by the Navy Exchange, Guantanamo Bay, Cuba.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Government Utilities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Refer to this section in Section <SRF>01 50 00</SRF> TEMPORARY CONSTRUCTION FACILITIES 
+AND CONTROLS regarding utility services.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The General Conditions Clause entitled "Availability and Use of Utility Services" applies.  Water and electricity 
+will be available at designated outlets at the prevailing Government rates.  Current rates (26 Nov 02) are as 
+follows:</TXT><BRK/>
+<BRK/>
+<ITM>Electricity - $144.32 per thousand kWh</ITM><BRK/>
+<ITM>Water       - $ 19.04 per thousand gallons</ITM><BRK/>
+<BRK/>
+<TXT>Power usage in office and shop areas will be metered by meter furnished and installed by and at the expense of 
+the Contractor.  The meters furnished shall be sealed and tagged to indicate last calibration date and name of 
+the person performing the calibration.  The Government reserves the right to require the recalibration of the 
+meters if erroneous readings are suspected.</TXT><BRK/>
+<BRK/>
+<TXT>The Contractor shall provide Backflow Protection at the source for all temporary water connections used in accomplishment 
+of this contract. Backflow device must be tested and pass certification prior to opening connection. Person installing 
+and certifying device must be trained in accordance with CROSS-CONNECTION CONTROL AND BACKFLOW PREVENTION PROGRAM 
+IMPLEMENTATION AT NAVY SHORE FACILITIES, User's Guide, UG-2029-ENV dtd May 98.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Port-a-let, Refuse Collection and Sanitary Sewage Trucking Service</TTL><BRK/>
+<BRK/>
+<TXT>These services are provided by the Base Maintenance Services Contractor, Kvaerner Process Services, Inc. For 
+the current rates, call 011-53-99-4271.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">    Refuse containers will be furnished and serviced by the Government at living quarters.  Refuse collection 
+service is mandatory.  Contractors are required to meet base regulations concerning collection and disposal 
+of refuse.  Pickup is scheduled and charged based on volume of the dumpster, not necessarily the volume 
+of refuse.  Only refuse deposited in the Government-furnished containers will be collected.  This service 
+does not include articles left outside of the containers.  This service will not be available for construction 
+or demolition sites.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Transportation of Personnel</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Air travel to and from the base is limited, with demand often far in excess of supply.  Specifically:</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Travel to and from Jacksonville, Florida; Norfolk, Virginia; and Kingston, Jamaica is provided 
+by the Air Mobility Command (AMC) at the contractors expense and passage will be in reserved 
+seats.</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">    Plane Fares to Guantanamo Bay, Cuba as of 1 October 2002.  Rates are subject to change.</ITM><BRK/>
+<BRK/>
+<TAB HEADERROWS="0" WIDTH="64">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="3">
+      <COL AUTOWIDTH="0" WIDTH="173.25"/>
+      <COL AUTOWIDTH="0" WIDTH="126.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">From Norfolk, Virginia</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$620.00 Round Trip</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">From Jacksonville, Florida</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$432.00 Round Trip</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">From Kingston, Jamaica</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ 90.00 Round Trip</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<ITM INDENT="-0.33">(2) Emergency leave travel for verified personal emergencies such as death or serious illness 
+of a family member will be authorized to any destination on the next available flight, also 
+chargeable to the Contractor at the international tariff rate.</ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Food Facilities</TTL><BRK/>
+<BRK/>
+<TXT>Contractor personnel may eat at the Navy Exchange food outlets, or at other open food service facilities on a 
+cash basis at current prices.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Petroleum Products</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Sales:  Sales of petroleum products shall be made from Naval Station Supply Department Stocks under 
+special deposit procedures based on prevailing stock ledger prices.  Current major petroleum product 
+prices (01 October 04) are subject to change.  Prices are as follows:</LST><BRK/>
+<BRK/>
+<TAB HEADERROWS="0" WIDTH="62">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="165.75"/>
+      <COL AUTOWIDTH="0" WIDTH="124.50"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Aviation Gasoline (AVGAS)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ NOT AVAILABLE</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Motor Gasoline (MOGAS)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ 1.38 per gallon</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Jet Fuel (JP-5</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ 1.36 per gallon</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">Diesel Oil (F76)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ 1.33 per gallon</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">Lube Oil (L06)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$ 3.85 per gallon</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<LST INDENT="-0.33">b.  Bulk Fuels:  Only bulk fuels are available.  Deliveries can be arranged through the Fuel Department 
+of the Naval Station Supply Department for tanker delivery to your equipment or day tanks. Regular filling 
+station pumps at the Navy exchange service station may be utilized by paying the current price at time 
+of purchase.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Purchases From the Government</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Sale of Government Supplies:  Provisions and camp supplies other than petroleum products will be 
+sold to the Contractor from Naval Station Supply Department Stocks under special deposit procedures in 
+compliance with Paragraph 26046, 2d and 3, BuS&amp;A Manual. Miscellaneous construction materials may 
+be sold to the Contractor under the same procedure if such sales are not detrimental to the Naval Station 
+Supply Department stock position as determined by the Naval Station Supply Officer.  Materials other 
+than petroleum products will be issued as required, during normal working hours.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Payment for Purchases From the Government:  Invoices covering sales of equipment and materials specified 
+will be charged to a special deposit account, to be established by the Contractor in advance. The Contractor 
+is required to provide a cash deposit only to the Naval Station Comptroller prior to incurring charges.  
+The Contractor shall maintain a minimum balance in this account equal to two times the anticipated monthly 
+expenditures or $200, whichever is greater.  The Contractor shall comply with directives governing special 
+deposit accounts as established by the Comptroller, U.S.  Naval Base, Guantanamo Bay, Cuba.  Failure 
+to settle accounts due promptly will jeopardize the availability of goods and services.  The Government 
+is entitled to withhold special deposit account arrearages from progress payments.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Private Aircraft</TTL><BRK/>
+<BRK/>
+<TXT>Prior to making shipment of cargo or personnel by private aircraft, the Contractor shall have on record with 
+the Naval Air Station Operations Officer a valid facilities license.  Further, at least 7 working days prior 
+to each such shipment, the Contractor shall notify the ROICC of his intentions so that appropriate area and flight 
+clearances may be obtained.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor Debts</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall be liable for debts to the Government incurred by his employees for personal services at 
+Guantanamo Bay, Cuba, including but not limited to private telephone service, medical and dental services, and 
+W.T.  Sampson School expenses.  If an employee departs the Guantanamo Bay Naval Base without liquidating his 
+debts, sufficient funds to cover this type of obligation will be withheld from Contractor payments until the 
+debts are paid.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Energy Conservation</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall observe the Base Energy Conservation Regulation, COMNAVBASEGTMO Instruction <RID>11300.3</RID> series.  
+It is mandatory that the Contractor obtain a copy of this instruction and post it in a conspicuous location for 
+the Contractor's employees to read.  Copies of the instructions are available from the ROICC office.  Ensure 
+that employees comply with these regulations at all times.  It is suggested that an employee be appointed as 
+energy monitor by the Contractor for buildings under the jurisdiction of the Contractor.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Drug Abuse by Contract Employees</TTL><BRK/>
+<BRK/>
+<TXT>The Secretary of the Navy has determined that the illegal possession and use of drugs and paraphernalia by civilian 
+and contract employees in the military setting contributes directly to military drug abuse and undermines command 
+efforts to eliminate drug abuse among military personnel.  The policy of the Department of the Navy, including 
+the Marine Corps, is to deter and detect drug offenses by civilian and contract employees on military installations.  
+Measures to be taken to identify drug offenses on military installations, and to prevent introduction of illegal 
+drugs and paraphernalia include routine, random inspections of vehicles and personnel possessions on entry or 
+exit, with drug detection dog teams, when available.  Where there is probable cause to believe that a civilian 
+or contract employee on board a Naval or Marine Corps installation has been engaged in use, possession, or trafficking 
+of drugs, that employee may be restricted or detained for the period necessary until that employee can be removed 
+from the installation or can be turned over to local law enforcement authorities having jurisdiction, as appropriate.  
+When illegal drugs are discovered during an inspection or search of a vehicle operated by a civilian or contract 
+employee, the employee and vehicle may be detained for a reasonable period of time necessary to turn the employee 
+and the vehicle over to appropriate civil law enforcement officials; action may be taken to suspend, revoke, 
+or deny installation driving privileges. Implicit with the acceptance of this contract is the Contractor's agreement 
+to comply with Federal statutes, laws, and regulations, including those regulations issued by the commander of 
+the military installation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Available Living Quarters</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Crew Berthing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Check with the Public Works Office at U.S. Naval Base Guantanamo Bay, 
+Cuba to determine where contractor employees will be berthed and if berthing 
+is available.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Except for allowed family housing, contractor employees (unaccompanied status) shall be berthed in the Contractor 
+Berthing Facilities (CBF) on Leeward or Windward side of the bay.  These facilities are operated by the Housing 
+Department, CBQ Division.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Rates:  The following fixed rates apply and are subject to adjustment.  $6.00 per day, per person, 
+regardless of room configuration.  Minimum furnishings shall include a bed (single or bunked) and a wardrobe 
+or dresser for each person.  Minimum room furnishing will also include a television, cable box, telephone 
+and refrigerator that are shared with other assigned roommates.  Personal property storage is not available 
+through the CBQ.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Room Billing:  Contractors will be billed monthly for the number of beds assigned to company personnel.  
+Contractors are charged for beds assigned to employees on leave unless the employee removes all personal 
+property and checks out of the facility prior to commencing leave.  Contractors are responsible for storing 
+employee's personal property while on leave.  Contractors must make new room reservations for all employees 
+checking out of a facility.  Housing makes no guarantee of room availability or room assignment for returning 
+employees.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Berthing Agreement:  Prior to berthing of any crew members, contractors shall be required to complete 
+a Contractor Berthing Agreement (CBA) with the CBQ Division.  A copy of this agreement is available from 
+the CBQ Manager, located at building 1670, at (011) 53-99-4427.  Advanced registration is mandatory to 
+allow berthing accommodations to be in place upon arrival for contractors.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor Management/Supervisory Housing</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Check with the Public Works Office at U.S. Naval Base Guantanamo Bay, 
+Cuba to determine where contractor employees will be berthed and if berthing 
+is available.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Government will rent to the contractor housing units at fair market rate that includes electric, water, sewer, 
+trash and maintenance.  The rates identified below are subject to annual adjustments based on consumer price 
+index and/or utility cost.  These units are reserved for management and supervisory personnel with some exceptions 
+considered on a case-by-case basis.  Housing assignments for accompanied personnel (if available) will be based 
+on family composition, and unaccompanied personnel will be assigned a minimum of one person per bedroom.  Housing 
+will be assigned and managed by CNRSE Housing Department Guantanamo Bay detachment, Building 2295, at telephone 
+011-53-99-4172/4174.  Residents shall abide by the Family Housing Instruction, which is not part of this contract 
+but available upon request.</TXT><BRK/>
+<BRK/>
+<TAB HEADERROWS="0" WIDTH="52">
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="5">
+      <COL AUTOWIDTH="0" WIDTH="135.00"/>
+      <COL AUTOWIDTH="0" WIDTH="108.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">4 Bedroom - 3 Bath</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$1,350.00 Month</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">3 Bedroom - 2 Bath</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$1,188.00 Month</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">3 Bedroom - 1 Bath</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$1,107.00 Month</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="24.00">
+         <CEL>
+<DTA TYPE="STRING">2 Bedroom - 1.5 Bath</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$1,026.00 Month</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="23.25">
+         <CEL>
+<DTA TYPE="STRING">2 Bedroom - 1 Bath</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">$  982.00 Month</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TXT>Furniture may be rented to furnish the house.</TXT><BRK/>
+<BRK/>
+<TXT>Based on the current mission of the Naval Base, housing units may not be available. If unavailable, supervisory 
+Personnel may be required to share housing. If house sharing is required, accompaniment by dependents WILL NOT 
+be allowed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Electronic Invoices</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall submit invoices electronically via e-mail or computer disc.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>E-mail and Internet</TTL><BRK/>
+<BRK/>
+<TXT>The Contractor shall have e-mail and Internet service for their office on the base.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>RESTRICTIONS ON RADIO TRANSMITTER EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Conform to the restrictions and procedures for the use of radio transmitting equipment, as directed.  Do not 
+use transmitter without prior approval of the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><NED/><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<ITM>Not Used</ITM><BRK/>
+<BRK/></PRT>
+    <EOD/><BRK/></SEC>

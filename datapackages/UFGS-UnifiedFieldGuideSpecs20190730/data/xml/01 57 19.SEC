@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="windows-1252"?><SEC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://si.ksc.nasa.gov/sidownloads/xml/specsintactSEC.xsd"><MTA NAME="SUBFORMAT" CONTENT="NEW"/><MTA NAME="AUTONUMBER" CONTENT="TRUE"/><HDR><AST/><BRK/>
+USACE / NAVFAC / AFCEC / NASA          UFGS-01 57 19 (November 2015)<BRK/>
+                                       Change 2 - 05/19<BRK/>
+                                       -----------------------------------<BRK/>
+Preparing Activity:  <PRA>NAVFAC</PRA>            Superseding<BRK/>
+                                       UFGS-01 57 16 (April 2008)<BRK/>
+                                       UFGS-01 57 19.00 20 (November 2011)<BRK/>
+                                       UFGS-01 57 20.00 10 (April 2006)<BRK/>
+                                       UFGS-01 57 23 (April 2008)<BRK/>
+<BRK/>
+<HL4>UNIFIED FACILITIES GUIDE SPECIFICATIONS</HL4><BRK/>
+<BRK/>
+<HL4>References are in agreement with UMRL dated April 2019</HL4><BRK/>
+<AST/><BRK/></HDR>
+<BRK/>
+<SCN>SECTION 01 57 19</SCN><BRK/>
+<BRK/>
+<STL>TEMPORARY ENVIRONMENTAL CONTROLS</STL><BRK/>
+<DTE>11/15</DTE><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This guide specification covers the requirements for <SCP>environmental protection 
+and other environmental temporary controls</SCP>.<BRK/>
+<BRK/>
+Use this specification for design and construction projects located CONUS and 
+OCONUS. Edit this specification to the extent that is allowed and does not conflict 
+with the applicable Status of Forces Agreements (SOFA), Host Nation-Funded Construction 
+Agreements (HNFA), and in some instances, Bilateral Infrastructure Agreements 
+(BIA), and country-specific Final Governing Standards (FGS) or the DoD Overseas 
+Environmental Baseline Guidance Document (OEBGD), DoD 4715.05-G. The OEBGD applies 
+when there are no FGS in place.<BRK/>
+<BRK/>
+Only edit the parts of this specification section that have bracketed choices.<BRK/>
+<BRK/>
+Many States and Municipalities have more stringent or additional requirements:<BRK/>
+<BRK/>
+For Navy projects, use this section and Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL 
+TEMPORARY ENVIRONMENTAL CONTROLS, which contains State and Local requirements.  
+Add any further local requirements into Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL 
+TEMPORARY ENVIRONMENTAL CONTROLS.  Use these sections for both Design-Bid-Build 
+and Design-Build projects.<BRK/>
+<BRK/>
+For Army projects.  Edit this section to include weblinks to the State or Local 
+requirement.  Add the State and Local source to the Reference list and cite 
+within the body of this section.  Clearly state in this section deviations from 
+the State and Local requirements.<BRK/>
+<BRK/>
+Adhere to <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-1-300-02">UFC 1-300-02</URL> Unified Facilities Guide Specifications (UFGS) Format 
+Standard when editing this guide specification or preparing new project specification 
+sections.  Edit this guide specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed items, choose applicable 
+item(s) or insert appropriate information.<BRK/>
+<BRK/>
+Remove information and requirements not required in respective project, whether 
+or not brackets are present.<BRK/>
+<BRK/>
+TO DOWNLOAD UFGS GRAPHICS:<BRK/>
+Go to <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL><BRK/>
+<BRK/>
+Comments, suggestions and recommended changes for this guide specification are 
+welcome and should be submitted as a <URL HREF="http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs">Criteria Change Request (CCR)</URL>.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<PRT><TTL>PART 1   GENERAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL>REFERENCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is used to list the publications cited in the text of 
+the guide specification.  The publications are referred to in the text by basic 
+designation only and listed in this paragraph by organization, designation, 
+date, and title.<BRK/>
+<BRK/>
+Use the Reference Wizard's Check Reference feature when you add a Reference 
+Identifier (RID) outside of the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also use the Reference Wizard's 
+Check Reference feature to update the issue dates.<BRK/>
+<BRK/>
+References not used in the text will automatically be deleted from this section 
+of the project specification when you choose to reconcile references in the 
+publish print process.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The publications listed below form a part of this specification to the extent referenced.  The publications are 
+referred to within the text by the basic designation only.</TXT><BRK/>
+<BRK/>
+<REF><ORG>U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)</ORG><BRK/><BRK/><RID>EPA SW-846</RID><RTL>(Third Edition; Update IV) Test Methods for Evaluating Solid Waste: Physical/Chemical Methods</RTL><BRK/><BRK/></REF><REF><ORG>U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)</ORG><BRK/><BRK/><RID>29 CFR 1910.120</RID><RTL>Hazardous Waste Operations and Emergency Response</RTL><BRK/><BRK/><RID>40 CFR 112</RID><RTL>Oil Pollution Prevention</RTL><BRK/><BRK/><RID>40 CFR 122.26</RID><RTL>Storm Water Discharges (Applicable to State NPDES Programs, see section 123.25)</RTL><BRK/><BRK/><RID>40 CFR 152</RID><RTL>Pesticide Registration and Classification Procedures</RTL><BRK/><BRK/><RID>40 CFR 152 - 186</RID><RTL>Pesticide Programs</RTL><BRK/><BRK/><RID>40 CFR 241</RID><RTL>Guidelines for Disposal of Solid Waste</RTL><BRK/><BRK/><RID>40 CFR 243</RID><RTL>Guidelines for the Storage and Collection of Residential, Commercial, and Institutional Solid Waste</RTL><BRK/><BRK/><RID>40 CFR 258</RID><RTL>Subtitle D Landfill Requirements</RTL><BRK/><BRK/><RID>40 CFR 260</RID><RTL>Hazardous Waste Management System:  General</RTL><BRK/><BRK/><RID>40 CFR 261</RID><RTL>Identification and Listing of Hazardous Waste</RTL><BRK/><BRK/><RID>40 CFR 261.7</RID><RTL>Residues of Hazardous Waste in Empty Containers</RTL><BRK/><BRK/><RID>40 CFR 262</RID><RTL>Standards Applicable to Generators of Hazardous Waste</RTL><BRK/><BRK/><RID>40 CFR 262.31</RID><RTL>Standards Applicable to Generators of Hazardous Waste-Labeling</RTL><BRK/><BRK/><RID>40 CFR 262.34</RID><RTL>Standards Applicable to Generators of Hazardous Waste-Accumulation Time</RTL><BRK/><BRK/><RID>40 CFR 263</RID><RTL>Standards Applicable to Transporters of Hazardous Waste</RTL><BRK/><BRK/><RID>40 CFR 264</RID><RTL>Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and Disposal Facilities</RTL><BRK/><BRK/><RID>40 CFR 265</RID><RTL>Interim Status Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and Disposal Facilities</RTL><BRK/><BRK/><RID>40 CFR 266</RID><RTL>Standards for the Management of Specific Hazardous Wastes and Specific Types of Hazardous Waste Management Facilities</RTL><BRK/><BRK/><RID>40 CFR 268</RID><RTL>Land Disposal Restrictions</RTL><BRK/><BRK/><RID>40 CFR 273</RID><RTL>Standards for Universal Waste Management</RTL><BRK/><BRK/><RID>40 CFR 273.2</RID><RTL>Standards for Universal Waste Management - Batteries</RTL><BRK/><BRK/><RID>40 CFR 273.3</RID><RTL>Standards for Universal Waste Management - Pesticides</RTL><BRK/><BRK/><RID>40 CFR 273.4</RID><RTL>Standards for Universal Waste Management - Mercury Containing Equipment</RTL><BRK/><BRK/><RID>40 CFR 273.5</RID><RTL>Standards for Universal Waste Management - Lamps</RTL><BRK/><BRK/><RID>40 CFR 279</RID><RTL>Standards for the Management of Used Oil</RTL><BRK/><BRK/><RID>40 CFR 300</RID><RTL>National Oil and Hazardous Substances Pollution Contingency Plan</RTL><BRK/><BRK/><RID>40 CFR 300.125</RID><RTL>National Oil and Hazardous Substances Pollution Contingency Plan - Notification and Communications</RTL><BRK/><BRK/><RID>40 CFR 355</RID><RTL>Emergency Planning and Notification</RTL><BRK/><BRK/><RID>40 CFR 403</RID><RTL>General Pretreatment Regulations for Existing and New Sources of Pollution</RTL><BRK/><BRK/><RID>40 CFR 50</RID><RTL>National Primary and Secondary Ambient Air Quality Standards</RTL><BRK/><BRK/><RID>40 CFR 60</RID><RTL>Standards of Performance for New Stationary Sources</RTL><BRK/><BRK/><RID>40 CFR 61</RID><RTL>National Emission Standards for Hazardous Air Pollutants</RTL><BRK/><BRK/><RID>40 CFR 63</RID><RTL>National Emission Standards for Hazardous Air Pollutants for Source Categories</RTL><BRK/><BRK/><RID>40 CFR 64</RID><RTL>Compliance Assurance Monitoring</RTL><BRK/><BRK/><RID>40 CFR 745</RID><RTL>Lead-Based Paint Poisoning Prevention in Certain Residential Structures</RTL><BRK/><BRK/><RID>40 CFR 761</RID><RTL>Polychlorinated Biphenyls (PCBs) Manufacturing, Processing, Distribution in Commerce, and Use Prohibitions</RTL><BRK/><BRK/><RID>49 CFR 171</RID><RTL>General Information, Regulations, and Definitions</RTL><BRK/><BRK/><RID>49 CFR 172</RID><RTL>Hazardous Materials Table, Special Provisions, Hazardous Materials Communications, Emergency Response Information, and Training Requirements</RTL><BRK/><BRK/><RID>49 CFR 172.101</RID><RTL>Hazardous Material Regulation-Purpose and Use of Hazardous Material Table</RTL><BRK/><BRK/><RID>49 CFR 173</RID><RTL>Shippers - General Requirements for Shipments and Packagings</RTL><BRK/><BRK/><RID>49 CFR 178</RID><RTL>Specifications for Packagings</RTL><BRK/><BRK/></REF></SPT><SPT><TTL>DEFINITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete definitions not used within the section edited for a project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Class I and II Ozone Depleting Substance (ODS)</TTL><BRK/>
+<BRK/>
+<TXT>Class I ODS is defined in Section 602(a) of The Clean Air Act.  A list of Class I ODS can be found on the EPA 
+website at the following weblink. <URL>https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances</URL>.</TXT><BRK/>
+<BRK/>
+<TXT>Class II ODS is defined in Section 602(s) of The Clean Air Act.  A list of Class II ODS can be found on the EPA 
+website at the following weblink. <URL>https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances</URL>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor Generated Hazardous Waste</TTL><BRK/>
+<BRK/>
+<TXT>Contractor generated hazardous waste is materials that, if abandoned or disposed of, may meet the definition 
+of a hazardous waste.  These waste streams would typically consist of material brought on site by the Contractor 
+to execute work, but are not fully consumed during the course of construction.  Examples include, but are not 
+limited to, excess paint thinners (i.e. methyl ethyl ketone, toluene), waste thinners, excess paints, excess 
+solvents, waste solvents, excess pesticides, and contaminated pesticide equipment rinse water.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Electronics Waste</TTL><BRK/>
+<BRK/>
+<TXT>Electronics waste is discarded electronic devices intended for salvage, recycling, or disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Environmental Pollution and Damage</TTL><BRK/>
+<BRK/>
+<TXT>Environmental pollution and damage is the presence of chemical, physical, or biological elements or agents which 
+adversely affect human health or welfare; unfavorably alter ecological balances of importance to human life; 
+affect other species of importance to humankind; or degrade the environment aesthetically, culturally or historically.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Environmental Protection</TTL><BRK/>
+<BRK/>
+<TXT>Environmental protection is the prevention/control of pollution and habitat disruption that may occur to the 
+environment during construction.  The control of environmental pollution and damage requires consideration of 
+land, water, and air; biological and cultural resources; and includes management of visual aesthetics; noise; 
+solid, chemical, gaseous, and liquid waste; radiant energy and radioactive material as well as other pollutants.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hazardous Debris</TTL><BRK/>
+<BRK/>
+<TXT>As defined in paragraph SOLID WASTE, debris that contains listed hazardous waste (either on the debris surface, 
+or in its interstices, such as pore structure) in accordance with <RID>40 CFR 261</RID>.  Hazardous debris also includes 
+debris that exhibits a characteristic of hazardous waste in accordance with <RID>40 CFR 261</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hazardous Materials</TTL><BRK/>
+<BRK/>
+<TXT>Hazardous materials as defined in <RID>49 CFR 171</RID> and listed in <RID>49 CFR 172</RID>.</TXT><BRK/>
+<BRK/>
+<TXT>Hazardous material is any material that:  Is regulated as a hazardous material in accordance with <RID>49 CFR 173</RID>; 
+or requires a Safety Data Sheet (SDS) in accordance with <RID>29 CFR 1910.120</RID>; or during end use, treatment, handling, 
+packaging, storage, transportation, or disposal meets or has components that meet or have potential to meet the 
+definition of a hazardous waste as defined by <RID>40 CFR 261</RID> Subparts A, B, C, or D.  Designation of a material by 
+this definition, when separately regulated or controlled by other sections or directives, does not eliminate 
+the need for adherence to that hazard-specific guidance which takes precedence over this section for "control" 
+purposes.  Such material includes ammunition, weapons, explosive actuated devices, propellants, pyrotechnics, 
+chemical and biological warfare materials, medical and pharmaceutical supplies, medical waste and infectious 
+materials, bulk fuels, radioactive materials, and other materials such as asbestos, mercury, and polychlorinated 
+biphenyls (PCBs).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hazardous Waste</TTL><BRK/>
+<BRK/>
+<TXT>Hazardous Waste is any material that meets the definition of a solid waste and exhibit a hazardous characteristic 
+(ignitability, corrosivity, reactivity, or toxicity) as specified in <RID>40 CFR 261</RID>, Subpart C, or contains a listed 
+hazardous waste as identified in <RID>40 CFR 261</RID>, Subpart D.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY"><SPT><TTL>Installation Pest Management Coordinator</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE: Use this paragraph for Army projects only.  Do not use for Navy or Air 
+Force projects.  Paragraph is tailored for Army use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Installation Pest Management Coordinator (IPMC) is the individual officially designated by the Installation Commander 
+to oversee the Installation Pest Management Program and the Installation Pest Management Plan.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Land Application</TTL><BRK/>
+<BRK/>
+<TXT>Land Application means spreading or spraying discharge water at a rate that allows the water to percolate into 
+the soil.  No sheeting action, soil erosion, discharge into storm sewers, discharge into defined drainage areas, 
+or discharge into the "waters of the United States" must occur.  Comply with federal, state, and local laws and 
+regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Municipal Separate Storm Sewer System (MS4) Permit</TTL><BRK/>
+<BRK/>
+<TXT>MS4 permits are those held by installations to obtain NPDES permit coverage for their stormwater discharges.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>National Pollutant Discharge Elimination System (NPDES)</TTL><BRK/>
+<BRK/>
+<TXT>The NPDES permit program controls water pollution by regulating point sources that discharge pollutants into 
+waters of the United States. </TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oily Waste</TTL><BRK/>
+<BRK/>
+<TXT>Oily waste are those materials that are, or were, mixed with Petroleum, Oils, and Lubricants (POLs) and have 
+become separated from that POLs.  Oily wastes also means materials, including wastewaters, centrifuge solids, 
+filter residues or sludges, bottom sediments, tank bottoms, and sorbents which have come into contact with and 
+have been contaminated by, POLs and may be appropriately tested and discarded in a manner which is in compliance 
+with other state and local requirements.</TXT><BRK/>
+<BRK/>
+<TXT>This definition includes materials such as oily rags, "kitty litter" sorbent clay and organic sorbent material.  
+These materials may be land filled provided that:  It is not prohibited in other state regulations or local ordinances; 
+the amount generated is "de minimus" (a small amount); it is the result of minor leaks or spills resulting from 
+normal process operations; and free-flowing oil has been removed to the practicable extent possible.  Large quantities 
+of this material, generated as a result of a major spill or in lieu of proper maintenance of the processing equipment, 
+are a solid waste.  As a solid waste, perform a hazardous waste determination prior to disposal.  As this can 
+be an expensive process, it is recommended that this type of waste be minimized through good housekeeping practices 
+and employee education.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY"><SPT><TTL>Pesticide</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for Army use only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Pesticide is any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating 
+any pest, or intended for use as a plant regulator, defoliant or desiccant.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><TAI OPT="ARMY"><SPT><TTL>Pesticide Treatment Plan</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for Army use only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A plan for the prevention, monitoring, and control to eliminate pest infestation.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><TAI OPT="ARMY"><SPT><TTL>Pests</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for Army use only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Pests are arthropods, birds, rodents, nematodes, fungi, bacteria, viruses, algae, snails, marine borers, snakes, 
+weeds and other organisms (except for human or animal disease-causing organisms) that adversely affect readiness, 
+military operations, or the well-being of personnel and animals; attack or damage real property, supplies, equipment, 
+or vegetation; or are otherwise undesirable. </TXT><BRK/>
+<BRK/></SPT>
+</TAI><TAI OPT="ARMY"><SPT><TTL>Project Pesticide Coordinator</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This paragraph is tailored for Army use only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The Project Pesticide Coordinator (PPC) is an individual who resides at a Civil Works Project office and who 
+is responsible overseeing of pesticide application on project grounds.</TXT><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Regulated Waste</TTL><BRK/>
+<BRK/>
+<TXT>Regulated waste are solid wastes that have specific additional federal, state, or local controls for handling, 
+storage, or disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Sediment</TTL><BRK/>
+<BRK/>
+<TXT>Sediment is soil and other debris that have eroded and have been transported by runoff water or wind.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Solid Waste</TTL><BRK/>
+<BRK/>
+<TXT>Solid waste is a solid, liquid, semi-solid or contained gaseous waste.  A solid waste can be a hazardous waste, 
+non-hazardous waste, or non-Resource Conservation and Recovery Act (RCRA) regulated waste.  Types of solid waste 
+typically generated at construction sites may include:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Debris</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  State and local requirements regarding the acceptability of reinforcement 
+in inert debris vary.  Check with the Solid Waste Authority at the state or 
+local level and edit the second sentence accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Debris is non-hazardous solid material generated during the construction, demolition, or renovation of a structure 
+that exceeds<MET> 60 mm</MET><ENG> 2.5-inch</ENG> particle size that is: a manufactured object; plant or animal matter; or natural 
+geologic material (for example, cobbles and boulders), broken or removed concrete, masonry, and rock asphalt 
+paving; ceramics; roofing paper and shingles.  Inert materials [may][may not] be reinforced with or contain ferrous 
+wire, rods, accessories and weldments.  A mixture of debris and other material such as soil or sludge is also 
+subject to regulation as debris if the mixture is comprised primarily of debris by volume, based on visual inspection.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Green Waste</TTL><BRK/>
+<BRK/>
+<TXT>Green waste is the vegetative matter from landscaping, land clearing and grubbing, including, but not limited 
+to, grass, bushes, scrubs, small trees and saplings, tree stumps and plant roots.  Marketable trees, grasses 
+and plants that are indicated to remain, be re-located, or be re-used are not included.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Material not regulated as solid waste</TTL><BRK/>
+<BRK/>
+<TXT>Material not regulated as solid waste is nuclear source or byproduct materials regulated under the Federal Atomic 
+Energy Act of 1954 as amended; suspended or dissolved materials in domestic sewage effluent or irrigation return 
+flows, or other regulated point source discharges; regulated air emissions; and fluids or wastes associated with 
+natural gas or crude oil exploration or production.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Non-Hazardous Waste</TTL><BRK/>
+<BRK/>
+<TXT>Non-hazardous waste is waste that is excluded from, or does not meet, hazardous waste criteria in accordance 
+with <RID>40 CFR 263</RID>.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Recyclables</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  State and local requirements regarding the inclusion within recyclables 
+of paint cans and lead contaminated or lead based paint contaminated metal or 
+wiring sold to scrap metal companies vary.  Check with the Solid Waste Authority 
+at the state or local level and edit accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Recyclables are materials, equipment and assemblies such as doors, windows, door and window frames, plumbing 
+fixtures, glazing and mirrors that are recovered and sold as recyclable,[ wiring,][ insulated/non-insulated copper 
+wire cable,][ wire rope,] and structural components.  It also includes commercial-grade refrigeration equipment 
+with Freon removed, household appliances where the basic material content is metal, clean polyethylene terephthalate 
+bottles, cooking oil, used fuel oil, textiles, high-grade paper products and corrugated cardboard, stackable 
+pallets in good condition, clean crating material, and clean rubber/vehicle tires.  Metal meeting the definition 
+of lead contaminated or lead based paint contaminated [may][may not] be included as recyclable if sold to a scrap 
+metal company.  Paint cans that meet the definition of empty containers in accordance with <RID>40 CFR 261.7</RID> may be 
+included as recyclable if sold to a scrap metal company.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Surplus Soil</TTL><BRK/>
+<BRK/>
+<TXT>Surplus soil is existing soil that is in excess of what is required for this work, including aggregates intended, 
+but not used, for on-site mixing of concrete, mortars, and paving.  Contaminated soil meeting the definition 
+of hazardous material or hazardous waste is not included and must be managed in accordance with paragraph HAZARDOUS 
+MATERIAL MANAGEMENT.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Scrap Metal</TTL><BRK/>
+<BRK/>
+<TXT>This includes scrap and excess ferrous and non-ferrous metals such as reinforcing steel, structural shapes, pipe, 
+and wire that are recovered or collected and disposed of as scrap.  Scrap metal meeting the definition of hazardous 
+material or hazardous waste is not included.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wood</TTL><BRK/>
+<BRK/>
+<TXT>Wood is dimension and non-dimension lumber, plywood, chipboard, hardboard.  Treated or painted wood that meets 
+the definition of lead contaminated or lead based contaminated paint is not included.  Treated wood includes, 
+but is not limited to, lumber, utility poles, crossties, and other wood products with chemical treatment.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Surface Discharge</TTL><BRK/>
+<BRK/>
+<TXT>Surface discharge means discharge of water into drainage ditches, storm sewers, creeks or "waters of the United 
+States".  Surface discharges are discrete, identifiable sources and require a permit from the governing agency.  
+Comply with federal, state, and local laws and regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wastewater</TTL><BRK/>
+<BRK/>
+<TXT>Wastewater is the used water and solids from a community that flow to a treatment plant.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Stormwater</TTL><BRK/>
+<BRK/>
+<TXT>Stormwater is any precipitation in an urban or suburban area that does not evaporate or soak into the ground, 
+but instead collects and flows into storm drains, rivers, and streams.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Waters of the United States</TTL><BRK/>
+<BRK/>
+<TXT>Waters of the United States means Federally jurisdictional waters, including wetlands, that are subject to regulation 
+under Section 404 of the Clean Water Act or navigable waters, as defined under the Rivers and Harbors Act.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wetlands</TTL><BRK/>
+<BRK/>
+<TXT>Wetlands are those areas that are inundated or saturated by surface or groundwater at a frequency and duration 
+sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted 
+for life in saturated soil conditions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Universal Waste</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>Note:  States' universal waste regulations may differ from the federal requirements 
+below. Verify all constituents listed below are categorized as universal waste 
+by the State where the project is located and edit accordingly. For Navy projects, 
+refer to Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS 
+for additional requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The universal waste regulations streamline collection requirements for certain hazardous wastes in the following 
+categories: batteries, pesticides, mercury-containing equipment (for example, thermostats), and lamps (for example, 
+fluorescent bulbs).  The rule is designed to reduce hazardous waste in the municipal solid waste (MSW) stream 
+by making it easier for universal waste handlers to collect these items and send them for recycling or proper 
+disposal.  These regulations can be found at <RID>40 CFR 273</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SUBMITTALS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review Submittal Description (SD) definitions in Section <SRF>01 33 00</SRF> SUBMITTAL 
+PROCEDURES and edit the following list to reflect only the submittals required 
+for the project.<BRK/>
+<BRK/>
+The Guide Specification technical editors have designated those items that require 
+Government approval, due to their complexity or criticality, with a "G."  Generally, 
+other submittal items can be reviewed by the Contractor's Quality Control System.  
+Only add a "G" to an item, if the submittal is sufficiently important or complex 
+in context of the project.<BRK/>
+<BRK/>
+For submittals requiring Government approval on Army projects, a code of up 
+to three characters within the submittal tags may be used following the "G" 
+designation to indicate the approving authority.  Codes for Army projects using 
+the Resident Management System (RMS) are:  "AE" for Architect-Engineer; "DO" 
+for District Office (Engineering Division or other organization in the District 
+Office); "AO" for Area Office; "RO" for Resident Office; and "PO" for Project 
+Office.  Codes following the "G" typically are not used for Navy, Air Force, 
+and NASA projects.<BRK/>
+<BRK/>
+The "S" following a submittal item indicates that the submittal is required 
+for the Sustainability eNotebook to fulfill federally mandated sustainable requirements 
+in accordance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  Locate the "S" 
+submittal under the SD number that best describes the submittal item.<BRK/>
+<BRK/>
+Choose the first bracketed item for Navy, Air Force and NASA projects, or choose 
+the second bracketed item for Army projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Government approval is required for submittals with a "G" designation; submittals not having a "G" designation 
+are [for Contractor Quality Control approval.][for information only.  When used, a designation following the 
+"G" designation identifies the office that will review the submittal for the Government.]  Submittals with an 
+"S" are for inclusion in the Sustainability eNotebook, in conformance with Section <SRF>01 33 29</SRF> SUSTAINABILITY REPORTING.  
+Submit the following in accordance with Section <SRF>01 33 00</SRF> SUBMITTAL PROCEDURES:</TXT><BRK/>
+<BRK/>
+<LST><SUB>SD-01 Preconstruction Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Preconstruction Survey</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Solid Waste Management Permit</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Regulatory Notifications</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Environmental Protection Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Stormwater Notice of Intent</SUB> (for NPDES coverage under the general permit for construction activities); <SUB>
+G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Dirt and Dust Control Plan</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Employee Training Records</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Environmental Manager Qualifications</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-06 Test Reports</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Laboratory Analysis</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Inspection Reports</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Solid Waste Management Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-07 Certificates</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Employee Training Records</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<TAI OPT="NAVY"><BRK/>
+<ITM><SUB>ECATTS Certificate Of Completion</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/></TAI>
+<TAI OPT="ARMY"><BRK/>
+<ITM><SUB>Certificate of Competency</SUB></ITM><BRK/></TAI>
+<BRK/>
+<ITM><SUB>Erosion and Sediment Control Inspector</SUB> Qualifications</ITM><BRK/>
+<BRK/>
+<LST><SUB>SD-11 Closeout Submittals</SUB></LST><BRK/>
+<BRK/>
+<ITM><SUB>Stormwater Pollution Prevention Plan Compliance Notebook</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Stormwater Notice of Termination</SUB> (for NPDES coverage under the general permit for construction 
+activities); <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Waste Determination Documentation</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Disposal Documentation for Hazardous and Regulated Waste</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Assembled Employee Training Records</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Solid Waste Management Permit</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Solid Waste Management Report</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<TAI OPT="NAVY"><BRK/>
+<ITM><SUB>Contractor Hazardous Material Inventory Log</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/></TAI>
+<BRK/>
+<ITM><SUB>Hazardous Waste/Debris Management</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Regulatory Notifications</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Sales Documentation</SUB>; <SUB>G<TAI OPT="ARMY">[, [_____]]</TAI></SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>Contractor Certification</SUB></ITM><BRK/>
+<BRK/>
+<ITM><SUB>As-Built Topographic Survey</SUB></ITM><BRK/>
+<BRK/></SPT>
+<SPT><TTL>ENVIRONMENTAL PROTECTION REQUIREMENTS</TTL><BRK/>
+<BRK/>
+<TXT>Provide and maintain, during the life of the contract, environmental protection as defined.  Plan for and provide 
+environmental protective measures to control pollution that develops during construction practice.  Plan for 
+and provide environmental protective measures required to correct conditions that develop during the construction 
+of permanent or temporary environmental features associated with the project.  Protect the environmental resources 
+within the project boundaries and those affected outside the limits of permanent work during the entire duration 
+of this Contract.  Comply with federal, state, and local regulations pertaining to the environment, including 
+water, air, solid waste, hazardous waste and substances, oily substances, and noise pollution.</TXT><BRK/>
+<BRK/>
+<TXT>Tests and procedures assessing whether construction operations comply with Applicable Environmental Laws may 
+be required.  Analytical work must be performed by qualified laboratories; and where required by law, the laboratories 
+must be certified.</TXT><BRK/>
+<BRK/>
+<TAI OPT="NAVY"><SPT><TTL>Training in Environmental Compliance Assessment Training and Tracking System (ECATTS)</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph and subparagraphs for Navy projects only.  Delete 
+for other projects.  Paragraph is tailored for Navy use.<BRK/>
+<BRK/>
+Coordinate with the Installation Environmental Office to add additional staff 
+that require training.  Coordinate with paragraph ENVIRONMENTAL MANAGER.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Personnel Requirements</TTL><BRK/>
+<BRK/>
+<TXT>The Environmental Manager is responsible for environmental compliance on projects.  The Environmental Manager[ 
+and other staff], must complete applicable ECATTS training modules (installation specific or general) prior to 
+starting respective portions of on-site work under this Contract.  If personnel changes occur for any of these 
+positions after starting work, replacement personnel must complete applicable ECATTS training within 14 days 
+of assignment to the project.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Certification</TTL><BRK/>
+<BRK/>
+<TXT>Submit an <SUB>ECATTS certificate of completion</SUB> for personnel who have completed the required ECATTS training.  This 
+training is web-based and can be accessed from any computer with Internet access using the following instructions.</TXT><BRK/>
+<BRK/>
+<TXT>Register for NAVFAC Environmental Compliance Assessment, Training, and Tracking System, by logging on to <URL>https://environmentaltraining.ecatts.com/</URL>
+.  Obtain the password for registration from the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Refresher Training</TTL><BRK/>
+<BRK/>
+<TXT>This training has been structured to allow contractor personnel to receive credit under this contract and to 
+carry forward credit to future contracts.  Ensure the Environmental Manager review their training plans for new 
+modules or updated training requirements prior to beginning work.  Some training modules are tailored for specific 
+state regulatory requirements; therefore, Contractors working in multiple states will be required to retake modules 
+tailored to the state where the contract work is being performed.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></TAI><SPT><TTL>Conformance with the Environmental Management System</TTL><BRK/>
+<BRK/>
+<TXT>Perform work under this contract consistent with the policy and objectives identified in the installation's Environmental 
+Management System (EMS).  Perform work in a manner that conforms to objectives and targets of the environmental 
+programs and operational controls identified by the EMS.  Support Government personnel when environmental compliance 
+and EMS audits are conducted by escorting auditors at the Project site, answering questions, and providing proof 
+of records being maintained.  Provide monitoring and measurement information as necessary to address environmental 
+performance relative to environmental, energy, and transportation management goals.  In the event an EMS nonconformance 
+or environmental noncompliance associated with the contracted services, tasks, or actions occurs, take corrective 
+and preventative actions.  In addition, employees must be aware of their roles and responsibilities under the 
+installation EMS and of how these EMS roles and responsibilities affect work performed under the contract.</TXT><BRK/>
+<BRK/>
+<TXT>Coordinate with the installation's EMS coordinator to identify training needs associated with environmental aspects 
+and the EMS, and arrange training or take other action to meet these needs.  Provide training documentation to 
+the Contracting Officer.  The Installation Environmental Office will retain associated environmental compliance 
+records.  Make EMS Awareness training completion certificates available to Government auditors during EMS audits 
+and include the certificates in the Employee Training Records.  See paragraph EMPLOYEE TRAINING RECORDS.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SPECIAL ENVIRONMENTAL REQUIREMENTS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The special environmental requirements with which the Contractor must 
+comply must be developed during the design process, included in the bidding 
+documents, and made a part of the contract.  The special environmental requirements 
+must be developed by the Designer from such documents as the National Environmental 
+Policy Act (NEPA) compliance measures specified in the Categorical Exclusion 
+documentation, Environmental Assessment (EA), or the Environmental Impact Statement 
+(EIS), the Installation Master Plan, or the Installation Storm Water Management 
+Plan.  For Civil Works projects, the Environmental commitments made during planning 
+are usually tracked by Project Management.  Coordination with the Project Manager 
+is essential in developing the special requirements.<BRK/>
+<BRK/>
+List attachments referenced below in paragraph LICENSES AND PERMITS, which require 
+Contractor's actions, in the blank provided and attach to the end of this Section.  
+Remove this paragraph if not required in the project after coordination with 
+paragraph LICENSES AND PERMITS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Comply with the special environmental requirements listed here [_____] and attached at the end of this section.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>QUALITY ASSURANCE</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Preconstruction Survey and Protection of Features</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph as applicable.  For example, it may not be necessary 
+for an interior renovation project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>This paragraph supplements the Contract Clause PROTECTION OF EXISTING VEGETATION, STRUCTURES, EQUIPMENT, UTILITIES, 
+AND IMPROVEMENTS.  Prior to start of any onsite construction activities, perform a <SUB>Preconstruction Survey</SUB> of 
+the project site with the Contracting Officer, and take photographs showing existing environmental conditions 
+in and adjacent to the site.  Submit a report for the record.  Include in the report a plan describing the features 
+requiring protection under the provisions of the Contract Clauses, which are not specifically identified on the 
+drawings as environmental features requiring protection along with the condition of trees, shrubs and grassed 
+areas immediately adjacent to the site of work and adjacent to the Contractor's assigned storage area and access 
+route(s), as applicable.  The Contractor and the Contracting Officer will sign this survey report upon mutual 
+agreement regarding its accuracy and completeness.  Protect those environmental features included in the survey 
+report and any indicated on the drawings, regardless of interference that their preservation may cause to the 
+work under the Contract.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Regulatory Notifications</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with the Installation Environmental Office to fill in the 
+number of days that notification is required prior to work starting.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide regulatory notification requirements in accordance with federal, state and local regulations.  In cases 
+where the Government will also provide public notification (such as stormwater permitting), coordinate with the 
+Contracting Officer.  Submit copies of regulatory notifications to the Contracting Officer at least [_____] days 
+prior to commencement of work activities.  Typically, regulatory notifications must be provided for the following 
+(this listing is not all-inclusive): demolition, renovation, NPDES defined site work, construction, removal or 
+use of a permitted air emissions source, and remediation of controlled substances (asbestos, hazardous waste, 
+lead paint).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Environmental Brief</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate incorporation of this requirement with the Installation Environmental 
+Office.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Attend an environmental brief to be included in the preconstruction meeting.  Provide the following information: 
+types, quantities, and use of hazardous materials that will be brought onto the installation; and types and quantities 
+of wastes/wastewater that may be generated during the Contract. Discuss the results of the Preconstruction Survey 
+at this time.</TXT><BRK/>
+<BRK/>
+<TXT>Prior to initiating any work on site, meet with the Contracting Officer and installation Environmental Office 
+to discuss the proposed Environmental Protection Plan (EPP).  Develop a mutual understanding relative to the 
+details of environmental protection, including measures for protecting natural and cultural resources, required 
+reports, required permits, permit requirements (such as mitigation measures), and other measures to be taken.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Environmental Manager</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate incorporation of this requirement with the Installation Environmental 
+Office.  Consider project environmental risks versus project size or dollar 
+value. A small project, such as demolishing a plating shop could be low cost, 
+but high risk and a large project, such as replacing a roof on a hangar, could 
+be high cost, but low risk.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Appoint in writing an Environmental Manager for the project site.  The Environmental Manager is directly responsible 
+for coordinating contractor compliance with federal, state, local, and installation requirements.  The Environmental 
+Manager must ensure compliance with Hazardous Waste Program requirements (including hazardous waste handling, 
+storage, manifesting, and disposal); implement the EPP; ensure environmental permits are obtained, maintained, 
+and closed out; ensure compliance with Stormwater Program requirements; ensure compliance with Hazardous Materials 
+(storage, handling, and reporting) requirements; and coordinate any remediation of regulated substances (lead, 
+asbestos, PCB transformers).  This can be a collateral position; however, the person in this position must be 
+trained to adequately accomplish the following duties: ensure waste segregation and storage compatibility requirements 
+are met; inspect and manage Satellite Accumulation areas; ensure only authorized personnel add wastes to containers; 
+ensure Contractor personnel are trained in 40 CFR requirements in accordance with their position requirements; 
+coordinate removal of waste containers; and maintain the Environmental Records binder and required documentation, 
+including environmental permits compliance and close-out.  Submit <SUB>Environmental Manager Qualifications</SUB> to the 
+Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>Employee Training Records</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert the bracketed text for projects on a Large Quantity Generator 
+Facility.  See paragraph FACILITY HAZARDOUS WASTE GENERATOR STATUS for determination 
+of generator status.<BRK/>
+<BRK/>
+Erosion and Sediment Control Inspector Qualifications are determined by the 
+state; not all states require the inspector be certified by the state.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prepare and maintain <SUB>Employee Training Records</SUB> throughout the term of the contract meeting applicable 40 CFR 
+requirements.  Provide Employee Training Records in the Environmental Records Binder.[  Ensure every employee 
+completes a program of classroom instruction or on-the-job training that teaches them to perform their duties 
+in a way that ensures compliance with federal, state and local regulatory requirements for RCRA Large Quantity 
+Generator.  Provide a Position Description for each employee, by subcontractor, based on the Davis-Bacon Wage 
+Rate designation or other equivalent method, evaluating the employee's association with hazardous and regulated 
+wastes.  This Position Description will include training requirements as defined in <RID>40 CFR 265</RID> for a Large Quantity 
+Generator facility.]  Submit these <SUB>Assembled Employee Training Records</SUB> to the Contracting Officer at the conclusion 
+of the project, unless otherwise directed.</TXT><BRK/>
+<BRK/>
+<TXT>Train personnel to meet [EPA][state] requirements.  Conduct environmental protection/pollution control meetings 
+for personnel prior to commencing construction activities.  Contact additional meetings for new personnel and 
+when site conditions change.  Include in the training and meeting agenda: methods of detecting and avoiding pollution; 
+familiarization with statutory and contractual pollution standards; installation and care of devices, vegetative 
+covers, and instruments required for monitoring purposes to ensure adequate and continuous environmental protection/pollution 
+control; anticipated hazardous or toxic chemicals or wastes, and other regulated contaminants; recognition and 
+protection of archaeological sites, artifacts, waters of the United States, and endangered species and their 
+habitat that are known to be in the area.[  Provide copy of the <SUB>Erosion and Sediment Control Inspector</SUB>[ Qualifications 
+as defined by EPA][ Certification as required by[ state]].]</TXT><BRK/>
+<BRK/>
+<TAI OPT="ARMY">[<SPT><TTL>Pest Control Training</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for Army projects only.  Delete for other projects.  
+This paragraph is tailored for Army use only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Trained personnel in pest control.  Conduct a pest control meeting for personnel prior to commencing construction 
+activities.  Conduct additional meetings for new personnel and when site conditions change.  Include in the training 
+and meeting agenda:  methods of detecting and pest infestation; familiarization with statutory and contractual 
+pest control standards; installation and care of devices, and instruments, if required, for monitoring purposes 
+to ensure adequate and continuous pest control; anticipated hazardous or toxic chemicals or wastes, and other 
+regulated contaminants; recognition and protection of waters of the United States, and endangered species and 
+their habitat that are known to be in the area. Provide a <SUB>Certificate of Competency</SUB> for the personnel who will 
+be conducting the pesticide application and management of pest control.</TXT><BRK/>
+<BRK/></SPT>
+]</TAI></SPT><SPT><TTL>Non-Compliance Notifications</TTL><BRK/>
+<BRK/>
+<TXT>The Contracting Officer will notify the Contractor in writing of any observed noncompliance with federal, state 
+or local environmental laws or regulations, permits, and other elements of the Contractor's EPP.  After receipt 
+of such notice, inform the Contracting Officer of the proposed corrective action and take such action when approved 
+by the Contracting Officer.  The Contracting Officer may issue an order stopping all or part of the work until 
+satisfactory corrective action has been taken.  FAR 52.242-14 Suspension of Work provides that a suspension, 
+delay, or interruption of work due to the fault or negligence of the Contractor allows for no adjustments to 
+the contract for time extensions or equitable adjustments.  In addition to a suspension of work, the Contracting 
+Officer may use additional authorities under the contract or law..</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL><SUB>ENVIRONMENTAL PROTECTION PLAN</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit this paragraph to include any environmental concerns or plans that 
+may be required for the construction Contractor to protect the environment during 
+construction of the project.  Coordinate the requirements with the Installation 
+Environmental Office in addition to the Federal, State, Regional, and Local agencies.<BRK/>
+<BRK/>
+Some permits required under the Environmental Protection Plan require up to 
+90 days advance regulator notice before site work may begin.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>The purpose of the EPP is to present an overview of known or potential environmental issues that must be considered 
+and addressed during construction.  Incorporate construction related objectives and targets from the installation's 
+EMS into the EPP.  Include in the EPP measures for protecting natural and cultural resources, required reports, 
+and other measures to be taken.  Meet with the Contracting Officer or Contracting Officer Representative to discuss 
+the EPP and develop a mutual understanding relative to the details for environmental protection including measures 
+for protecting natural resources, required reports, and other measures to be taken.  Submit the EPP within [15][_____] 
+days after [Contract award][notice to proceed] and not less than [_____][10] days before the[ preconstruction] 
+meeting.  Revise the EPP throughout the project to include any reporting requirements, changes in site conditions, 
+or contract modifications that change the project scope of work in a way that could have an environmental impact.  
+No requirement in this section will relieve the Contractor of any applicable federal, state, and local environmental 
+protection laws and regulations.  During Construction, identify, implement, and submit for approval any additional 
+requirements to be included in the EPP.  Maintain the current version onsite.</TXT><BRK/>
+<BRK/>
+<TXT>The EPP includes, but is not limited to, the following elements:</TXT><BRK/>
+<BRK/>
+<SPT><TTL>General Overview and Purpose</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Descriptions</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit paragraph below to include those plans required for the project.  
+The bracketed list of plans is for example only and not meant to be all inclusive.<BRK/>
+<BRK/>
+Use bracketed option for Pesticide Treatment Plan for Army projects only; this 
+option is tailored for Army use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>A brief description of each specific plan required by environmental permit or elsewhere in this Contract such 
+as[ stormwater pollution prevention  plan,][ spill control plan,][ solid waste management plan,][ wastewater 
+management plan,][ air pollution control plan,][ contaminant prevention plan,]<TAI OPT="ARMY">[ pesticide treatment plan,]</TAI>[ a 
+historical, archaeological, cultural resources, biological resources and wetlands plan,][ traffic control plan][ 
+Hazardous, Toxic and Radioactive Waste (HTRW) Plan][ Non-Hazardous Solid Waste Disposal Plan][ borrowing material 
+plan][_____].</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Duties</TTL><BRK/>
+<BRK/>
+<TXT>The duties and level of authority assigned to the person(s) on the job site who oversee environmental compliance, 
+such as who is responsible for adherence to the EPP, who is responsible for spill cleanup and training personnel 
+on spill response procedures, who is responsible for manifesting hazardous waste to be removed from the site 
+(if applicable), and who is responsible for training the Contractor's environmental protection personnel.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Procedures</TTL><BRK/>
+<BRK/>
+<TXT>A copy of any standard or project-specific operating procedures that will be used to effectively manage and protect 
+the environment on the project site.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Communications</TTL><BRK/>
+<BRK/>
+<TXT>Communication and training procedures that will be used to convey environmental management requirements to Contractor 
+employees and subcontractors.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contact Information</TTL><BRK/>
+<BRK/>
+<TXT>Emergency contact information contact information (office phone number, cell phone number, and e-mail address).</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>General Site Information</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Drawings</TTL><BRK/>
+<BRK/>
+<TXT>Drawings showing locations of proposed temporary excavations or embankments for haul roads, stream crossings, 
+jurisdictional wetlands, material storage areas, structures, sanitary facilities, storm drains and conveyances, 
+and stockpiles of excess soil.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Work Area</TTL><BRK/>
+<BRK/>
+<TXT>Work area plan showing the proposed activity in each portion of the area and identify the areas of limited use 
+or nonuse.  Include measures for marking the limits of use areas, including methods for protection of features 
+to be preserved within authorized work areas and methods to control runoff and to contain materials on site, 
+and a traffic control plan.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Documentation</TTL><BRK/>
+<BRK/>
+<TXT>A letter signed by an officer of the firm appointing the Environmental Manager and stating that person is responsible 
+for managing and implementing the Environmental Program as described in this contract.  Include in this letter 
+the Environmental Manager's authority to direct the removal and replacement of non-conforming work.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Management of Natural Resources</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Land resources</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Tree protection</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Replacement of damaged landscape features</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Temporary construction</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Stream crossings</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Fish and wildlife resources</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Wetland areas</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protection of Historical and Archaeological Resources</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Objectives</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Methods</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stormwater Management and Control</TTL><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Ground cover</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Erodible soils</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Temporary measures</LST><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(1) Structural Practices</ITM><BRK/>
+<BRK/>
+<ITM INDENT="-0.33">(2) Temporary and permanent stabilization</ITM><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Effective selection, implementation and maintenance of Best Management Practices (BMPs).</LST> <BRK/>
+<BRK/></SPT>
+<SPT><TTL>Protection of the Environment from Waste Derived from Contractor Operations</TTL><BRK/>
+<BRK/>
+<TXT>Control and disposal of solid and sanitary waste.  Control and disposal of hazardous waste.</TXT><BRK/>
+<BRK/>
+<TXT>This item consist of the management procedures for hazardous waste to be generated.  The elements of those procedures 
+will coincide with the Installation Hazardous Waste Management Plan.  The Contracting Officer will provide a 
+copy of the Installation Hazardous Waste Management Plan.  As a minimum, include the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  List of the types of hazardous wastes expected to be generated</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Procedures to ensure a written waste determination is made for appropriate wastes that are to be 
+generated</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Sampling/analysis plan, including laboratory method(s) that will be used for waste determinations 
+and copies of relevant laboratory certifications</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Methods and proposed locations for hazardous waste accumulation/storage (that is, in tanks or containers)</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Management procedures for storage, labeling, transportation, and disposal of waste (treatment of 
+waste is not allowed unless specifically noted)</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">f.  Management procedures and regulatory documentation ensuring disposal of hazardous waste complies 
+with Land Disposal Restrictions (<RID>40 CFR 268</RID>)</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">g.  Management procedures for recyclable hazardous materials such as lead-acid batteries, used oil, and 
+similar</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">h.  Used oil management procedures in accordance with <RID>40 CFR 279</RID>; Hazardous waste minimization procedures</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">i.  Plans for the disposal of hazardous waste by permitted facilities; and Procedures to be employed 
+to ensure required employee training records are maintained.</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Prevention of Releases to the Environment</TTL><BRK/>
+<BRK/>
+<TXT>Procedures to prevent releases to the environment</TXT><BRK/>
+<BRK/>
+<TXT>Notifications in the event of a release to the environment</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Regulatory Notification and Permits</TTL><BRK/>
+<BRK/>
+<TXT>List what notifications and permit applications must be made.  Some permits require up to 180 days to obtain.  
+Demonstrate that those permits have been obtained or applied for by including copies of applicable environmental 
+permits.  The EPP will not be approved until the permits have been obtained.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Clean Air Act Compliance</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Haul Route</TTL><BRK/>
+<BRK/>
+<TXT>Submit truck and material haul routes along with a <SUB>Dirt and Dust Control Plan</SUB> for controlling dirt, debris, and 
+dust on Installation roadways.  As a minimum, identify in the plan the subcontractor and equipment for cleaning 
+along the haul route and measures to reduce dirt, dust, and debris from roadways.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pollution Generating Equipment</TTL><BRK/>
+<BRK/>
+<TXT>Identify air pollution generating equipment or processes that may require federal, state, or local permits under 
+the Clean Air Act.  Determine requirements based on any current installation permits and the impacts of the project. 
+Provide a list of all fixed or mobile equipment, machinery or operations that could generate air emissions during 
+the project to the Installation Environmental Office (Air Program Manager).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Stationary Internal Combustion Engines</TTL><BRK/>
+<BRK/>
+<TXT>Identify portable and stationary internal combustion engines that will be supplied, used or serviced.  Comply 
+with <RID>40 CFR 60</RID> Subpart IIII, <RID>40 CFR 60</RID> Subpart JJJJ, <RID>40 CFR 63</RID> Subpart ZZZZ, and local regulations as applicable.  
+At minimum, include the make, model, serial number, manufacture date, size (engine brake horsepower), and EPA 
+emission certification status of each engine.  Maintain applicable records and log hours of operation and fuel 
+use.  Logs must include reasons for operation and delineate between emergency and non-emergency operation.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Refrigerants</TTL><BRK/>
+<BRK/>
+<TXT>Identify management practices to ensure that heating, ventilation, and air conditioning (HVAC) work involving 
+refrigerants complies with 40 CFR 82 requirements.  Technicians must be certified, maintain copies of certification 
+on site, use certified equipment and log work that requires the addition or removal of refrigerant. Any refrigerant 
+reclaimed is the property of the Government, coordinate with the Installation Environmental Office to determine 
+the appropriate turn in location.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Air Pollution-engineering Processes</TTL><BRK/>
+<BRK/>
+<TXT>Identify planned air pollution-generating processes and management control measures (including, but not limited 
+to, spray painting, abrasive blasting, demolition, material handling, fugitive dust, and fugitive emissions).  
+Log hours of operations and track quantities of materials used.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY"><SPT><TTL>Monitoring</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this tailored paragraph for Army projects only.  This paragraph pertains 
+to Hazardous, Toxic and Radioactive Waste (HTRW) construction when the Designer 
+has determined that the need to protect Air Quality during HTRW remedial action 
+is necessary and appropriate.  The paragraph applies to contaminant emissions 
+to the air from HTRW remedial action construction area sources.<BRK/>
+<BRK/>
+An air pathway analysis needs to be conducted prior to specifying the items 
+below.  The Designer is referred to EP 1110-1-21 Air Pathway Analysis (APA) 
+for the Design of HTRW Remedial Action Project.  Design perimeter air monitoring 
+requirements (action levels for the contaminants of concern, monitoring/sampling 
+frequency) based on APA results.  Specify airborne contaminants of concern, 
+action levels, monitoring/sampling locations below.  See 40 CFR 300.430(e)(9) 
+of the National Contingency Plan.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>For the protection of public health, monitor and control contaminant emissions to the air from Hazardous, Toxic, 
+and Radioactive Waste remedial action area sources to minimize short-term risks that might be posed to the community 
+during implementation of the remedial alternative in accordance with the following.</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Perimeter Air Contaminant of Concern [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Time Averaged Perimeter Action Levels [_____].</LST><BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="2">
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="20.25">
+         <CEL>
+<DTA TYPE="STRING">Concentration</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="27.00">
+         <CEL>
+<DTA TYPE="STRING">Time</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<LST INDENT="-0.33">c.  Perimeter Sampling/Monitoring Location[s] [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">d.  Monitoring Instruments/Sampling and Analysis Methods [_____].</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">e.  Staffing [_____].</LST><BRK/>
+<BRK/></SPT>
+</TAI><SPT><TTL>Compliant Materials</TTL><BRK/>
+<BRK/>
+<TXT>Provide the Government a list of and SDSs for all hazardous materials proposed for use on site.  Materials must 
+be compliant with all Clean Air Act regulations for emissions including solvent and volatile organic compound 
+contents, and applicable National Emission Standards for Hazardous Air Pollutants requirements.  The Government 
+may alter or limit use of specific materials as needed to meet installation permit requirements for emissions.</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT><SPT><TTL>LICENSES AND PERMITS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The terms and conditions contained in any permits obtained by the Government 
+must be made a part of the contract.  The design must be in accordance with 
+these permits.  The title and requirements of this paragraph may be changed 
+to include environmental reviews and approvals, if pertinent.  Coordinate this 
+paragraph with paragraph SPECIAL ENVIRONMENTAL REQUIREMENTS.<BRK/>
+<BRK/>
+For Design-Bid-Build (DBB) projects, establish a list of permits, prepare the 
+permits for review and signature and obtain approval of all permits prior to 
+bid. In rare occasions it may be permissible to note the anticipated permit 
+approval date in the contract.  If this is the case, the contract documents 
+need to clearly define which portion of the work is not to be disturbed by the 
+Contractor and for what time period.<BRK/>
+<BRK/>
+For Design-Build (DB) projects (Request for Proposals) edit the paragraphs below 
+for permits to be obtained.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<TAI OPT="NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For Navy DB and DBB projects:  Complete the Permit Record of Decision 
+(PROD) in consultation with the cognizant Navy civil and environmental engineers 
+and in accordance with FC 1-300-09N, NAVY AND MARINE CORPS DESIGN PROCEDURES.  
+Edit the paragraph below to coordinate with the identified requirements.  Refer 
+to Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS for 
+guidance on locally required permits and licenses.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Obtain licenses and permits required for the construction of the project and in accordance with FAR 52.236-7 
+Permits and Responsibilities.  Notify the Government of all general use permitted equipment the Contractor plans 
+to use on site.  This paragraph supplements the Contractor's responsibility under FAR 52.236-7 Permits and Responsibilities.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit the applicable bracketed paragraphs below as required for the particular project.<BRK/>
+<BRK/>
+Use this paragraph for permits obtained by the Government.  Identify which permits 
+have been obtained by the Government.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">a.  The following permits have been obtained by the Government:</LST><BRK/>
+<BRK/>
+[<ITM INDENT="-0.33">(1) [_____]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) [_____]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) [_____]</ITM><BRK/>
+]]<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Identify which permits will be obtained by the Government.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<LST INDENT="-0.33">b.  The following permits will be obtained by the Government:</LST><BRK/>
+<BRK/>
+[<ITM INDENT="-0.33">(1) [_____]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(2) [_____]</ITM><BRK/>
+<BRK/>
+][<ITM INDENT="-0.33">(3) [_____]</ITM><BRK/>
+<BRK/>
+]]</SPT><SPT><TTL>ENVIRONMENTAL RECORDS BINDER</TTL><BRK/>
+<BRK/>
+<TXT>Maintain on-site a separate three-ring Environmental Records Binder and submit at the completion of the project.  
+Make separate parts within the binder that correspond to each submittal listed under paragraph CLOSEOUT SUBMITTALS 
+in this section.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY">[<SPT><TTL>PESTICIDE DELIVERY, STORAGE, AND HANDLING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph and subsequent subparagraphs for Army projects only.  
+Do not use for Navy, Air Force, or NASA.  Paragraph is tailored for Army use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Delivery and Storage</TTL><BRK/>
+<BRK/>
+<TXT>Deliver pesticides to the site in the original, unopened containers bearing legible labels indicating the EPA 
+registration number and the manufacturer's registered uses.  Store pesticides according to manufacturer's instructions 
+and under lock and key when unattended.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Handling Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Formulate, treat with, and dispose of pesticides and associated containers in accordance with label directions 
+and use the clothing and personal protective equipment specified on the labeling for use during each phases of 
+the application.  Furnish SDSs for pesticide products.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]</TAI><SPT><TTL><SUB>SOLID WASTE MANAGEMENT PERMIT</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Provide the Contracting Officer with written notification of the quantity of anticipated solid waste or debris 
+that is anticipated or estimated to be generated by construction.  Include in the report the locations where 
+various types of waste will be disposed or recycled.  Include letters of acceptance from the receiving location 
+or as applicable; submit one copy of the receiving location state and local Solid Waste Management Permit or 
+license showing such agency's approval of the disposal plan before transporting wastes off Government property.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Solid Waste Management Report</TTL><BRK/>
+<BRK/>
+<TXT>Monthly, submit a solid waste disposal report to the Contracting Officer.  For each waste, the report will state 
+the classification (using the definitions provided in this section), amount, location, and name of the business 
+receiving the solid waste.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>FACILITY HAZARDOUS WASTE GENERATOR STATUS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert the name of the installation in the blank space.  Contact the 
+installation Environmental Office prior to start of design to determine the 
+generator status of the activity, and edit to select the appropriate status.<BRK/>
+<BRK/>
+For Navy projects only, this information should be found in Section 
+<SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[_____] is designated as a[ Large Quantity Generator][ Small Quantity Generator][ Conditionally Exempt-Small 
+Quantity Generator].  Meet the regulatory requirements of this generator designation for any work conducted within 
+the boundaries of this Installation.  Comply with provisions of federal, state, and local regulatory requirements 
+applicable to this generator status regarding training and storage, handling, and disposal of construction derived 
+wastes.</TXT><BRK/>
+<BRK/></SPT>
+</PRT><PRT><TTL>PART 2   PRODUCTS</TTL><BRK/>
+<BRK/>
+<TXT>Not Used</TXT><BRK/>
+<BRK/></PRT>
+<PRT><TTL>PART 3   EXECUTION</TTL><BRK/>
+<BRK/>
+<SPT><TTL>PROTECTION OF NATURAL RESOURCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Specify any special protection requirements and specifically describe 
+how the Contractor is to protect the resources.  This paragraph should be used 
+when the Government knows of resources which should be protected and there are 
+no requirements under Federal, State or local laws or regulations which would 
+ensure that the Contractor would provide protection.  If there are known Endangered 
+or Threatened Species onsite or in the area including their habitat, this paragraph 
+must identify the species and their habitat and must include any requirements 
+or methods for protection.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Minimize interference with, disturbance to, and damage to fish, wildlife, and plants, including their habitats.  
+Prior to the commencement of activities, consult with the Installation Environmental Office, regarding rare species 
+or sensitive habitats that need to be protected.  The protection of rare, threatened, and endangered animal and 
+plant species identified, including their habitats, is the Contractor's responsibility.[  The following species 
+are known and could be affected within the construction area: [_____].]</TXT><BRK/>
+<BRK/>
+<TXT>Preserve the natural resources within the project boundaries and outside the limits of permanent work.  Restore 
+to an equivalent or improved condition upon completion of work that is consistent with the requirements of the 
+Installation Environmental Office or as otherwise specified.  Confine construction activities to within the limits 
+of the work indicated or specified.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Flow Ways</TTL><BRK/>
+<BRK/>
+<TXT>Do not alter water flows or otherwise significantly disturb the native habitat adjacent to the project and critical 
+to the survival of fish and wildlife, except as specified and permitted.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Vegetation</TTL><BRK/>
+<BRK/>
+<TXT>Except in areas to be cleared, do not remove, cut, deface, injure, or destroy trees or shrubs without the Contracting 
+Officer's permission.  Do not fasten or attach ropes, cables, or guys to existing nearby trees for anchorages 
+unless authorized by the Contracting Officer.  Where such use of attached ropes, cables, or guys is authorized, 
+the Contractor is responsible for any resultant damage.</TXT><BRK/>
+<BRK/>
+<TXT>Protect existing trees that are to remain to ensure they are not injured, bruised, defaced, or otherwise damaged 
+by construction operations.  Remove displaced rocks from uncleared areas.  Coordinate with the Contracting Officer 
+and Installation Environmental Office to determine appropriate action for trees and other landscape features 
+scarred or damaged by equipment operations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Streams</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Review federal, state, and local requirements and obtain all necessary 
+permits that are required for stream crossings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Stream crossings must allow movement of materials or equipment without violating water pollution control standards 
+of the federal, state, and local governments.  Construction of stream crossing structures must be in compliance 
+with any required permits including, but not limited to, Clean Water Act Section 404, and Section 401 Water Quality.</TXT><BRK/>
+<BRK/>
+<TXT>The Contracting Officer's approval and appropriate permits are required before any equipment will be permitted 
+to ford live streams.  In areas where frequent crossings are required, install temporary culverts or bridges.  
+Obtain Contracting Officer's approval prior to installation.  Remove temporary culverts or bridges upon completion 
+of work, and repair the area to its original condition unless otherwise required by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>STORMWATER</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Check with Installation Environmental Office to make sure that you are 
+including all relevant state and local agency requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Do not discharge stormwater from construction sites to the sanitary sewer.  If the water is noted or suspected 
+of being contaminated, it may only be released to the storm drain system if the discharge is specifically permitted.  
+Obtain authorization in advance from the Installation Environmental Office for any release of contaminated water.</TXT><BRK/>
+<BRK/>
+[<SPT><TTL>Construction General Permit</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Include this paragraph and subparagraphs when one or more acres (0.4 
+or more hectares) of total land area are to be disturbed or disturbs less than 
+one acre but is part of a larger common plan of development or sale that will 
+disturb one or more acres.  Coordinate with Installation Environmental Office 
+to determine if project is part of larger common plan of development.  Most 
+states are approved to implement the General Permits Program.  EPA remains the 
+permitting authority in a few states, territories, and on most land in Indian 
+Country.  Refer to <BRK/>
+<URL>https://www.epa.gov/npdes/authorization-status-epas-construction-and-industrial-stormwater-programs</URL>
+ for the approved list.  Edit the bracketed item accordingly.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide a Construction General Permit as required by <RID>40 CFR 122.26</RID> or [EPA][the State of [_____]] General Permit.  
+Under the terms and conditions of the permit, install, inspect, maintain BMPs, prepare stormwater erosion and 
+sediment control inspection reports, and submit SWPPP inspection reports.  Maintain construction operations and 
+management in compliance with the terms and conditions of the general permit for stormwater discharges from construction 
+activities.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Stormwater Pollution Prevention Plan</TTL><BRK/>
+<BRK/>
+<TXT>Submit a project-specific Stormwater Pollution Prevention Plan (SWPPP) to the Contracting Officer for approval, 
+prior to the commencement of work.  The SWPPP must meet the requirements of <RID>40 CFR 122.26</RID> and [the EPA General 
+Permit][the [_____] State General Permit] for stormwater discharges from construction sites.</TXT><BRK/>
+<TAI OPT="NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with the Installation Environmental Management Office to edit 
+the bracketed items. Use the last bracketed item "d" for Navy only projects 
+when local environmental controls are provided.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Include the following:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Comply with terms of the [EPA][state] general permit for stormwater discharges from construction 
+activities.  Prepare SWPPP in accordance with [state][EPA] requirements. Use [state][EPA guide Developing 
+your Stormwater Pollution Prevention Plan located at <BRK/>
+<URL>https://www.epa.gov/npdes/developing-stormwater-pollution-prevention-plan-swppp</URL> to prepare the SWPPP.]</LST> <BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Select applicable BMPs from EPA Fact Sheets located at <BRK/>
+<URL>https://www.epa.gov/npdes/national-menu-best-management-practices-bmps-stormwater#constr</URL> or in accordance 
+with applicable state or local requirements.</LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Include a completed copy of the Notice of Intent, BMP Inspection Report Template, and Stormwater 
+Notice of Termination, except for the effective date.</LST><BRK/>
+<TAI OPT="NAVY"><BRK/>
+[<LST INDENT="-0.33">d.  Comply with additional requirements provided in Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL 
+CONTROLS</LST>]<BRK/></TAI>
+<BRK/></SPT>
+<SPT><TTL><SUB>Stormwater Notice of Intent</SUB> for Construction Activities</TTL><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Refer to the Construction General Permit for Construction Activities 
+permit application form to determine if co-permittee status, with the Contractor 
+and Installation covered under one permit, is required by the permitting authority.  
+Choose first bracketed sentence when co-permittee status is not required.  Choose 
+second bracketed sentence when co-permittee status is required.<BRK/>
+<TAI OPT="NAVY"><BRK/>
+Use the last, tailored paragraph for Navy projects only.</TAI></NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Prepare and submit the Notice of Intent for NPDES coverage under the general permit for construction activities 
+to the Contracting Officer for review and approval.</TXT><BRK/>
+<BRK/>
+][<TXT>Prepare and submit a Notice of Intent as a co-permittee to the Contracting Officer, for review and approval.</TXT><BRK/>
+<BRK/>
+]<TXT>Submit the approved NOI and appropriate permit fees onto the appropriate federal or state agency for approval.  
+No land disturbing activities may commence without permit coverage.  Maintain an approved copy of the SWPPP at 
+the onsite construction office, and continually update as regulations require, reflecting current site conditions.</TXT><BRK/>
+<TAI OPT="NAVY"><BRK/>
+[<TXT>Comply with the additional requirements in Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS.</TXT><BRK/>
+<BRK/>
+]</TAI></SPT><SPT><TTL><SUB>Inspection Reports</SUB></TTL><BRK/>
+<TAI OPT="NAVY"><NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the last tailored, bracketed sentence for Navy projects only.</NPR><BRK/>
+<AST/><BRK/></NTE>
+</TAI><BRK/>
+<TXT>Submit "Inspection Reports" to the Contracting Officer in accordance with [EPA][the State of [_____]]Construction 
+General Permit.<TAI OPT="NAVY">[  Provide Inspection Reports in accordance with 01 57 19.01 20 SUPPLEMENTAL TEMPORARY ENVIRONMENTAL 
+CONTROLS.]</TAI></TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Stormwater Pollution Prevention Plan Compliance Notebook</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the bracketed option to identify the permit issuing agency.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Create and maintain a three ring binder of documents that demonstrate compliance with the Construction General 
+Permit.  Include a copy of the permit Notice of Intent, proof of permit fee payment, SWPPP and SWPPP update amendments, 
+inspection reports and related corrective action records, copies of correspondence with the [EPA][the [_____]State 
+Permitting Agency], and a copy of the permit Notice of Termination in the binder.  At project completion, the 
+notebook becomes property of the Government.  Provide the compliance notebook to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Stormwater Notice of Termination</SUB> for Construction Activities</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use bracketed item if as-built topographic survey information is required 
+by the permitting agency for certification of the stormwater management system.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit a Notice of Termination to the Contracting Officer for approval once construction is complete and final 
+stabilization has been achieved on all portions of the site for which the permittee is responsible.  Once approved, 
+submit the Notice of Termination to the appropriate state or federal agency.[  Prepare <SUB>as-built topographic survey</SUB>
+ information required by the permitting agency for certification of the stormwater management system, and provide 
+to the Contracting Officer.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]<SPT><TTL>Erosion and Sediment Control Measures</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  For projects that have a State permit, delete subparagraphs EROSION CONTROL 
+and SEDIMENT CONTROL PRACTICES.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide erosion and sediment control measures in accordance with state and local laws and regulations.  Preserve 
+vegetation to the maximum extent practicable.</TXT><BRK/>
+<BRK/>
+<TXT>Erosion control inspection reports may be compiled as part of a stormwater pollution prevention plan inspection 
+reports.</TXT><BRK/>
+<BRK/>
+[<SPT><TTL>Erosion Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use last bracketed sentence if Section <SRF>32 92 19</SRF> SEEDING is included in 
+the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Prevent erosion by[ mulching,][ Compost Blankets,][ Geotextiles,][ temporary slope drains,][_____].  Stabilize 
+slopes by[ chemical stabilization,][ sodding,][ seeding,][_____] or such combination of these methods necessary 
+for effective erosion control.  Use of hay bales is prohibited.</TXT><BRK/>
+<BRK/>
+[<TXT>Provide seeding in accordance with Section <SRF>32 92 19</SRF> SEEDING.</TXT><BRK/>
+<BRK/>
+]</SPT>][<SPT><TTL>Sediment Control Practices</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select the sediment control practices appropriate for the project.  See <BRK/>
+<URL>https://www.epa.gov/npdes/national-menu-best-management-practices-bmps-stormwater#constr</URL>
+.  Use last bracketed sentence when sediment control practices are indicated 
+on the drawings. Include details.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Implement sediment control practices to divert flows from exposed soils, temporarily store flows, or otherwise 
+limit runoff and the discharge of pollutants from exposed areas of the site.  Implement sediment control practices 
+prior to soil disturbance and prior to creating areas with concentrated flow, during the construction process 
+to minimize erosion and sediment laden runoff.  Include the following devices:[ silt fence,][ temporary diversion 
+dikes,][ storm drain inlet protection,][_____,][ Location and details of installation and construction are indicated 
+on the drawings.]</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>Work Area Limits</TTL><BRK/>
+<BRK/>
+<TXT>Mark the areas that need not be disturbed under this Contract prior to commencing construction activities.  Mark 
+or fence isolated areas within the general work area that are not to be disturbed.  Protect monuments and markers 
+before construction operations commence.  Where construction operations are to be conducted during darkness, 
+any markers must be visible in the dark.  Personnel must be knowledgeable of the purpose for marking and protecting 
+particular objects.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Contractor Facilities and Work Areas</TTL><BRK/>
+<BRK/>
+<TXT>Place field offices, staging areas, stockpile storage, and temporary buildings in areas designated on the drawings 
+or as directed by the Contracting Officer.  Move or relocate the Contractor facilities only when approved by 
+the Government.  Provide erosion and sediment controls for onsite borrow and spoil areas to prevent sediment 
+from entering nearby waters.  Control temporary excavation and embankments for plant or work areas to protect 
+adjacent areas.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Municipal Separate Storm Sewer System (MS4) Management</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph if the Installation holds a MS4 permit.  Coordinate 
+with the Installation Environmental Office.<TAI OPT="NAVY">  Use tailored, bracketed sentence 
+for Navy only projects.</TAI></NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Comply with the Installation's MS4 permit requirements.<TAI OPT="NAVY">[  Comply with requirements of Section <SRF>01 57 19.01 20</SRF> 
+SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS.]</TAI></TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>SURFACE AND GROUNDWATER</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Cofferdams, Diversions, and Dewatering </TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit the first sentence by removing items not included in the project.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Construction operations for dewatering, removal of cofferdams, tailrace excavation, and tunnel closure must be 
+constantly controlled to maintain compliance with existing state water quality standards and designated uses 
+of the surface water body.  Comply with[ the State of [_____] water quality standards and anti-degradation provisions] 
+[and][ the Clean Water Act Section 404, Nation Wide Permit No. [_____]].  Do not discharge excavation ground 
+water to the sanitary sewer, storm drains, or to surface waters without prior specific authorization in writing 
+from the Installation Environmental Office.  Discharge of hazardous substances will not be permitted under any 
+circumstances.  Use sediment control BMPs to prevent construction site runoff from directly entering any storm 
+drain or surface waters.</TXT><BRK/>
+<BRK/>
+<TXT>If the construction dewatering is noted or suspected of being contaminated, it may only be released to the storm 
+drain system if the discharge is specifically permitted.  Obtain authorization for any contaminated groundwater 
+release in advance from the Installation Environmental Officer and the federal or state authority, as applicable.  
+Discharge of hazardous substances will not be permitted under any circumstances.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Waters of the United States</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  All wetlands on the site or adjacent to the site must be identified on 
+the drawings and this paragraph edited accordingly.  If the wetlands on site 
+must be disturbed, coordination with the regulatory agencies during design for 
+identification of Section 401 and 404 of the Clean Water Act permits whether 
+the permit is an Individual, Nationwide, Regional, State, or Local 404 or similar 
+permit.  Include permit requirements in the LICENSES AND PERMITS paragraph and 
+attach to this specification.  In addition, coordinate any mitigation requirements 
+for the project.<BRK/>
+<BRK/>
+Government Natural Resources staff will approve all Section 404 permit mitigations; 
+the Contractor is not authorized to agree to mitigations on behalf of the Government.<BRK/>
+<BRK/>
+If no wetlands are onsite or adjacent to the site, delete this paragraph in 
+its entirety.  The first sentence should normally remain intact with the first 
+bracketed item.  This will require the Contractor to be cognizant of the responsibility 
+to protect wetlands regardless of whether they are identified on drawings or 
+in the event site conditions have changed since design.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Do not enter, disturb, destroy, or allow discharge of contaminants into waters of the United States[.][ except 
+as authorized herein.  The protection of waters of the United States shown on the drawings in accordance with 
+paragraph LICENSES AND PERMITS is the Contractor's responsibility.  Authorization to enter specific waters of 
+the United States identified does not relieve the Contractor from any obligation to protect other waters of the 
+United States within, adjacent to, or in the vicinity of the construction site and associated boundaries.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>PROTECTION OF CULTURAL RESOURCES</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Obtain the National Historic Preservation Act Section 106 documentation 
+from the Government and include requirements agreed to during the consultation 
+process with the State Historic Preservation Officer. If Section 106 has not 
+been completed delete the following paragraphs.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Archaeological Resources</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If there are known archaeological resources on the project site, include 
+the bracketed sentence and show the required protection area and other protection 
+measures on the drawings. The exact location of known archaeological resources 
+is sensitive information that will not be distributed unless necessary for protection. 
+The Contracting Officer will review and approve what is shown on the drawings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[Existing archaeological resources within the work area are shown on the drawings.  Protect these resources and 
+be responsible for their preservation during the life of the Contract.  ]If, during excavation or other construction 
+activities, any previously unidentified or unanticipated historical, archaeological, and cultural resources are 
+discovered or found, activities that may damage or alter such resources will be suspended.  Resources covered 
+by this paragraph include, but are not limited to: any human skeletal remains or burials; artifacts; shell, midden, 
+bone, charcoal, or other deposits; rock or coral alignments, pavings, wall, or other constructed features; and 
+any indication of agricultural or other human activities.  Upon such discovery or find, immediately notify the 
+Contracting Officer so that the appropriate authorities may be notified and a determination made as to their 
+significance and what, if any, special disposition of the finds should be made.  Cease all activities that may 
+result in impact to or the destruction of these resources.  Secure the area and prevent employees or other persons 
+from trespassing on, removing, or otherwise disturbing such resources.  The Government retains ownership and 
+control over archaeological resources.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>Historical Resources</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  If there are known historical or other cultural resources on the project 
+site, include this paragraph and show the required protection area and other 
+protection measures on the drawings. Show the exact location of known historical 
+resources on the drawings.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Existing historical resources within the work area are shown on the drawings.  Protect these resources and be 
+responsible for their preservation during the life of the Contract.</TXT><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>AIR RESOURCES</TTL><BRK/>
+<BRK/>
+<TXT>Equipment operation, activities, or processes will be in accordance with <RID>40 CFR 64</RID> and state air emission and 
+performance laws and standards.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Preconstruction Air Permits</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with local Installation Environmental Office to determine 
+if Government will obtain these permits, or if Contractor will be required to 
+obtain them.<BRK/>
+<BRK/>
+Include permit application fees; coordinate with the Installation Environmental 
+Office for the estimated fee based on project specifics. Fee amount will depend 
+on location of work and type of work.  Typical fees range from $250 to $3500.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Notify the Air Program Manager, through the Contracting Officer, at least 6 months prior to bringing equipment, 
+assembled or unassembled, onto the Installation, so that air permits can be secured.  Necessary permitting time 
+must be considered in regard to construction activities.  Clean Air Act (CAA) permits must be obtained prior 
+to bringing equipment, assembled or unassembled, onto the Installation.</TXT><BRK/>
+<BRK/>
+<TXT>[Permits will be provided by the Government.  ][Confirm that these permits have been obtained.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oil or Dual-fuel Boilers and Furnaces</TTL><BRK/>
+<BRK/>
+<TXT>Provide product data and details for new, replacement, or relocated fuel fired boilers, heaters, or furnaces 
+to the Installation Environmental Office (Air Program Manager) through the Contracting Officer.  Data to be reported 
+include: equipment purpose (water heater, building heat, process), manufacturer, model number, serial number, 
+fuel type (oil type, gas type) size (MMBTU heat input).  Provide in accordance with paragraph PRECONSTRUCTION 
+AIR PERMITS.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Burning </TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit the paragraph after coordinating with the governing agencies.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>[Burning is prohibited on the Government premises.] [Burning is allowed on Government premises[; confine fires 
+to a closed vessel that is guarded and under constant surveillance until contents have burned out or have been 
+extinguished].[  Burning must completely reduce the materials to ashes.]]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Class I [and II ]ODS Prohibition</TTL><BRK/>
+<BRK/>
+<TXT>Class I [and II ]ODS are Government property and must be returned to the Government for appropriate management.  
+Coordinate with the Installation Environmental Office to determine the appropriate location for turn in of all 
+reclaimed refrigerant.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Accidental Venting of Refrigerant</TTL><BRK/>
+<BRK/>
+<TXT>Accidental venting of a refrigerant is a release and must be reported immediately to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>EPA Certification Requirements</TTL><BRK/>
+<BRK/>
+<TXT>Heating and air conditioning technicians must be certified through an EPA-approved program.  Maintain copies 
+of certifications at the employees' places of business; technicians must carry certification wallet cards, as 
+provided by environmental law.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Dust Control</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Only use the bracketed sentence if dust suppressants are allowed at the 
+Installation and with permission of the Installation's Environmental office.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Keep dust down at all times, including during nonworking periods.[  Sprinkle or treat, with dust suppressants, 
+the soil at the site, haul roads, and other areas disturbed by operations.]  Dry power brooming will not be permitted.  
+Instead, use vacuuming, wet mopping, wet sweeping, or wet power brooming.  Air blowing will be permitted only 
+for cleaning nonparticulate debris such as steel reinforcing bars.  Only wet cutting will be permitted for cutting 
+concrete blocks, concrete, and bituminous concrete.  Do not unnecessarily shake bags of cement, concrete mortar, 
+or plaster.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Particulates</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  This is a general performance type requirement for particulate control.  
+For projects where special construction activities, such as concrete batch plants, 
+or extensive earthwork are involved, the Designer should consider the need for 
+a more descriptive specification giving methods, frequency of application, and 
+monitoring methods for controlling particulates.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Dust particles, aerosols and gaseous by-products from construction activities, and processing and preparation 
+of materials (such as from asphaltic batch plants) must be controlled at all times, including weekends, holidays, 
+and hours when work is not in progress.  Maintain excavations, stockpiles, haul roads, permanent and temporary 
+access roads, plant sites, spoil areas, borrow areas, and other work areas within or outside the project boundaries 
+free from particulates that would exceed <RID>40 CFR 50</RID>, state, and local air pollution standards or that would cause 
+a hazard or a nuisance.  Sprinkling, chemical treatment of an approved type, baghouse, scrubbers, electrostatic 
+precipitators, or other methods will be permitted to control particulates in the work area.  Sprinkling, to be 
+efficient, must be repeated to keep the disturbed area damp.  Provide sufficient, competent equipment available 
+to accomplish these tasks.  Perform particulate control as the work proceeds and whenever a particulate nuisance 
+or hazard occurs.  Comply with state and local visibility regulations.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Abrasive Blasting</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Determine whether the paint to be removed contains any hazardous components.  
+Test a representative sample of the paint in accordance with 40 CFR 261.  Include 
+the bracketed sentence on hazardous material if it is determined the paint is 
+toxic.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Blasting operations cannot be performed without prior approval of the Installation Air Program Manager.  The 
+use of silica sand is prohibited in sandblasting.</TXT><BRK/>
+<BRK/>
+<TXT>Provide tarpaulin drop cloths and windscreens to enclose abrasive blasting operations to confine and collect 
+dust, abrasive agent, paint chips, and other debris.[  Perform work involving removal of hazardous material in 
+accordance with 29 CFR 1910.]</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Odors</TTL><BRK/>
+<BRK/>
+<TXT>Control odors from construction activities.  The odors must be in compliance with state regulations and local 
+ordinances and may not constitute a health hazard.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>WASTE MINIMIZATION</TTL><BRK/>
+<BRK/>
+<TXT>Minimize the use of hazardous materials and the generation of waste.  Include procedures for pollution prevention/ 
+hazardous waste minimization in the Hazardous Waste Management Section of the EPP.  Obtain a copy of the installation's 
+Pollution Prevention/Hazardous Waste Minimization Plan for reference material when preparing this part of the 
+EPP.  If no written plan exists, obtain information by contacting the Contracting Officer.  Describe the anticipated 
+types of the hazardous materials to be used in the construction when requesting information.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Salvage, Reuse and Recycle</TTL><BRK/>
+<BRK/>
+<TXT>Identify anticipated materials and waste for salvage, reuse, and recycling.  Describe actions to promote material 
+reuse, resale or recycling.  To the extent practicable, all scrap metal must be sent for reuse or recycling and 
+will not be disposed of in a landfill.</TXT><BRK/>
+<BRK/>
+<TXT>Include the name, physical address, and telephone number of the hauler, if transported by a franchised solid 
+waste hauler.  Include the destination and, unless exempted, provide a copy of the state or local permit (cover) 
+or license for recycling.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Nonhazardous Solid Waste Diversion Report</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Edit the Nonhazardous Solid Waste Diversion Report to reflect the Using 
+Service's requirements.<BRK/>
+<BRK/>
+Coordinate the requirements in this paragraph with Section <SRF>02 41 00</SRF> [DEMOLITION] 
+[AND] [DECONSTRUCTION].</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Maintain an inventory of nonhazardous solid waste diversion and disposal of construction and demolition debris.  
+Submit a report to [_____ through] the Contracting Officer on the first working day after each fiscal year quarter, 
+starting the first quarter that nonhazardous solid waste has been generated.  Include the following in the report:</TXT><BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="4">
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">Construction and Demolition (C&amp;D) Debris Disposed</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] [cubic yards][tons],[cubic meters] as appropriate</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="45.75">
+         <CEL>
+<DTA TYPE="STRING">C&amp;D Debris Recycled</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] [cubic yards][tons],[cubic meters] as appropriate</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="34.50">
+         <CEL>
+<DTA TYPE="STRING">Total C&amp;D Debris Generated</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] [cubic yards][tons],[cubic meters] as appropriate</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="64.50">
+         <CEL>
+<DTA TYPE="STRING">Waste Sent to Waste-To-Energy Incineration Plant (This amount should not be included in the recycled amount)</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____] [cubic yards][tons],[cubic meters] as appropriate</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/></SPT>
+</SPT><SPT><TTL>WASTE MANAGEMENT AND DISPOSAL</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Waste Determination Documentation</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Complete a Waste Determination form (provided at the pre-construction conference) for Contractor-derived wastes 
+to be generated.  All potentially hazardous solid waste streams that are not subject to a specific exclusion 
+or exemption from the hazardous waste regulations (e.g. scrap metal, domestic sewage) or subject to special rules, 
+(lead-acid batteries and precious metals) must be characterized in accordance with the requirements of <RID>40 CFR 261</RID>
+ or corresponding applicable state or local regulations.  Base waste determination on user knowledge of the processes 
+and materials used, and analytical data when necessary.  Consult with the Installation environmental staff for 
+guidance on specific requirements.  Attach support documentation to the Waste Determination form.  As a minimum, 
+provide a Waste Determination form for the following waste (this listing is not inclusive): oil- and latex -based 
+painting and caulking products, solvents, adhesives, aerosols, petroleum products, and containers of the original 
+materials.</TXT><BRK/>
+<BRK/>
+[<SPT><TTL>Sampling and Analysis of Waste </TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph when the project generates HW that are not identified 
+in 40 CFR 261, Hazardous Waste Listing.<BRK/>
+<BRK/>
+Coordinate with the Installation Environmental Office to determine if the installation 
+provides sampling and analysis for Contractor Waste.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Waste Sampling</TTL><BRK/>
+<BRK/>
+<TXT>Sample waste in accordance with <RID>EPA SW-846</RID>.  Clearly mark each sampled drum or container with the Contractor's 
+identification number, and cross reference to the chemical analysis performed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Laboratory Analysis</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Follow the analytical procedure and methods in accordance with the <RID>40 CFR 261</RID>.  Provide analytical results and 
+reports performed to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Analysis Type</TTL><BRK/>
+<BRK/>
+<TXT>Identify hazardous waste by analyzing for the following characteristics:[ ignitability,][ corrosivity,][ reactivity,][ 
+toxicity based on TCLP results,] [_____].</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]</SPT><SPT><TTL>Solid Waste Management</TTL><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Solid Waste Management Report</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select bracketed item when sales documentation is not available.  Revise 
+close out submittal to include Contractor Certification instead of the sales 
+documentation.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide copies of the waste handling facilities' weight tickets, receipts, bills of sale, and other <SUB>sales documentation</SUB>
+.  In lieu of sales documentation, a statement indicating the disposal location for the solid waste that is signed 
+by an employee authorized to legally obligate or bind the firm may be submitted.  The sales documentation[ <SUB>Contractor 
+certification</SUB>] must include the receiver's tax identification number and business, EPA or state registration 
+number, along with the receiver's delivery and business addresses and telephone numbers.  For each solid waste 
+retained for the Contractor's own use, submit the information previously described in this paragraph on the solid 
+waste disposal report.  Prices paid or received do not have to be reported to the Contracting Officer unless 
+required by other provisions or specifications of this Contract or public law.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Control and Management of Solid Wastes</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Select appropriate disposal alternative.  In some states certain quantities 
+of clearing debris may be classified as solid waste.  Include appropriate language 
+to comply with State requirements.  Remove non-applicable bracketed options.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Pick up solid wastes, and place in covered containers that are regularly emptied.  Do not prepare or cook food 
+on the project site.  Prevent contamination of the site or other areas when handling and disposing of wastes.  
+At project completion, leave the areas clean.  Employ segregation measures so that no hazardous or toxic waste 
+will become co-mingled with non-hazardous solid waste.[  Transport solid waste off Government property and dispose 
+of it in compliance with <RID>40 CFR 260</RID>, state, and local requirements for solid waste disposal.  A Subtitle D RCRA 
+permitted landfill is the minimum acceptable offsite solid waste disposal option.  Verify that the selected transporters 
+and disposal facilities have the necessary permits and licenses to operate.][  Haul waste materials to the Government 
+landfill site[ shown on the drawings][ designated by the Contracting Officer].][  Comply with site procedures.][  
+Segregate and separate treated wood components disposed at a lined landfill approved to accept this waste in 
+accordance with local and state regulations]  Solid waste disposal offsite must comply with most stringent local, 
+state, and federal requirements, including <RID>40 CFR 241</RID>, <RID>40 CFR 243</RID>, and <RID>40 CFR 258</RID>.</TXT><BRK/>
+<BRK/>
+<TXT>Manage hazardous material used in construction, including but not limited to, aerosol cans, waste paint, cleaning 
+solvents, contaminated brushes, and used rags, in accordance with <RID>49 CFR 173</RID>.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Control and Management of Hazardous Waste</TTL><BRK/>
+<BRK/>
+<TXT>Do not dispose of hazardous waste on Government property.  Do not discharge any waste to a sanitary sewer, storm 
+drain, or to surface waters or conduct waste treatment or disposal on Government property without written approval 
+of the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<SPT><TTL><SUB>Hazardous Waste/Debris Management</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Identify construction activities that will generate hazardous waste or debris.  Provide a documented waste determination 
+for resultant waste streams.  Identify, label, handle, store, and dispose of hazardous waste or debris in accordance 
+with federal, state, and local regulations, including <RID>40 CFR 261</RID>, <RID>40 CFR 262</RID>, <RID>40 CFR 263</RID>, <RID>40 CFR 264</RID>, <RID>40 CFR 265</RID>
+, <RID>40 CFR 266</RID>, and <RID>40 CFR 268</RID>.</TXT><BRK/>
+<BRK/>
+<TXT>Manage hazardous waste in accordance with the approved Hazardous Waste Management Section of the EPP.  Store 
+hazardous wastes in approved containers in accordance with <RID>49 CFR 173</RID> and <RID>49 CFR 178</RID>.  Hazardous waste generated 
+within the confines of Government facilities is identified as being generated by the Government.  Prior to removal 
+of any hazardous waste from Government property, hazardous waste manifests must be signed by personnel from the 
+Installation Environmental Office.  Do not bring hazardous waste onto Government property.  Provide the Contracting 
+Officer with a copy of waste determination documentation for any solid waste streams that have any potential 
+to be hazardous waste or contain any chemical constituents listed in 40 CFR 372-SUBPART D.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Waste Storage/Satellite Accumulation/90 Day Storage Areas</TTL><BRK/>
+<BRK/>
+<TXT>Accumulate hazardous waste at satellite accumulation points and in compliance with <RID>40 CFR 262.34</RID> and applicable 
+state or local regulations.  Individual waste streams will be limited to<MET> 208 liter</MET><ENG> 55 gallons</ENG> of accumulation 
+(or<MET> 0.95 liter</MET><ENG> 1 quart</ENG> for acutely hazardous wastes).  If the Contractor expects to generate hazardous waste 
+at a rate and quantity that makes satellite accumulation impractical, the Contractor may request a temporary 
+90 day accumulation point be established.  Submit a request in writing to the Contracting Officer and provide 
+the following information (Attach Site Plan to the Request):</TXT><BRK/>
+<TAB>
+<WBK>
+   <STS/>
+   <TDA COLUMNCOUNT="2" ROWCOUNT="9">
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <COL AUTOWIDTH="0" WIDTH="234.00"/>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Contract Number</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Contractor</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Haz/Waste or Regulated Waste POC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Phone Number</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Type of Waste</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Source of Waste</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Emergency POC</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="19.50">
+         <CEL>
+<DTA TYPE="STRING">Phone Number</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+      <ROW AUTOHEIGHT="0" HEIGHT="47.25">
+         <CEL>
+<DTA TYPE="STRING">Location of the Site</DTA>
+         </CEL>
+         <CEL>
+<DTA TYPE="STRING">[_____]</DTA>
+         </CEL>
+      </ROW>
+   </TDA>
+</WBK>
+<BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/><BRL/></TAB><BRK/>
+<TXT>Attach a Waste Determination form for the expected waste streams.  Allow 10 working days for processing this 
+request.  Additional compliance requirements (e.g. training and contingency planning) that may be required are 
+the responsibility of the Contractor.  Barricade the designated area where waste is being stored and post a sign 
+identifying as follows:</TXT><BRK/>
+<BRK/>
+<LST>"DANGER - UNAUTHORIZED PERSONNEL KEEP OUT"</LST><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Hazardous Waste Disposal</TTL><BRK/>
+<BRK/>
+[<SPT><TTL>Responsibilities for Contractor's Disposal</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose this paragraph for Contractor Disposal of the Hazardous Waste.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Provide hazardous waste manifest to the Installations Environmental Office for review, approval, and signature 
+prior to shipping waste off Government property.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Services</TTL><BRK/>
+<BRK/>
+<TXT>Provide service necessary for the final treatment or disposal of the hazardous material or waste in accordance 
+with <RID>40 CFR 260</RID>, local, and state, laws and regulations, and the terms and conditions of the Contract within 
+60 days after the materials have been generated.  These services include necessary personnel, labor, transportation, 
+packaging, detailed analysis (if required for disposal or transportation, include manifesting or complete waste 
+profile sheets, equipment, and compile documentation).</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Samples</TTL><BRK/>
+<BRK/>
+<TXT>Obtain a representative sample of the material generated for each job done to provide waste stream determination.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Analysis</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph when the project generates HW that are not identified 
+in 40 CFR 261, Hazardous Waste Listing.<BRK/>
+<BRK/>
+Coordinate with the Installation Environmental Office to determine if the installation 
+provides sampling and analysis for Contractor Waste.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Analyze each sample taken and provide analytical results to the Contracting Officer.  See paragraph WASTE DETERMINATION 
+DOCUMENTATION.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Labeling</TTL><BRK/>
+<BRK/>
+<TXT>Determine the Department of Transportation's (DOT's) proper shipping names for waste (each container requiring 
+disposal) and demonstrate to the Contracting Officer how this determination is developed and supported by the 
+sampling and analysis requirements contained herein.  Label all containers of hazardous waste with the words 
+"Hazardous Waste" or other words to describe the contents of the container in accordance with <RID>40 CFR 262.31</RID> and 
+applicable state or local regulations.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>][<SPT><TTL>Contractor Disposal Turn-In Requirements</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose this paragraph if Contractor will turn-in waste into the Installation's 
+waste accumulations facilities.  Coordinate with the Installations Environmental 
+Office to further edit this paragraph to meet Installation requirements.  Contractor 
+will not prepare manifest documentation when this option of disposal is selected.  
+Coordinate language in other paragraphs to clarify manifesting requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Hazardous waste generated must be disposed of in accordance with the following conditions to meet installation 
+requirements:</TXT><BRK/>
+<BRK/>
+<LST>a.  Drums must be compatible with waste contents and drums must meet DOT requirements for <RID>49 CFR 173</RID> 
+for transportation of materials.</LST><BRK/>
+<BRK/>
+<LST>b.  Band drums to wooden pallets.</LST><BRK/>
+<BRK/>
+<LST>c.  No more than three<MET> 208 liter</MET><ENG> 55 gallon</ENG> drums or two<MET> 321 liter</MET><ENG> 85 gallon</ENG> over packs are to be banded 
+to a pallet.</LST><BRK/>
+<BRK/>
+<LST>d.  Band using<MET> 32 millimeters</MET><ENG> 1-1/4 inch</ENG> minimum band on upper third of drum.</LST><BRK/>
+<BRK/>
+<LST>e.  Provide label in accordance with <RID>49 CFR 172.101</RID>.</LST><BRK/>
+<BRK/>
+<LST>f.  Leave<MET> 7 to 12 centimeters</MET><ENG> 3 to 5 inches</ENG> of empty space above volume of material.</LST><BRK/>
+<BRK/></SPT>
+]</SPT><SPT><TTL>Universal Waste Management</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  State requirements may differ from federal regulation.<TAI OPT="ARMY"> Use last, tailored, 
+bracketed item for Army projects only.</TAI> <BRK/>
+<BRK/>
+For Navy projects use tailored, bracketed item if Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL 
+TEMPORARY ENVIRONMENTAL CONTROLS provides additional requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Manage the following categories of universal waste in accordance with federal, state, and local requirements 
+and installation instructions:</TXT><BRK/>
+<BRK/>
+<LST INDENT="-0.33">a.  Batteries as described in <RID>40 CFR 273.2</RID></LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">b.  Lamps as described in <RID>40 CFR 273.5</RID></LST><BRK/>
+<BRK/>
+<LST INDENT="-0.33">c.  Mercury-containing equipment as described in <RID>40 CFR 273.4</RID></LST><BRK/>
+<TAI OPT="ARMY"><BRK/>
+[<LST INDENT="-0.33">d.  Pesticides as described in <RID>40 CFR 273.3</RID></LST><BRK/>
+]</TAI><TAI OPT="NAVY"><BRK/>
+[<LST INDENT="-0.33">d.  Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS</LST><BRK/>
+]</TAI><BRK/>
+<TXT>Mercury is prohibited in the construction of this facility, unless specified otherwise, and with the exception 
+of mercury vapor lamps and fluorescent lamps.  Dumping of mercury-containing materials and devices such as mercury 
+vapor lamps, fluorescent lamps, and mercury switches, in rubbish containers is prohibited.  Remove without breaking, 
+pack to prevent breakage, and transport out of the activity in an unbroken condition for disposal as directed.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Electronics End-of-Life Management</TTL><BRK/>
+<BRK/>
+<TXT>Recycle or dispose of electronics waste, including, but not limited to, used electronic devices such computers, 
+monitors, hard-copy devices, televisions, mobile devices, in accordance with <RID>40 CFR 260</RID>-262, state, and local 
+requirements, and installation instructions.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL><SUB>Disposal Documentation for Hazardous and Regulated Waste</SUB></TTL><BRK/>
+<BRK/>
+<TXT>Contact the Contracting Officer for the facility RCRA identification number that is to be used on each manifest.</TXT><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following bracketed item for Navy projects only.  Coordinate 
+with Section <SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS.  
+Section <SRF>01 57 19.01 20</SRF> requires a Base Environmental point of contact be identified 
+for Base specific requirements.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+[<TXT>Submit a copy of the applicable EPA and or state permit(s), manifest(s), or license(s) for transportation, treatment, 
+storage, and disposal of hazardous and regulated waste by permitted facilities.  Hazardous or toxic waste manifests 
+must be reviewed, signed, and approved by the Contracting Officer before the Contractor may ship waste.  To obtain 
+specific disposal instructions, coordinate with the Installation Environmental Office.  Refer to Section 
+<SRF>01 57 19.01 20</SRF> SUPPLEMENTAL TEMPORARY ENVIRONMENTAL CONTROLS for the Installation Point of Contact information.</TXT><BRK/>
+<BRK/>
+]</SPT></SPT><SPT><TTL>Releases/Spills of Oil and Hazardous Substances</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Response and Notifications</TTL><BRK/>
+<BRK/>
+<TXT>Exercise due diligence to prevent, contain, and respond to spills of hazardous material, hazardous substances, 
+hazardous waste, sewage, regulated gas, petroleum, lubrication oil, and other substances regulated in accordance 
+with <RID>40 CFR 300</RID>.  Maintain spill cleanup equipment and materials at the work site.  In the event of a spill, 
+take prompt, effective action to stop, contain, curtail, or otherwise limit the amount, duration, and severity 
+of the spill/release.  In the event of any releases of oil and hazardous substances, chemicals, or gases; immediately 
+(within 15 minutes) notify the Installation Fire Department, the Installation Command Duty Officer, the Installation 
+Environmental Office, the Contracting Officer[ and the state or local authority].</TXT><BRK/>
+<BRK/>
+<TXT>Submit verbal and written notifications as required by the federal (<RID>40 CFR 300.125</RID> and <RID>40 CFR 355</RID>), state, local 
+regulations and instructions.  Provide copies of the written notification and documentation that a verbal notification 
+was made within 20 days.  Spill response must be in accordance with <RID>40 CFR 300</RID> and applicable state and local 
+regulations.  Contain and clean up these spills without cost to the Government.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Clean Up</TTL><BRK/>
+<BRK/>
+<TXT>Clean up hazardous and non-hazardous waste spills.  Reimburse the Government for costs incurred including sample 
+analysis materials, clothing, equipment, and labor if the Government will initiate its own spill cleanup procedures, 
+for Contractor- responsible spills, when: Spill cleanup procedures have not begun within one hour of spill discovery/occurrence; 
+or, in the Government's judgment, spill cleanup is inadequate and the spill remains a threat to human health 
+or the environment.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>Mercury Materials</TTL><BRK/>
+<BRK/>
+<TXT>Immediately report to the Environmental Office and the Contracting Officer instances of breakage or mercury spillage.  
+Clean mercury spill area to the satisfaction of the Contracting Officer.</TXT><BRK/>
+<BRK/>
+<TXT>Do not recycle a mercury spill cleanup; manage it as a hazardous waste for disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Wastewater</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Coordinate with the Installation Environmental Office.  Identify and 
+obtain permits required by governing agencies.  Insert or delete the brackets 
+with the name of process producing the wastewater.  If there is an area on the 
+project site for a retention pond, a choice may be given for disposal in a retention 
+pond.  If there is a possibility that the water is contaminated, then identify 
+and specify the appropriate analytical testing be performed.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<SPT><TTL>Disposal of wastewater must be as specified below.</TTL><BRK/>
+<BRK/>
+<SPT><TTL>Treatment</TTL><BRK/>
+<BRK/>
+<TXT>Do not allow wastewater from construction activities, such as onsite material processing, concrete curing, foundation 
+and concrete clean-up, water used in concrete trucks, and forms to enter water ways or to be discharged prior 
+to being treated to remove pollutants.  Dispose of the construction- related waste water[ off-Government property 
+in accordance with <RID>40 CFR 403</RID>, state, regional, and local laws and regulations.][ by collecting and placing it 
+in a retention pond where suspended material can be settled out or the water can evaporate to separate pollutants 
+from the water.  The site for the retention pond must be coordinated and approved with the Contracting Officer.  
+The residue left in the pond prior to completion of the project must be removed, tested, and disposed of off- 
+Government property in accordance with federal, state, and local laws and regulations.  Backfill the area to 
+the original grade, top-soiled, and seeded or sodded.[  Test the water in the retention pond for [_____] and 
+have the results reviewed and approved by the Contracting Officer prior to being discharged or disposed of off- 
+Government property].]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Surface Discharge</TTL><BRK/>
+<BRK/>
+<TXT>For discharge of ground water,[ obtain a state or federal permit specific for pumping and discharging ground 
+water prior to surface discharging.][  Surface discharge in accordance with federal, state, and local laws and 
+regulations.][  Surface discharge in accordance with the requirements of the NPDES or state STORMWATER DISCHARGES 
+FROM CONSTRUCTION SITES permit.]</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Land Application</TTL><BRK/>
+<BRK/>
+<TXT>Water generated from the flushing of lines after[ disinfection or disinfection in conjunction with hydrostatic 
+testing][ hydrostatic testing] must be[ land- applied in accordance with federal, state, and local laws and regulations 
+for land application][ discharged into the sanitary sewer with prior approval and notification to the Wastewater 
+Treatment Plant's Operator].</TXT><BRK/>
+<BRK/></SPT>
+</SPT></SPT></SPT><SPT><TTL>HAZARDOUS MATERIAL MANAGEMENT</TTL><BRK/>
+<BRK/>
+<TXT>Include hazardous material control procedures in the Safety Plan, in accordance with Section <SRF>01 35 26</SRF> GOVERNMENTAL 
+SAFETY REQUIREMENTS.  Address procedures and proper handling of hazardous materials, including the appropriate 
+transportation requirements.  Do not bring hazardous material onto Government property that does not directly 
+relate to requirements for the performance of this contract.  Submit an SDS and estimated quantities to be used 
+for each hazardous material to the Contracting Officer prior to bringing the material on the installation.  Typical 
+materials requiring SDS and quantity reporting include, but are not limited to, oil and latex based painting 
+and caulking products, solvents, adhesives, aerosol, and petroleum products.  Use hazardous materials in a manner 
+that minimizes the amount of hazardous waste generated.  Containers of hazardous materials must have National 
+Fire Protection Association labels or their equivalent.  Certify that hazardous materials removed from the site 
+are hazardous materials and do not meet the definition of hazardous waste, in accordance with <RID>40 CFR 261</RID>.</TXT><BRK/>
+<BRK/>
+<TAI OPT="NAVY"><SPT><TTL><SUB>Contractor Hazardous Material Inventory Log</SUB></TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use this paragraph for Navy projects only.  Delete for other projects.  
+Paragraph is tailored to Navy use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Submit the "Contractor Hazardous Material Inventory Log"(found at: <URL>http://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/forms-graphics-tables</URL>
+), which provides information required by (EPCRA Sections 312 and 313) along with corresponding SDS, to the Contracting 
+Officer at the start and at the end of construction (30 days from final acceptance), and update no later than 
+January 31 of each calendar year during the life of the contract.  Keep copies of the SDSs for hazardous materials 
+onsite. At the end of the project, provide the Contracting Officer with copies of the SDSs, and the maximum quantity 
+of each material that was present at the site at any one time, the dates the material was present, the amount 
+of each material that was used during the project, and how the material was used.</TXT><BRK/>
+<BRK/>
+<TXT>The Contracting Officer may request documentation for any spills or releases, environmental reports, or off-site 
+transfers.</TXT><BRK/>
+<BRK/></SPT>
+</TAI></SPT><SPT><TTL>PREVIOUSLY USED EQUIPMENT</TTL><BRK/>
+<BRK/>
+<TXT>Clean previously used construction equipment prior to bringing it onto the project site.  Equipment must be free 
+from soil residuals, egg deposits from plant pests, noxious weeds, and plant seeds.  Consult with the U.S. Department 
+of Agriculture jurisdictional office for additional cleaning requirements.</TXT><BRK/>
+<BRK/></SPT>
+[<SPT><TTL>CONTROL AND MANAGEMENT OF ASBESTOS-CONTAINING MATERIAL (ACM)</TTL><BRK/>
+<BRK/>
+<TXT>Manage and dispose of asbestos- containing waste in accordance with <RID>40 CFR 61</RID>.  Refer to Section <SRF>02 82 00</SRF> ASBESTOS 
+REMEDIATION.  Manifest asbestos-containing waste and provide the manifest to the Contracting Officer.  Notifications 
+to the state and Installation Air Program Manager are required before starting any asbestos work.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>CONTROL AND MANAGEMENT OF LEAD-BASED PAINT (LBP)</TTL><BRK/>
+<BRK/>
+<TXT>Manage and dispose of lead-contaminated waste in accordance with <RID>40 CFR 745</RID> and Section <SRF>02 83 00</SRF> LEAD REMEDIATION.  
+Manifest any lead-contaminated waste and provide the manifest to the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>CONTROL AND MANAGEMENT OF POLYCHLORINATED BIPHENYLS (PCBS)</TTL><BRK/>
+<BRK/>
+<TXT>Manage and dispose of PCB-contaminated waste in accordance with <RID>40 CFR 761</RID> and Section <SRF>02 84 33</SRF> REMOVAL AND DISPOSAL 
+OF POLYCHLORINATED BIPHENYLS (PCBS).</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>CONTROL AND MANAGEMENT OF LIGHTING BALLAST AND LAMPS CONTAINING PCBS</TTL><BRK/>
+<BRK/>
+<TXT>Manage and dispose of contaminated waste in accordance with <RID>40 CFR 761</RID>.[  Refer to Section <SRF>02 84 16</SRF> HANDLING 
+OF LIGHTING BALLASTS AND LAMPS CONTAINING PCBS AND MERCURY.]</TXT><BRK/>
+<BRK/></SPT>
+][<SPT><TTL>MILITARY MUNITIONS</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Delete this paragraph if not needed in the project</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In the event military munitions, as defined in 40 CFR 260, are discovered or uncovered, immediately stop work 
+in that area and immediately inform the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+]<SPT><TTL>PETROLEUM, OIL, LUBRICANT (POL) STORAGE AND FUELING</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Choose one of the last bracketed sentences after coordination with the 
+Installation Environmental Office.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>POL products include flammable or combustible liquids, such as gasoline, diesel, lubricating oil, used engine 
+oil, hydraulic oil, mineral oil, and cooking oil.  Store POL products and fuel equipment and motor vehicles in 
+a manner that affords the maximum protection against spills into the environment.  Manage and store POL products 
+in accordance with EPA <RID>40 CFR 112</RID>, and other federal, state, regional, and local laws and regulations.  Use secondary 
+containments, dikes, curbs, and other barriers, to prevent POL products from spilling and entering the ground, 
+storm or sewer drains, stormwater ditches or canals, or navigable waters of the United States.  Describe in the 
+EPP (see paragraph ENVIRONMENTAL PROTECTION PLAN) how POL tanks and containers must be stored, managed, and inspected 
+and what protections must be provided.[  Storage of oil, including fuel, on the project site is not allowed.  
+Fuel must be brought to the project site each day that work is performed.][  Storage of fuel on the project site 
+must be in accordance with EPA, state, and local laws and regulations and paragraph OIL STORAGE INCLUDING FUEL 
+TANKS.] </TXT><BRK/>
+<BRK/>
+<SPT><TTL>Used Oil Management</TTL><BRK/>
+<BRK/>
+<TXT>Manage used oil generated on site in accordance with <RID>40 CFR 279</RID>.  Determine if any used oil generated while onsite 
+exhibits a characteristic of hazardous waste.  Used oil containing 1,000 parts per million of solvents is considered 
+a hazardous waste and disposed of at the Contractor's expense.  Used oil mixed with a hazardous waste is also 
+considered a hazardous waste.  Dispose in accordance with paragraph HAZARDOUS WASTE DISPOSAL.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Oil Storage Including Fuel Tanks</TTL><BRK/>
+<BRK/>
+<TXT>Provide secondary containment and overfill protection for oil storage tanks.  A berm used to provide secondary 
+containment must be of sufficient size and strength to contain the contents of the tanks plus<MET> 12 centimeters</MET><ENG> 
+5 inches</ENG> freeboard for precipitation.  Construct the berm to be impervious to oil for 72 hours that no discharge 
+will permeate, drain, infiltrate, or otherwise escape before cleanup occurs.  Use drip pans during oil transfer 
+operations; adequate absorbent material must be onsite to clean up any spills and prevent releases to the environment.  
+Cover tanks and drip pans during inclement weather.  Provide procedures and equipment to prevent overfilling 
+of tanks.  If tanks and containers with an aggregate aboveground capacity greater than<MET> 5000 liter</MET><ENG> 1320 gallons</ENG>
+ will be used onsite (only containers with a capacity of<MET> 208 liter</MET><ENG> 55 gallons</ENG> or greater are counted), provide 
+and implement a SPCC plan meeting the requirements of 40 CFR 112.  Do not bring underground storage tanks to 
+the installation for Contractor use during a project.  Submit the SPCC plan to the Contracting Officer for approval.</TXT><BRK/>
+<BRK/>
+<TXT>Monitor and remove any rainwater that accumulates in open containment dikes or berms.  Inspect the accumulated 
+rainwater prior to draining from a containment dike to the environment, to determine there is no oil sheen present.</TXT><BRK/>
+<BRK/></SPT>
+</SPT><SPT><TTL>INADVERTENT DISCOVERY OF PETROLEUM-CONTAMINATED SOIL OR HAZARDOUS WASTES</TTL><BRK/>
+<BRK/>
+<TXT>If petroleum-contaminated soil, or suspected hazardous waste is found during construction that was not identified 
+in the Contract documents, immediately notify the Contracting Officer.  Do not disturb this material until authorized 
+by the Contracting Officer.</TXT><BRK/>
+<BRK/></SPT>
+<TAI OPT="ARMY">[<SPT><TTL>PEST MANAGEMENT</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Use the following paragraphs for Army projects only.  Do not use for 
+Navy, Air Force or NASA projects.  Paragraphs are tailored for Army use.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  DoD Installations are required under DoDI 4150.7 to develop an integrated 
+pest management plan (IPMP).  This does not apply to USACE Civil Works Projects.  
+The Facility IPMP has been developed by the installation to identify potential 
+pest-related risks of damage to installation properties as well as approaches 
+to be used to limit these risks.  The Designer should coordinate with the Installation 
+Pest Management Coordinator early in the design process to address structural, 
+landscaping and other pest damage reduction alternatives to pesticide applications 
+when cost effective.  This effort may be multidisciplinary in scope (e.g. planner/landscape 
+architect and natural resource manager).  The pest management plans and strategies 
+developed during design and construction should be reviewed and approved by 
+DoD pest management professionals and coordinated with IPMC as required by DA 
+AR 200-1 and DoDI 4150.7.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The following paragraph is to be used when the application of pest management 
+chemicals is OR is NOT anticipated.  These requirements must be included as 
+a plan within the Environmental Protection Plan.  When a pest is known to be 
+in the soil, identify the pest and the area to be treated.  This paragraph should 
+be left intact to cover pesticides applications not anticipated by the Designer.  
+When termiticide is required, include the bracketed sentence and Section 
+<SRF>33 40 00</SRF> STORM DRAINAGE UTILITIES in the contract specifications.  Delete last 
+sentence when not applicable.  The "installation pest management coordinator" 
+is a term used in DA AR 200-1.  DA AR 200-1 is not applicable to USACE Civil 
+Works activities.  Appropriate USACE personnel should be referenced when this 
+specification is used for civil works.  See CECW-ON EP 1130-2-540 ENVIRONMENTAL 
+STEWARDSHIP OPERATIONS AND MAINTENANCE GUIDANCE AND PROCEDURES, Chapter 3 - 
+Pest Control Program for Civil Works Projects.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>In order to minimize impacts to existing fauna and flora, coordinate with the Installation Pest Management Coordinator 
+(IPMC) or Project Pesticide Coordinator (PPC), through the Contracting Officer, at the earliest possible time 
+prior to pesticide application.  Discuss integrated pest management strategies with the [IPMC][PPC] and receive 
+concurrence from the [IPMC][PPC] through the Contracting Officer prior to the application of any pesticide associated 
+with these specifications.  Provide Installation Project Office Pest Management personnel the opportunity to 
+be present at meetings concerning treatment measures for pest or disease control and during application of the 
+pesticide.[  For termiticide requirements, see[ Section <SRF>31 31 16.13</SRF> CHEMICAL TERMITE CONTROL][ Section 
+<SRF>31 31 16.19</SRF> TERMITE CONTROL BARRIERS]]  The use and management of pesticides are regulated under <RID>40 CFR 152 - 186</RID>
+.</TXT><BRK/>
+<BRK/>
+<SPT><TTL>Application</TTL><BRK/>
+<BRK/>
+<TXT>Apply pesticides using a state-certified pesticide applicator in accordance with EPA label restrictions and recommendation.  
+The certified applicator must wear clothing and personal protective equipment as specified on the pesticide label.  
+The Contracting Officer will designate locations for water used in formulating.  Do not allow the equipment to 
+overflow.  Inspect equipment for leaks, clogging, wear, or damage and repair prior to application of pesticide.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>Pesticide Treatment Plan</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  The pesticide treatment plan serves two purposes:  It provides a mechanism 
+for early coordination with the appropriate installation personnel through the 
+Contracting Officer and provides a mechanism for reporting pesticide use information 
+to the Installation as required by the Federal Insecticide Fungicide and Rodenticide 
+Act (FIFRA).  For military construction, this information must be provided to 
+the Installation under DoDI 4150.7 DoD Pest Management Instruction, under DA 
+AR 200-1, Chapter 5--Pest Management.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Include and update a pesticide treatment plan, as information becomes available.  Include in the plan the sequence 
+of treatment, dates, times, locations, pesticide trade name, EPA registration numbers, authorized uses, chemical 
+composition, formulation, original and applied concentration, application rates of active ingredient (that is, 
+pounds of active ingredient applied), equipment used for application and calibration of equipment.  Comply with <RID>
+40 CFR 152</RID>-189, state, regional, and local pest management record-keeping and reporting requirements as well 
+as any additional Installation Project Office specific requirements in conformance with [DA AR 200-1 Chapter 
+5, Pest Management, Section 5-4 "Program requirements"] for data required to be reported to the Installation.</TXT><BRK/>
+<BRK/></SPT>
+</SPT>]</TAI><SPT><TTL>CHLORDANE</TTL><BRK/>
+<BRK/>
+<TXT>Evaluate excess soils and concrete foundation debris generated during the demolition of housing units or other 
+wooden structures for the presence of chlordane or other pesticides prior to reuse or final disposal.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>SOUND INTRUSION</TTL><BRK/>
+<NTE><BRK/>
+<AST/><BRK/>
+<NPR>NOTE:  Insert State's name or remove last sentence when State rules are not 
+applicable.  Include any facility specific requirements such as operational 
+hours around base housing.</NPR><BRK/>
+<AST/><BRK/></NTE>
+<BRK/>
+<TXT>Make the maximum use of low-noise emission products, as certified by the EPA.  Blasting or use of explosives 
+are not permitted without written permission from the Contracting Officer, and then only during the designated 
+times.  Confine pile-driving operations to the period between [_____] [8 a.m.] and [_____] [4 p.m.], [_____] 
+[Monday through Friday], exclusive of holidays, unless otherwise specified.</TXT><BRK/>
+<BRK/>
+<TXT>Keep construction activities under surveillance and control to minimize environment damage by noise.  Comply 
+with the provisions of the State of [_____] rules.</TXT><BRK/>
+<BRK/></SPT>
+<SPT><TTL>POST CONSTRUCTION CLEANUP</TTL><BRK/>
+<BRK/>
+<TXT>Clean up areas used for construction in accordance with Contract Clause: "Cleaning Up".  Unless otherwise instructed 
+in writing by the Contracting <NED/>Officer, remove traces of temporary construction facilities such as haul roads, 
+work area, structures, foundations of temporary structures, stockpiles of excess or waste materials, and other 
+vestiges of construction prior to final acceptance of the work.  Grade parking area and similar temporarily used 
+areas to conform with surrounding contours.</TXT><BRK/>
+<BRK/></SPT>
+</PRT>    <END/><BRK/></SEC>
